@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 2024-10-22
+  Translation Added:
+    - Translation for mod 'Better Victory Screen' Added
+    - Translation for mod 'Electronic Locomotives' Added
+    - Translation for mod 'Fluid Level Indicator' Added
+    - Translation for mod 'Production Monitor' Added
+    - Translation for mod 'Stats GUI' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2024-10-22
+  Translation Added:
+    - Translation for mod 'Utilization Monitor Blargh' Added
+    - Translation for mod 'Reverse Factory' Added
+    - Translation for mod 'Creative Mod' Added
+    - Translation for mod 'Rocket-Silo Construction' Added
+    - Translation for mod 'Standard Factorio Library' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2024-10-22
+  Translation Added:
+    - Translation for mod 'Editor Extensions' Added
+  Translation Fixed:
+    - Translation Fixed for mod 'Auto Deconstruct'
+    - Translation Fixed for mod 'Quality of Life research'
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2024-10-22
+  Changes:
+    - Initial release
+  Translation Added:
+    - Translation for mod 'Auto Deconstruct' Added
+    - Translation for mod 'Electric Trains' Added
+    - Translation for mod 'Even Distribution' Added
+    - Translation for mod 'Rate Calclator' Added
+    - Translation for mod 'Quality of Life research' Added
