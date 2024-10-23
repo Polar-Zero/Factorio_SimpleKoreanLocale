@@ -1,7 +1,26 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 2024-10-24
+  Translation Added:
+    - Translation for mod 'Auto Research' Added
+    - Translation for mod 'Beacon Rebalance' Added
+    - Translation for mod 'Flow Configuration' Added
+    - Translation for mod 'Void Snatch' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Squeak Through 2' Added
+    - Translation for mod 'Bottleneck Lite' Added
+    - Translation for mod 'Discovery Tree' Added
+    - Translation for mod 'Annihilation Reactor' Added
+    - Translation for mod 'Time Tools' Added
+    - Translation for mod 'Fox TODO' Added
+  Translation Fixed:
+    - Translation Fixed for mod 'Bigger Artillery'
+    - Translation Fixed for mod 'Bob's Adjustable Inserters mod'
+---------------------------------------------------------------------------------------------------
 Version: 0.0.7
 Date: 2024-10-23
   Translation Added:
+    - Translation for mod 'Bob's Adjustable Inserters mod' Added
     - Translation for mod 'Cybersyn Combinator' Added
     - Translation for mod 'YARM - Resource Monitor' Added
     - Translation for mod 'Iron Chest Mod' Added
