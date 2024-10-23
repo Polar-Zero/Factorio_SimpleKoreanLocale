@@ -1,4 +1,32 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 2024-10-23
+  Translation Added:
+    - Translation for mod 'Cybersyn Combinator' Added
+    - Translation for mod 'YARM - Resource Monitor' Added
+    - Translation for mod 'Iron Chest Mod' Added
+    - Translation for mod 'Bigger Artillery' Added
+    - Translation for mod 'Vanilla Loaders' Added
+    - Translation for mod 'Shipping Containers' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Atomic Pickaxe!' Added
+    - Translation for mod 'Tiny Assemblers' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 2024-10-23
+  Translation Added:
+    - Translation for mod 'Alien Loot Economy' Added
+    - Translation for mod 'Handcrafted' Added
+    - Translation for mod 'Large Storage Tank' Added
+    - Translation for mod 'RPG System' Added
+    - Translation for mod 'Merging Chests' Added
+    - Translation for mod '[OS] Speed Train' Added
+    - Translation for mod 'HighSpeed Train' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Lighted Electric Poles +' Added
+    - Translation for mod 'Waterfill' Added
+    - Translation for mod 'Water Pumpjack' Added
+---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 2024-10-22
   Translation Added:
