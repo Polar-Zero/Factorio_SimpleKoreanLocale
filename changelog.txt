@@ -1,4 +1,23 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+Date: 2024-10-25
+  Translation Added:
+    - Translation for mod 'Time Lapse Base Edition' Added
+    - Translation for mod 'Stable Foundations' Added
+    - Translation for mod 'Material Storage' Added
+    - Translation for mod 'Micro Furnace' Added
+    - Translation for mod 'Black Market 2' Added
+    - Translation for mod 'Recursive Resource Calculator' Added
+    - Translation for mod 'Stable Foundations' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Factorio Library' Added
+    - Translation for mod 'Hatsune Enrichment Process' Added
+    - Translation for mod 'The Floor Is Lava Revival' Added
+    - Translation for mod 'Belt Speed Multiplier' Added
+  Translation Fixed:
+    - Translation Fixed for mod 'Bob's Adjustable Inserters mod'
+    - Translation Fixed for mod 'Squeak Through 2'
+---------------------------------------------------------------------------------------------------
 Version: 0.0.8
 Date: 2024-10-24
   Translation Added:

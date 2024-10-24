@@ -25,10 +25,13 @@ end
 function setRecipe(a, b)
 	setI18n('item',a,b);
 	setI18n('recipe',a,b);
-	setI18n('recipe',a,b);
 end
 if mods['wret-beacon-rebalance-mod'] then
 	setRecipe('beacon',{'entity-name.wr-beacon'},{'entity-description.wr-beacon'});
 	setI18n('beacon','beacon',{'entity-name.wr-beacon'},{'entity-description.wr-beacon'});
 	setI18n('technology','effect-transmission',{'technology-description.wr-effect-transmission'});
+end
+if mods['hatsune-enrichment-process'] then
+	setI18n('recipe','kovarex-enrichment-process',{'recipe-name.hatsune-enrichment-process'});
+	setI18n('technology','kovarex-enrichment-process',{'technology-name.hatsune-enrichment-process'});
 end
