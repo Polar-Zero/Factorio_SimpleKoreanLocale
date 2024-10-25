@@ -1,4 +1,24 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.10
+Date: 2024-10-25
+  Translation Added:
+    - Translation for mod 'Configurable Custom Electric Mining Drill' Added
+    - Translation for mod 'Frost Biters' Added
+    - Translation for mod 'God Module' Added
+    - Translation for mod 'Manual Inventory Sorting' Added
+    - Translation for mod 'Modular Chests' Added
+    - Translation for mod 'Picklocks rocket silo stats' Added
+    - Translation for mod 'Prometheus Grenade Launcher' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Area Paste' Added
+    - Translation for mod 'Cooked Fish' Added
+    - Translation for mod 'King Jo's Insane Artillery' Added
+    - Translation for mod 'King Jo's Nuclear Mine' Added
+    - Translation for mod 'Lawn Mower' Added
+  Translation Fixed:
+    - Translation Fixed for mod 'Beacon Rebalance'
+    - Translation Fixed for mod 'Material Storage'
+---------------------------------------------------------------------------------------------------
 Version: 0.0.9
 Date: 2024-10-25
   Translation Added:
@@ -8,7 +28,6 @@ Date: 2024-10-25
     - Translation for mod 'Micro Furnace' Added
     - Translation for mod 'Black Market 2' Added
     - Translation for mod 'Recursive Resource Calculator' Added
-    - Translation for mod 'Stable Foundations' Added
   Minor mod Translation Added:
     - Translation for mod 'Factorio Library' Added
     - Translation for mod 'Hatsune Enrichment Process' Added
