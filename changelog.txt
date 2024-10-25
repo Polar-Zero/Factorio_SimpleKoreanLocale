@@ -1,4 +1,19 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.11
+Date: 2024-10-25
+  Translation Added:
+    - Translation for mod 'Actual Craft Time' Added
+    - Translation for mod 'Firework Rockets' Added
+    - Translation for mod 'Fluid Memory Storage' Added
+    - Translation for mod 'Resource Monitor' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Bucket Wheel Excavators' Added
+    - Translation for mod 'Builder Bot Start' Added
+    - Translation for mod 'Earlyvated Rails' Added
+    - Translation for mod 'InfiniteTech_FIXED' Added
+    - Translation for mod 'Infinity Chest Start' Added
+    - Translation for mod 'PersonalTeleporter' Added
+---------------------------------------------------------------------------------------------------
 Version: 0.0.10
 Date: 2024-10-25
   Translation Added:
