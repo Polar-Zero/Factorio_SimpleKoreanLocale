@@ -35,3 +35,8 @@ if mods['hatsune-enrichment-process'] then
 	setI18n('recipe','kovarex-enrichment-process',{'recipe-name.hatsune-enrichment-process'});
 	setI18n('technology','kovarex-enrichment-process',{'technology-name.hatsune-enrichment-process'});
 end
+
+if mods['dredgeworks'] then
+	setRecipe('refined-concrete','item-name.dredgeworks-refined-concrete',{'item-description.item-name.dredgeworks-refined-concrete'});
+	setRecipe('refined-hazard-concrete','item-name.dredgeworks-refined-hazard-concrete',{'item-description.item-name.dredgeworks-refined-hazard-concrete'});
+end

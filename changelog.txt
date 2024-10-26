@@ -1,4 +1,31 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.12
+Date: 2024-10-26
+  Translation Added:
+    - Translation for mod 'Bluetonium' Added
+    - Translation for mod 'Dredgeworks' Added
+    - Translation for mod 'Micro Machines Mod' Added
+    - Translation for mod 'Mini Machines Mod' Added
+    - Translation for mod 'More Long Inserter' Added
+    - Translation for mod 'SA-Humvee' Added
+    - Translation for mod 'Thermal Solar Power (Lite)' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Afraid of the Dark 2.0' Added
+    - Translation for mod 'Customizable Quality Names' Added
+    - Translation for mod 'I Want To Go To Space' Added
+    - Translation for mod 'Infinite Belt Stacking' Added
+    - Translation for mod 'Infinite Repair Pack' Added
+    - Translation for mod 'Infinite Resources' Added
+    - Translation for mod 'Machine Speed Multiplier' Added
+    - Translation for mod 'More Achievements' Added
+    - Translation for mod 'Portable Tank Cannon' Added
+    - Translation for mod 'Radar Equipment' Added
+    - Translation for mod 'Salted Fish' Added
+    - Translation for mod 'Spidertron Weapon Loadout' Added
+    - Translation for mod 'Unlimited Resources [Global Compat]' Added
+  Translation Fixed:
+    - Translation Fixed for mod 'Factorio Standard Library'
+---------------------------------------------------------------------------------------------------
 Version: 0.0.11
 Date: 2024-10-25
   Translation Added:
@@ -37,17 +64,17 @@ Date: 2024-10-25
 Version: 0.0.9
 Date: 2024-10-25
   Translation Added:
-    - Translation for mod 'Time Lapse Base Edition' Added
-    - Translation for mod 'Stable Foundations' Added
+    - Translation for mod 'Black Market 2' Added
     - Translation for mod 'Material Storage' Added
     - Translation for mod 'Micro Furnace' Added
-    - Translation for mod 'Black Market 2' Added
     - Translation for mod 'Recursive Resource Calculator' Added
+    - Translation for mod 'Stable Foundations' Added
+    - Translation for mod 'Time Lapse Base Edition' Added
   Minor mod Translation Added:
+    - Translation for mod 'Belt Speed Multiplier' Added
     - Translation for mod 'Factorio Library' Added
     - Translation for mod 'Hatsune Enrichment Process' Added
     - Translation for mod 'The Floor Is Lava Revival' Added
-    - Translation for mod 'Belt Speed Multiplier' Added
   Translation Fixed:
     - Translation Fixed for mod 'Bob's Adjustable Inserters mod'
     - Translation Fixed for mod 'Squeak Through 2'
@@ -60,12 +87,12 @@ Date: 2024-10-24
     - Translation for mod 'Flow Configuration' Added
     - Translation for mod 'Void Snatch' Added
   Minor mod Translation Added:
-    - Translation for mod 'Squeak Through 2' Added
+    - Translation for mod 'Annihilation Reactor' Added
     - Translation for mod 'Bottleneck Lite' Added
     - Translation for mod 'Discovery Tree' Added
-    - Translation for mod 'Annihilation Reactor' Added
-    - Translation for mod 'Time Tools' Added
     - Translation for mod 'Fox TODO' Added
+    - Translation for mod 'Squeak Through 2' Added
+    - Translation for mod 'Time Tools' Added
   Translation Fixed:
     - Translation Fixed for mod 'Bigger Artillery'
     - Translation Fixed for mod 'Bob's Adjustable Inserters mod'
@@ -73,13 +100,13 @@ Date: 2024-10-24
 Version: 0.0.7
 Date: 2024-10-23
   Translation Added:
+    - Translation for mod 'Bigger Artillery' Added
     - Translation for mod 'Bob's Adjustable Inserters mod' Added
     - Translation for mod 'Cybersyn Combinator' Added
-    - Translation for mod 'YARM - Resource Monitor' Added
     - Translation for mod 'Iron Chest Mod' Added
-    - Translation for mod 'Bigger Artillery' Added
-    - Translation for mod 'Vanilla Loaders' Added
     - Translation for mod 'Shipping Containers' Added
+    - Translation for mod 'Vanilla Loaders' Added
+    - Translation for mod 'YARM - Resource Monitor' Added
   Minor mod Translation Added:
     - Translation for mod 'Atomic Pickaxe!' Added
     - Translation for mod 'Tiny Assemblers' Added
@@ -87,17 +114,17 @@ Date: 2024-10-23
 Version: 0.0.6
 Date: 2024-10-23
   Translation Added:
+    - Translation for mod '[OS] Speed Train' Added
     - Translation for mod 'Alien Loot Economy' Added
     - Translation for mod 'Handcrafted' Added
-    - Translation for mod 'Large Storage Tank' Added
-    - Translation for mod 'RPG System' Added
-    - Translation for mod 'Merging Chests' Added
-    - Translation for mod '[OS] Speed Train' Added
     - Translation for mod 'HighSpeed Train' Added
+    - Translation for mod 'Large Storage Tank' Added
+    - Translation for mod 'Merging Chests' Added
+    - Translation for mod 'RPG System' Added
   Minor mod Translation Added:
     - Translation for mod 'Lighted Electric Poles +' Added
-    - Translation for mod 'Waterfill' Added
     - Translation for mod 'Water Pumpjack' Added
+    - Translation for mod 'Waterfill' Added
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 2024-10-22
@@ -111,11 +138,11 @@ Date: 2024-10-22
 Version: 0.0.4
 Date: 2024-10-22
   Translation Added:
-    - Translation for mod 'Utilization Monitor Blargh' Added
-    - Translation for mod 'Reverse Factory' Added
     - Translation for mod 'Creative Mod' Added
+    - Translation for mod 'Reverse Factory' Added
     - Translation for mod 'Rocket-Silo Construction' Added
     - Translation for mod 'Standard Factorio Library' Added
+    - Translation for mod 'Utilization Monitor Blargh' Added
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 2024-10-22
