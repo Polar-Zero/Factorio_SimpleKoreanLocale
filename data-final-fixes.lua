@@ -22,9 +22,9 @@ function setI18nB(a, b, c, d, e)
 	end
 end
 -- name / i18n
-function setRecipe(a, b)
-	setI18n('item',a,b);
-	setI18n('recipe',a,b);
+function setRecipe(a, b, c)
+	setI18n('item',a,b,c);
+	setI18n('recipe',a,b,c);
 end
 if mods['wret-beacon-rebalance-mod'] then
 	setRecipe('beacon',{'entity-name.wr-beacon'},{'entity-description.wr-beacon'});
@@ -35,8 +35,7 @@ if mods['hatsune-enrichment-process'] then
 	setI18n('recipe','kovarex-enrichment-process',{'recipe-name.hatsune-enrichment-process'});
 	setI18n('technology','kovarex-enrichment-process',{'technology-name.hatsune-enrichment-process'});
 end
-
 if mods['dredgeworks'] then
-	setRecipe('refined-concrete','item-name.dredgeworks-refined-concrete',{'item-description.item-name.dredgeworks-refined-concrete'});
-	setRecipe('refined-hazard-concrete','item-name.dredgeworks-refined-hazard-concrete',{'item-description.item-name.dredgeworks-refined-hazard-concrete'});
+	setRecipe('refined-concrete',{'item-name.refined-concrete'},{'item-description.dredgeworks-refined-concrete'});
+	setRecipe('refined-hazard-concrete',{'item-name.refined-hazard-concrete'},{'item-description.dredgeworks-refined-hazard-concrete'});
 end
