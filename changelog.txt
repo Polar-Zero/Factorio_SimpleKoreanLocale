@@ -1,4 +1,30 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2024-10-27
+  Translation Added:
+    - Translation for mod 'Additional Paste Settings (Fixed)' Added
+    - Translation for mod 'Battery Powered' Added
+    - Translation for mod 'Blueprint Sandboxes' Added
+    - Translation for mod 'Constructron-Continued' Added
+    - Translation for mod 'ZwerOxotnik's extendable mod with 8 addons' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Acorn's module buff' Added
+    - Translation for mod 'Air filtering' Added
+    - Translation for mod 'Artillery Combinator' Added
+    - Translation for mod 'Atomic Artillery Reborn' Added
+    - Translation for mod 'Bulk Material' Added
+    - Translation for mod 'Krastorio 2 - Air Purifier' Added
+    - Translation for mod 'Loader Unlocker' Added
+    - Translation for mod 'More Casting' Added
+    - Translation for mod 'Science Pack Glow Reborn' Added
+    - Translation for mod 'Some resource spam' Added
+    - Translation for mod 'Vibrant Train Colors' Added
+    - Translation for mod 'Waterfill' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Reverse Factory' Updated
+    - Translation for mod 'Speed Control' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2024-10-27
   Translation Added:
@@ -30,13 +56,12 @@ Date: 2024-10-27
     - Translation for mod 'Merging Chests Logistic' Added
     - Translation for mod 'Merging Chests Unlimited' Added
     - Translation for mod 'Rainbow Ore' Added
-    - Translation for mod 'Rainbow Ore' Added
     - Translation for mod 'SF advanced solar' Added
     - Translation for mod 'Someone's big mining-drill [Space Age]' Added
     - Translation for mod 'Speed Control' Added
     - Translation for mod 'Speedy Bot Start' Added
     - Translation for mod 'Steam Cracking' Added
-  Translation Fixed:
+  Translation Updated/Fixed:
     - Translation Fixed for mod 'Frost Biters'
     - Translation Fixed for mod 'More Achievements'
 ---------------------------------------------------------------------------------------------------
@@ -64,7 +89,7 @@ Date: 2024-10-26
     - Translation for mod 'Salted Fish' Added
     - Translation for mod 'Spidertron Weapon Loadout' Added
     - Translation for mod 'Unlimited Resources [Global Compat]' Added
-  Translation Fixed:
+  Translation Updated/Fixed:
     - Translation Fixed for mod 'Factorio Standard Library'
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.11
@@ -98,7 +123,7 @@ Date: 2024-10-25
     - Translation for mod 'King Jo's Insane Artillery' Added
     - Translation for mod 'King Jo's Nuclear Mine' Added
     - Translation for mod 'Lawn Mower' Added
-  Translation Fixed:
+  Translation Updated/Fixed:
     - Translation Fixed for mod 'Beacon Rebalance'
     - Translation Fixed for mod 'Material Storage'
 ---------------------------------------------------------------------------------------------------
@@ -116,7 +141,7 @@ Date: 2024-10-25
     - Translation for mod 'Factorio Library' Added
     - Translation for mod 'Hatsune Enrichment Process' Added
     - Translation for mod 'The Floor Is Lava Revival' Added
-  Translation Fixed:
+  Translation Updated/Fixed:
     - Translation Fixed for mod 'Bob's Adjustable Inserters mod'
     - Translation Fixed for mod 'Squeak Through 2'
 ---------------------------------------------------------------------------------------------------
@@ -134,7 +159,7 @@ Date: 2024-10-24
     - Translation for mod 'Fox TODO' Added
     - Translation for mod 'Squeak Through 2' Added
     - Translation for mod 'Time Tools' Added
-  Translation Fixed:
+  Translation Updated/Fixed:
     - Translation Fixed for mod 'Bigger Artillery'
     - Translation Fixed for mod 'Bob's Adjustable Inserters mod'
 ---------------------------------------------------------------------------------------------------
@@ -189,7 +214,7 @@ Version: 0.0.3
 Date: 2024-10-22
   Translation Added:
     - Translation for mod 'Editor Extensions' Added
-  Translation Fixed:
+  Translation Updated/Fixed:
     - Translation Fixed for mod 'Auto Deconstruct'
     - Translation Fixed for mod 'Quality of Life research'
 ---------------------------------------------------------------------------------------------------
