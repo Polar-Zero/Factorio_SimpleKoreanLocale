@@ -1,4 +1,45 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024-10-27
+  Translation Added:
+    - Translation for mod '!skins (Skins Factored)' Added
+    - Translation for mod 'Big-Monsters' Added
+    - Translation for mod 'Crafting Queue Enhancements' Added
+    - Translation for mod 'Explosive Biters' Added
+    - Translation for mod 'Factorissimo 2' Added
+    - Translation for mod 'Loaders Modernized' Added
+    - Translation for mod 'Memory cards' Added
+    - Translation for mod 'P.U.M.P.' Added
+    - Translation for mod 'RailTester' Added
+    - Translation for mod 'tosts-Train-Chests' Added
+    - Translation for mod 'Toxic Biters' Added
+    - Translation for mod 'Vehicle Wagon 2' Added
+    - Translation for mod 'Warehousing Mod' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Additional Qualities' Added
+    - Translation for mod 'Cleaned Concrete' Added
+    - Translation for mod 'Combat Robot Overhaul' Added
+    - Translation for mod 'Connection Indicators' Added
+    - Translation for mod 'Death Curses' Added
+    - Translation for mod 'Disco Science' Added
+    - Translation for mod 'ElectroTurret' Added
+    - Translation for mod 'Far Reach' Added
+    - Translation for mod 'Kuxynator's Core Library' Added
+    - Translation for mod 'Light Overhaul' Added
+    - Translation for mod 'Merging Chests All Types' Added
+    - Translation for mod 'Merging Chests Logistic' Added
+    - Translation for mod 'Merging Chests Unlimited' Added
+    - Translation for mod 'Rainbow Ore' Added
+    - Translation for mod 'Rainbow Ore' Added
+    - Translation for mod 'SF advanced solar' Added
+    - Translation for mod 'Someone's big mining-drill [Space Age]' Added
+    - Translation for mod 'Speed Control' Added
+    - Translation for mod 'Speedy Bot Start' Added
+    - Translation for mod 'Steam Cracking' Added
+  Translation Fixed:
+    - Translation Fixed for mod 'Frost Biters'
+    - Translation Fixed for mod 'More Achievements'
+---------------------------------------------------------------------------------------------------
 Version: 0.0.12
 Date: 2024-10-26
   Translation Added:
