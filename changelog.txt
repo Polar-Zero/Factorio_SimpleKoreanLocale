@@ -1,4 +1,23 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2024-10-28
+  Translation Added:
+    - Translation for mod 'Factorio HD Age Modpack' Added
+    - Translation for mod 'MD2R reskin: C&C, Red Alert, Tiberium Dawn' Added
+    - Translation for mod 'Mining Drones (Tiberium Compatibility Version)' Added
+    - Translation for mod 'Mining Drones 2 Remastered' Added
+    - Translation for mod 'Plutonium Energy' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Auto Ghost Builder' Added
+    - Translation for mod 'Call a Plumber' Added
+    - Translation for mod 'easy wind turbo' Added
+    - Translation for mod 'Evolution Reduction via Destruction 2.0' Added
+    - Translation for mod 'Players info' Added
+    - Translation for mod 'Repair Turret' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Bluetonium' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2024-10-27
   Translation Added:
