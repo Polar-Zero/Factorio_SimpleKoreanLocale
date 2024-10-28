@@ -1,4 +1,27 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 2024-10-28
+  Translation Added:
+    - Translation for mod 'Testbenchcontrols' Added
+    - Translation for mod 'TinyStart 2' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Auto Ghost Builder' Added
+    - Translation for mod 'Bullet Trails' Added
+    - Translation for mod 'Korone Character' Added
+    - Translation for mod 'Light Bot Start' Added
+    - Translation for mod 'Molten Tungsten' Added
+    - Translation for mod 'RITEG' Added
+    - Translation for mod 'Sensible Vehicle Equipment Grids' Added
+    - Translation for mod 'Simply Power Armor MK3' Added
+    - Translation for mod 'Tiny Equipment' Added
+    - Translation for mod 'VehicleSnap' Added
+    - Translation for mod 'Tree Collision' Added
+    - Translation for mod 'Water Extractor' Added
+    - Translation for mod 'Water Polesr' Added
+    - Translation for mod 'Yo's Tweak Robots' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Factorio HD Age Modpack' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.1.2
 Date: 2024-10-28
   Translation Added:
