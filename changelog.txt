@@ -1,4 +1,27 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 2024-10-29
+  Translation Added:
+    - Translation for mod 'Advanced Furnaces 2' Added
+    - Translation for mod 'Atomic Overhaul' Added
+    - Translation for mod 'Max Rate Calculator' Added
+    - Translation for mod 'Helper for mods that create new characters' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Upcycler' Added
+    - Translation for mod 'Any Planet Start' Added
+    - Translation for mod 'Flare Stack for 2.0 With graphics fix and py fix' Added
+    - Translation for mod 'K2 Anti-material Rifle' Added
+    - Translation for mod 'K2 Steel Pipes' Added
+    - Translation for mod 'K2 Railgun Turret' Added
+    - Translation for mod 'Electric Pole Range Multiplier' Added
+    - Translation for mod 'Atomic Artillery' Added
+    - Translation for mod 'K2 Fluid Storage' Added
+    - Translation for mod 'Nepgear Player Replacer' Added
+    - Translation for mod 'Notice me senpa' Added
+    - Translation for mod 'Mechanicus (Rebuild)' Added
+    - Translation for mod 'Flip Dots' Added
+    - Translation for mod 'K2 Flare Stack' Added
+---------------------------------------------------------------------------------------------------
 Version: 0.1.3
 Date: 2024-10-28
   Translation Added:
