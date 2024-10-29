@@ -1,41 +1,55 @@
--- type / name / i18n
-function setI18n(a, b, c, d)
-	if data.raw[a] then
-		if data.raw[a][b] then
-			data.raw[a][b].localised_name=c
-			if d then
-				data.raw[a][b].localised_description=d
+---   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
+---   - PolarZero
+
+function setI18n(p,o,l,a,r) -- Version 2.0
+	if data.raw[o] then
+		if data.raw[o][l] then
+			data.raw[o][l].localised_name={a..'-name.'..r..'-'..l}
+			if p then
+				data.raw[o][l].localised_description={a..'-description.'..r..'-'..l}
 			end
+		else
+			log(o)
+			log(l)
+			log(a..'-name.'..r..'-'..l)
+			log({a..'-name.'..r..'-'..l})
 		end
 	end
 end
-function setI18nB(a, b, c, d, e)
-	if data.raw[a] then
-		if data.raw[a][b] then
-			if data.raw[a][b][c] then
-				data.raw[a][b][c].localised_name=d
-				if e then
-					data.raw[a][b][c].localised_description=e
-				end
-			end
-		end
-	end
+function setRecipe(p,o,l,a)
+	setI18n(p,'item',l,o,a); -- true, item,  automation-science-pack,item,  baketorio -> item-name.baketorio-automation-science-pack
+	setI18n(p,'recipe',l,o,a);
 end
--- name / i18n
-function setRecipe(a, b, c)
-	setI18n('item',a,b,c);
-	setI18n('recipe',a,b,c);
+function setI18nR(p,o,l,a)
+	setI18n(p,o,l,o,a);
 end
 if mods['wret-beacon-rebalance-mod'] then
-	setRecipe('beacon',{'entity-name.wr-beacon'},{'entity-description.wr-beacon'});
-	setI18n('beacon','beacon',{'entity-name.wr-beacon'},{'entity-description.wr-beacon'});
-	setI18n('technology','effect-transmission',{'technology-description.wr-effect-transmission'});
+	setRecipe(true,'entity','beacon','wr');
+	setI18n(true,'beacon','beacon','entity','wr');
+	setI18nR(true,'technology','effect-transmission','wr');
 end
 if mods['hatsune-enrichment-process'] then
-	setI18n('recipe','kovarex-enrichment-process',{'recipe-name.hatsune-enrichment-process'});
-	setI18n('technology','kovarex-enrichment-process',{'technology-name.hatsune-enrichment-process'});
+	setI18nR(false,'recipe','kovarex-enrichment-process','hatsune');
+	setI18nR(false,'technology','kovarex-enrichment-process','hatsune');
 end
 if mods['dredgeworks'] then
-	setRecipe('refined-concrete',{'item-name.refined-concrete'},{'item-description.dredgeworks-refined-concrete'});
-	setRecipe('refined-hazard-concrete',{'item-name.refined-hazard-concrete'},{'item-description.dredgeworks-refined-hazard-concrete'});
+	setRecipe(true,'item','refined-concrete','dredgeworks');
+	setRecipe(true,'item','refined-hazard-concrete','dredgeworks');
+end
+if mods['baketorio'] then
+	setI18n(false,'tool','automation-science-pack','item','baketorio');
+	setI18n(false,'tool','logistic-science-pack','item','baketorio');
+	setI18n(false,'tool','chemical-science-pack','item','baketorio');
+	setI18n(false,'tool','utility-science-pack','item','baketorio');
+	setI18n(false,'tool','production-science-pack','item','baketorio');
+	setI18nR(false,'recipe','automation-science-pack','baketorio');
+	setI18nR(false,'recipe','logistic-science-pack','baketorio');
+	setI18nR(false,'recipe','chemical-science-pack','baketorio');
+	setI18nR(false,'recipe','utility-science-pack','baketorio');
+	setI18nR(false,'recipe','production-science-pack','baketorio');
+	setI18nR(false,'technology','automation-science-pack','baketorio');
+	setI18nR(false,'technology','logistic-science-pack','baketorio');
+	setI18nR(false,'technology','chemical-science-pack','baketorio');
+	setI18nR(false,'technology','utility-science-pack','baketorio');
+	setI18nR(false,'technology','production-science-pack','baketorio');
 end

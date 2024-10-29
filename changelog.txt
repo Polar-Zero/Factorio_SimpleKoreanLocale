@@ -1,26 +1,56 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.5
+Date: 2024-10-29
+  Translation Added:
+    - Translation for mod 'Baketorio' Added
+    - Translation for mod 'Biodome Industries' Added
+    - Translation for mod 'Module Inserter Simplified' Added
+    - Translation for mod 'SearchlightAssault' Added
+    - Translation for mod 'Train Trails' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Barrel Fluid Icon' Added
+    - Translation for mod 'Easy Void' Added
+    - Translation for mod 'Everything Spoilage' Added
+    - Translation for mod 'Free Buildings' Added
+    - Translation for mod 'Haste Makes Lot' Added
+    - Translation for mod 'KS Combat_Updated' Added
+    - Translation for mod 'Magic Science Chest' Added
+    - Translation for mod 'Packing Tape' Added
+    - Translation for mod 'Prismatic Belts' Added
+    - Translation for mod 'remove damage resistances on asteroid' Added
+    - Translation for mod 'Safer Asteroids' Added
+    - Translation for mod 'Smooth trains' Added
+    - Translation for mod 'Solar Calculator' Added
+    - Translation for mod 'Solar Lamp' Added
+    - Translation for mod 'Toolbars' Added
+    - Translation for mod 'Vibrant Paint' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Factorio HD Age Modpack' Updated
+    - Translation for mod 'Factorio Standard Library' Updated
+    - Translation for mod 'Mining Drones' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.1.4
 Date: 2024-10-29
   Translation Added:
     - Translation for mod 'Advanced Furnaces 2' Added
     - Translation for mod 'Atomic Overhaul' Added
-    - Translation for mod 'Max Rate Calculator' Added
     - Translation for mod 'Helper for mods that create new characters' Added
+    - Translation for mod 'Max Rate Calculator' Added
   Minor mod Translation Added:
-    - Translation for mod 'Upcycler' Added
     - Translation for mod 'Any Planet Start' Added
-    - Translation for mod 'Flare Stack for 2.0 With graphics fix and py fix' Added
-    - Translation for mod 'K2 Anti-material Rifle' Added
-    - Translation for mod 'K2 Steel Pipes' Added
-    - Translation for mod 'K2 Railgun Turret' Added
-    - Translation for mod 'Electric Pole Range Multiplier' Added
     - Translation for mod 'Atomic Artillery' Added
+    - Translation for mod 'Electric Pole Range Multiplier' Added
+    - Translation for mod 'Flare Stack for 2.0 With graphics fix and py fix' Added
+    - Translation for mod 'Flip Dots' Added
+    - Translation for mod 'K2 Anti-material Rifle' Added
+    - Translation for mod 'K2 Flare Stack' Added
     - Translation for mod 'K2 Fluid Storage' Added
+    - Translation for mod 'K2 Railgun Turret' Added
+    - Translation for mod 'K2 Steel Pipes' Added
+    - Translation for mod 'Mechanicus (Rebuild)' Added
     - Translation for mod 'Nepgear Player Replacer' Added
     - Translation for mod 'Notice me senpa' Added
-    - Translation for mod 'Mechanicus (Rebuild)' Added
-    - Translation for mod 'Flip Dots' Added
-    - Translation for mod 'K2 Flare Stack' Added
+    - Translation for mod 'Upcycler' Added
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.3
 Date: 2024-10-28
