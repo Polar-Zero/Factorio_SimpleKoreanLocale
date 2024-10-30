@@ -8,11 +8,6 @@ function setI18n(p,o,l,a,r) -- Version 2.0
 			if p then
 				data.raw[o][l].localised_description={a..'-description.'..r..'-'..l}
 			end
-		else
-			log(o)
-			log(l)
-			log(a..'-name.'..r..'-'..l)
-			log({a..'-name.'..r..'-'..l})
 		end
 	end
 end
@@ -52,4 +47,9 @@ if mods['baketorio'] then
 	setI18nR(false,'technology','chemical-science-pack','baketorio');
 	setI18nR(false,'technology','utility-science-pack','baketorio');
 	setI18nR(false,'technology','production-science-pack','baketorio');
+end
+if mods['RibbonMaze'] or mods['RibbonMaze20'] then
+	setRecipe(true,'item','landfill','ribbonmaze');
+	setRecipe(true,'item','electric-mining-drill','ribbonmaze');
+	setI18nR(true,'tile','water-green','ribbonmaze');
 end

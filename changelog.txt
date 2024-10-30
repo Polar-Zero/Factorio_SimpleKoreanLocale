@@ -1,4 +1,22 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.6
+Date: 2024-10-30
+  Translation Added:
+    - Translation for mod 'Asphalt Roads Patched' Added
+    - Translation for mod 'Extended Vanilla: Personal Equipment' Added
+    - Translation for mod 'Phidias Collection' Added
+    - Translation for mod 'Ribbon Maze' Added [Currently Unplayable because That mod's Crash]
+    - Translation for mod 'Solid Waste pollution filter' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Chemical Rockets' Added
+    - Translation for mod 'Cursor Enhancements' Added
+    - Translation for mod 'Hide Space Age spoilers' Added
+    - Translation for mod 'pikachu skin' Added
+    - Translation for mod 'Tiered Gas Generator' Added
+    - Translation for mod 'Wood Gasification' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Factorio HD Age Modpack' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.1.5
 Date: 2024-10-29
   Translation Added:
