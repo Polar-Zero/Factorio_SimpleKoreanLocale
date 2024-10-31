@@ -1,4 +1,36 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 2024-10-31
+  Translation Added:
+    - Translation for mod 'Extended Vanilla: Personal Equipment' Added
+    - Translation for mod 'Genshin Impact Skin' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Ash' Added
+    - Translation for mod 'Automated Fuel & Ammo' Added
+    - Translation for mod 'Better Train Horn' Added
+    - Translation for mod 'Comfortable Night Vision' Added
+    - Translation for mod 'Custom Production UI Fixed' Added
+    - Translation for mod 'Demolisher compass' Added
+    - Translation for mod 'Dimensional Depot' Added
+    - Translation for mod 'DynamicInventorySize' Added
+    - Translation for mod 'Epic Fulgora' Added
+    - Translation for mod 'Factory solver based on IPMs for LP' Added
+    - Translation for mod 'Fallout Power Armor' Added
+    - Translation for mod 'Hu Tao Character Skin' Added
+    - Translation for mod 'Infinity rocket silo' Added
+    - Translation for mod 'Invincible Construction Bots' Added
+    - Translation for mod 'Landfill productivity' Added
+    - Translation for mod 'Loaders can stack' Added
+    - Translation for mod 'Miku Roboport' Added
+    - Translation for mod 'Newly construction machines wait for their modules' Added
+    - Translation for mod 'Nice Try, Train' Added
+    - Translation for mod 'Placeable-off-grid' Added
+    - Translation for mod 'Pollution is the Solution' Added
+    - Translation for mod 'Robots in space' Added
+    - Translation for mod 'Speaker Signals ' Added
+    - Translation for mod 'Tianyi Player' Added
+    - Translation for mod 'Transfer of entity' Added
+---------------------------------------------------------------------------------------------------
 Version: 0.1.6
 Date: 2024-10-30
   Translation Added:
