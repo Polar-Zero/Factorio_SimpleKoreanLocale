@@ -1,4 +1,29 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2024-11-01
+  Translation Added:
+    - Translation for mod 'FNEI' Added
+    - Translation for mod 'miniMAXIme' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Always Day' Added
+    - Translation for mod 'Barrel Stages' Added
+    - Translation for mod 'Brake Squeal 2.0' Added
+    - Translation for mod 'Cloning Vat' Added
+    - Translation for mod 'Comfortable Loaders' Added
+    - Translation for mod 'Crafting Tools' Added
+    - Translation for mod 'Electric Grid Enforcer' Added
+    - Translation for mod 'Equipment Gantry' Added
+    - Translation for mod 'Fridge' Added
+    - Translation for mod 'More Belts' Added
+    - Translation for mod 'Omega Drill' Added
+    - Translation for mod 'Prismatic Quality' Added
+    - Translation for mod 'RailBow' Added
+    - Translation for mod 'Spiderissmo' Added
+    - Translation for mod 'Stop That, Silly Robot!' Added
+    - Translation for mod 'Unlimited Productivity' Added
+    - Translation for mod 'Wire Shortcuts X' Added
+    - Translation for mod 'Wooden Brick' Added
+---------------------------------------------------------------------------------------------------
 Version: 0.1.7
 Date: 2024-10-31
   Translation Added:
