@@ -1,4 +1,36 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2024-11-03
+  Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Better Robots Extended' Added
+    - Translation for mod 'Bots Bots Bots!' Added
+    - Translation for mod 'Bottleneck' Updated
+    - Translation for mod 'Electric Trains' Added
+    - Translation for mod 'Extended Vanilla: Refining' Added
+    - Translation for mod 'Fluid Must Flow' Added
+    - Translation for mod 'holographic_signs' Updated
+    - Translation for mod 'Nanobots: Early Bots' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Autostash' Added
+    - Translation for mod 'Belt Upgrader' Added
+    - Translation for mod 'biter' Added
+    - Translation for mod 'Biter-proofing' Added
+    - Translation for mod 'Casino' Added
+    - Translation for mod 'Fluid Void Extra' Added
+    - Translation for mod 'HUD Auto Hide' Added
+    - Translation for mod 'RitnLib' Added
+    - Translation for mod 'See This Snowball?' Added
+    - Translation for mod 'Solar Appliances' Added
+    - Translation for mod 'Solar Productivity' Added
+    - Translation for mod 'Space Age Adjustments' Added
+    - Translation for mod 'The Dead Burn' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'Repair Turret' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2024-11-01
   Translation Added:
