@@ -1,9 +1,26 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.2.1
+Version: 0.2.2
 Date: 2024-11-03
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Minor mod Translation Added:
+    - Translation for mod 'Basic Artillery' Added
+    - Translation for mod 'Biter-proofing' Added
+    - Translation for mod 'Cheaper processing unit' Added
+    - Translation for mod 'Configurable Valves' Added
+    - Translation for mod 'Cursor Craft' Added
+    - Translation for mod 'dangOreus' Added
+    - Translation for mod 'Des, the Wickerbeast' Added
+    - Translation for mod 'Flamethrower Wagon' Added
+    - Translation for mod 'Mammoth-MK3' Added
+    - Translation for mod 'No Hand Crafting' Added
+    - Translation for mod 'SA-T1 Atomic Tank' Added
+    - Translation for mod 'Stone Water Well' Added
+    - Translation for mod 'Tiered Roboports' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2024-11-02
   Translation Added:
     - Translation for mod 'Better Robots Extended' Added
     - Translation for mod 'Bots Bots Bots!' Added
