@@ -1,9 +1,38 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.2.2
+Version: 0.2.3
 Date: 2024-11-03
   Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Hazard Lights' Added
+    - Translation for mod 'KS Power' Added
+    - Translation for mod 'MOAR Modules' Added
+    - Translation for mod 'Mushroom Cloud QuickFix' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Ballistic Missile' Added
+    - Translation for mod 'Colorblind red-purple Adjustments All In on' Added
+    - Translation for mod 'Denerf: Pump' Added
+    - Translation for mod 'Filter Helper' Added
+    - Translation for mod 'Flow Control' Added
+    - Translation for mod 'No Bots Please' Added
+    - Translation for mod 'Random Colors' Added
+    - Translation for mod 'RitnBaseGame' Added
+    - Translation for mod 'RitnCharacters' Added
+    - Translation for mod 'Shortwave' Added
+    - Translation for mod 'TrashChest' Added
+    - Translation for mod 'wellbeing' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'StatsGui' Updated
+    - Translation for mod 'Quick Item Menu' Updated
+    - Translation for mod 'Fridge' Updated
+    - Translation for mod 'Factorio HD Age Modpack' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Someone's big mining-drill [Space Age]' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 2024-11-02
   Minor mod Translation Added:
     - Translation for mod 'Basic Artillery' Added
     - Translation for mod 'Biter-proofing' Added
