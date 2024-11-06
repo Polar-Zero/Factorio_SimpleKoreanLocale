@@ -1,4 +1,4 @@
-Copyright (c) 2019 PolarZero
+Copyright (c) 2024 PolarZero
 
 This software is provided without warranty and the author/license holder cannot be held liable.
 
