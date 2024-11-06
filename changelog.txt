@@ -1,9 +1,27 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.2.4
-Date: 2024-11-04
+Version: 0.2.5
+Date: 2024-11-05
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Resource Spawner Overhaul' Added
+  Minor mod Translation Added:
+    - Translation for mod '5Dim's mod - New Infinite Research' Added
+    - Translation for mod '5Dim's mod - New Enemies' Added
+    - Translation for mod '5Dim's mod - New Resources' Added
+    - Translation for mod '5Dim's mod - New Transport' Added
+    - Translation for mod '5Dim's mod - New Trains' Added
+    - Translation for mod '5Dim's mod - New Storage' Added
+    - Translation for mod '5Dim's mod - New Nuclear' Added
+    - Translation for mod '5Dim's mod - New Equipment' Added
+    - Translation for mod 'Noxys Deep Core Mining Tweak' Added
+    - Translation for mod 'Noxys Swimming' Added
+    - Translation for mod 'Agri No Spoil' Added
+    - Translation for mod 'Naufulglebunusilo' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 2024-11-04
   Translation Added:
     - Translation for mod 'Ammo Loader+' Added
     - Translation for mod 'Noxys Waterfill' Added
