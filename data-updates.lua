@@ -89,3 +89,11 @@ if mods['ev-refining'] then
 	enforceI18n('recipe','copper-clump-processing');
 	enforceI18n('recipe','copper-dust-smelting');
 end
+if mods['naufulglebunusilo'] then
+	enforceI18n('planet','naufulglebunusilo');
+	enforceI18n('technology','planet-discovery-naufulglebunusilo');
+end
+if mods['terrapalus'] then
+	enforceI18n('planet','terrapalus');
+	enforceI18n('technology','planet-discovery-terrapalus');
+end

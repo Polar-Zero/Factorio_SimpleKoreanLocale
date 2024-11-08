@@ -1,9 +1,39 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.2.6
-Date: 2024-11-06
+Version: 0.2.7
+Date: 2024-11-08
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Arborium Renewed' Added
+    - Translation for mod 'Mining Patch Planner' Added
+    - Translation for mod 'Noxys Trees' Added
+    - Translation for mod 'Relaxed and Happy [For Gavin]' Added
+    - Translation for mod 'StackMaster' Added
+    - Translation for mod 'Terra Palus' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Advanced Evolution' Added
+    - Translation for mod 'Archipelago Free Samples' Added
+    - Translation for mod 'Artillery Range' Added
+    - Translation for mod 'Artillery Shell Research' Added
+    - Translation for mod 'Artillery Shell Speed' Added
+    - Translation for mod 'Big J's Anti-Freeze Pipes' Added
+    - Translation for mod 'Epic Artillery Sounds' Added
+    - Translation for mod 'Factorio Reach' Added
+    - Translation for mod 'Faster Than Light Music Pack' Added
+    - Translation for mod 'Filter Mining Drilsh' Added
+    - Translation for mod 'Mining and Crafting Speed Research' Added
+    - Translation for mod 'Noxys Extra Settings Info' Added
+    - Translation for mod 'Nuclear Fuel Stack' Added
+    - Translation for mod 'Nuclear Power Rebalance' Added
+    - Translation for mod 'Ore Eraser' Added
+    - Translation for mod 'Simple Adjustable Inserters' Added
+    - Translation for mod 'Storage Tank Modpack' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Unlimited Productivity' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.2.6
+Date: 2024-11-06
   Translation Added:
     - Translation for mod 'Edit Map Settings' Added
     - Translation for mod 'Kuxynator's Personal Teleporter' Added
