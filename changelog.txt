@@ -1,9 +1,44 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.2.7
-Date: 2024-11-08
+Version: 0.3.0
+Date: 2024-11-10
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Gridlines' Added
+    - Translation for mod 'Rail Logistics Dispatcher 2' Added
+    - Translation for mod 'Reverse Engineering Lab' Added
+    - Translation for mod 'RPG Items' Added
+    - Translation for mod 'Spell Pack' Added
+    - Translation for mod 'TJ's Sign Boards' Added
+  Minor mod Translation Added:
+    - Translation for mod '144 Slot Cargo Wagons' Added
+    - Translation for mod 'Aech's Nuclear Downbalance' Added
+    - Translation for mod Agricultural tower placement helper' Added
+    - Translation for mod 'better miners' Added
+    - Translation for mod 'Cheaper AAI Loaders' Added
+    - Translation for mod 'Demolisher Remains Fill Lava' Added
+    - Translation for mod 'Eco-Friendly Electric Machines' Added
+    - Translation for mod 'Electric Train' Added
+    - Translation for mod 'Extra Storage Tanks: Steel Storage Tank' Added
+    - Translation for mod 'Extra Storage Tanks: Tiny Inline Storage Tank' Added
+    - Translation for mod 'Fast gate' Added
+    - Translation for mod 'HeroicLibrary' Added
+    - Translation for mod 'Hunter and Killer Spidertrons' Added
+    - Translation for mod 'Invulnerable Rails' Added
+    - Translation for mod 'Logistic Wagon' Added
+    - Translation for mod 'Money UI' Added
+    - Translation for mod 'Rock Eraser' Added
+    - Translation for mod 'Sensible Deconstruction' Added
+    - Translation for mod 'Simplified Thrusters' Added
+    - Translation for mod 'Swedish Chef Bots' Added
+    - Translation for mod 'Yemto's Item Count' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Des, the Wickerbeast' Updated
+    - Translation for mod 'Flow Control' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.2.7
+Date: 2024-11-08
   Translation Added:
     - Translation for mod 'Arborium Renewed' Added
     - Translation for mod 'Mining Patch Planner' Added
