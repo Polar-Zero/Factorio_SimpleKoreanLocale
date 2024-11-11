@@ -1,9 +1,42 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.0
-Date: 2024-11-10
+Version: 0.3.1
+Date: 2024-11-12
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Bridge Technologies' Added
+    - Translation for mod 'Color Blind Ultimate' Added
+    - Translation for mod 'Construction Planner Continued' Added
+    - Translation for mod 'Plutonium Breeding' Added
+    - Translation for mod 'Sky's Simplified Space Age' Added
+    - Translation for mod 'WH40k: Legio Titanicus' Added
+    - Translation for mod 'What is it really used for?' Added
+  Minor mod Translation Added:
+    - Translation for mod 'All Are Welcome Amongus' Added
+    - Translation for mod 'Connection Box' Added
+    - Translation for mod 'Gun EquipmentGun Equipment' Added
+    - Translation for mod 'Kux Power Poles' Added
+    - Translation for mod 'Kuxynator's Slim-Inserters' Added
+    - Translation for mod 'Lego Yoda Death Sound' Added
+    - Translation for mod 'Multi-spoil' Added
+    - Translation for mod 'Orphan Finder' Added
+    - Translation for mod 'Splatter Guard' Added
+    - Translation for mod 'Total Productivity for belts, landfill & everything' Added
+    - Translation for mod 'turret-activation-delay' Added
+    - Translation for mod 'Uncrafting Logistic Chests' Added
+    - Translation for mod 'Underwater Pipes' Added
+    - Translation for mod 'Unismelting' Added
+    - Translation for mod 'Wood stack to 1k' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - New Transport' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Louder Wagons' Updated
+    - Translation for mod 'Plutonium Energy' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2024-11-10
   Translation Added:
     - Translation for mod 'Gridlines' Added
     - Translation for mod 'Rail Logistics Dispatcher 2' Added
