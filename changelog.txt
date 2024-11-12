@@ -1,9 +1,25 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.1
-Date: 2024-11-12
+Version: 0.3.2
+Date: 2024-11-13
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Additional turrets' Added
+    - Translation for mod 'Carbon' Added
+    - Translation for mod 'Deadlock's Stacking Beltboxes & Compact Loaders' Added
+    - Translation for mod 'Intermodal Containers' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Delete Gleba' Added
+    - Translation for mod 'Ghost Mode' Added
+    - Translation for mod 'Multiplied Minables X10' Added
+    - Translation for mod 'Phoenix' Added
+    - Translation for mod 'Quick Ammo Switcher' Added
+    - Translation for mod 'Rotten World' Added
+    - Translation for mod 'Wood stack to 1k' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.3.1
+Date: 2024-11-12
   Translation Added:
     - Translation for mod 'Bridge Technologies' Added
     - Translation for mod 'Color Blind Ultimate' Added
