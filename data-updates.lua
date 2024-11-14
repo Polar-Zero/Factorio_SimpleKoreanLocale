@@ -97,3 +97,7 @@ if mods['terrapalus'] then
 	enforceI18n('planet','terrapalus');
 	enforceI18n('technology','planet-discovery-terrapalus');
 end
+if mods['adamo-carbon'] then
+	setI18nR(true,'technology','advanced-oil-processing','carbon');
+	setI18nR(true,'technology','coal-liquefaction','carbon');
+end

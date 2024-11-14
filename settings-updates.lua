@@ -19,3 +19,12 @@ if mods['UnlimitedProductivity'] or mods['UnlimitedProductivityFork'] then
 	enforceI18n('bool','up-remove-all-restrictions',true);
 	enforceI18n('int','maximum-productivity',true);
 end
+
+if mods['QuickAmmoSwitch'] then
+	enforceI18n('bool','dump-ammo-if-no-space',true);
+	enforceI18n('bool','check-player-inventory',true);
+end
+
+if mods['productions-per-minute'] then
+	enforceI18n('string','acr-blacklist',true);
+end

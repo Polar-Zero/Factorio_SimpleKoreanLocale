@@ -1,9 +1,35 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.2
-Date: 2024-11-13
+Version: 0.3.3
+Date: 2024-11-14
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 의향이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Behemoth Enemies Mod' Added
+    - Translation for mod 'MOAR Inserters' Added
+    - Translation for mod 'Quantum Fabricator' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Barrel Capacity Modifier' Added
+    - Translation for mod 'Dequalitier' Added
+    - Translation for mod 'Enable all Feature Flags' Added
+    - Translation for mod 'Gunfactory' Added
+    - Translation for mod 'Inventory Templates' Added
+    - Translation for mod 'Kuxynator's Speed Buttons' Added
+    - Translation for mod 'More Landing pads' Added
+    - Translation for mod 'Noxys Robot Battery Tweak' Added
+    - Translation for mod 'Player Auto Build 2' Added
+    - Translation for mod 'Productions Per Minute' Added
+    - Translation for mod 'Quality Down-Binning' Added
+    - Translation for mod 'Space platform graveyard' Added
+    - Translation for mod 'Spoil Down' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Carbon' Updated
+    - Translation for mod 'Rotten World' Updated
+    - Translation for mod 'Planet Picker' Updated
+    - Translation for mod 'Quick Ammo Switcher' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 2024-11-12
   Translation Added:
     - Translation for mod 'Additional turrets' Added
     - Translation for mod 'Carbon' Added
