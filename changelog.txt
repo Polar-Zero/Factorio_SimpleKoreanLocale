@@ -1,4 +1,32 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.6
+Date: 2024-11-14
+  Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Battery-Electric Train' Added
+    - Translation for mod 'Extended Range' Added
+    - Translation for mod 'Total Combat Overhaul' Added
+    - Translation for mod 'Lex's Aircraft' Added
+    - Translation for mod 'Quality Assurance' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Adjustable freeplay starting equipments' Added
+    - Translation for mod 'Autocraft' Added
+    - Translation for mod 'Better Call Saul Research Sound' Added
+    - Translation for mod 'Better commands' Added
+    - Translation for mod 'Infinity Pipe Start' Added
+    - Translation for mod 'Larger barrel capacity' Added
+    - Translation for mod 'Mapshot' Added
+    - Translation for mod 'Maze Wall 2' Added
+    - Translation for mod 'More Storage Tanks' Added
+    - Translation for mod 'RCU Restored' Added
+    - Translation for mod 'Smart nukes' Added
+    - Translation for mod 'Stranded Block 2' Added
+    - Translation for mod 'Tier 4 Modules' Added
+    - Translation for mod 'Tree XRay' Added
+    - Translation for mod 'Visible Gleba' Added
+---------------------------------------------------------------------------------------------------
 Version: 0.3.4
 Date: 2024-11-14
   Notice:
@@ -8,13 +36,13 @@ Date: 2024-11-14
     - Translation for mod 'Frozen Food' Added (Thanks to 르에(Lu__Lu))
     - Translation for mod 'Laser Fence' Added
   Minor mod Translation Added:
+    - Translation for mod 'GPS personal' Added
     - Translation for mod 'No Pipe Touching' Added
     - Translation for mod 'Piety' Added
     - Translation for mod 'Revised Scrap Recycling' Added
-    - Translation for mod 'GPS personal' Added
   Translation Updated/Fixed:
-    - Translation for mod 'Productions Per Minute' Updated
     - Translation for mod 'Planet Picker' Updated
+    - Translation for mod 'Productions Per Minute' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.3
 Date: 2024-11-14
