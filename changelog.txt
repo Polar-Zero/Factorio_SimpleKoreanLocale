@@ -1,9 +1,37 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.6
-Date: 2024-11-14
+Version: 0.3.7
+Date: 2024-11-18
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Armoured Biters' Added
+    - Translation for mod 'Bulk Rail Loader' Added
+    - Translation for mod 'Debloat: Better Foundry' Added
+    - Translation for mod 'Distant Misfires' Added
+    - Translation for mod 'Even Pickier Dollies' Added
+    - Translation for mod 'Extended Vanilla: Modular Logistics' Added
+    - Translation for mod 'Orbital Ion Cannon' Added
+    - Translation for mod 'Shuttle Train' Added
+    - Translation for mod 'SLP - Dyson Sphere Reworked' Added
+    - Translation for mod 'Wooden Logistics' Added
+    - Translation for mod 'Wind Turbines' Added
+  Minor mod Translation Added:
+    - Translation for mod 'C418 Music' Added
+    - Translation for mod 'Noxys Less Hands More Assemblers' Added
+    - Translation for mod 'Companion Drones' Added
+    - Translation for mod 'Delete Fulgora' Added
+    - Translation for mod 'Nuketronics' Added
+    - Translation for mod 'Platforms do not request full stacks of buildings' Added
+    - Translation for mod 'VortiK's Big Bertha Artillery Sounds' Added
+    - Translation for mod 'Modern Bulk Rail Loader' Added
+    - Translation for mod 'Remove Biter Soil & Nuke Scorch Marks' Added
+    - Translation for mod 'Electric Pump' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Sky's Simplified Space Age' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.3.6
+Date: 2024-11-15
   Translation Added:
     - Translation for mod 'Battery-Electric Train' Added
     - Translation for mod 'Extended Range' Added
@@ -29,9 +57,6 @@ Date: 2024-11-14
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.4
 Date: 2024-11-14
-  Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
     - Translation for mod 'Frozen Food' Added (Thanks to 르에(Lu__Lu))
     - Translation for mod 'Laser Fence' Added
