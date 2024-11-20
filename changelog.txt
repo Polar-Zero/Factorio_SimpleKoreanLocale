@@ -1,4 +1,43 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.8
+Date: 2024-11-20
+  Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Advanced Fluid Handling' Added
+    - Translation for mod 'More Asteroid Resources' Added
+    - Translation for mod 'Tenebris' Added
+    - Translation for mod 'Wooden Military' Added
+  Minor mod Translation Added:
+    - Translation for mod '9-Tile Wide World' Added
+    - Translation for mod 'Alchemical combinator' Added
+    - Translation for mod 'Big Wooden Pole' Added
+    - Translation for mod 'Delete Planet Compatability' Added
+    - Translation for mod 'Fast Demolisher' Added
+    - Translation for mod 'Faster Rocket Silo Animation' Added
+    - Translation for mod 'FlatUI' Added
+    - Translation for mod 'Gleba Soil Anywhere' Added
+    - Translation for mod 'Infinity Bots' Added
+    - Translation for mod 'Kingdom OST' Added
+    - Translation for mod 'Laser Walls' Added
+    - Translation for mod 'Let me walk!' Added
+    - Translation for mod 'Multiplied recipes' Added
+    - Translation for mod 'No Gleba Gatekeep Technologies' Added
+    - Translation for mod 'Pole Lamps' Added
+    - Translation for mod 'RitnEnemy' Added
+    - Translation for mod 'Roc's Hardcore Probabilistic Farming' Added
+    - Translation for mod 'Sane Concrete 2' Added
+    - Translation for mod 'Scrap Resource' Added
+    - Translation for mod 'Small Storage Tank' Added
+    - Translation for mod 'Special Resource Marker' Added
+    - Translation for mod 'Uplifting Ambient Music' Added
+    - Translation for mod 'Where Is My Body' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Orbital Ion Cannon' Updated
+    - Translation for mod 'Wind Turbines' Updated
+    - Translation for mod 'Mushroom Cloud' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.3.7
 Date: 2024-11-18
   Notice:
@@ -14,19 +53,19 @@ Date: 2024-11-18
     - Translation for mod 'Orbital Ion Cannon' Added
     - Translation for mod 'Shuttle Train' Added
     - Translation for mod 'SLP - Dyson Sphere Reworked' Added
-    - Translation for mod 'Wooden Logistics' Added
     - Translation for mod 'Wind Turbines' Added
+    - Translation for mod 'Wooden Logistics' Added
   Minor mod Translation Added:
     - Translation for mod 'C418 Music' Added
-    - Translation for mod 'Noxys Less Hands More Assemblers' Added
     - Translation for mod 'Companion Drones' Added
     - Translation for mod 'Delete Fulgora' Added
+    - Translation for mod 'Electric Pump' Added
+    - Translation for mod 'Modern Bulk Rail Loader' Added
+    - Translation for mod 'Noxys Less Hands More Assemblers' Added
     - Translation for mod 'Nuketronics' Added
     - Translation for mod 'Platforms do not request full stacks of buildings' Added
-    - Translation for mod 'VortiK's Big Bertha Artillery Sounds' Added
-    - Translation for mod 'Modern Bulk Rail Loader' Added
     - Translation for mod 'Remove Biter Soil & Nuke Scorch Marks' Added
-    - Translation for mod 'Electric Pump' Added
+    - Translation for mod 'VortiK's Big Bertha Artillery Sounds' Added
   Translation Updated/Fixed:
     - Translation for mod 'Sky's Simplified Space Age' Updated
 ---------------------------------------------------------------------------------------------------

@@ -28,3 +28,12 @@ end
 if mods['productions-per-minute'] then
 	enforceI18n('string','acr-blacklist',true);
 end
+
+if mods['fast-demolisher'] then
+	enforceI18n('double','fast-demolisher-acceleration-rate',false);
+	enforceI18n('double','fast-demolisher-turn-radius',false);
+	enforceI18n('double','fast-demolisher-patrolling-speed',false);
+	enforceI18n('double','fast-demolisher-patrolling-turn-radius',false);
+	enforceI18n('double','fast-demolisher-investigating-speed',false);
+	enforceI18n('double','fast-demolisher-enraged-speed',false);
+end
