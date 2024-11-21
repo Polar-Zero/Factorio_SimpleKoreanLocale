@@ -1,9 +1,50 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.8
-Date: 2024-11-20
+Version: 0.4.0
+Date: 2024-11-23
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Biter Clash' Added
+    - Translation for mod 'Combat Mechanics Overhaul' Added
+    - Translation for mod 'Space Age: Hardcore Mode' Added
+    - Translation for mod 'Valves' Added
+  Minor mod Translation Added:
+    - Translation for mod '1337exp / Loader' Added
+    - Translation for mod 'Accumulator Walls' Added
+    - Translation for mod 'Acorn's rocket capacity' Added
+    - Translation for mod 'Additional Mining Techs' Added
+    - Translation for mod 'Artillery Bombardment Remote' Added
+    - Translation for mod 'Biter Expansion Toggle' Added
+    - Translation for mod 'Bob's Adjustable Inserters Fully Unlocked' Added
+    - Translation for mod 'Category Integrations for 5Dim' Added
+    - Translation for mod 'Chess' Added
+    - Translation for mod 'Delete Vulcanus' Added
+    - Translation for mod 'Disco Science bridge for 5Dim' Added
+    - Translation for mod 'Enemy Expansion Notifications' Added
+    - Translation for mod 'Expensive Mode' Added
+    - Translation for mod 'Microplastics from Fish' Added
+    - Translation for mod 'Napalm Artillery' Added
+    - Translation for mod 'No Undergrounds in Space' Added
+    - Translation for mod 'No Wall Repair' Added
+    - Translation for mod 'Planetary Distance Adjustments' Added
+    - Translation for mod 'RitnLobby' Added
+    - Translation for mod 'RitnPortal' Added
+    - Translation for mod 'Rocket Reusability' Added
+    - Translation for mod 'Roc's Hardcore Cargo Drops' Added
+    - Translation for mod 'Roc's Hardcore Delayed Tech Tree' Added
+    - Translation for mod 'Roc's Hardcore Demolishers' Added
+    - Translation for mod 'Roc's Hardcore Lightning Storms' Added
+    - Translation for mod 'Roc's Rusting Iron' Added
+    - Translation for mod 'Uranium Geiger' Added
+    - Translation for mod 'Wood Circuit recipe' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - New Transport' Updated
+    - Translation for mod 'Bucket Wheel Excavators' Updated
+    - Translation for mod 'Comfortable Loader' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.3.8
+Date: 2024-11-20
   Translation Added:
     - Translation for mod 'Advanced Fluid Handling' Added
     - Translation for mod 'More Asteroid Resources' Added
@@ -40,9 +81,6 @@ Date: 2024-11-20
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.7
 Date: 2024-11-18
-  Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
     - Translation for mod 'Armoured Biters' Added
     - Translation for mod 'Bulk Rail Loader' Added
@@ -195,7 +233,7 @@ Date: 2024-11-10
   Minor mod Translation Added:
     - Translation for mod '144 Slot Cargo Wagons' Added
     - Translation for mod 'Aech's Nuclear Downbalance' Added
-    - Translation for mod Agricultural tower placement helper' Added
+    - Translation for mod 'Agricultural tower placement helper' Added
     - Translation for mod 'better miners' Added
     - Translation for mod 'Cheaper AAI Loaders' Added
     - Translation for mod 'Demolisher Remains Fill Lava' Added

@@ -1,0 +1,542 @@
+5Dim's mod - New Automatization
+5Dim's mod - New Battlefield
+5Dim's mod - New Core
+5Dim's mod - New Enemies
+5Dim's mod - New Energy
+5Dim's mod - New Equipment
+5Dim's mod - New Infinite Research
+5Dim's mod - New Logistic
+5Dim's mod - New Mining
+5Dim's mod - New Module
+5Dim's mod - New Nuclear
+5Dim's mod - New Resources
+5Dim's mod - New Storage
+5Dim's mod - New Trains
+5Dim's mod - New Transport
+9-Tile Wide World
+144 Slot Cargo Wagons
+!skins (Skins Factored)
+[OS] Speed Train
+Acorn's module buff
+Actual Craft Time
+Additional Paste Settings (Fixed)
+Additional Qualities
+Additional turrets
+Adjustable freeplay starting equipments
+Advanced Evolution
+Advanced Fluid Handling
+Advanced Furnaces 2
+Aech's Nuclear Downbalance
+Afraid of the Dark 2.0
+Agri No Spoil
+Agricultural tower placement helper
+Air filtering
+Alchemical combinator
+Alien Loot Economy
+All Are Welcome Amongus
+Alternate Recipes
+Always Day
+Ammo Loader+
+Annihilation Reactor
+Any Planet Start
+Arborium Renewed
+Archipelago Free Samples
+Area Paste
+Armoured Biters
+Artillery Combinator
+Artillery Range
+Artillery Shell Research
+Artillery Shell Speed
+Ash
+Asphalt Roads Patched
+Atomic Artillery
+Atomic Artillery Reborn
+Atomic Overhaul
+Atomic Pickaxe!
+Auto Deconstruct
+Auto Ghost Builder
+Auto Research
+Autocraft
+Automated Fuel & Ammo
+Automatic Belt Planner
+Autostash
+Awesome sink
+Baketorio
+Ballistic Missile
+Barrel Capacity Modifier
+Barrel Fluid Icon
+Barrel Stages
+Basic Artillery
+Battery Powered
+Battery-Electric Train
+Beacon Rebalance
+Behemoth Enemies Mod
+Belt Speed Multiplier
+Belt Upgrader
+Better Call Saul Research Sound
+Better commands
+better miners
+Better Robots Extended
+Better Train Horn
+Better Victory Screen
+Big J's Anti-Freeze Pipes
+Big Wooden Pole
+Bigger Artillery
+Big-Monsters
+Biodome Industries
+biter
+Biter-proofing
+Black Market 2
+Blueprint Sandboxes
+Bluetonium
+Bob's Adjustable Inserters mod
+Bots Bots Bots!
+Bottleneck
+Bottleneck Lite
+Brake Squeal 2.0
+Bridge Technologies
+Bucket Wheel Excavators
+Builder Bot Start
+Bulk Material
+Bulk Rail Loader
+Bullet Trails
+C418 Music
+Call a Plumber
+Captain's Log
+Carbon
+Casino
+Cheaper AAI Loaders
+Cheaper processing unit
+Chemical Rockets
+Cleaned Concrete
+Cloning Vat
+Color Blind Ultimate
+Colorblind red-purple Adjustments All In on
+Combat Robot Overhaul
+Comfortable Loaders
+Comfortable Night Vision
+Companion Drones
+Concrete productivity
+Configurable Custom Electric Mining Drill
+Configurable Valves
+Connection Box
+Connection Indicators
+Construction Planner Continued
+Constructron-Continued
+Cooked Fish
+Crafting Queue Enhancements
+Crafting Tools
+Creative Mod
+Cursor Craft
+Cursor Enhancements
+Custom Production UI Fixed
+Customizable Quality Names
+Cybersyn Combinator
+dangOreus
+Deadlock's Stacking Beltboxes & Compact Loaders
+Death Curses
+Debloat: Better Foundry
+Delete Fulgora
+Delete Gleba
+Delete Planet Compatability
+Demolisher compass
+Demolisher Remains Fill Lava
+Denerf: Personal Laser
+Denerf: Pump
+Dequalitier
+Des, the Wickerbeast
+Dimensional Depot
+Disco Science
+Discovery Tree
+Distant Misfires
+Dredgeworks
+DynamicInventorySize
+Earlyvated Rails
+Easy Void
+easy wind turbo
+Eco-Friendly Electric Machines
+Edit Map Settings
+Editor Extensions
+Electric Air Purifier
+Electric Grid Enforcer
+Electric Pole Range Multiplier
+Electric Pump
+Electric Train
+Electric Trains
+Electronic Locomotives
+ElectroTurret
+Enable all Feature Flags
+Epic Artillery Sounds
+Epic Fulgora
+Equipment Gantry
+Even Distribution
+Even Pickier Dollies
+Everything Spoilage
+Evolution Reduction via Destruction 2.0
+Explosive Biters
+Extended Range
+Extended Vanilla: Modular Logistics
+Extended Vanilla: Personal Equipment
+Extended Vanilla: Refining
+Extra Storage Tanks: Steel Storage Tank
+Extra Storage Tanks: Tiny Inline Storage Tank
+Factorio HD Age Modpack
+Factorio Library
+Factorio Reach
+Factorio Standard Library
+Factorissimo 2
+Factorissimo 3
+Factory solver based on IPMs for LP
+Fallout 1 & 2 Ost
+Fallout Power Armor
+Far Reach
+Fast Demolisher
+Fast gate
+Faster Rocket Silo Animation
+Faster Than Light Music Pack
+Filter Helper
+Filter Mining Drilsh
+Firework Rockets
+Flamethrower Wagon
+Flare Stack for 2.0 With graphics fix and py fix
+FlatUI
+Flip Dots
+Flow Configuration
+Flow Control
+Fluid Level Indicator
+Fluid Memory Storage
+Fluid Must Flow
+Fluid Void Extra
+FNEI
+Fox TODO
+Free Buildings
+Free For All
+Fridge
+Frost Biters
+Frozen Food (Thanks to 르에(Lu__Lu))
+Genshin Impact Skin
+Ghost Mode
+Gleba Soil Anywhere
+God Module
+GPS personal
+Gridlines
+Gun EquipmentGun Equipment
+Gunfactory
+Handcrafted
+Hardened pipes
+Haste Makes Lot
+Hatsune Enrichment Process
+Hazard Lights
+Helper for mods that create new characters
+HeroicLibrary
+Hide Space Age spoilers
+HighSpeed Train
+holographic_signs
+Hu Tao Character Skin
+HUD Auto Hide
+Hunter and Killer Spidertrons
+I Want To Go To Space
+Infinite Belt Stacking
+Infinite Repair Pack
+Infinite Resources
+InfiniteTech_FIXED
+Infinity Bots
+Infinity Chest Start
+Infinity Pipe Start
+Infinity rocket silo
+Intermodal Containers
+Inventory Templates
+Invincible Construction Bots
+Invulnerable Rails
+Iron Chest Mod
+Iron Chest Requires Wood Chest
+K2 Anti-material Rifle
+K2 Flare Stack
+K2 Fluid Storage
+K2 Railgun Turret
+K2 Steel Pipes
+King Jo's Insane Artillery
+King Jo's Nuclear Mine
+Kingdom OST
+Korone Character
+Krastorio 2 - Air Purifier
+KS Combat_Updated
+KS Power
+Kux Power Poles
+Kuxynator's Core Library
+Kuxynator's Personal Teleporter
+Kuxynator's Slim-Inserters
+Kuxynator's Speed Buttons
+Landfill productivity
+Large Storage Tank
+Larger barrel capacity
+Laser Fence
+Laser Walls
+Lawn Mower
+Lego Yoda Death Sound
+Let me walk!
+Lex's Aircraft
+Light Bot Start
+Light Overhaul
+Lighted Electric Poles +
+Loader Unlocker
+Loaders can stack
+Loaders Modernized
+Loaders snaps, works and utils
+Logistic Wagon
+Louder Wagons
+Machine Speed Multiplier
+Magic Science Chest
+Mammoth-MK3
+Manual Inventory Sorting
+Mapshot
+Material Storage
+Max Rate Calculator
+Maze Wall 2
+MD2R reskin: C&C, Red Alert, Tiberium Dawn
+Mechanicus (Rebuild)
+Memory cards
+Merging Chests
+Merging Chests All Types
+Merging Chests Logistic
+Merging Chests Unlimited
+Micro Furnace
+Micro Machines Mod
+Miku Roboport
+Mini Machines Mod
+miniMAXIme
+Mining and Crafting Speed Research
+Mining Drones
+Mining Drones (Tiberium Compatibility Version)
+Mining Drones 2 Remastered
+Mining Patch Planner
+MOAR Inserters
+MOAR Modules
+Modern Bulk Rail Loader
+Modular Chests
+Modular Turrets
+Module Inserter Simplified
+Molten Tungsten
+Money UI
+More Achievements
+More Asteroid Resources
+More Belts
+More Casting
+More Landing pads
+More Long Inserter
+More Storage Tanks
+Multiplied Minables X10
+Multiplied recipes
+Multi-spoil
+Mushroom Cloud
+Mushroom Cloud QuickFix
+Nanobots: Early Bots
+Naufulglebunusilo
+Nepgear Player Replacer
+Newly construction machines wait for their modules
+Nice Try, Train
+No "inventory is full" corpse pickup troubles
+No Bots Please
+No Gleba Gatekeep Technologies
+No Hand Crafting
+No Pipe Touching
+Notice me senpa
+Noxys Deep Core Mining Tweak
+Noxys Extra Settings Info
+Noxys Less Hands More Assemblers
+Noxys Robot Battery Tweak
+Noxys Stack Size Multiplier
+Noxys Swimming
+Noxys Trees
+Noxys Waterfill
+Nuclear Fuel Stack
+Nuclear Power Rebalance
+Nuketronics
+Omega Drill
+Orbital Ion Cannon
+Ore Eraser
+Orphan Finder
+P.U.M.P.
+Packing Tape
+PersonalTeleporter
+Phidias Collection
+Phoenix
+Picklocks rocket silo stats
+Piety
+pikachu skin
+Placeable-off-grid
+Planet Picker
+Platforms do not request full stacks of buildings
+Player Auto Build 2
+Player body abduction
+Players info
+Plutonium Breeding
+Plutonium Energy
+Pole Lamps
+Pollution is the Solution
+Portable Tank Cannon
+Prismatic Belts
+Prismatic Quality
+Production Monitor
+Productions Per Minute
+Prometheus Grenade Launcher
+Quality Assurance
+Quality Down-Binning
+Quality of Life research
+Quantum Fabricator
+Quick Ammo Switcher
+Quick Item Menu
+Radar Equipment
+Rail Logistics Dispatcher 2
+RailBow
+RailTester
+Rainbow Ore
+Random Colors
+Rate Calclator
+RCU Restored
+Recursive Resource Calculator
+Relaxed and Happy [For Gavin]
+Remote Monitor
+Remove Biter Soil & Nuke Scorch Marks
+remove damage resistances on asteroid
+Repair Turret
+Resource Monitor
+Resource Spawner Overhaul
+Reverse Engineering Lab
+Reverse Factory
+Revert Mining Productivity Cost
+Revised Scrap Recycling
+Ribbon Maze [Currently Unplayable because That mod's Crash]
+RITEG
+RitnBaseGame
+RitnCharacters
+RitnEnemy
+RitnLib
+Robot World
+Robots in space
+Rock Eraser
+Rocket-Silo Construction
+Roc's Hardcore Probabilistic Farming
+Rotten World
+RPG Items
+RPG System
+Safer Asteroids
+SA-Humvee
+Salted Fish
+Sane Concrete 2
+SA-T1 Atomic Tank
+Science Pack Glow Reborn
+Scrap Resource
+SearchlightAssault
+See This Snowball?
+Sensible Deconstruction
+Sensible Vehicle Equipment Grids
+SF advanced solar
+Shipping Containers
+Shortwave
+Shuttle Train
+Simple Adjustable Inserters
+Simplified Thrusters
+Simply Power Armor MK3
+Sky's Simplified Space Age
+SLP - Dyson Sphere Reworked
+Small Storage Tank
+Smart nukes
+Smooth trains
+Solar Appliances
+Solar Calculator
+Solar Lamp
+Solar Productivity
+Solid Waste pollution filter
+Some resource spam
+Someone's big mining-drill [Space Age]
+Space Age Adjustments
+Space platform graveyard
+Speaker Signals
+Special Resource Marker
+Speed Control
+Speedy Bot Start
+Spell Pack
+Spiderissmo
+Spidertron Weapon Loadout
+Splatter Guard
+Spoil Down
+Squeak Through 2
+Stable Foundations
+StackMaster
+Standard Factorio Library
+Stats GUI
+StatsGui
+Steam Cracking
+Steel Chest Requires Iron Chest
+Stone Water Well
+Stop That, Silly Robot!
+Storage Tank Modpack
+Stranded Block 2
+Swedish Chef Bots
+Teleportation_Redux
+Tenebris
+Terra Palus
+Testbenchcontrols
+The Dead Burn
+The Floor Is Lava Revival
+Thermal Solar Power (Lite)
+Tianyi Player
+Tier 4 Modules
+Tiered Gas Generator
+Tiered Roboports
+Time Lapse Base Edition
+Time Tools
+Tiny Assemblers
+Tiny Equipment
+TinyStart 2
+TJ's Sign Boards
+Toolbars
+tosts-Train-Chests
+Total Combat Overhaul
+Total Productivity for belts, landfill & everything
+Toxic Biters
+Train Trails
+Transfer of entity
+TrashChest
+Tree Collision
+Tree XRay
+turret-activation-delay
+Uncrafting Logistic Chests
+Underwater Pipes
+Unismelting
+Unlimited Productivity
+Unlimited Resources [Global Compat]
+Upcycler
+Upgradeable Quality
+Uplifting Ambient Music
+Utilization Monitor Blargh
+Vanilla Loaders
+Vehicle Wagon 2
+VehicleSnap
+Vibrant Paint
+Vibrant Train Colors
+Visible Gleba
+Void Snatch
+VortiK's Big Bertha Artillery Sounds
+Warehousing Mod
+Water Extractor
+Water Polesr
+Water Pumpjack
+Waterfill
+wellbeing
+WH40k: Legio Titanicus
+What is it really used for?
+Where Is My Body
+Wind Turbines
+Wire Shortcuts X
+Wires for real
+Wood Gasification
+Wood stack to 1k
+Wooden Brick
+Wooden Logistics
+Wooden Military
+YARM - Resource Monitor
+Yemto's Item Count
+Yo's Tweak Robots
+ZwerOxotnik's extendable mod with 8 addons
