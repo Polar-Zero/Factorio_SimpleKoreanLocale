@@ -1,9 +1,47 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.0
-Date: 2024-11-23
+Version: 0.4.1
+Date: 2024-11-24
   Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'King Jo's Vehicle Master' Added
+    - Translation for mod 'Quick Adjustable Inserters' Added
+    - Translation for mod 'Real Starry Universe' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Cheaper and more Circuits' Added
+    - Translation for mod 'Circuit Connection Visualizer' Added
+    - Translation for mod 'Concrete Plus' Added
+    - Translation for mod 'DivOresity' Added
+    - Translation for mod 'heat-engine' Added
+    - Translation for mod 'Infinite Resource Deposits' Added
+    - Translation for mod 'Infinite Resources - Depletion' Added
+    - Translation for mod 'King Jo's Bulldozer' Added
+    - Translation for mod 'King Jo's Cybertruck' Added
+    - Translation for mod 'King Jo's DeLorean' Added
+    - Translation for mod 'King Jo's General Purpose Truck' Added
+    - Translation for mod 'King Jo's Landkreuzer Graphics' Added
+    - Translation for mod 'King Jo's Landkreuzer P.1000 Ratte' Added
+    - Translation for mod 'King Jo's Lamborghini Aventado' Added
+    - Translation for mod 'King Jo's Leopard 2A6' Added
+    - Translation for mod 'King Jo's Metal Gear Solid Ray' Added
+    - Translation for mod 'King Jo's Panzer IV' Added
+    - Translation for mod 'King Jo's Panzer VIII' Added
+    - Translation for mod 'King Jo's Warhammer 40K Baneblade Tank' Added
+    - Translation for mod 'King Jo's Warhammer 40K Leman Russ Tank' Added
+    - Translation for mod 'King Jo's Warhammer 40K Predator Tank' Added
+    - Translation for mod 'Kuxynator's Production Rates' Added
+    - Translation for mod 'Long Range Turret' Added
+    - Translation for mod 'R0b&B4c0n' Added
+    - Translation for mod 'Raven mk2' Added
+    - Translation for mod 'Realistic Reactor Glow' Added
+    - Translation for mod 'Refrigeration' Added
+    - Translation for mod 'Remote Switch' Added
+    - Translation for mod 'Remove Productivity Cap' Added
+    - Translation for mod 'X16 Item' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 2024-11-22
   Translation Added:
     - Translation for mod 'Biter Clash' Added
     - Translation for mod 'Combat Mechanics Overhaul' Added
