@@ -1,9 +1,54 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.2
+Version: 0.4.3
 Date: 2024-11-26
-  _Notice:
+  Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Changes:
+    - Translation for mod 'Space Age Without Space' Removed. Translation will added at mod itself :)
+  Translation Updated/Fixed:
+    - Translation for mod '!skins (Skins Factored)' Updated
+    - Translation for mod 'Beacon Rebalance' Updated
+    - Translation for mod 'Merging Chests' Updated
+    - Translation for mod 'Modern Bulk Rail Loader' Updated
+    - Translation for mod 'P.U.M.P.' Updated
+    - Translation for mod 'Platforms do not request full stacks of buildings' Updated
+    - Translation for mod 'Probabilistic Farming' Updated
+    - Translation for mod 'Quantum Fabricator' Updated
+    - Translation for mod 'Quick Adjustable Inserters' Updated
+    - Translation for mod 'RailBow' Updated
+    - Translation for mod 'Rainbow Ore' Updated
+    - Translation for mod 'Realistic Celestial Universe' Updated
+    - Translation for mod 'Recursive Resource Calculator' Updated
+    - Translation for mod 'Reverse Factory' Updated
+    - Translation for mod 'Rock Eraser' Updated
+    - Translation for mod 'Roc's Hardcore Delayed Tech Tree' Updated
+    - Translation for mod 'Roc's Hardcore Lightning Storms' Updated
+    - Translation for mod 'Roc's Hardcore Vulcanus' Updated
+    - Translation for mod 'SA-T1 Atomic Tank' Updated
+    - Translation for mod 'Shipping Containers' Updated
+    - Translation for mod 'Simple Adjustable Inserters' Updated
+    - Translation for mod 'Simply Power Armor MK3' Updated
+    - Translation for mod 'Solar Calculator' Updated
+    - Translation for mod 'Space Age: Hardcore Mode' Updated
+    - Translation for mod 'Space Undergrounds Require Research' Updated
+    - Translation for mod 'Speed Control' Updated
+    - Translation for mod 'Stock Me Up' Updated
+    - Translation for mod 'Tenebris' Updated
+    - Translation for mod 'Terra Palus' Updated
+    - Translation for mod 'Thermal Solar Power (Lite)' Updated
+    - Translation for mod 'Total Productivity' Updated
+    - Translation for mod 'Tree Healing' Updated
+    - Translation for mod 'Valves' Updated
+    - Translation for mod 'Vehicle Wagon 2' Updated
+    - Translation for mod 'Vibrant Train Colors' Updated
+    - Translation for mod 'Void Snatch' Updated
+    - Translation for mod 'Water pumpjack' Updated
+    - Translation for mod 'WH40k: Legio Titanicus' Updated
+    - Translation for mod 'Wooden Brick' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.4.2
+Date: 2024-11-26
   Changes:
     - Version number of 176 mods Updated
   Translation Added:

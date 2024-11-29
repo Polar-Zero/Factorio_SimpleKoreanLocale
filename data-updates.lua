@@ -101,3 +101,6 @@ if mods['adamo-carbon'] then
 	setI18nR(true,'technology','advanced-oil-processing','carbon');
 	setI18nR(true,'technology','coal-liquefaction','carbon');
 end
+if mods['prismatic-quality'] then
+	setI18nR(true,'tips-and-tricks-item','quality-probabilities','prismatic');
+end
