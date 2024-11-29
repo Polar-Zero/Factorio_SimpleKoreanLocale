@@ -1,7 +1,8 @@
+---   For Developers of Translation mods:
 ---   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
 ---   - PolarZero
 
----   Code Version 2.1
+---   Code Version 2.1.1
 function setI18n(p,o,l,a,r) if data.raw[o] then if data.raw[o][l] then data.raw[o][l].localised_name={a..'-name.'..r..'-'..l}
 if p then data.raw[o][l].localised_description={a..'-description.'..r..'-'..l} end end end end
 function setRecipe(p,o,l,a) setI18n(p,'item',l,o,a) setI18n(p,'recipe',l,o,a) end
@@ -9,18 +10,15 @@ function setI18nR(p,o,l,a) setI18n(p,o,l,o,a); end
 function enforceI18n(p,z,o) if data.raw[p] then if data.raw[p][z] then data.raw[p][z].localised_name={p..'-name.'..z}
 if o then data.raw[p][z].localised_description={p..'-description.'..z} end end end end
 
-if mods['wret-beacon-rebalance-mod'] then
-	setRecipe(true,'entity','beacon','wr');
-	setI18n(true,'beacon','beacon','entity','wr');
-	setI18nR(true,'technology','effect-transmission','wr');
+if mods['adamo-carbon'] then
+	setI18nR(true,'technology','advanced-oil-processing','carbon');
+	setI18nR(true,'technology','coal-liquefaction','carbon');
 end
-if mods['hatsune-enrichment-process'] then
-	setI18nR(false,'recipe','kovarex-enrichment-process','hatsune');
-	setI18nR(false,'technology','kovarex-enrichment-process','hatsune');
-end
-if mods['dredgeworks'] then
-	setRecipe(true,'item','refined-concrete','dredgeworks');
-	setRecipe(true,'item','refined-hazard-concrete','dredgeworks');
+if mods['Additional-Qualities'] then
+	for i=1, 35 do
+		enforceI18n('technology','additional-qualities-x'..i);
+		enforceI18n('quality','transcendentx'..i);
+	end
 end
 if mods['baketorio'] then
 	setI18n(false,'tool','automation-science-pack','item','baketorio');
@@ -39,10 +37,9 @@ if mods['baketorio'] then
 	setI18nR(false,'technology','utility-science-pack','baketorio');
 	setI18nR(false,'technology','production-science-pack','baketorio');
 end
-if mods['RibbonMaze'] or mods['RibbonMaze20'] then
-	setRecipe(true,'item','landfill','ribbonmaze');
-	setRecipe(true,'item','electric-mining-drill','ribbonmaze');
-	setI18nR(true,'tile','water-green','ribbonmaze');
+if mods['dredgeworks'] then
+	setRecipe(true,'item','refined-concrete','dredgeworks');
+	setRecipe(true,'item','refined-hazard-concrete','dredgeworks');
 end
 if mods['ev-refining'] then
 	enforceI18n('item','crusher1');
@@ -89,18 +86,28 @@ if mods['ev-refining'] then
 	enforceI18n('recipe','copper-clump-processing');
 	enforceI18n('recipe','copper-dust-smelting');
 end
+if mods['hatsune-enrichment-process'] then
+	setI18nR(false,'recipe','kovarex-enrichment-process','hatsune');
+	setI18nR(false,'technology','kovarex-enrichment-process','hatsune');
+end
 if mods['naufulglebunusilo'] then
 	enforceI18n('planet','naufulglebunusilo');
 	enforceI18n('technology','planet-discovery-naufulglebunusilo');
+end
+if mods['prismatic-quality'] then
+	setI18nR(true,'tips-and-tricks-item','quality-probabilities','prismatic');
+end
+if mods['RibbonMaze'] or mods['RibbonMaze20'] then
+	setRecipe(true,'item','landfill','ribbonmaze');
+	setRecipe(true,'item','electric-mining-drill','ribbonmaze');
+	setI18nR(true,'tile','water-green','ribbonmaze');
 end
 if mods['terrapalus'] then
 	enforceI18n('planet','terrapalus');
 	enforceI18n('technology','planet-discovery-terrapalus');
 end
-if mods['adamo-carbon'] then
-	setI18nR(true,'technology','advanced-oil-processing','carbon');
-	setI18nR(true,'technology','coal-liquefaction','carbon');
-end
-if mods['prismatic-quality'] then
-	setI18nR(true,'tips-and-tricks-item','quality-probabilities','prismatic');
+if mods['wret-beacon-rebalance-mod'] then
+	setRecipe(true,'entity','beacon','wr');
+	setI18n(true,'beacon','beacon','entity','wr');
+	setI18nR(true,'technology','effect-transmission','wr');
 end

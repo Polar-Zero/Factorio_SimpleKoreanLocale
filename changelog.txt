@@ -1,9 +1,53 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.3
-Date: 2024-11-26
-  Notice:
+Version: 0.4.4
+Date: 2024-11-28
+  # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Minor mod Translation Added:
+    - Translation for mod 'Research Productivity' Added
+    - Translation for mod 'King Jo's Fuels' Added
+    - Translation for mod 'King Jo's Watchtower' Added
+    - Translation for mod 'King Jo's Metal Gear Solid Rex' Added
+    - Translation for mod 'King Jo's 88mm Pak 43' Added
+    - Translation for mod 'Krastorio 2 Wind Turbine' Added
+    - Translation for mod 'Slowdown Concrete' Added
+    - Translation for mod 'Demolisher Eggs' Added
+    - Translation for mod 'Train Log' Added
+    - Translation for mod 'Science Converter' Added
+    - Translation for mod 'Character reach indicator' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - New Battlefield' Updated
+    - Translation for mod 'Acorn's module buff' Updated
+    - Translation for mod 'Actual Craft Time' Updated
+    - Translation for mod 'Additional Qualities' Updated
+    - Translation for mod 'Additional turrets' Updated
+    - Translation for mod 'Advanced Evolution' Updated
+    - Translation for mod 'Alien Loot Economy' Updated
+    - Translation for mod 'Ash' Updated
+    - Translation for mod 'Asphalt Roads Patched' Updated
+    - Translation for mod 'Atomic Overhaul' Updated
+    - Translation for mod 'Baketorio' Updated
+    - Translation for mod 'Ballistic Missile' Updated
+    - Translation for mod 'Behemoth Enemies Mod' Updated
+    - Translation for mod 'Bright Universe' Updated
+    - Translation for mod 'Carbon' Updated
+    - Translation for mod 'Editor Extensions' Updated
+    - Translation for mod 'Electric Grid Enforcer' Updated
+    - Translation for mod 'laser resistances remover' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Mammoth-MK3' Updated
+    - Translation for mod 'Material Storage' Updated
+    - Translation for mod 'Micro Machines Mod' Updated
+    - Translation for mod 'Mini Machines Mod' Updated
+    - Translation for mod 'No Pipe Touching 2.0' Updated
+    - Translation for mod 'Noxys Trees' Updated
+    - Translation for mod 'Nuclear Power Rebalance' Updated
+    - Translation for mod 'Ore Erase' Updated
+    - Translation for mod 'Phidias Collection' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.4.3
+Date: 2024-11-26
   Changes:
     - Translation for mod 'Space Age Without Space' Removed. Translation will added at mod itself :)
   Translation Updated/Fixed:
