@@ -1,21 +1,68 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.4
-Date: 2024-11-28
+Version: 0.4.5
+Date: 2024-11-30
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Enemy Race Manager' Added [Submods will translated soon]
+    - Translation for mod 'Voidcraft' Added
   Minor mod Translation Added:
-    - Translation for mod 'Research Productivity' Added
-    - Translation for mod 'King Jo's Fuels' Added
-    - Translation for mod 'King Jo's Watchtower' Added
-    - Translation for mod 'King Jo's Metal Gear Solid Rex' Added
-    - Translation for mod 'King Jo's 88mm Pak 43' Added
-    - Translation for mod 'Krastorio 2 Wind Turbine' Added
-    - Translation for mod 'Slowdown Concrete' Added
-    - Translation for mod 'Demolisher Eggs' Added
-    - Translation for mod 'Train Log' Added
-    - Translation for mod 'Science Converter' Added
+    - Translation for mod 'Atomic Bomb Shockwave Distance' Added
+    - Translation for mod 'Better StarMap Background' Added
+    - Translation for mod 'Biolabs Need Nutrients' Added
+    - Translation for mod 'Color whole train' Added
+    - Translation for mod 'Electric Boiler' Added
+    - Translation for mod 'Electromagnetic Plant Expanded' Added
+    - Translation for mod 'Enemy Race Manager - Post Process' Added
+    - Translation for mod 'Enemy Race Manager Asset Pack' Added
+    - Translation for mod 'Enemy Race Manager Libraries' Added
+    - Translation for mod 'Flamethrower_shoots_in_prepare_range' Added
+    - Translation for mod 'Florence Flasked Space Science' Added
+    - Translation for mod 'Fluidless Express Belt' Added
+    - Translation for mod 'Fusion Thruster' Added
+    - Translation for mod 'Improved Platform Drag' Added
+    - Translation for mod 'King Jo's Fancy Lamp' Added
+    - Translation for mod 'King Jo's Flakpanzer IV 'Wirbelwind'' Added
+    - Translation for mod 'King Jo's Warhammer 40K Bunker' Added
+    - Translation for mod 'King Jo's Warhammer 40K Iron Fist Dreadnought' Added
+    - Translation for mod 'Lab Icon Revert' Added
+    - Translation for mod 'Land Pump' Added
+    - Translation for mod 'Quality Changer' Added
+    - Translation for mod 'Sign post' Added
+    - Translation for mod 'Smaller Train Stop Collision' Added
+    - Translation for mod 'Starmap: Solar-System' Added
+    - Translation for mod 'Whats a Spoilage' Added
+    - Translation for mod 'Zithorian's Extra Storage Tanks' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Belt Upgrader' Updated
+    - Translation for mod 'Better Robots' Updated
+    - Translation for mod 'Biter Clash' Updated
+    - Translation for mod 'Black Market 2 Space Age' Updated
+    - Translation for mod 'Blueprint Sandboxes' Updated
+    - Translation for mod 'Bluetonium' Updated
+    - Translation for mod 'Builder Bot Start' Updated
+    - Translation for mod 'Bulk Materials' Updated
+    - Translation for mod 'Construction Planner Continued' Updated
+    - Translation for mod 'Configurable Solar Panels and Accumulators' Updated
+    - Translation for mod 'Configurable Valves' Updated
+    - Translation for mod 'Extended Vanilla: Personal Equipment' Updated
+    - Translation for mod 'Tier 4 Modules' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.4.4
+Date: 2024-11-28
+  Minor mod Translation Added:
     - Translation for mod 'Character reach indicator' Added
+    - Translation for mod 'Demolisher Eggs' Added
+    - Translation for mod 'King Jo's 88mm Pak 43' Added
+    - Translation for mod 'King Jo's Fuels' Added
+    - Translation for mod 'King Jo's Metal Gear Solid Rex' Added
+    - Translation for mod 'King Jo's Watchtower' Added
+    - Translation for mod 'Krastorio 2 Wind Turbine' Added
+    - Translation for mod 'Research Productivity' Added
+    - Translation for mod 'Science Converter' Added
+    - Translation for mod 'Slowdown Concrete' Added
+    - Translation for mod 'Train Log' Added
   Translation Updated/Fixed:
     - Translation for mod '5Dim's mod - New Battlefield' Updated
     - Translation for mod 'Acorn's module buff' Updated
