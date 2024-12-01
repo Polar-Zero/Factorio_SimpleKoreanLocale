@@ -1,11 +1,45 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.5
-Date: 2024-11-30
+Version: 0.4.6
+Date: 2024-12-01
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
-    - Translation for mod 'Enemy Race Manager' Added [Submods will translated soon]
+    - Translation for mod 'ERM - Protoss / Akilea' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Accumulator MK2' Added
+    - Translation for mod 'Automatic Discharge Defense' Added
+    - Translation for mod 'Disable Vanilla Menu Simulations' Added
+    - Translation for mod 'ERM - Protoss HD Graphic Assets' Added
+    - Translation for mod 'ERM - Zerg HD Graphic Assets' Added [Submods will translated soon]
+    - Translation for mod 'Gear Girl 2.0' Added
+    - Translation for mod 'King Jo's Warhammer 40K Servo-skul)' Added
+    - Translation for mod 'Larger Shortcut Icons' Added
+    - Translation for mod 'Nil' Added
+    - Translation for mod 'Omnilibrary' Added
+    - Translation for mod 'Roc's Hardcore Aquilo' Added
+    - Translation for mod 'Roc's Hardcore Fulgora' Added
+    - Translation for mod 'Roc's Hardcore Gleba' Added
+    - Translation for mod 'Science is unstable' Added
+    - Translation for mod 'Starship' Added
+    - Translation for mod 'Vehicle Corpses' Added
+    - Translation for mod 'Visible Planets in Space' Added
+    - Translation for mod 'Void Block' Added
+    - Translation for mod 'Yae Miko & Raiden Shogun Characters (Revised)' Added
+    - Translation for mod 'Easy Demolisher' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Cursor Craft' Updated
+    - Translation for mod 'Cybersyn Combinator' Updated
+    - Translation for mod 'Dimensional Depot' Updated
+    - Translation for mod 'Discovery Tree' Updated
+    - Translation for mod 'DivOresity' Updated
+    - Translation for mod 'Dredgeworks' Updated
+    - Translation for mod 'Earlyvated Rails' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.4.5
+Date: 2024-11-30
+  Translation Added:
+    - Translation for mod 'Enemy Race Manager' Added
     - Translation for mod 'Voidcraft' Added
   Minor mod Translation Added:
     - Translation for mod 'Atomic Bomb Shockwave Distance' Added
