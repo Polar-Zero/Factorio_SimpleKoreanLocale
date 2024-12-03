@@ -1,542 +1,718 @@
-5Dim's mod - New Automatization
-5Dim's mod - New Battlefield
-5Dim's mod - New Core
-5Dim's mod - New Enemies
-5Dim's mod - New Energy
-5Dim's mod - New Equipment
-5Dim's mod - New Infinite Research
-5Dim's mod - New Logistic
-5Dim's mod - New Mining
-5Dim's mod - New Module
-5Dim's mod - New Nuclear
-5Dim's mod - New Resources
-5Dim's mod - New Storage
-5Dim's mod - New Trains
-5Dim's mod - New Transport
-9-Tile Wide World
-144 Slot Cargo Wagons
-!skins (Skins Factored)
-[OS] Speed Train
-Acorn's module buff
-Actual Craft Time
-Additional Paste Settings (Fixed)
-Additional Qualities
-Additional turrets
-Adjustable freeplay starting equipments
-Advanced Evolution
-Advanced Fluid Handling
-Advanced Furnaces 2
-Aech's Nuclear Downbalance
-Afraid of the Dark 2.0
-Agri No Spoil
-Agricultural tower placement helper
-Air filtering
-Alchemical combinator
-Alien Loot Economy
-All Are Welcome Amongus
-Alternate Recipes
-Always Day
-Ammo Loader+
-Annihilation Reactor
-Any Planet Start
-Arborium Renewed
-Archipelago Free Samples
-Area Paste
-Armoured Biters
-Artillery Combinator
-Artillery Range
-Artillery Shell Research
-Artillery Shell Speed
-Ash
-Asphalt Roads Patched
-Atomic Artillery
-Atomic Artillery Reborn
-Atomic Overhaul
-Atomic Pickaxe!
-Auto Deconstruct
-Auto Ghost Builder
-Auto Research
-Autocraft
-Automated Fuel & Ammo
-Automatic Belt Planner
-Autostash
-Awesome sink
-Baketorio
-Ballistic Missile
-Barrel Capacity Modifier
-Barrel Fluid Icon
-Barrel Stages
-Basic Artillery
-Battery Powered
-Battery-Electric Train
-Beacon Rebalance
-Behemoth Enemies Mod
-Belt Speed Multiplier
-Belt Upgrader
-Better Call Saul Research Sound
-Better commands
-better miners
-Better Robots Extended
-Better Train Horn
-Better Victory Screen
-Big J's Anti-Freeze Pipes
-Big Wooden Pole
-Bigger Artillery
-Big-Monsters
-Biodome Industries
-biter
-Biter-proofing
-Black Market 2
-Blueprint Sandboxes
-Bluetonium
-Bob's Adjustable Inserters mod
-Bots Bots Bots!
-Bottleneck
-Bottleneck Lite
-Brake Squeal 2.0
-Bridge Technologies
-Bucket Wheel Excavators
-Builder Bot Start
-Bulk Material
-Bulk Rail Loader
-Bullet Trails
-C418 Music
-Call a Plumber
-Captain's Log
-Carbon
-Casino
-Cheaper AAI Loaders
-Cheaper processing unit
-Chemical Rockets
-Cleaned Concrete
-Cloning Vat
-Color Blind Ultimate
-Colorblind red-purple Adjustments All In on
-Combat Robot Overhaul
-Comfortable Loaders
-Comfortable Night Vision
-Companion Drones
-Concrete productivity
-Configurable Custom Electric Mining Drill
-Configurable Valves
-Connection Box
-Connection Indicators
-Construction Planner Continued
-Constructron-Continued
-Cooked Fish
-Crafting Queue Enhancements
-Crafting Tools
-Creative Mod
-Cursor Craft
-Cursor Enhancements
-Custom Production UI Fixed
-Customizable Quality Names
-Cybersyn Combinator
-dangOreus
-Deadlock's Stacking Beltboxes & Compact Loaders
-Death Curses
-Debloat: Better Foundry
-Delete Fulgora
-Delete Gleba
-Delete Planet Compatability
-Demolisher compass
-Demolisher Remains Fill Lava
-Denerf: Personal Laser
-Denerf: Pump
-Dequalitier
-Des, the Wickerbeast
-Dimensional Depot
-Disco Science
-Discovery Tree
-Distant Misfires
-Dredgeworks
-DynamicInventorySize
-Earlyvated Rails
-Easy Void
-easy wind turbo
-Eco-Friendly Electric Machines
-Edit Map Settings
-Editor Extensions
-Electric Air Purifier
-Electric Grid Enforcer
-Electric Pole Range Multiplier
-Electric Pump
-Electric Train
-Electric Trains
-Electronic Locomotives
-ElectroTurret
-Enable all Feature Flags
-Epic Artillery Sounds
-Epic Fulgora
-Equipment Gantry
-Even Distribution
-Even Pickier Dollies
-Everything Spoilage
-Evolution Reduction via Destruction 2.0
-Explosive Biters
-Extended Range
-Extended Vanilla: Modular Logistics
-Extended Vanilla: Personal Equipment
-Extended Vanilla: Refining
-Extra Storage Tanks: Steel Storage Tank
-Extra Storage Tanks: Tiny Inline Storage Tank
-Factorio HD Age Modpack
-Factorio Library
-Factorio Reach
-Factorio Standard Library
-Factorissimo 2
-Factorissimo 3
-Factory solver based on IPMs for LP
-Fallout 1 & 2 Ost
-Fallout Power Armor
-Far Reach
-Fast Demolisher
-Fast gate
-Faster Rocket Silo Animation
-Faster Than Light Music Pack
-Filter Helper
-Filter Mining Drilsh
-Firework Rockets
-Flamethrower Wagon
-Flare Stack for 2.0 With graphics fix and py fix
-FlatUI
-Flip Dots
-Flow Configuration
-Flow Control
-Fluid Level Indicator
-Fluid Memory Storage
-Fluid Must Flow
-Fluid Void Extra
-FNEI
-Fox TODO
-Free Buildings
-Free For All
-Fridge
-Frost Biters
-Frozen Food (Thanks to 르에(Lu__Lu))
-Genshin Impact Skin
-Ghost Mode
-Gleba Soil Anywhere
-God Module
-GPS personal
-Gridlines
-Gun EquipmentGun Equipment
-Gunfactory
-Handcrafted
-Hardened pipes
-Haste Makes Lot
-Hatsune Enrichment Process
-Hazard Lights
-Helper for mods that create new characters
-HeroicLibrary
-Hide Space Age spoilers
-HighSpeed Train
-holographic_signs
-Hu Tao Character Skin
-HUD Auto Hide
-Hunter and Killer Spidertrons
-I Want To Go To Space
-Infinite Belt Stacking
-Infinite Repair Pack
-Infinite Resources
-InfiniteTech_FIXED
-Infinity Bots
-Infinity Chest Start
-Infinity Pipe Start
-Infinity rocket silo
-Intermodal Containers
-Inventory Templates
-Invincible Construction Bots
-Invulnerable Rails
-Iron Chest Mod
-Iron Chest Requires Wood Chest
-K2 Anti-material Rifle
-K2 Flare Stack
-K2 Fluid Storage
-K2 Railgun Turret
-K2 Steel Pipes
-King Jo's Insane Artillery
-King Jo's Nuclear Mine
-Kingdom OST
-Korone Character
-Krastorio 2 - Air Purifier
-KS Combat_Updated
-KS Power
-Kux Power Poles
-Kuxynator's Core Library
-Kuxynator's Personal Teleporter
-Kuxynator's Slim-Inserters
-Kuxynator's Speed Buttons
-Landfill productivity
-Large Storage Tank
-Larger barrel capacity
-Laser Fence
-Laser Walls
-Lawn Mower
-Lego Yoda Death Sound
-Let me walk!
-Lex's Aircraft
-Light Bot Start
-Light Overhaul
-Lighted Electric Poles +
-Loader Unlocker
-Loaders can stack
-Loaders Modernized
-Loaders snaps, works and utils
-Logistic Wagon
-Louder Wagons
-Machine Speed Multiplier
-Magic Science Chest
-Mammoth-MK3
-Manual Inventory Sorting
-Mapshot
-Material Storage
-Max Rate Calculator
-Maze Wall 2
-MD2R reskin: C&C, Red Alert, Tiberium Dawn
-Mechanicus (Rebuild)
-Memory cards
-Merging Chests
-Merging Chests All Types
-Merging Chests Logistic
-Merging Chests Unlimited
-Micro Furnace
-Micro Machines Mod
-Miku Roboport
-Mini Machines Mod
-miniMAXIme
-Mining and Crafting Speed Research
-Mining Drones
-Mining Drones (Tiberium Compatibility Version)
-Mining Drones 2 Remastered
-Mining Patch Planner
-MOAR Inserters
-MOAR Modules
-Modern Bulk Rail Loader
-Modular Chests
-Modular Turrets
-Module Inserter Simplified
-Molten Tungsten
-Money UI
-More Achievements
-More Asteroid Resources
-More Belts
-More Casting
-More Landing pads
-More Long Inserter
-More Storage Tanks
-Multiplied Minables X10
-Multiplied recipes
-Multi-spoil
-Mushroom Cloud
-Mushroom Cloud QuickFix
-Nanobots: Early Bots
-Naufulglebunusilo
-Nepgear Player Replacer
-Newly construction machines wait for their modules
-Nice Try, Train
-No "inventory is full" corpse pickup troubles
-No Bots Please
-No Gleba Gatekeep Technologies
-No Hand Crafting
-No Pipe Touching
-Notice me senpa
-Noxys Deep Core Mining Tweak
-Noxys Extra Settings Info
-Noxys Less Hands More Assemblers
-Noxys Robot Battery Tweak
-Noxys Stack Size Multiplier
-Noxys Swimming
-Noxys Trees
-Noxys Waterfill
-Nuclear Fuel Stack
-Nuclear Power Rebalance
-Nuketronics
-Omega Drill
-Orbital Ion Cannon
-Ore Eraser
-Orphan Finder
-P.U.M.P.
-Packing Tape
-PersonalTeleporter
-Phidias Collection
-Phoenix
-Picklocks rocket silo stats
-Piety
-pikachu skin
-Placeable-off-grid
-Planet Picker
-Platforms do not request full stacks of buildings
-Player Auto Build 2
-Player body abduction
-Players info
-Plutonium Breeding
-Plutonium Energy
-Pole Lamps
-Pollution is the Solution
-Portable Tank Cannon
-Prismatic Belts
-Prismatic Quality
-Production Monitor
-Productions Per Minute
-Prometheus Grenade Launcher
-Quality Assurance
-Quality Down-Binning
-Quality of Life research
-Quantum Fabricator
-Quick Ammo Switcher
-Quick Item Menu
-Radar Equipment
-Rail Logistics Dispatcher 2
-RailBow
-RailTester
-Rainbow Ore
-Random Colors
-Rate Calclator
-RCU Restored
-Recursive Resource Calculator
-Relaxed and Happy [For Gavin]
-Remote Monitor
-Remove Biter Soil & Nuke Scorch Marks
-remove damage resistances on asteroid
-Repair Turret
-Resource Monitor
-Resource Spawner Overhaul
-Reverse Engineering Lab
-Reverse Factory
-Revert Mining Productivity Cost
-Revised Scrap Recycling
-Ribbon Maze [Currently Unplayable because That mod's Crash]
-RITEG
-RitnBaseGame
-RitnCharacters
-RitnEnemy
-RitnLib
-Robot World
-Robots in space
-Rock Eraser
-Rocket-Silo Construction
-Roc's Hardcore Probabilistic Farming
-Rotten World
-RPG Items
-RPG System
-Safer Asteroids
-SA-Humvee
-Salted Fish
-Sane Concrete 2
-SA-T1 Atomic Tank
-Science Pack Glow Reborn
-Scrap Resource
-SearchlightAssault
-See This Snowball?
-Sensible Deconstruction
-Sensible Vehicle Equipment Grids
-SF advanced solar
-Shipping Containers
-Shortwave
-Shuttle Train
-Simple Adjustable Inserters
-Simplified Thrusters
-Simply Power Armor MK3
-Sky's Simplified Space Age
-SLP - Dyson Sphere Reworked
-Small Storage Tank
-Smart nukes
-Smooth trains
-Solar Appliances
-Solar Calculator
-Solar Lamp
-Solar Productivity
-Solid Waste pollution filter
-Some resource spam
-Someone's big mining-drill [Space Age]
-Space Age Adjustments
-Space platform graveyard
-Speaker Signals
-Special Resource Marker
-Speed Control
-Speedy Bot Start
-Spell Pack
-Spiderissmo
-Spidertron Weapon Loadout
-Splatter Guard
-Spoil Down
-Squeak Through 2
-Stable Foundations
-StackMaster
-Standard Factorio Library
-Stats GUI
-StatsGui
-Steam Cracking
-Steel Chest Requires Iron Chest
-Stone Water Well
-Stop That, Silly Robot!
-Storage Tank Modpack
-Stranded Block 2
-Swedish Chef Bots
-Teleportation_Redux
-Tenebris
-Terra Palus
-Testbenchcontrols
-The Dead Burn
-The Floor Is Lava Revival
-Thermal Solar Power (Lite)
-Tianyi Player
-Tier 4 Modules
-Tiered Gas Generator
-Tiered Roboports
-Time Lapse Base Edition
-Time Tools
-Tiny Assemblers
-Tiny Equipment
-TinyStart 2
-TJ's Sign Boards
-Toolbars
-tosts-Train-Chests
-Total Combat Overhaul
-Total Productivity for belts, landfill & everything
-Toxic Biters
-Train Trails
-Transfer of entity
-TrashChest
-Tree Collision
-Tree XRay
-turret-activation-delay
-Uncrafting Logistic Chests
-Underwater Pipes
-Unismelting
-Unlimited Productivity
-Unlimited Resources [Global Compat]
-Upcycler
-Upgradeable Quality
-Uplifting Ambient Music
-Utilization Monitor Blargh
-Vanilla Loaders
-Vehicle Wagon 2
-VehicleSnap
-Vibrant Paint
-Vibrant Train Colors
-Visible Gleba
-Void Snatch
-VortiK's Big Bertha Artillery Sounds
-Warehousing Mod
-Water Extractor
-Water Polesr
-Water Pumpjack
-Waterfill
-wellbeing
-WH40k: Legio Titanicus
-What is it really used for?
-Where Is My Body
-Wind Turbines
-Wire Shortcuts X
-Wires for real
-Wood Gasification
-Wood stack to 1k
-Wooden Brick
-Wooden Logistics
-Wooden Military
-YARM - Resource Monitor
-Yemto's Item Count
-Yo's Tweak Robots
-ZwerOxotnik's extendable mod with 8 addons
+!skins (스킨 Factored)(!skins (Skins Factored))
+1337exp 적재기(1337exp / Loader)
+144칸 화물차(144 Slot Cargo Wagons)
+2+2=물고기(2+2=Fish)
+4티어 모듈(Tier 4 Modules)
+5Dim 디스코 연구소 브리지(Disco Science bridge for 5Dim)
+5Dim 모드 - 개인 장비(5Dim's mod - New Equipment)
+5Dim 모드 - 기차(5Dim's mod - New Trains)
+5Dim 모드 - 모듈(5Dim's mod - New Module)
+5Dim 모드 - 무한 연구(5Dim's mod - New Infinite Research)
+5Dim 모드 - 물류(5Dim's mod - New Logistic)
+5Dim 모드 - 바이터(5Dim's mod - New Enemies)
+5Dim 모드 - 에너지(5Dim's mod - New Energy)
+5Dim 모드 - 운송(5Dim's mod - New Transport)
+5Dim 모드 - 원자력(5Dim's mod - New Nuclear)
+5Dim 모드 - 자동화(5Dim's mod - New Automatization)
+5Dim 모드 - 자원(5Dim's mod - New Resources)
+5Dim 모드 - 저장 탱크(5Dim's mod - New Storage)
+5Dim 모드 - 전장(5Dim's mod - New Battlefield)
+5Dim 모드 - 채광(5Dim's mod - New Mining)
+5Dim 모드 - 핵심 요소(5Dim's mod - New Core)
+5Dim 카테고리 통합(Category Integrations for 5Dim)
+7세그먼트 숫자 디스플레이(7 Segment Digits)
+9타일 세계(9-Tile Wide World)
+가스 발전기(Tiered Gas Generator)
+가스 용광로(Gas Furnace)
+간단한 로봇과 함께 시작(Light Bot Start)
+간단한 속도 조정(Simple Speed Control)
+간단한 조정 가능 투입기(Simple Adjustable Inserters)
+간소화된 모듈 투입 도구(Module Inserter Simplified)
+간소화된 추진기(Simplified Thrusters)
+간편한 파워 아머 MK3(Simply Power Armor MK3)
+간편한 풍력 발전(easy wind turbo)
+감속 콘크리트(Slowdown Concrete)
+강철 상자 제작에 철 상자 필요(Steel Chest Requires Iron Chest)
+강화된 파이프(Hardened pipes)
+개선된 고철 재활용(Revised Scrap Recycling)
+개선된 명령어(Better commands)
+개선된 우주 지도 배경(Better StarMap Background)
+개선된 원자력(Atomic Overhaul)
+개선된 자원 생성(Resource Spawner Overhaul)
+개선된 채광 드릴(better miners)
+개선된 채팅(Better Chatting)
+개선된 커서(Cursor Enhancements)
+개선된 플랫폼 견인력(Improved Platform Drag)
+개선된 피커 돌리(Even Pickier Dollies)
+개인용 텔레포터(PersonalTeleporter)
+개인용 GPS(GPS personal)
+객체 전송(Transfer of entity)
+거대 전봇대(Large Power Poles)
+거대한 몬스터(Big-Monsters)
+건설 계획기 Continued(Construction Planner Continued)
+건설 로봇 시작(Builder Bot Start)
+건전한 콘크리트 2(Sane Concrete 2)
+격자선(Gridlines)
+경쾌한 환경음(Uplifting Ambient Music)
+고급 변전소 2.0 (우주 시대 업데이트)(Advanced Substations 2.0 (Space Age Update))
+고급 유체 제어 2.0 우주 시대 업데이트(Advanced Fluid Handling 2.0 Space Age Update)
+고립 개체 탐색기 (Fixed)(Orphan Finder (Fixed))
+고비용 모드(Expensive Mode)
+고스트 모드(Ghost Mode)
+고철 자원(Scrap Resource)
+고형 폐기물 공해 필터(Solid Waste pollution filter)
+공기 정화기(Air filtering)
+공전하는 행성 표시(Visible Planets in Space)
+공허 블록(Void Block)
+공허 제작기(Voidcraft)
+과학 팩 변환기(Science Converter)
+광석 다양성(DivOresity)
+광석 위험지대(dangOreus)
+광석 제거기(Ore Eraser)
+광역 붙여넣기(Area Paste)
+교차로 테스트기(RailTester)
+구성 가능한 밸브(Configurable Valves)
+구성 가능한 전기 채광 드릴(Configurable Custom Electric Mining Drill)
+궁극의 색약 접근성(Color Blind Ultimate)
+궤도 이온포 (우주 에디션)(Orbital Ion Cannon (Space Edition))
+그래플링 건(Grappling Gun)
+그리드-밖-건설(Placeable-off-grid)
+그만해, 바보 로봇!(Stop That, Silly Robot!)
+글레바 가시성 개선(Visible Gleba)
+글레바 관문 기술 삭제(No Gleba Gatekeep Technologies)
+글레바 삭제(Delete Gleba)
+글레바 토양 배치 제한 삭제(Gleba Soil Anywhere)
+기계 속도 배속(Machine Speed Multiplier)
+기관총 장비(Gun Equipment)
+기반(Foundations)
+기본 메뉴 시뮬레이션 비활성화(Disable Vanilla Menu Simulations)
+기술 연결 브리지(Bridge Technologies)
+기어 걸 2.0(Gear Girl 2.0)
+기차 운행기록(Train Log)
+기차 잔상(Train Trails)
+기차 정류장 조명(Train Station Light)
+기차 정류장 충돌 범위 감소(Smaller Train Stop Collision)
+기초 대포(Basic Artillery)
+깊은 우물(Stone Water Well)
+깨끗한 콘크리트(Cleaned Concrete)
+나노봇: 초기 로봇 2.0(Nanobots: Early Bots 2.0)
+나무 군사(Wooden Military)
+나무 물류(Wooden Logistics)
+나무 벽(Wood-Walls)
+나무 벽돌(Wooden Brick)
+나무 자연 회복(Tree Healing)
+나무 회로 제작법(Wood Circuit recipe)
+나무 X-레이(Tree XRay)
+나우비스에 절벽 폭발물 좀 주세요(I'd like cliff explosives on nauvis please)
+나풀글불로(Naufulglebunusilo)
+내 몸이 어디로 갔지(Where Is MyBody)
+냉동 식품(Frozen Food)
+냉장(Refrigeration)
+냉장고(Fridge)
+너구리 바이터(Raccoon Biters)
+너프 해제 - 개인용 레이저(Denerf: Personal Laser)
+너프 해제 - 펌프(Denerf: Pump)
+네이팜 대포(Napalm Artillery)
+네프기어 캐릭터 [캐릭터 선택 모드 호환](Nepgear Player Replacer [Character selection mod compatibility])
+녹은 텅스텐(Molten Tungsten)
+농업 과학 팩 부패 지연(Agri No Spoil)
+농업 타워 배치 도우미(Agricultural tower placement helper)
+누군가의 거대한 채광 드릴 [우주 시대](Someone's big mining-drill [Space Age])
+다중-부패(Multi-spoil)
+단계별 배럴링 해금(Barrel Stages)
+단단한 바이터(Armoured Biters)
+단파 라디오 2.0(Shortwave for 2.0)
+대용량 기차 적재기 2.0(Bulk Rail Loader 2.0)
+대용량 제작법(Bulk Materials)
+대체 제작법(Alternate Recipes)
+대포 사거리(Artillery Range)
+대포 조합기(Artillery Combinator)
+대포 폭격 지시 리모컨 2.0(Artillery Bombardment Remote 2.0)
+대포용 포탄 개선(Artillery Shell Research)
+대포용 포탄 속도(Artillery Shell Speed)
+대형 나무 전신주(Big Wooden Pole)
+더 나은 기차 경적(Better Train Horn)
+더 많은 긴 팔 투입기(More Long Inserters)
+더 많은 모듈(MOAR Modules)
+더 많은 벨트(More Belts)
+더 많은 업적(More Achievements)
+더 많은 주조(More Casting)
+더 많은 착륙 패드(More Landing pads)
+더 많은 투입기(MOAR Inserters)
+더 밝은 우주(Bright Universe)
+더 저렴하고 많은 회로 2.0 우주 시대(Cheaper and more Circuits 2.0 Space Age)
+더 큰 단축 아이콘(Larger Shortcut Icons)
+더 큰 배럴 용량(Larger barrel capacity)
+던전앤파이터 음악(DNF Music)
+독성 바이터(Toxic Biters)
+동료 드론 2.0(Companion Drones 2.0)
+디몰리셔 나침반(Demolisher compass)
+디몰리셔 알(Demolisher Eggs)
+디몰리셔 잔해가 용암을 매립(Demolisher Remains Fill Lava)
+디스코 연구소(Disco Science)
+땅벌레 바이터(Biters with worms)
+라바필 도구(Lavafill)
+레고 요다 사망 효과음(Lego Yoda Death Sound)
+레이더 장비(Radar Equipment)
+레이븐 MK2(Raven mk2)
+레이저 벽(Laser Walls)
+레이저 울타리(Laser Fence)
+레이저 저항 삭제(laser resistances remover)
+레인 분배기(Lane Splitters)
+로봇 무적화(Invincible Construction Bots)
+로봇 무적화(Invulnerable Bots)
+로봇 벽 수리 방지(No Wall Repair)
+로봇 월드 Continued(Robot World Continued)
+로봇 투명화(No Bots Please)
+로봇 파괴 효과음(Bot Death Sounds)
+로봇&베이컨(R0b&B4c0n)
+로켓 격납고 경고음 for 2.0(Rocket Silo Alert Sound for 2.0)
+로켓 재사용성(Rocket Reusability)
+로켓 제어 장치 복구(RCU Restored)
+루오 티엔이 캐릭터(Tianyi Player)
+리본 미로(Ribbon Maze)
+마법의 과학 팩 상자(Magic Science Chest)
+맘모스-MK3(Mammoth-MK3)
+매립 생산성(Landfill productivity)
+먹는 소리 효과(Eatable-Sound-Effect)
+메모리 카드(Memory cards)
+메카니쿠스(Mechanicus)
+모두 환영합니다(All Are Welcome Amongus)
+모듈 UI(Modules UI)
+모듈식 상자(Modular Chests)
+모듈형 포탑(Modular Turrets)
+모든 기능 플래그 활성화(Enable all Feature Flags)
+모든 색감 보정 활성화(Fr_Dae)(♿Colorblind red-purple Adjustments All In on (Fr_Dae))
+모든 아이템 생산성 연구(Productivity Research for Everyone)
+모든 아이템 생산성 추가(Total Productivity)
+목재 가스화(Wood Gasification)
+목재 묶음 크기 1,000(Wood stack to 1k)
+무기 공장(Gunfactory)
+무료 건물(Free Buildings)
+무작위 색상(Random Colors)
+무제한 자원 [전역 호환성](Unlimited Resources [Global Compat])
+무지개빛 광석(Rainbow Ore)
+무지갯빛 철도(RailBow)
+무한 로켓 격납고(Infinity rocket silo)
+무한 배터리 로봇(Infinity Bots)
+무한 상자 시작(Infinity Chest Start)
+무한 수리 팩(Infinite Repair Pack)
+무한 연구 FIXED(InfiniteTech FIXED)
+무한 자원(Infinite Resources)
+무한 파이프 시작(Infinity Pipe Start)
+무한한 벨트 잔적(Infinite Belt Stacking)
+무한한 품질 단계(Infinite Quality Tiers)
+묶음의 달인(StackMaster)
+물 시추기(Water pumpjack)
+물 시추기(WaterExtractor)
+물 없는 해안 펌프(Pump Anywhere)
+물고기 미세플라스틱(Microplastics from Fish)
+물류 넘어서(Beyond Logistics)
+물류 상자 해체(Uncrafting Logistic Chests)
+물류 화물차(Logistic Wagon)
+미니 팩토리오(Mini factorio)
+미로 벽 2(Maze Wall 2)
+미쿠 로보포트(Miku Roboport)
+바닥 배치기(Floor Placer)
+바위 제거기(Rock Eraser)
+바이오 연구소에 영양소 필요(Biolabs Need Nutrients)
+바이오돔 공업(Biodome Industries)
+바이터 클래시(Biter Clash)
+바이터 확장 토글(Biter Expansion Toggle)
+바이터 흙 & 원자폭탄 분화구 제거(Remove Biter Soil & Nuke Scorch Marks)
+바이터-방지 전신주(Biter-proofing)
+바이터(biter)
+발전된 용광로 2 우주 시대 수정(Advanced Furnaces 2 SpaceAgeFix)
+발전된 적 진화(Advanced Evolution)
+밝고 선명한 벨트 - 우주 시대(Prismatic Belts: Space Age)
+방사성 동위원소 열전발전기(RITEG)
+방해되지 않는 나무(Tree Collision)
+배관공을 불러야 해!(Call a Plumber)
+배럴 용량 조정(Barrel Capacity Modifier)
+배율 제작법 [알파](Multiplied recipes [ALPHA])
+배터리 전기 기관차(Battery-Electric Train)
+밸브(Valves)
+버섯구름 Reborn(Mushroom Cloud Reborn)
+버킷 휠 굴착기(Bucket Wheel Excavators)
+베터 콜 사울 연구 완료음(Better Call Saul Research Sound)
+베헤모스 적군 모드(Behemoth Enemies Mod)
+벨트 밸런서 2(Belt Balancer 2)
+벨트 속도 조정(Belt Speed Multiplier)
+벨트 업그레이더(Belt Upgrader)
+벨트라이너(BeltLiner)
+병목 표시기(Bottleneck)
+병합된 상자 - 모든 유형 허용(Merging Chests All Types)
+병합된 상자 - 물류 상자 지원(Merging Chests Logistic)
+병합된 상자 - 병합 제한 해제(Merging Chests Unlimited)
+복제기(Cloning Vat)
+복합 컨테이너(Intermodal Containers)
+부드러운 기차 - 대포 화물차(Smooth trains - artillery wagon)
+부드러운 차량 운전(VehicleSnap)
+부패의 세계(Rotten World)
+분당 생산량(Productions Per Minute)
+불사조(Phoenix)
+불안정한 과학(Science is unstable)
+불카누스 삭제(Delete Vulcanus)
+불타는 화물 포드(Burning Cargo Pods)
+불필요함 제거 - 개선된 주조소(Debloat: Better Foundry)
+불필요함 제거 - 절벽 채광(Debloat: Mine cliffs by hand)
+브레이크 Squeal 2.0(Brake Squeal 2.0)
+블랙 마켓 2 우주 시대(Black Market 2 Space Age)
+빛나는 과학 팩 Reborn(Science Pack Glow Reborn)
+빛나는 레이저 광선(Glowing Laser Beams)
+빛나는 열 파이프(Heat Glow)
+빠른 것이 힘이다(Haste Makes Lots)
+빠른 고가 철도(Earlyvated Rails)
+빠른 도달(Far Reach)
+빠른 디몰리셔(Fast Demolisher)
+빠른 레일건 발사 애니메이션(Short Railgun animation)
+빠른 로봇 시작(Speedy Bot Start)
+빠른 로켓 격납고 애니메이션(Faster Rocket Silo Animation)
+빠른 조정 가능 투입기(Quick Adjustable Inserters)
+빠른 출입구(Fast gate)
+빠른 탄약 전환(Quick Ammo Switcher)
+빠른 회로 네트워크(Early Circuit Network)
+빵토리오(Baketorio)
+사망 저주(Death Curses)
+사용 가능한 배터리(Battery Powered)
+사용자 지정 인벤토리 UI 수정(Custom Production UI Fixed)
+새로운 기계에 모듈 대기(Newly construction machines wait for their modules)
+생동감 있는 기차 색상(Vibrant Train Colors)
+생동감 있는 색채(Vibrant Paint)
+생산 효율 제한 삭제(Remove Productivity Cap)
+서치라이트 어썰트(⚠️ SearchlightAssault ⚠️)
+선배님 알려주세요!(Notice me senpai)
+선별 채광 드릴(Filter Mining Drils)
+선장의 일지(Captain's Log)
+셔틀 열차 Lite(Shuttle Train Lite)
+셔틀 열차 Refresh(Shuttle Train Refresh)
+소지금 UI (extension for EasyAPI)(Money UI (extension for EasyAPI))
+소행성 메롱(Astro Mlem)
+소행성 자원 추가(More Asteroid Resources)
+소형 기계(Mini Machines Mod)
+소형 용광로(Micro Furnace)
+소형 장비(Tiny Equipment)
+소형 저장 탱크(Small Storage Tank)
+수동 인벤토리 정렬(Manual Inventory Sorting)
+수동 제작 금지(No Hand Crafting)
+수목원 Renewed(Arborium Renewed)
+수상 전봇대(Water Poles)
+수제작 상점(Handcraft Shop)
+수중 파이프 (Kux 재배포)(Underwater Pipes (Kux' re-publication))
+순간이동 Redux(Teleportation_Redux)
+쉬운 디몰리셔(Easy Demolisher)
+쉬운 원유 제작법 Plus(Easy Oil Recipes plus)
+스마트 원자폭탄(Smart nukes)
+스시 모드(Sushi Mod)
+스웨덴 셰프 로봇(Swedish Chef Bots)
+스타십(Starship)
+스탯 GUI - 이동 속도(Stats GUI — Movement Speed)
+스파이더시모(Spiderissmo)
+스파이더트론 무기 로드아웃(Spidertron Weapon Loadout)
+스팸 자원 흩뿌리기(Some resource spam)
+스플래터 가드 (continued)(Splatter Guard (continued))
+스피커 신호 2(Speaker Signals 2)
+시간 도구(Time Tools)
+시끄러운 화물차(Louder Wagons)
+시작 행성 선택(Any Planet Start)
+시체 연료화 v17(The Dead Burn v17)
+시체 줍기 "인벤토리 꽉 참" 문제 해결(No "inventory is full" corpse pickup troubles)
+신 모듈(God Module)
+신앙심(Piety)
+실제 전선(Wires for real)
+실제 제작 시간(Actual Craft Time)
+심플한 메모장(Simple Notepad)
+쓰레기통(TrashChest)
+아스팔트 도로 Patched(Asphalt Roads Patched)
+안전한 소행성(Safer Asteroids)
+안정적인 토대(Stable Foundations)
+압축 태양 전지판(SolarFarm)
+야간 표시등 - 자동 조명(Hazard Lights Auto Ligths)
+야에 미코 & 라이덴 쇼군 캐릭터 (Revised)(Yae Miko & Raiden Shogun Characters (Revised))
+양자 제작기(Quantum Fabricator)
+어디에 진짜 사용되나요?(What is it really used for?)
+어썸 싱크(Awesome sink)
+얼어붙은 바이터(Frost Biters)
+엄청난 대포 발사음(Epic Artillery Sounds)
+업그레이드 가능한 품질(Upgradeable Quality)
+없음 제작법(Nil)
+에디터 확장(Editor Extensions)
+에픽 풀고라(Epic Fulgora)
+역공학 연구소(Reverse Engineering Lab)
+연결 장치(Connection Box)
+연결 표시기(Connection Indicators)
+연결된 벨트(Linkeded Belts)
+연결된 상자, 파이프(Linked Chest And Linked Pipe)
+연구 생산성(Research Productivity)
+연구가 필요한 우주 지하 벨트/파이프(Space Undergrounds Require Research)
+연구소 아이콘 롤백(Lab Icon Revert)
+연금술 조합기(Alchemical combinator)
+연소탑 2.0 (그래픽, Py모드 호환 개선)(Flare Stack for 2.0 With graphics fix and py fix)
+연소탑 2.0(Flare Stack for 2.0)
+열 엔진(heat-engine)
+열에너지 태양 전지판 (경량화)(Thermal Solar Power (Lite))
+열화된 부패(Spoil Down)
+오메가 드릴(Omega Drill)
+오발 사격(Distant Misfires)
+옴니 라이브러리(Omnilibrary)
+완전한 부패 제거(Whats a Spoilage)
+용광로 제작법 선택(Furnace Recipe Selection)
+용암에 버티는 철도 지지대(Rail supports on lava)
+우라늄 가이거(Uranium Geiger)
+우선 제작 (제한됨)(Queue To Front (limited))
+우주 로봇(Robots in space.)
+우주 시대 수리 포탑(Spaceage Repair-Turret)
+우주 시대 스포일러 숨기기(Hide Space Age spoilers)
+우주 시대 조정(Space Age Adjustments)
+우주 지도 - 태양계(Starmap: Solar-System)
+우주 탐사 - 하드코어 모드(Space Age: Hardcore Mode)
+우주 플랫폼 묘지(Space platform graveyard)
+우주 플랫폼이 건물 1묶음을 통째로 요청하지 않음(Platforms do not request full stacks of buildings)
+우주로 갈래!(I Want To Go To Space)
+워터필 도구(Waterfill)
+워터필(Waterfill)
+워해머 40,000: 레기오 타이타니쿠스 (미디어)(WH40k: Legio Titanicus (media))
+원격 스위치(Remote Switch)
+원격 진행률 모니터(Remote Monitor)
+원신 음악 팩(Genshin Impact Music Pack)
+원신 캐릭터 스킨(Genshin Impact Skin)
+원자 폭탄 충격파 거리(Atomic Bomb Shockwave Distance)
+원자력 재조정(Nuclear Power Rebalance)
+웰빙(wellbeing)
+유니스멜팅(Unismelting)
+유체 메모리화 저장소(Fluid Memory Storage)
+유체 배럴 아이콘(Barrel Fluid Icons)
+유체 배출 Extra(2.0)(Fluid Void Extra (2.0))
+유체는 흘러야 합니다(Fluid Must Flow)
+윤활 없는 고속 벨트(Fluidless Express Belt)
+융합 추진기(Fusion Thruster)
+이 눈덩이를 보셨나요?(See This Snowball?)
+익힌 고기(Cooked Fish)
+인벤토리 자동 수리(Inventory Repair)
+인벤토리 프리셋(Inventory Templates)
+일관된 지하 벨트(Consistent Underground Belts)
+자동 고스트 건설(Auto Ghost Builder)
+자동 방전 방어 장치(Automatic Discharge Defense)
+자동 벨트/파이프 계획기(Automatic Belt Planner)
+자동 보관(Autostash)
+자동 연구(Auto Research)
+자동 제작(Autocraft)
+자동화된 연료와 탄약(Automated Fuel & Ammo)
+자원 모니터(Resource Monitor)
+자원 지역 계획기(Mining Patch Planner)
+자원 패치 정리기(Ore Patch Organizer)
+자유플레이 시작 장비 조정(Adjustable freeplay starting equipments)
+자유행동(Free For All)
+잔디깎이(Lawn Mower)
+잔적 가능한 적재기(Loaders can stack)
+장거리 포탑 Redux(Long Range Turret Redux)
+장비 갠트리(Equipment Gantry)
+재(Ash)
+재고 관리(Stock Me Up)
+재귀적 공정 계산기(Recursive Resource Calculator)
+재압축기(Upcycler)
+저렴한 처리 유닛(파란 회로) 2.0(Cheaper processing unit (blue circut) 2.00)
+저렴한 AAI 적재기(Cheaper AAI Loaders)
+저장 탱크 모드팩(Storage Tank Modpack)
+적 확장 알림(Enemy Expansion Notifications)
+적군 종족 관리자 - 라이브러리(Enemy Race Manager Libraries)
+적군 종족 관리자 - 자산 팩(Enemy Race Manager Asset Pack)
+적군 종족 관리자 - 저그 HD 그래픽(ERM - Zerg HD Graphic Assets)
+적군 종족 관리자 - 프로토스 / 아킬래(ERM - Protoss / Akilea)
+적군 종족 관리자 - 프로토스 HD 그래픽(ERM - Protoss HD Graphic Assets)
+적군 종족 관리자 - 후처리(Enemy Race Manager - Post Process)
+적군 종족 관리자(Enemy Race Manager)
+적재기 개선(Improvement Loaders)
+적재기 스냅, 작동 방식 및 유틸리티(Loaders snaps, works and utils)
+적재기 해금(Loader Unlocker)
+전기 공기 정화기(Electric Air Purifier)
+전기 기관차 2.0 Fix(Electric Train 2.0 Fix)
+전기 기관차(Electric Trains)
+전기 보일러(Electric Boiler)
+전기 펌프(Electric Pump)
+전선 단축키 X(Wire Shortcuts X)
+전선 도구(Wire Tools)
+전선함(Connection Box)
+전신주 범위 배율(Electric Pole Range Multiplier)
+전신주 조명(Pole Lamps)
+전신주 주변 조명(Electric Pole Free Light)
+전역 부패(Everything Spoilage)
+전체 기차 채색(Color whole train)
+전체 보기(Mapshot)
+전투 로봇 개선(Combat Robot Overhaul)
+절여진 고기(Salted Fish)
+제작 대기열 개선(Crafting Queue Enhancements)
+제작 도구(Crafting Tools)
+제작 타이머 우주시대(HandCraft Timer Space Age)
+제작, 채광 속도 연구(Mining and Crafting Speed Research)
+제한 없는 생산 모듈 2.0 Compat Fork(Unlimited Productivity 2.0 Compat Fork)
+조명 개선(Light Overhaul)
+조정 가능한 태양 전지판 및 축전지(Configurable Solar Panels and Accumulators)
+조정 가능한 품질(Configurable Qualities)
+좀 걷자!(Let me walk!)
+종합적 전투 개선(Total Combat Overhaul)
+좋은 시도였네, 기관차여(Nice Try, Train)
+주문 모음(Spell Pack)
+준설 작업(Dredgeworks)
+줄어드는 무한 자원(Infinite Resources - Depletion)
+증기 분해(Steam Cracking)
+지도 설정 수정(Edit Map Settings)
+지상 펌프(Land Pump)
+지정 가능한 품질 이름(Customizable Quality Names)
+직각화된 전력망(Electric Grid Enforcer)
+진화 요인 파괴 허용 2.0(Evolution Reduction via Destruction 2.0)
+차량 잔해(Vehicle Corpses)
+차량 장비 그리드(Vehicle Equipment Grids)
+차량 화물차 2 - 그래픽(Vehicle Wagon Graphics)
+차원 창고(Dimensional Depot)
+창고 모드(Warehousing Mod)
+채광 드론 2 리마스터 리스킨: C&C, Red Alert, Tiberium Dawn(MD2R reskin: C&C, Red Alert, Tiberium Dawn)
+채광 생산성 비용 롤백(Revert Mining Productivity Cost)
+채광 자원 x10(Multiplied Minables X10)
+채석장(Quarry)
+철 상자 제작에 나무 상자 필요(Iron Chest Requires Wood Chest)
+철도 무적화(Invulnerable Rails)
+철도 물류 관리자 2(Rail Logistics Dispatcher 2)
+청사진 샌드박스(Blueprint Sandboxes)
+체스판(Chess)
+초고속 벨트(Rapid Belts)
+초소형 기계(Micro Machines Mod)
+최대 생산량 계산기(Max Rate Calculator)
+추가 로보포트(Tiered Roboports)
+추가 붙여넣기 설정 (Fixed)(Additional Paste Settings (Fixed))
+추가 저장 탱크 - 강철 저장 탱크(Extra Storage Tanks: Steel Storage Tank)
+추가 저장 탱크 - 소형 인라인 저장 탱크(Extra Storage Tanks: Tiny Inline Storage Tank)
+추가 저장 탱크 - Fixed(More Storage Tanks - Fixed)
+추가 채광 기술(Additional Mining Techs)
+추가 포탑(Additional turrets)
+추가 품질(Additional Qualities)
+축전지 벽(Accumulator Walls)
+축전지 MK2(Accumulator MK2)
+충격 포탑(ElectroTurret)
+친환경 전기 기계(Eco-Friendly Electric Machines)
+카지노(Casino)
+캐릭터 도달 범위 표시기(Character reach indicator)
+캐릭터 생성 모드를 위한 도우미(Helper for mods that create new characters)
+커서 아이템 제작(Cursor Craft)
+컨스트럭트론(Constructron-Continued)
+코로네 캐릭터(Korone Character)
+콘크리트 생산성(Concrete productivity)
+콘크리트 플러스(Concrete Plus)
+퀵 아이템 메뉴(Quick Item Menu)
+크리에이티브 모드(Creative Mode)
+킹덤 OST(Kingdom OST)
+탄도 미사일(Ballistic Missile)
+탄소(Carbon)
+탄약 보급고+(Ammo Loader+)
+탄환 궤적(Bullet Trails)
+태양 전지 생산성(Solar Productivity)
+태양광 계산기(Solar Calculator)
+태양광 장비(Solar Appliances)
+태양광 조명(Solar Lamp)
+테네브리스(Tenebris)
+테라 팔루스(Terra Palus)
+테스트벤치 제어(Testbenchcontrols)
+텔레포터(Teleporters)
+툴바(Toolbars)
+파이프 간섭 금지 2.0(No Pipe Touching 2.0)
+파이프 플러스(Pipe Plus)
+팩토리시모 2 우주 시대 포팅(Factorissimo2-Space-Age-Port)
+편안하고 느긋하게 [For Gavin](Relaxed and Happy [For Gavin])
+편안한 야간 투시경(Comfortable Night Vision)
+편안한 적재기(Comfortable Loader)
+평면 UI(FlatUI)
+포장 테이프(Packing Tape)
+포탑 가동 지연(turret-activation-delay)
+폭발성 바이터(Explosive Biters)
+폭죽 로켓 에셋 모음(Firework Rockets Assets Pack)
+폭죽 로켓(Firework Rockets)
+폴아웃 1 & 2 OST(Fallout 1 & 2 Ost)
+폴아웃 파워 아머(Fallout Power Armor)
+표지판(Sign post)
+풀고라 삭제(Delete Fulgora)
+풀고라 적(Fulgoran enemies)
+품질 변환(Quality Changer)
+품질 보증(Quality Assurance)
+품질 업그레이드 계획기(Quality upgrade planner)
+품질 열화기(Dequalitier)
+품질 하향기(Quality Down-Binning)
+풍력 발전기(Wind Turbines)
+프로메테우스 유탄 발사기(Prometheus Grenade Launcher)
+프리즈마틱 품질(Prismatic Quality)
+플랫폼 건설만, 건설 로봇 없이.(Platform construction only, no construction robots.)
+플레이어 시체 납치(Player body abduction)
+플레이어 자동 건설 2(Player Auto Build 2)
+플레이어 정보(Players info)
+플로렌스 모양 우주 과학 팩(Florence Flasked Space Science)
+플루토늄 에너지(Plutonium Energy)
+플루토늄 증식(Plutonium Breeding)
+플립 도트(Flip Dots)
+피카츄 스킨(pikachu skin)
+필터 도우미(Filter Helper)
+항상 낮 설정(Always Day)
+夏はsummer!!(夏はsummer!!)
+해결책은 바로 공해입니다(Pollution is the Solution)
+핵무기 대포(Atomic Artillery)
+핵연료 묶음 크기(Nuclear Fuel Stack)
+핵전자 회로(Nuketronics)
+행성 단축키(Planet Shortcuts)
+행성 삭제 - 호환성(Delete Planet Compatability)
+행성 선택기(Planet Picker)
+행성간 거리 조정(Planetary Distance Adjustments)
+향상된 로봇 Extended(Better Robots Extended)
+헌터 킬러 스파이더트론(Hunter and Killer Spidertrons)
+현대적 대용량 철도 적재기(Modern Bulk Rail Loader)
+현대화된 적재기(Loaders Modernized)
+현명한 해체(Sensible Deconstruction)
+현실적인 원자로 불빛(Realistic Reactor Glow)
+현실적인 천체 우주(Realistic Celestial Universe)
+호두 캐릭터 스킨(Hu Tao Character Skin)
+홀로그램 표지판(Holographic Signs)
+화염방사기 준비 사거리에서 발사(Flamethrower_shoots_in_prepare_range)
+화염방사기 화물차(Flamethrower Wagon)
+화학 로켓(Chemical Rockets)
+확률론적 농업(Probabilistic Farming)
+확장된 바닐라 - 개인용 장비(Extended Vanilla: Personal Equipment)
+확장된 바닐라 - 물류(Extended Vanilla: Modular Logistics)
+확장된 바닐라 - 제련(Extended Vanilla: Refining)
+확장된 전자기 공장(Electromagnetic Plant Expanded)
+확장된 지하 벨트/파이프(Extended Range)
+회로 네트워크로 로켓 발사(Circuit Launchable Rockets)
+회로 연결 시각화(Circuit Connection Visualizer)
+회전 가능한 장비(Rotatable Equipment)
+효율적인 제작(Crafting Efficiency)
+휴대용 탱크 대포(Portable Tank Cannon)
+흐름 제어(Flow Control)
+AAI 저장고&창고(AAI Containers & Warehouses)
+AAI 적재기(AAI Loaders)
+AAI 차량 - 레이저 탱크(AAI Vehicles: Laser Tank)
+AAI 차량 - 아이언클래드(AAI Vehicles: Ironclad)
+AAI 차량 - 운반 차량(AAI Vehicles: Hauler)
+AAI 차량 - 워든(AAI Vehicles: Warden)
+AAI 차량 - 채굴 차량(AAI Vehicles: Miner)
+AAI 차량 - 플레임 탱크(AAI Vehicles: Flame Tank)
+AAI 차량 - 플레임 텀블러(AAI Vehicles: Flame Tumbler)
+Acorn의 로켓 수용량(Acorn's rocket capacity)
+Acorn의 모듈 버프(Acorn's module buff)
+Aech의 원자력 다운밸런스(Aech's Nuclear Downbalance)
+Alt 모드 시작(StartAlt)
+Amator Phasma의 리소스 팩 (포크)(Amator Phasma's Resource Pack (forked))
+Archipelago 무료 샘플(Archipelago Free Samples)
+Big J의 얼지 않는 파이프(Big J's Anti-Freeze Pipes)
+Bob의 조정 가능한 투입기 - 완전 해금(Bob's Adjustable Inserters Fully Unlocked)
+Bots Bots Bots! FORKED(Bots Bots Bots! FORKED)
+C418 음악(C418 Music)
+Deadlock의 잔적기&소형 적재기(Deadlock's Stacking Beltboxes & Compact Loaders)
+Des, the 위커비스트 (Lexxy's 2.0 fork)(Des, the Wickerbeast (Lexxy's 2.0 fork))
+Des, the 위커비스트(Des, the Wickerbeast)
+Factorio 도달 거리(Factorio Reach)
+Factorio HD 시대 - 우주 시대 불카누스 지형(Factorio HD Age: space age terrain vulcanus)
+Faster Than Light 음악(Faster Than Light Music Pack)
+Fill4Me(Fill4Me)
+FNEI(FNEI)
+Heroic 라이브러리(HeroicLibrary)
+HUD 자동 숨기기(HUD Auto Hide)
+Inserter Throughput Lib(Inserter Throughput Lib)
+IPM 기반 공장 계산기(Factory solver based on IPMs for LP)
+K2 강철 파이프(K2 Steel Pipes)
+k2 대물 저격총(k2 Anti-material Rifle)
+K2 레일건 포탑(k2 Railgun Turret)
+K2 연소탑(K2 Flare Stack)
+K2 유체 탱크(K2 Fluid Storage)
+King Jo의 4호 전차(King Jo's Panzer IV)
+King Jo의 88mm PaK 43(King Jo's 88mm Pak 43)
+King Jo의 8호 전차 '마우스'(King Jo's Panzer VIII 'Maus')
+King Jo의 감시탑(King Jo's Watchtower)
+King Jo의 들로리언(King Jo's DeLorean)
+King Jo의 람보르기니 아벤타도르(King Jo's Lamborghini Aventador)
+King Jo의 레오파르트 2A6(King Jo's Leopard 2A6)
+King Jo의 멋진 조명(King Jo's Fancy Lamp)
+King Jo의 메탈기어 솔리드 레이(King Jo's Metal Gear Solid Ray)
+King Jo의 메탈기어 솔리드 렉스(King Jo's Metal Gear Solid Rex)
+King Jo의 미친 대포(King Jo's Insane Artillery)
+King Jo의 범용 트럭(King Jo's General Purpose Truck)
+King Jo의 불도저(King Jo's Bulldozer)
+King Jo의 사이버트럭(King Jo's Cybertruck)
+King Jo의 소방차(King Jo's Fire Truck)
+King Jo의 연료(King Jo's Fuels)
+King Jo의 워해머 40,000 리만 러스 전차(King Jo's Warhammer 40K Leman Russ Tank)
+King Jo의 워해머 40,000 벙커(King Jo's Warhammer 40K Bunker)
+King Jo의 워해머 40,000 서보 스컬(King Jo's Warhammer 40K Servo-skull)
+King Jo의 워해머 40,000 프레데터 탱크(King Jo's Warhammer 40K Predator Tank)
+King Jo의 워해머 40,000 Iron Fist 드레드노트(King Jo's Warhammer 40K Iron Fist Dreadnought)
+King Jo의 워해머 40.000 베인블레이드 전차(King Jo's Warhammer 40K Baneblade Tank)
+King Jo의 차량(King Jo's Vehicle Master)
+King Jo의 포드 머스탱(King Jo's Ford Mustang)
+King Jo의 핵 지뢰(King Jo's Nuclear Mine)
+King Jo의 Flakpanzer IV 'Wirbelwind'(King Jo's Flakpanzer IV 'Wirbelwind')
+King Jo의 Landkreuzer 그래픽(King Jo's Landkreuzer Graphics)
+King Jo의 Landkreuzer P.1000 라테(King Jo's Landkreuzer P.1000 Ratte)
+King Jo의 Vierling Flak(King Jo's Vierling Flak)
+Krastorio 2 - 공기 정화기(Krastorio 2 - Air Purifier)
+Krastorio 2 풍력 발전기(Krastorio 2 Wind Turbine)
+KS 전력 quickfix(⚡KS Power_quickfix)
+KS 전투 Updated(KS Combat_Updated)
+Kuxynator의 개인 텔레포터(Kuxynator's Personal Teleporter)
+Kuxynator의 경량 투입기(Kuxynator's Slim-Inserters)
+Kuxynator의 생산 비율(Kuxynator's Production Rates)
+Kuxynator의 속도 조정 버튼(Kuxynator's Speed Buttons)
+Kuxynator의 스마트 연결된 상자(Kuxynator's Smart Linked Chests)
+Kuxynator의 시작 모드팩 (경량 투입기 + 스마트-연결 상자)(Kuxynator's Starting Pack (Slim-Inserter + Smart-Link-Chest))
+Kuxynator의 전신주(Kux Power Poles)
+Kuxynator의 핵심 라이브러리(Kuxynator's Core Library)
+Lex의 비행기(Lex's Aircraft)
+Lexxy의 쓰레기통 Fork(Lexxy's Trashcan Fork)
+MacBook Pro(MacBook Pro)
+MFerrari 라이브러리(MFerrari lib)
+miniMAXIme: 캐릭터 조정 및 선택기(miniMAXIme: Character scaler and selector)
+Noxys 나무(Noxys Trees)
+Noxys 로봇 배터리 조정(Noxys Robot Battery Tweak)
+Noxys 묶음 크기 배율(Noxys Stack Size Multiplier)
+Noxys 수영(Noxys Swimming)
+Noxys 심층 채광 조정(Noxys Deep Core Mining Tweak)
+Noxys 워터필 도구(Noxys Waterfill)
+Noxys 적은 수제작, 더 많은 조립 기계(Noxys Less Hands More Assemblers)
+Noxys 추가 설정 정보(Noxys Extra Settings Info)
+P.U.M.P.(P.U.M.P.)
+Phidias 모음집(Phidias Collection)
+Pi-C 모드 라이브러리(Library for mods by Pi-C)
+Picklock의 로켓 격납고 통계(Picklocks rocket silo stats)
+Quezler 모드를 위한 뉴스레터(Newsletter for mods made by Quezler)
+Repair From Vehicle(Repair From Vehicle)
+Ritn 기반 게임(RitnCoreGame)
+Ritn 기본 게임(RitnBaseGame)
+Ritn 라이브러리(RitnLib)
+Ritn 로비(RitnLobby)
+Ritn 메뉴 버튼(RitnMenuButton)
+Ritn 적군(RitnEnemy)
+Ritn 캐릭터(RitnCharacters)
+Ritn 텔레포터(RitnTeleporter)
+Ritn 포탈(RitnPortal)
+Robot256의 라이브러리(Robot256's Library)
+Roc의 녹스는 철(Roc's Rusting Iron)
+Roc의 하드코어 글레바(Roc's Hardcore Gleba)
+Roc의 하드코어 번개 폭풍(Roc's Hardcore Lightning Storms)
+Roc의 하드코어 불카누스(Roc's Hardcore Vulcanus)
+Roc의 하드코어 아퀼로(Roc's Hardcore Aquilo)
+Roc의 하드코어 지연된 기술(Roc's Hardcore Delayed Tech Tree)
+Roc의 하드코어 풀고라(Roc's Hardcore Fulgora)
+RPG 아이템(RPG Items)
+SA-험비(SA-Humvee)
+SA-T1 원자 탱크(SA-T1 Atomic Tank)
+SF 발전된 태양열(SF advanced solar)
+Sky의 간소화된 우주 시대(Sky's Simplified Space Age)
+SLP - 다이슨 스피어 Reworked(SLP - Dyson Sphere Reworked)
+Squeak Through 2(Squeak Through 2)
+TehF0cus의 더 많은 우주 시대 메인 메뉴 배경(More Space Age Main Menu Backgrounds by TehF0cus)
+TinyStart 2(TinyStart 2)
+TJ의 간판(TJ's Sign Boards)
+tosts의 철도용 상자(tosts-Train-Chests)
+Viidis 게임 배속 버튼(Viidis Game Speed Button)
+VortiK의 대형 베르타 포 효과음(VortiK's Big Bertha Artillery Sounds)
+X16 아이템(X16 Item)
+YARM - 자원 모니터(YARM - Resource Monitor)
+Yemto 아이템 수량 표시기(Yemto's Item Count)
+YKR 도달 범위(YKR Far Reach)
+Yo의 로봇 트윅(Yo's Tweak Robots)
+Zithorian의 추가 저장 탱크 2.0(Zithorian's Extra Storage Tanks for 2.0)
+ZwerOxotnik의 확장 가능한 모드(ZwerOxotnik's extendable mod with 8 addons)

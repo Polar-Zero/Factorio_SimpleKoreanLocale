@@ -1,9 +1,56 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.6
-Date: 2024-12-01
+Version: 0.4.7
+Date: 2024-12-03
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Minor mod Translation Added:
+    - Translation for mod '2+2=Fish' Added
+    - Translation for mod 'Beyond Logistics' Added
+    - Translation for mod 'Circuit Launchable Rockets' Added
+    - Translation for mod 'Consistent Underground Belts' Added
+    - Translation for mod 'Early Circuit Network' Added
+    - Translation for mod 'Easy Demolisher' Added
+    - Translation for mod 'Easy Oil Recipes plus' Added
+    - Translation for mod 'Eatable-Sound-Effect' Added
+    - Translation for mod 'Electric Pole Free Light' Added
+    - Translation for mod 'Floor Placer' Added
+    - Translation for mod 'Gas Furnace' Added
+    - Translation for mod 'Grappling Gun' Added
+    - Translation for mod 'HD planets' Added
+    - Translation for mod 'Heat Glow' Added
+    - Translation for mod 'Inventory Repair' Added
+    - Translation for mod 'Planet Shortcuts' Added
+    - Translation for mod 'Productivity Research for Everyone' Added
+    - Translation for mod 'Raccoon Biters' Added
+    - Translation for mod 'Repair From Vehicle' Added
+    - Translation for mod 'Short Railgun animation' Added
+    - Translation for mod 'Train Station Light' Added
+    - Translation for mod 'Wire Tools' Added
+    - Translation for mod 'Wood-Walls' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Advanced Furnaces 2 SpaceAgeFix' Updated
+    - Translation for mod 'Automated Fuel & Ammo' Updated
+    - Translation for mod 'Electric Trains' Updated
+    - Translation for mod 'Even Pickier Dollies' Updated
+    - Translation for mod 'Everything Spoilage' Updated
+    - Translation for mod 'Extended Vanilla: Refining' Updated
+    - Translation for mod 'Extra Storage Tanks: Steel Storage Tank' Updated
+    - Translation for mod 'Extra Storage Tanks: Tiny Inline Storage Tank' Updated
+    - Translation for mod 'Filter Helper' Updated
+    - Translation for mod 'Fulgoran enemies' Updated
+    - Translation for mod 'Kuxynator's Personal Teleporter' Updated
+    - Translation for mod 'Large Power Poles' Updated
+    - Translation for mod 'Lighted Electric Poles +' Updated
+    - Translation for mod 'Linked Chest And Linked Pipe' Updated
+    - Translation for mod 'More Long Inserters' Updated
+    - Translation for mod 'Orbital Ion Cannon' Updated
+    - Translation for mod 'Relaxed and Happy [For Gavin]' Updated
+    - Translation for mod 'Shuttle Train' Updated
+    - Translation for mod 'Vehicle Equipment Grids' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.4.6
+Date: 2024-12-01
   Translation Added:
     - Translation for mod 'ERM - Protoss / Akilea' Added
   Minor mod Translation Added:
@@ -13,7 +60,7 @@ Date: 2024-12-01
     - Translation for mod 'ERM - Protoss HD Graphic Assets' Added
     - Translation for mod 'ERM - Zerg HD Graphic Assets' Added [Submods will translated soon]
     - Translation for mod 'Gear Girl 2.0' Added
-    - Translation for mod 'King Jo's Warhammer 40K Servo-skul)' Added
+    - Translation for mod 'King Jo's Warhammer 40K Servo-skull' Added
     - Translation for mod 'Larger Shortcut Icons' Added
     - Translation for mod 'Nil' Added
     - Translation for mod 'Omnilibrary' Added
@@ -26,7 +73,6 @@ Date: 2024-12-01
     - Translation for mod 'Visible Planets in Space' Added
     - Translation for mod 'Void Block' Added
     - Translation for mod 'Yae Miko & Raiden Shogun Characters (Revised)' Added
-    - Translation for mod 'Easy Demolisher' Added
   Translation Updated/Fixed:
     - Translation for mod 'Cursor Craft' Updated
     - Translation for mod 'Cybersyn Combinator' Updated
