@@ -111,6 +111,3 @@ if mods['wret-beacon-rebalance-mod'] then
 	setI18n(true,'beacon','beacon','entity','wr');
 	setI18nR(true,'technology','effect-transmission','wr');
 end
-if mods['erm_toss'] then
-	require("updates.erm_toss")
-end

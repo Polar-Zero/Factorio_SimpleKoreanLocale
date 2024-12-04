@@ -1,9 +1,50 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.7
-Date: 2024-12-03
+Version: 0.4.8
+Date: 2024-12-06
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'ERM - Zerg / Garm' Added
+    - Translation for mod 'Omnienergy' Added
+    - Translation for mod 'Omnimatter' Added
+    - Translation for mod 'Omnicompression' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Additional Paste Settings' Updated
+    - Translation for mod 'Archipelago Free Samples' Updated
+    - Translation for mod 'Better Robots Extended' Updated
+    - Translation for mod 'Bulk Materials' Updated
+    - Translation for mod 'Circuit Launchable Rockets' Updated
+    - Translation for mod 'Dredgeworks' Updated
+    - Translation for mod 'Enemy Race Manager' Updated
+    - Translation for mod 'Everything Spoilage' Updated
+    - Translation for mod 'Expensive Mode' Updated
+    - Translation for mod 'Faster Rocket Silo Animation' Updated
+    - Translation for mod 'Fill4Me' Updated
+    - Translation for mod 'Firework Rockets' Updated
+    - Translation for mod 'Fridge' Updated
+    - Translation for mod 'Frozen Food' Updated
+    - Translation for mod 'God Module' Updated
+    - Translation for mod 'Highspeedtrain' Updated
+    - Translation for mod 'King Jo's Vehicle Master' Updated
+    - Translation for mod 'Merging Chests Logistic' Updated
+    - Translation for mod 'Merging Chests' Updated
+    - Translation for mod 'Modern Bulk Rail Loader' Updated
+    - Translation for mod 'Resource Monitor' Updated
+    - Translation for mod 'Resource Spawner Overhaul' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+    - Translation for mod 'Sky's Simplified Space Age' Updated
+    - Translation for mod 'Stock Me Up' Updated
+    - Translation for mod 'Testbenchcontrols' Updated
+    - Translation for mod 'Tree Healing' Updated
+    - Translation for mod 'Valves' Updated
+    - Translation for mod 'Visible Planets in Space' Updated
+    - Translation for mod 'Void Block' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Zithorian's Extra Storage Tanks' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.4.7
+Date: 2024-12-03
   Minor mod Translation Added:
     - Translation for mod '2+2=Fish' Added
     - Translation for mod 'Beyond Logistics' Added

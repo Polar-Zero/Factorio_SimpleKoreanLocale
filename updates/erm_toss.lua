@@ -5,15 +5,7 @@
 local GlobalConfig = require("__enemyracemanager__/lib/global_config")
 local p=settings.startup["polar-korean-setting-starcraft"].value
 local o="enemy_erm_toss"
-local l=""
-if p=="english" then
-	l="english-"
-elseif p=="koreantranslated" then
-	l="korean-"
-else
-	l=""
-end
-
+if p=="english" then l="english-" elseif p=="koreantranslated" then l="korean-" else l="" end
 function enforceSC(p,o,l,a,r) for i=1, a do local z=l.."--"..o.."--"..i if data.raw[p] then if data.raw[p][z] then
 data.raw[p][z].localised_name={'entity-name.'..r..l..'--'..o, GlobalConfig.QUALITY_MAPPING[i]} end end end end
 
@@ -34,7 +26,8 @@ enforceSC("unit","scout",o,5,l)
 enforceSC("unit","shuttle",o,5,l)
 enforceSC("unit","templar",o,5,l)
 enforceSC("unit","zealot",o,5,l)
-
+--enforceSC("unit","land_scout",o,5,l)
+--enforceSC("unit","aerial_scout",o,5,l)
 
 --Building
 enforceSC("unit-spawner","arbiter_tribunal",o,5,l)
