@@ -111,3 +111,7 @@ if mods['wret-beacon-rebalance-mod'] then
 	setI18n(true,'beacon','beacon','entity','wr');
 	setI18nR(true,'technology','effect-transmission','wr');
 end
+
+if mods['Rocs-Hardcore-Demolishers'] then
+	setI18nR(true,'technology','foundry','rocs');
+end

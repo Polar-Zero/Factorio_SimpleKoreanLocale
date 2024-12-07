@@ -1,14 +1,77 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.8
-Date: 2024-12-06
+Version: 0.5.0
+Date: 2024-12-08
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
+    - Translation for mod 'Alternative Steam' Added
+    - Translation for mod 'Evolution Technology' Added
+    - Translation for mod 'Easy API' Added
+    - Translation for mod 'Text Plates' Added
+  Minor mod Translation Added:
+    - Translation for mod 'ammoniafill' Added
+    - Translation for mod 'Aquilo Thermometer' Added
+    - Translation for mod 'Automatic Underground Pipe Connectors' Added
+    - Translation for mod 'Better Poles' Added
+    - Translation for mod 'Big Lab' Added
+    - Translation for mod 'Cheaper Underground Belts - Space Age' Added
+    - Translation for mod 'Double Speed Belts' Added
+    - Translation for mod 'Electric Grid' Added
+    - Translation for mod 'Factory Efficiency Tracker' Added
+    - Translation for mod 'Finite Planets' Added
+    - Translation for mod 'Force Inventory Insert' Added
+    - Translation for mod 'Foundry Ratio Tweak' Added
+    - Translation for mod 'Hardcore Rocketry' Added
+    - Translation for mod 'Hydroelectric power station' Added
+    - Translation for mod 'Intercontinental Rocketry Forked' Added
+    - Translation for mod 'Inventory Mover' Added
+    - Translation for mod 'Plutonium Breeding' Added
+    - Translation for mod 'Pro Flashlight' Added
+    - Translation for mod 'Stackable Mining Drills' Added
+    - Translation for mod 'Water-Friendly Walls' Added
+    - Translation for mod 'YAPR - yet another planet rendering' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - New Module' Updated
+    - Translation for mod 'Better Chatting' Updated
+    - Translation for mod 'Better Platform Drag' Updated
+    - Translation for mod 'Burning Cargo Pods' Updated
+    - Translation for mod 'Distant Misfires' Updated
+    - Translation for mod 'Editor Extensions' Updated
+    - Translation for mod 'Enemy Race Manager' Updated
+    - Translation for mod 'Fulgoran enemies' Updated
+    - Translation for mod 'Fusion Thruster' Updated
+    - Translation for mod 'heat-engine' Updated
+    - Translation for mod 'King Jo's Vehicle Master' Updated
+    - Translation for mod 'More Belts' Updated
+    - Translation for mod 'More Casting' Updated
+    - Translation for mod 'Nastier Lightning Storms' Updated
+    - Translation for mod 'Orbital Ion Cannon' Updated
+    - Translation for mod 'Planetary Distance Adjustments' Updated
+    - Translation for mod 'Probabilistic Farming' Updated
+    - Translation for mod 'Rail Logistics Dispatcher 2' Updated
+    - Translation for mod 'Rainbow Ore' Updated
+    - Translation for mod 'Realistic Celestial Universe' Updated
+    - Translation for mod 'Research Productivity' Updated
+    - Translation for mod 'Roc's Hardcore Aquilo' Updated
+    - Translation for mod 'Roc's Hardcore Delayed Tech Tree' Updated
+    - Translation for mod 'Roc's Hardcore Fulgora' Updated
+    - Translation for mod 'Roc's Hardcore Gleba' Updated
+    - Translation for mod 'Roc's Hardcore Vulcanus' Updated
+    - Translation for mod 'Shortwave' Updated
+    - Translation for mod 'Space Undergrounds Require Research' Updated
+    - Translation for mod 'Time Tools' Updated
+    - Translation for mod 'Upcycler' Updated
+    - Translation for mod 'Visible Planets in Space' Updated
+    - Translation for mod 'Void Block' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.4.8
+Date: 2024-12-05
+  Translation Added:
     - Translation for mod 'ERM - Zerg / Garm' Added
+    - Translation for mod 'Omnicompression' Added
     - Translation for mod 'Omnienergy' Added
     - Translation for mod 'Omnimatter' Added
-    - Translation for mod 'Omnicompression' Added
   Translation Updated/Fixed:
     - Translation for mod 'Additional Paste Settings' Updated
     - Translation for mod 'Archipelago Free Samples' Updated
