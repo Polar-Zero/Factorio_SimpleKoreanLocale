@@ -1,6 +1,34 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date: 2024-12-09
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Maraxsis' Added
+    - Translation for mod 'Spidertron Enhancement' Added
+    - Translation for mod 'Spidertron Patrols' Added
+  Minor mod Translation Added:
+    - Translation for mod 'King Jo's Phalanx CIWS' Added
+    - Translation for mod 'Old But Better Sounds' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Debloat: Mine cliffs by hand' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'God Module' Updated
+    - Translation for mod 'Infinite Belt Stacking' Updated
+    - Translation for mod 'Stranded Block 2' Updated
+    - Translation for mod 'Nuclear Power Rebalance' Updated
+    - Translation for mod 'Planetary Distance Adjustments' Updated
+    - Translation for mod 'Vehicle Equipment Grids' Updated
+    - Translation for mod 'Visible Planets in Space' Updated
+    - Translation for mod 'No Pipe Touching 2.0' Updated
+    - Translation for mod 'Wooden Military' Updated
+    - Translation for mod 'Sky's Simplified Space Age' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+    - Translation for mod 'King Jo's Vehicle Master' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.5.0
-Date: 2024-12-08
+Date: 2024-12-07
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)

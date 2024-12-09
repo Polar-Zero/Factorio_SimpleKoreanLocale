@@ -111,7 +111,12 @@ if mods['wret-beacon-rebalance-mod'] then
 	setI18n(true,'beacon','beacon','entity','wr');
 	setI18nR(true,'technology','effect-transmission','wr');
 end
-
 if mods['Rocs-Hardcore-Demolishers'] then
 	setI18nR(true,'technology','foundry','rocs');
+end
+if mods['maraxsis'] then
+	setI18nR(true,'spider-vehicle','constructron','maraxsis');
+	setI18nR(true,'roboport','service_station','maraxsis');
+	setI18nR(true,'technology','ducts','maraxsis');
+	setI18nR(true,'technology','sp-spidertron-automation','maraxsis');
 end
