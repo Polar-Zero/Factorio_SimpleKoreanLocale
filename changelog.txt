@@ -1,9 +1,49 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.5.1
-Date: 2024-12-09
+Version: 0.5.2
+Date: 2024-12-13
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Yuoki Industries - Engines (Addon)' Added
+    - Translation for mod 'Yuoki Industries' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Better Melting Ice' Added
+    - Translation for mod 'Change recipe quality without re-selecting recipe' Added
+    - Translation for mod 'Clean Floor' Added
+    - Translation for mod 'DNF SnowMage Character' Added
+    - Translation for mod 'Early Recycling' Added
+    - Translation for mod 'Ghosts do not kick you out of their gui' Added
+    - Translation for mod 'Gold legendary' Added
+    - Translation for mod 'Hot metals' Added
+    - Translation for mod 'Intelligent Enemy' Added
+    - Translation for mod 'Large Print Signals' Added
+    - Translation for mod 'Lightning Punishment' Added
+    - Translation for mod 'Passive Power Combinators' Added
+    - Translation for mod 'QualityRockets' Added
+    - Translation for mod 'Region Cloner' Added
+    - Translation for mod 'Remove Asteroid Particles' Added
+    - Translation for mod 'Smaller Shortcut Icons' Added
+    - Translation for mod 'Special Resource Marker' Added
+    - Translation for mod 'Starmap: Nexuz' Added
+    - Translation for mod 'Valerian's Planets' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - New Battlefield' Updated
+    - Translation for mod 'Advanced Evolution' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'Enemy Race Manager' Updated
+    - Translation for mod 'ERM - Protoss / Akilea' Updated
+    - Translation for mod 'ERM - Zerg / Garm' Updated
+    - Translation for mod 'Everything Spoilage' Updated
+    - Translation for mod 'Firework Rockets' Updated
+    - Translation for mod 'Foundations' Updated
+    - Translation for mod 'Maraxsis' Updated
+    - Translation for mod 'P.U.M.P.' Updated
+    - Translation for mod 'Spidertron Enhancements' Updated
+    - Translation for mod 'Spidertron Patrols' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date: 2024-12-09
   Translation Added:
     - Translation for mod 'Maraxsis' Added
     - Translation for mod 'Spidertron Enhancement' Added
@@ -16,22 +56,19 @@ Date: 2024-12-09
     - Translation for mod 'Electric Grid' Updated
     - Translation for mod 'God Module' Updated
     - Translation for mod 'Infinite Belt Stacking' Updated
-    - Translation for mod 'Stranded Block 2' Updated
+    - Translation for mod 'King Jo's Vehicle Master' Updated
+    - Translation for mod 'No Pipe Touching 2.0' Updated
     - Translation for mod 'Nuclear Power Rebalance' Updated
     - Translation for mod 'Planetary Distance Adjustments' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+    - Translation for mod 'Sky's Simplified Space Age' Updated
+    - Translation for mod 'Stranded Block 2' Updated
     - Translation for mod 'Vehicle Equipment Grids' Updated
     - Translation for mod 'Visible Planets in Space' Updated
-    - Translation for mod 'No Pipe Touching 2.0' Updated
     - Translation for mod 'Wooden Military' Updated
-    - Translation for mod 'Sky's Simplified Space Age' Updated
-    - Translation for mod 'Safer Asteroids' Updated
-    - Translation for mod 'King Jo's Vehicle Master' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.0
 Date: 2024-12-07
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
     - Translation for mod 'Alternative Steam' Added
     - Translation for mod 'Evolution Technology' Added
