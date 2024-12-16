@@ -1,9 +1,46 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.4
+Date: 2024-12-17
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Module Config' Added
+  Minor mod Translation Added:
+    - Translation for mod '5Dim's mod - New Compatibility' Added
+    - Translation for mod 'Armored Wall' Added
+    - Translation for mod 'Big Numbers' Added
+    - Translation for mod 'Buoyant Spidertrons' Added
+    - Translation for mod 'Chronological platform order' Added
+    - Translation for mod 'Configurable Mining Drills' Added
+    - Translation for mod 'Diversitree' Added
+    - Translation for mod 'Factorio crash site' Added
+    - Translation for mod 'Fulgora - linked construction hub' Added
+    - Translation for mod 'Gleba science never spoils' Added
+    - Translation for mod 'King Jo's Flag' Added
+    - Translation for mod 'Maraxsis Quality Normalizer' Added
+    - Translation for mod 'Minecraft skin' Added
+    - Translation for mod 'Modding Tools / Cheat menu' Added
+    - Translation for mod 'Naked Rails' Added
+    - Translation for mod 'No Maraxsis gatekeep promethium' Added
+    - Translation for mod 'Ore Unlimited' Added
+    - Translation for mod 'Powerful Laser Turret' Added
+    - Translation for mod 'Probabilistic Smelting' Added
+    - Translation for mod 'Rocket silos can buffer more rockets' Added
+    - Translation for mod 'Safety Nuke Launcher' Added
+    - Translation for mod 'Sharper Planets' Added
+    - Translation for mod 'SLP - Underground Poles' Added
+    - Translation for mod 'Uranium Inserter' Added
+    - Translation for mod 'What Items Do I Have?' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'Fluid Must Flow' Updated
+    - Translation for mod 'Intelligent Enemy' Updated
+    - Translation for mod 'Maraxsis' Updated
+    - Translation for mod 'Wind Turbines' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.5.3
 Date: 2024-12-15
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통헤 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
     - Translation for mod 'Yuoki Tech Tree Extra Vanilla' Added
   Translation Updated/Fixed:
