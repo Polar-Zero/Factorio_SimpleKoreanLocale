@@ -1,9 +1,54 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.5.4
-Date: 2024-12-17
+Version: 0.5.5
+Date: 2024-12-20
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Tycoon 2' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Cursed Filter Mining Drill' Added
+    - Translation for mod 'Endless resources' Added
+    - Translation for mod 'Gleba Lab' Added
+    - Translation for mod 'Lovely_santa's library of knowledge' Added
+    - Translation for mod 'MAFT Thrusters' Added
+    - Translation for mod 'Maraxsis-Tenebris-Beacon' Added
+    - Translation for mod 'Mech Armor Start' Added
+    - Translation for mod 'No Lava In Pipes' Added
+    - Translation for mod 'Pink Dream Miku Skin' Added
+    - Translation for mod 'Planetary Sourcing' Added
+    - Translation for mod 'Pollution module's evil twin' Added
+    - Translation for mod 'Power Propagation' Added
+    - Translation for mod 'Preceti's Music Experiment' Added
+    - Translation for mod 'Railgun Spidertron' Added
+    - Translation for mod 'Schall Machine Modification' Added
+    - Translation for mod 'Schall Overseas Railway' Added
+    - Translation for mod 'Schall Tank Woodcutting' Added
+    - Translation for mod 'Schall Uncraft' Added
+    - Translation for mod 'Scrap Reprocessor' Added
+    - Translation for mod 'Shrek for 2.0' Added
+    - Translation for mod 'Solar Walls' Added
+    - Translation for mod 'Space Placeform Chests' Added
+    - Translation for mod 'Specialized Fuel' Added
+    - Translation for mod 'Tiga Tianyi' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Agricultural tower placement helper' Updated
+    - Translation for mod 'Biter Clash' Updated
+    - Translation for mod 'Burning Cargo Pods' Updated
+    - Translation for mod 'Gun Equipment' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'miniMAXIme: Character scaler and selector' Updated
+    - Translation for mod 'Notice me senpai' Updated
+    - Translation for mod 'Planet Maraxsis' Updated
+    - Translation for mod 'SLP - Dyson Sphere Reworked' Updated
+    - Translation for mod 'Vehicle Equipment Grids' Updated
+    - Translation for mod 'Void Block' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Wooden Logistics' Updated
+    - Translation for mod 'YARM - Resource Monitor' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.5.4
+Date: 2024-12-17
   Translation Added:
     - Translation for mod 'Module Config' Added
   Minor mod Translation Added:
