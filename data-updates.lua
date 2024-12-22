@@ -120,3 +120,7 @@ if mods['maraxsis'] then
 	setI18nR(true,'technology','ducts','maraxsis');
 	setI18nR(true,'technology','sp-spidertron-automation','maraxsis');
 end
+
+if mods['platformer'] then
+	setI18nR(true,'assembling-machine','captive-biter-spawner','platformer');
+end

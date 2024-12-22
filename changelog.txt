@@ -1,9 +1,52 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.5.5
-Date: 2024-12-20
+Version: 0.5.6
+Date: 2024-12-23
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Fruit and Vegetable' Added
+    - Translation for mod 'Fulgora extended' Added
+    - Translation for mod 'Planet Arrakis' Added
+    - Translation for mod 'Platformer' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Ancient Drill' Added
+    - Translation for mod 'Canned Fish' Added
+    - Translation for mod 'Chicken' Added
+    - Translation for mod 'Cow Cow' Added
+    - Translation for mod 'Customizable Clock' Added
+    - Translation for mod 'Demolisher Scales' Added
+    - Translation for mod 'Drilly' Added
+    - Translation for mod 'Inventory Sensor' Added
+    - Translation for mod 'Modernized Miniloader Migration' Added
+    - Translation for mod 'More Hearts' Added
+    - Translation for mod 'More Minimap Autohide' Added
+    - Translation for mod 'No Nuke Scorch: Updated' Added
+    - Translation for mod 'Nutrient Inserter' Added
+    - Translation for mod 'Quality Seeds' Added
+    - Translation for mod 'Research Counter' Added
+    - Translation for mod 'SA Scorpion' Added
+    - Translation for mod 'Space Age Unnerfed' Added
+    - Translation for mod 'Spoilage Scanner' Added
+    - Translation for mod 'Storage Tank Mk2 2.0' Added
+    - Translation for mod 'Time Changer' Added
+    - Translation for mod 'UPS Friendly Nixie Tubes' Added
+    - Translation for mod 'Vanilla Galore Continued' Added
+    - Translation for mod 'Visible Planets in Space Settings' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Blueprint Sandboxes' Updated
+    - Translation for mod 'Captain's Log' Updated
+    - Translation for mod 'Fulgora extended' Updated
+    - Translation for mod 'Modding Tools / Cheat menu' Updated
+    - Translation for mod 'More Long Inserters' Updated
+    - Translation for mod 'Planet Maraxsis' Updated
+    - Translation for mod 'Preceti's Music Experiment' Updated
+    - Translation for mod 'Quantum Fabricator' Updated
+    - Translation for mod 'StackMaster' Updated
+    - Translation for mod 'Voidcraft' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.5.5
+Date: 2024-12-20
   Translation Added:
     - Translation for mod 'Tycoon 2' Added
   Minor mod Translation Added:

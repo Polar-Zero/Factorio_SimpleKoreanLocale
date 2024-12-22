@@ -3,6 +3,7 @@
 2plus2equalsfish
 5dim_automation
 5dim_battlefield
+5dim_compatibility
 5dim_core
 5dim_enemies
 5dim_energy
@@ -54,6 +55,7 @@ AlternativeSteam
 always-day
 ammo-loader
 ammoniafill
+AncientDrill
 any-planet-start
 apm_resource_pack_ldinc
 aquilo-thermometer
@@ -87,6 +89,7 @@ BarrelFluidIcons
 basic_artillery
 battery-powered
 BatteryElectricTrain
+beacon_maraxsis_tenebris
 beaver
 behemoth-enemies
 belt-balancer-2
@@ -130,8 +133,10 @@ brake-squeal-modded
 BuilderBotStart
 bulk-materials
 bullet-trails
+buoyant-spidertrons
 C418Music
 call-plumber
+canned-fish
 captains-log
 casino
 change-recipe-quality-without-re-selecting-recipe
@@ -143,6 +148,7 @@ CheaperAndMoreCircuitsUpdatedSA
 CheaperProcessingUnit
 chemical-rocket
 chess
+chicken
 chronological-platform-order
 circuit-connection-visualizer
 CircuitLaunchableRockets
@@ -169,9 +175,11 @@ ConnectionBox
 ConnectionBox
 ConstructionPlannerContinued
 Constructron-Continued
+cowcow
 crafting-efficiency-2
 crafting-queue-enhancements
 creative-mode
+Cursed-FMD
 Cursor_Craft
 CursorEnhancements
 Custom-Production-UI-Fixed
@@ -188,6 +196,7 @@ delete-vulcanus
 demolisher-compass
 demolisher-eggs
 demolisher-remains-fill-lava
+DemolisherScales
 denerf-personal-laser
 denerf-pump
 Dequalitier
@@ -204,6 +213,7 @@ dnf-snow
 DoubleSpeedBelts
 dqol-resource-monitor
 dredgeworks-graphics
+drilly
 early_recycling
 early-circuit-network
 EarlyvatedRails
@@ -295,7 +305,9 @@ freeplay_starting_equipment
 FreeSamples
 Fridge
 FrozenFood
+fruit
 ftl-music
+fulgora-extended
 fulgora-linked-construction-hub
 Fulgora-Nuclear-Overhaul
 furnace-recipe-selection
@@ -307,6 +319,7 @@ genshin-impact-skin
 GetWiresBack
 ghost-mode
 ghosts-do-not-kick-you-out-of-their-gui
+gleba-lab
 gleba-soil-anywhere
 GlowingLaserBeams
 god-module
@@ -346,6 +359,7 @@ inserter-throughput-lib
 intelligent-enemy
 intercontinental-rocketry-forked
 IntermodalContainers
+Inventory Sensor
 inventory-mover
 inventory-repair
 inventory-templates
@@ -443,13 +457,16 @@ loaders-utils
 LoaderUnlocker
 LouderCargoWagons
 LR_Turret_Redux
+LSlib_James_Fork
 Lubricantless_Blue_Belts
+luotianyi
 lyra_loaders_can_stack
 lyra_rail_support_on_lava
 lyra_robots_in_space
 m-rpg_items
 m-spell-pack
 MachineSpeedMultiplier
+maft
 magic-science-chest
 Mammoth-MK3
 manual-inventory-sort
@@ -459,6 +476,7 @@ maraxsis-normalizer
 MaxRateCalculator
 MazeWall_2
 mbp-pro
+mecha-start
 Mechanicus
 memory-cards
 mferrari_lib
@@ -466,9 +484,11 @@ micro-machines
 MicroFurnaceWipMod
 microplasticsfromfish
 miku
+miku-pink-dream
 minecraft
 mini
 mini-machines
+miniloader-migration
 minime
 Mining_Drones_2_CnC
 mining-patch-planner
@@ -487,7 +507,9 @@ more-achievements
 More-Asteroid-Resources
 more-belts
 more-casting
+more-hearts
 more-landing-pads
+more-minimap-autohide-017
 MoreStorageTanksFixed
 multi-mine-x10
 multispoil
@@ -511,6 +533,8 @@ no-pipe-touching
 no-wall-repair
 noangledcables
 NoGlebaGatekeep
+NoLavaInPipes
+nonukescorch-2
 notepad
 notice-me-senpai
 Noxys_Deep_Core_Mining_Tweak
@@ -524,6 +548,7 @@ Noxys_Waterfill
 NuclearFuelStack
 NuclearPowerRebalance
 Nuketronics
+nutrient-inserter
 OBBS
 OmegaDrill
 omnilib
@@ -540,16 +565,20 @@ PersonalTeleporter
 PHI-CL
 phoenix
 Pi-C_lib
+PI-house-made-music
 PicksRocketStats
 Piety
 pikachu
 pipe_plus
 PlaceableOffGrid
+planet-arrakis
 planet-picker
 Planetary-Distance-Adjustments
+planetary-sourcing
 PlanetShortcuts
 platform-construction-only-no-construction-robots
 platform-map-update
+platformer
 platforms-do-not-request-full-stacks-of-buildings
 player_body_abduction
 player-auto-build-2
@@ -560,6 +589,8 @@ PlutoniumBreeding
 PlutoniumEnergy
 PoleLamps
 Pollution_is_the_Solution
+pollution-module-evil
+power-propagation
 powerful-laser-turret
 prismatic-belts-space-age
 prismatic-quality
@@ -573,6 +604,7 @@ pump-anywhere
 qiMenu
 quality-changer
 quality-down-binning
+quality-seeds
 quality-upgrade-planner
 QualityAssurance
 QualityRockets
@@ -584,6 +616,7 @@ QuickAmmoSwitch
 R0bb4c0n
 radar-equipment
 RailBow
+RailgunSpidertron
 railloader2
 RailLogisticsDispatcher
 RailTester
@@ -604,6 +637,7 @@ RemoveAsteroidParticles
 RemoveBiterSoil
 repair-from-vehicle
 Research_Productivity
+research-counter-fixed
 Reverse-Engineering
 revert-mining-productivity-cost
 revisedscraprecycling
@@ -639,21 +673,28 @@ Rocs-Improved-Platform-Drag
 Rocs-Rusting-Iron
 Rotatable_Equipment
 rotten-world
+rr-clock
 rso-mod
 rt-light-bot-start
 rz-consistent_underground_belts
 SA-AtomicTank
 SA-Humvee
 sa-repair-turret
+SA-Scorpion
 sa-space-science
 SafetyNukeLauncher
 SaltedFish
 Sane-Concrete-2
 ScalingScienceCounts
 scattergun_turret
+SchallMachineModification
+SchallOverseasRailway
+SchallTankWoodcutting
+SchallUncraft
 science-pack-glow-reborn
 science-unstable
 ScienceConverter
+scrap-reprocessor
 scrap-resource
 SearchlightAssault
 SeeThisSnowball
@@ -661,6 +702,7 @@ sensible-deconstruction
 sharper_planets
 short-railgun-animation
 shortwave_fix
+shrekported
 ShuttleTrainRefresh
 sign-post
 Silo-alert-sound-space-age
@@ -681,6 +723,7 @@ solar-appliances
 solar-calc
 Solar-Lamp
 solar-productivity
+solar-walls
 SolarFarm
 solidwaste-pollution-filter
 some-autoresearch
@@ -690,8 +733,11 @@ some-resourcespam
 sonaxaton-infinite-resources
 space-age-adjustments
 Space-Age-Hardcore-Mode
+space-platform-chests
 space-platform-graveyard
+SpaceAgeUnnerfed
 speaker-signals-2
+SpecializedFuel
 SpecialResourceMarker
 Speckled-advanced-solar
 Spiderissmo
@@ -699,6 +745,7 @@ SpidertronEnhancements
 SpidertronPatrols
 splatter_guard_continued
 spoil-down
+spoilage-scanner
 squeak-through-2
 StableFoundations
 Stackable_Mining_Drills
@@ -712,6 +759,7 @@ steel_chest_requires_iron_chest
 stock-me-up
 StoneWaterWell2-0
 storage-tanks-modpack
+StorageTank2_2_0
 sushi
 Swedish-Chefbots
 Teleportation_Redux
@@ -724,6 +772,7 @@ TheDeadBurn_v17
 thermal-solar-power-lite
 tianyi
 tiered-gas-generator
+time-changer
 TimeTools
 Tiny_Equipment
 TinyStart-2
@@ -743,16 +792,19 @@ tree_collision
 Tree_XRay
 tree-healing
 turret-activation-delay
+tycoon2
 Uncrafting_Logistic_Chests
 Unlimited-Resources-Oil-Refresh-Cargo-Ship-Compat
 UnlimitedProductivityFork
 upcycler
 upgradeable-quality
 UpliftingMusic
+UPSFriendlyNixieTubeDisplay
 uranium_geiger
 Uranium_Inserter_T
 valerian-planets
 valves
+vanilla_galore_continued
 vehicle-corpses
 vehicle-wagon-graphics
 VehicleSnap
@@ -762,6 +814,7 @@ ViidisElectricOffshorePump
 ViidisGameSpeedButton
 visible-gleba
 visible-planets
+visible-planets-settings
 VoidBlock
 Voidcraft
 vtk-ta-big-bertha-artillery-sounds
