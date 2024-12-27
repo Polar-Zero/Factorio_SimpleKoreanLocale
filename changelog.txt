@@ -1,9 +1,41 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.5.6
-Date: 2024-12-23
+Version: 0.5.7
+Date: 2024-12-25
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Minor mod Translation Added:
+    - Translation for mod 'Additional Vanilla Menu Simulations' Added
+    - Translation for mod 'Advanced Centrifuge' Added
+    - Translation for mod 'Anti Trypophobia for 2.0' Added
+    - Translation for mod 'Asteroid and Enemy Radar Detection' Added
+    - Translation for mod 'Auto ground cover' Added
+    - Translation for mod 'Belt Visualizer' Added
+    - Translation for mod 'Big Beautiful Module Icons' Added
+    - Translation for mod 'Biter Nest Quality!' Added
+    - Translation for mod 'Blocky Torch' Added
+    - Translation for mod 'Burner Phase for Dummies' Added
+    - Translation for mod 'Cannon_Turrets_Touhma' Added
+    - Translation for mod 'Coal Oil' Added
+    - Translation for mod 'Color Coded Pipes' Added
+    - Translation for mod 'Greenhouse and Wood pellets' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Blueprint Sandboxes' Updated
+    - Translation for mod 'Constructron-Continued' Updated
+    - Translation for mod 'Extra Storage Tanks: Steel Storage Tank' Updated
+    - Translation for mod 'Extra Storage Tanks: Tiny Inline Storage Tank' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'Fruit Vegetables Animal Products' Updated
+    - Translation for mod 'K2 Steel Pipes' Updated
+    - Translation for mod 'Long Range Turret Redux' Updated
+    - Translation for mod 'Space Platform Automatic Map Update' Updated
+    - Translation for mod 'Spoilage Scanner' Updated
+    - Translation for mod 'StatsGui' Fixed
+    - Translation for mod 'Thermal Solar Power (Lite)' Updated
+    - Translation for mod 'Wooden Military' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.5.6
+Date: 2024-12-23
   Translation Added:
     - Translation for mod 'Fruit and Vegetable' Added
     - Translation for mod 'Fulgora extended' Added
