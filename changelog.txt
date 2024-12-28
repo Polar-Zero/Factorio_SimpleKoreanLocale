@@ -1,4 +1,48 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.8
+Date: 2024-12-28
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'AAI Zones' Added
+    - Translation for mod 'Hydrogen Revolution' Added
+  Minor mod Translation Added:
+    - Translation for mod 'All Armors can Fly' Added
+    - Translation for mod 'Darkmode' Added
+    - Translation for mod 'Days Without Incident' Added
+    - Translation for mod 'Extended Vanilla: Assets' Added
+    - Translation for mod 'Extended Vanilla: Machines' Added
+    - Translation for mod 'Factorio Data Standards Library' Added
+    - Translation for mod 'FasterStart' Added
+    - Translation for mod 'Frozen Factory' Added
+    - Translation for mod 'Handcrafting Queue Log' Added
+    - Translation for mod 'Less Advanced Fluid Handling' Added
+    - Translation for mod 'Loaders can stack' Added
+    - Translation for mod 'Mini Trains' Added
+    - Translation for mod 'Organized Solar System' Added
+    - Translation for mod 'Planet Reorder' Added
+    - Translation for mod 'Shattered Planet' Added
+    - Translation for mod 'Sheep' Added
+    - Translation for mod 'Toggle Speed Boost' Added
+    - Translation for mod 'Tungsten ammo' Added
+    - Translation for mod 'Wooden Universe Assets' Added
+    - Translation for mod 'Woodfill' Added
+    - Translation for mod 'YAQSA - Yet Another Quick Start Attempt' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Canned Fish' Updated
+    - Translation for mod 'Color Coded Pipes' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'Fruit Vegetables Animal Products' Updated
+    - Translation for mod 'Fulgora extended' Updated
+    - Translation for mod 'heat-engine' Updated
+    - Translation for mod 'Molten Tungsten' Updated
+    - Translation for mod 'More Casting' Updated
+    - Translation for mod 'Planet Maraxsis' Updated
+    - Translation for mod 'Some mining-drill settings' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Wooden Military' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.5.7
 Date: 2024-12-25
   # Notice:
