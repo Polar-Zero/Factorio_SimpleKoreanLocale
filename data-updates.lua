@@ -86,6 +86,9 @@ if mods['ev-refining'] then
 	enforceI18n('recipe','copper-clump-processing');
 	enforceI18n('recipe','copper-dust-smelting');
 end
+if mods['factorissimo-2-notnotmelon'] then
+	setI18nR(true,'entity','agricultural-tower','factorissimo');
+end
 if mods['hatsune-enrichment-process'] then
 	setI18nR(false,'recipe','kovarex-enrichment-process','hatsune');
 	setI18nR(false,'technology','kovarex-enrichment-process','hatsune');
@@ -124,7 +127,13 @@ if mods['maraxsis-start'] then
 	setI18nR(true,'technology','foundry','maraxsis');
 	setI18nR(true,'technology','lubricant','maraxsis');
 end
-
 if mods['platformer'] then
 	setI18nR(true,'assembling-machine','captive-biter-spawner','platformer');
+end
+if mods['no-more-gambling'] then
+	setI18nR(true,'tips-and-tricks-item','quality-probabilities','nomoregamble');
+	setI18nR(true,'tips-and-tricks-item','production-entity-list','nomoregamble');
+	setI18nR(true,'item','quality-module','nomoregamble');
+	setI18nR(true,'item','quality-module-2','nomoregamble');
+	setI18nR(true,'item','quality-module-3','nomoregamble');
 end

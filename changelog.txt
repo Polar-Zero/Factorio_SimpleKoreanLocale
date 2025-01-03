@@ -1,12 +1,41 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.6.1
+Date: 2025-01-03
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod '10 Quadrillion Chicken Nuggets' Added
+    - Translation for mod 'BeltRouter Lite' Added
+    - Translation for mod 'Factory graph' Added
+    - Translation for mod 'More Galore!' Added
+    - Translation for mod 'More Intermediates!' Added
+    - Translation for mod 'No More Gambling' Added
+    - Translation for mod 'Schall Radar Alignment' Added
+  Minor mod Translation Added:
+    - Translation for mod 'AAI Signals' Added
+    - Translation for mod 'Change Inserter Drop Lane' Added
+    - Translation for mod 'Deep Mine 2' Added
+    - Translation for mod 'Larger Lamps 2.0' Added
+    - Translation for mod 'Nuclear Fuel' Added
+    - Translation for mod 'Stirling Generator' Added
+    - Translation for mod 'Trash Slot' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'Fruits Vegetables Valley' Updated
+    - Translation for mod 'Hot metals' Updated
+    - Translation for mod 'Maraxsis Start' Updated
+    - Translation for mod 'Productivity Research for Everyone' Updated
+    - Translation for mod 'Renai Transportation' Updated
+    - Translation for mod 'Rocket silos can buffer more rockets' Updated
+    - Translation for mod 'Science is unstable' Updated
+    - Translation for mod 'Stop That, Silly Robot!' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.6.0
 Date: 2024-12-31
   Changes:
     - 이제 'Factorissimo 3' 모드의 오래된 번역을 덮어씁니다.
-    - 혹시라도 오역이나 번역 문제가 발생한다면, 바로 Github나 모드 포탈 Discussion 등을 통해 알려주세요!
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
     - Translation for mod 'AAI Zones' Added
     - Translation for mod 'Blueprint Extensions' Added
