@@ -1,11 +1,53 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.5.8
-Date: 2024-12-28
+Version: 0.6.0
+Date: 2024-12-31
+  Changes:
+    - 이제 'Factorissimo 3' 모드의 오래된 번역을 덮어씁니다.
+    - 혹시라도 오역이나 번역 문제가 발생한다면, 바로 Github나 모드 포탈 Discussion 등을 통해 알려주세요!
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
     - Translation for mod 'AAI Zones' Added
+    - Translation for mod 'Blueprint Extensions' Added
+    - Translation for mod 'Cerys' Added
+    - Translation for mod 'Endless Enemies' Added
+    - Translation for mod 'More Alloys!' Added
+    - Translation for mod 'More Parts!' Added
+    - Translation for mod 'Renai Transportation' Added
+    - Translation for mod 'Virtual Train Monitor' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Arachnids on normal enemy force' Added
+    - Translation for mod 'Combat Mechanics Overhaul' Added
+    - Translation for mod 'Enduring Embers' Added
+    - Translation for mod 'Freezer' Added
+    - Translation for mod 'Glass' Added
+    - Translation for mod 'Li-Quarry' Added
+    - Translation for mod 'Maraxsis Start' Added
+    - Translation for mod 'Modular Beacon Power' Added
+    - Translation for mod 'Schall Autolinked Chest' Added
+    - Translation for mod 'Spoiling Plant' Added
+    - Translation for mod 'What is really missing?' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Any Planet Start' Updated
+    - Translation for mod 'Awesome sink' Updated
+    - Translation for mod 'Big-Monsters' Updated
+    - Translation for mod 'Explosive Biters' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'Fruits Vegetables Valley' Updated
+    - Translation for mod 'Fulgoran enemies' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Planet Maraxsis' Updated
+    - Translation for mod 'RCU Restored' Updated
+    - Translation for mod 'Thermal Solar Power' Updated
+    - Translation for mod 'Tier 4 Modules' Updated
+    - Translation for mod 'What Items Do I Have?' Updated
+    - Translation for mod 'Wooden Logistics' Updated
+    - Translation for mod 'Yuoki Industries - Engines (Addon)' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.5.8
+Date: 2024-12-28
+  Translation Added:
     - Translation for mod 'Hydrogen Revolution' Added
   Minor mod Translation Added:
     - Translation for mod 'All Armors can Fly' Added
@@ -45,9 +87,6 @@ Date: 2024-12-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.7
 Date: 2024-12-25
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Minor mod Translation Added:
     - Translation for mod 'Additional Vanilla Menu Simulations' Added
     - Translation for mod 'Advanced Centrifuge' Added
