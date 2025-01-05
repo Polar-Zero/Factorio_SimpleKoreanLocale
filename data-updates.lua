@@ -87,7 +87,7 @@ if mods['ev-refining'] then
 	enforceI18n('recipe','copper-dust-smelting');
 end
 if mods['factorissimo-2-notnotmelon'] then
-	setI18nR(true,'entity','agricultural-tower','factorissimo');
+	setI18nR(true,'agricultural-tower','agricultural-tower','factorissimo');
 end
 if mods['hatsune-enrichment-process'] then
 	setI18nR(false,'recipe','kovarex-enrichment-process','hatsune');
@@ -136,4 +136,11 @@ if mods['no-more-gambling'] then
 	setI18nR(true,'item','quality-module','nomoregamble');
 	setI18nR(true,'item','quality-module-2','nomoregamble');
 	setI18nR(true,'item','quality-module-3','nomoregamble');
+end
+if mods['spaceplatform-block'] then
+	setI18nR(true,'item','space-platform-starter-pack','spblock');
+end
+if mods['onlyGleba'] then
+	setI18nR(true,'planet','nauvis','onlygleba');
+	setI18nR(true,'fluid','lithium-brine','onlygleba');
 end

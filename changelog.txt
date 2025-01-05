@@ -1,9 +1,45 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.6.1
-Date: 2025-01-03
+Version: 0.6.2
+Date: 2025-01-05
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'More Ammo' Added
+    - Translation for mod 'Muluna, Moon of Nauvis' Added
+    - Translation for mod 'Only Gleba' Added
+    - Translation for mod 'spaceplatform-block' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Allowed Modules' Added
+    - Translation for mod 'Arcana' Added
+    - Translation for mod 'Bricked Foundry' Added
+    - Translation for mod 'BZ Mods Bridge' Added
+    - Translation for mod 'Canal Excavator' Added
+    - Translation for mod 'Canal Excavator Graphics' Added
+    - Translation for mod 'Fish Productivity' Added
+    - Translation for mod 'Gleba Dub Music Preceti's addon' Added
+    - Translation for mod 'I Cast Bullets!' Added
+    - Translation for mod 'Iron Chest Ore' Added
+    - Translation for mod 'Lithium Balance' Added
+    - Translation for mod 'Maraxsis_patch (100% quality fix)' Added
+    - Translation for mod 'Miniloader (Redux)' Added
+    - Translation for mod 'Molten Holmium' Added
+    - Translation for mod 'PlanetsLib' Added
+    - Translation for mod 'Promethium Science Rebalance' Added
+    - Translation for mod 'Realistic Tank' Added
+    - Translation for mod 'Remove Nuclear scorch marks' Added
+    - Translation for mod 'Robotics Facility' Added
+    - Translation for mod 'Space Platform Navigator' Added
+    - Translation for mod 'Whats a Spoilage - Bacteria Recipes' Added
+    - Translation for mod 'Wooden Universe Modpack' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Freezer' Updated
+    - Translation for mod 'Placeable-off-grid' Updated
+    - Translation for mod 'Spidertron Weapon Loadout' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.6.1
+Date: 2025-01-03
   Translation Added:
     - Translation for mod '10 Quadrillion Chicken Nuggets' Added
     - Translation for mod 'BeltRouter Lite' Added
