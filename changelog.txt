@@ -1,9 +1,55 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.6.2
-Date: 2025-01-05
+Version: 0.6.3
+Date: 2025-01-08
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'AAI Programmable Structure' Added
+    - Translation for mod 'More Ores!' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Adamo Sulfur' Added
+    - Translation for mod 'Filter Chests' Added
+    - Translation for mod 'Item Giver Gui 2.0' Added
+    - Translation for mod 'Magic Quality Chest' Added
+    - Translation for mod 'Ocean Dumping' Added
+    - Translation for mod 'OCs Ammo Casting' Added
+    - Translation for mod 'Schall Oil Fuel' Added
+    - Translation for mod 'Stack Size' Added
+    - Translation for mod 'Superheating' Added
+    - Translation for mod 'Underground heat pipe' Added
+    - Translation for mod 'Undersea data cable' Added
+    - Translation for mod 'Wagon Quality Size' Added
+    - Translation for mod 'Wide AAI Containers' Added
+    - Translation for mod 'Wide Containers' Added
+    - Translation for mod 'Wooden Vulcanus: Sulfuric Bacteria' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Arcana' Updated
+    - Translation for mod 'Blueprint Sandboxes' Updated
+    - Translation for mod 'Buildable Melting Ice' Updated
+    - Translation for mod 'Bulk Materials' Updated
+    - Translation for mod 'Canal Excavator' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Constructron-Continued' Updated
+    - Translation for mod 'Frozen Food' Updated
+    - Translation for mod 'Fruits Vegetables Valley' Updated
+    - Translation for mod 'Fulgora extended' Updated
+    - Translation for mod 'K2 Steel Pipes' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'No More Gambling' Updated
+    - Translation for mod 'Nuclear Fuel' Updated
+    - Translation for mod 'Phidias Collection' Updated
+    - Translation for mod 'Quality Assurance' Updated
+    - Translation for mod 'Realistic Tank' Updated
+    - Translation for mod 'Roc's Hardcore Delayed Tech Tree' Updated
+    - Translation for mod 'Roc's Hardcore Gleba' Updated
+    - Translation for mod 'Simpler Platform Drag' Updated
+    - Translation for mod 'Trash Slot' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Wooden Military' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.6.2
+Date: 2025-01-05
   Translation Added:
     - Translation for mod 'More Ammo' Added
     - Translation for mod 'Muluna, Moon of Nauvis' Added

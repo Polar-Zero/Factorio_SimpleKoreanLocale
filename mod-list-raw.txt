@@ -38,6 +38,7 @@ accumulator-walls
 acorns-module-buff
 actual-craft-time
 adamo-carbon
+adamo-sulfur
 Additional-Qualities
 Additional-Turret-revived
 additional-vanilla-menu-simulations
@@ -56,6 +57,7 @@ alchemical-combinator
 Alien-Chaos-modpack
 all-are-welcome-amongus
 all-armors-can-fly
+allowed-modules
 Alternate_Recipes
 AlternativeSteam
 always-day
@@ -68,6 +70,7 @@ apm_resource_pack_ldinc
 aquilo-thermometer
 Arachnids_enemy
 Arborium_Renewed
+Arcana
 AreaPaste
 armoredWall
 ArmouredBiters
@@ -145,13 +148,18 @@ BotDeathSounds
 botsbotsbotsfork
 Bottleneck
 brake-squeal-modded
+bricked-foundry
 BuilderBotStart
 bulk-materials
 bullet-trails
 buoyant-spidertrons
+Burner-Leech
 burner-phase-for-dummies
+bz-dsr-bridge
 C418Music
 call-plumber
+canal-excavator
+canal-excavator-graphics
 canned-fish
 cannon_turrets_touhma
 captains-log
@@ -168,7 +176,6 @@ CheaperAndMoreCircuitsUpdatedSA
 CheaperProcessingUnit
 chemical-rocket
 chess
-chicken
 chronological-platform-order
 circuit-connection-visualizer
 CircuitLaunchableRockets
@@ -198,7 +205,6 @@ ConfigurableMiningDrills
 ConnectionBox
 ConstructionPlannerContinued
 Constructron-Continued
-cowcow
 crafting-efficiency-2
 crafting-queue-enhancements
 creative-mode
@@ -241,6 +247,7 @@ DoubleSpeedBelts
 dqol-resource-monitor
 dredgeworks-graphics
 drilly
+dune_navigator
 early_recycling
 early-circuit-network
 EarlyvatedRails
@@ -305,12 +312,14 @@ FasterStart
 FastGate
 fdsl
 Fill4Me
+FilterChests
 FilterHelper
 FilterMiningDrills
 finite-planets
 firework_rockets
 firework_rockets_assets
 First_One_Is_Free
+fish-productivity
 Flamethrower_shoots_in_prepare_range
 flamethrower-wagon
 Flare_Stack_Goa
@@ -349,6 +358,7 @@ fulgora-linked-construction-hub
 Fulgora-Nuclear-Overhaul
 furnace-recipe-selection
 fusion-thruster
+fusioncellrecipe
 gas-furnace
 gear-girl
 genshin-impact-music
@@ -359,6 +369,7 @@ ghosts-do-not-kick-you-out-of-their-gui
 Glass
 gleba-lab
 gleba-soil-anywhere
+Gledub-Music
 GlowingLaserBeams
 god-module
 gold-legendary
@@ -384,6 +395,7 @@ hud-auto-hide
 hunter-killer
 hurricane-graphics
 HuTaoSkin
+ICastBullets
 id-like-cliff-explosives-on-nauvis-please
 improvement-loaders
 Infinite_Combat_Robot_Lifetime
@@ -406,7 +418,9 @@ inventory-templates
 invincible-construction-bots
 Invulnerable_Bots
 Invulnerable_Rails
+iron_chest_ore
 iron_chest_requires_wood_chest
+ItemGiverGui2
 IWantToGoToSpace
 k2-anti-material-rifle
 k2-flare-stack
@@ -511,11 +525,13 @@ m-rpg_items
 m-spell-pack
 MachineSpeedMultiplier
 maft
+magic-quality-chest
 magic-science-chest
 Mammoth-MK3
 manual-inventory-sort
 mapshot
 maraxsis
+maraxsis_patch
 maraxsis-normalizer
 maraxsis-start
 MaxRateCalculator
@@ -535,6 +551,7 @@ mini
 Mini_Trains
 mini-machines
 miniloader-migration
+miniloader-redux
 minime
 Mining_Drones_2_CnC
 mining-patch-planner
@@ -542,13 +559,16 @@ moar-modules
 MOARInserters
 mod_recipes
 modding_tools
+ModernArt
 modular-beacon-power
 module-config
 ModuleInserterSimplified
 modules-t4
 ModulesUI
+molten-holmium
 molten-tungsten
 money-UI
+More_Ammo
 More_SpaceAge_Menu_Backgrounds_By_TehF0cus
 more-achievements
 more-alloys
@@ -560,6 +580,7 @@ more-hearts
 more-intermediates
 more-landing-pads
 more-minimap-autohide-017
+more-ore
 more-parts
 MoreStorageTanksFixed
 multi-mine-x10
@@ -603,11 +624,14 @@ NuclearPowerRebalance
 Nuketronics
 nutrient-inserter
 OBBS
+oceandump
+OCs_ammo_casting
 OmegaDrill
 omnilib
 omnimatter
 omnimatter_compression
 omnimatter_energy
+onlyGleba
 ore-eraser-2
 ore-unlimited
 OrePatchOrganizer
@@ -625,11 +649,13 @@ pikachu
 pipe_plus
 PlaceableOffGrid
 planet-arrakis
+planet-muluna
 planet-picker
 planet-reorder
 Planetary-Distance-Adjustments
 planetary-sourcing
 PlanetShortcuts
+PlanetsLib
 platform-construction-only-no-construction-robots
 platform-map-update
 platformer
@@ -653,6 +679,7 @@ probabilistic-smelting
 productions-per-minute
 Productivity
 ProductivityResearchForEveryone
+Promethium_Science_Rebalance
 pump
 pump-anywhere
 qiMenu
@@ -681,12 +708,14 @@ raven_mk2
 rcu-restored
 real-starry-universe
 RealisticReactorGlow
+RealisticTank
 RecursiveResourceCalculator
 Refrigeration
 reggie_mode
 region-cloner
 remote-monitor
 remote-switch
+remove-nuclear-marks
 remove-productivity-cap
 RemoveAsteroidParticles
 RemoveBiterSoil
@@ -711,6 +740,7 @@ RitnPortal
 RitnTeleporter
 RitnWaterfill
 Robot256Lib
+RoboticsFacility
 robotworld-continued
 rock-eraser
 rocket-capacity
@@ -745,6 +775,7 @@ ScalingScienceCounts
 scattergun_turret
 SchallAutolinkedChest
 SchallMachineModification
+SchallOilFuel
 SchallOverseasRailway
 SchallRadarAlignment
 SchallTankWoodcutting
@@ -765,6 +796,7 @@ shortwave_fix
 shrekported
 ShuttleTrainRefresh
 sign-post
+Silicon
 Silo-alert-sound-space-age
 simpleadjustableinserters
 SimpleSpeedControl
@@ -796,6 +828,7 @@ Space-Age-Hardcore-Mode
 space-platform-chests
 space-platform-graveyard
 SpaceAgeUnnerfed
+spaceplatform-block
 speaker-signals-2
 SpecializedFuel
 SpecialResourceMarker
@@ -822,6 +855,7 @@ stock-me-up
 StoneWaterWell2-0
 storage-tanks-modpack
 StorageTank2_2_0
+Superheating
 Surfaces-Have-Temperature
 sushi
 Swedish-Chefbots
@@ -861,7 +895,9 @@ tungsten-munition
 turret-activation-delay
 tycoon2
 Uncrafting_Logistic_Chests
+underground-heat-pipe
 underground-pipe-pack-simplified
+undersea-data-cable
 Unlimited-Resources-Oil-Refresh-Cargo-Ship-Compat
 UnlimitedProductivityFork
 upcycler
@@ -887,6 +923,8 @@ visible-planets-settings
 VoidBlock
 Voidcraft
 vtk-ta-big-bertha-artillery-sounds
+vulcanus-sulfuric-bacteria
+Wagon-quality-size
 Warehousing
 Water-Friendly-Walls
 water-poles
@@ -898,8 +936,11 @@ WH40k-Titans-media
 what-is-it-really-used-for
 what-items-do-i-have
 whats_a_spoilage
+whats_a_spoilage_bacteria_recipes
 WhereIsMyBody
 wickerbeast
+wide-aai-chests
+wide-steel-chests
 WideChestsAllTypes
 WideChestsLogistic
 WideChestsUnlimited
@@ -907,9 +948,12 @@ windturbines
 WireShortcutX
 WireTools
 Wood_Gasification_updated
+wood-base-assets
 wood-logistics
 wood-military
 wood-stack-to-1k
+wood-universe-assets
+wood-universe-modpack
 Wood-Walls
 woodcircuitrecipe
 WoodenBrick
@@ -929,5 +973,6 @@ Yuoki2
 zerm_postprocess
 zithorian-extra-storage-tanks-port
 zk-lib
+zoo-animal
 zzz-handcraft-shop
 zzzz9999-better-restack
