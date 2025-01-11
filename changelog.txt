@@ -1,9 +1,39 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.6.3
-Date: 2025-01-08
+Version: 0.6.4
+Date: 2025-01-12
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+    - 요 몇일 다른 작업때문에 제대로 작업을 수행하지 못했습니다 ㅠㅠ 이번주엔 각 잡고 제대로 진행해볼게요
+  Translation Added:
+    - Translation for mod 'Aircraft Realism' Added
+    - Translation for mod 'Simple Compress' Added
+    - Translation for mod 'trainsaver' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Alternative Pentapod Egg Recipe' Added
+    - Translation for mod 'Crash Site' Added
+    - Translation for mod 'Evolution Technology' Added
+    - Translation for mod 'Finely Crafted Graphics' Added
+    - Translation for mod 'Quantum Teleporter' Added
+    - Translation for mod 'Simple Mod Reload' Added
+    - Translation for mod 'The Ruins Mod - Base' Added
+    - Translation for mod 'The Ruins Mod Updated (Fork)' Added
+    - Translation for mod 'Turbines ++ Reloaded' Added
+    - Translation for mod 'Wide Containers Assets' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Blocky Torch' Updated
+    - Translation for mod 'Foundations' Updated
+    - Translation for mod 'Hot metals' Updated
+    - Translation for mod 'Krastorio 2 Wind Turbine' Updated
+    - Translation for mod 'Miniloader (Redux)' Updated
+    - Translation for mod 'No More Gambling' Updated
+    - Translation for mod 'Ore Unlimited' Updated
+    - Translation for mod 'Phidias Collection' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+    - Translation for mod 'Wooden Logistics' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.6.3
+Date: 2025-01-08
   Translation Added:
     - Translation for mod 'AAI Programmable Structure' Added
     - Translation for mod 'More Ores!' Added
