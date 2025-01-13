@@ -104,6 +104,7 @@ if mods['RibbonMaze'] or mods['RibbonMaze20'] then
 	setRecipe(true,'item','landfill','ribbonmaze');
 	setRecipe(true,'item','electric-mining-drill','ribbonmaze');
 	setI18nR(true,'tile','water-green','ribbonmaze');
+	setI18nR(true,'technology','landfill','ribbonmaze');
 end
 if mods['terrapalus'] then
 	enforceI18n('planet','terrapalus');

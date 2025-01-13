@@ -1,12 +1,12 @@
 {
   "name": "SimpleKoreanLocale",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "title": "심플한 한글 번역(Simple Korean Locale)",
   "author": "PolarZero",
   "contact": "trinity5000@naver.com",
   "homepage": "https://polarzero.net/",
   "factorio_version": "2.0",
   "date": "2024-10-19",
-  "description": "팩토리오 2.0 모드들의 한글화를 돕는 모드입니다.\n지원되는 모드는 Changelog나 모드 정보 참고 부탁드려볼게요! (950+ 모드 지원)\n번역 추가 / 수정 / 개선 요청이 필요하다면 Github나 토론장, 디스코드 채팅 polarzero로 자유롭게 요청주세요!\nXMKTP 등에서 지원하던 모드의 재번역도 다수 포함되어 있습니다 :)",
+  "description": "팩토리오 2.0 모드들의 한글화를 돕는 모드입니다.\n지원되는 모드는 Changelog나 모드 정보 참고 부탁드려볼게요! (1,000+ 모드 지원)\n번역 추가 / 수정 / 개선 요청이 필요하다면 Github나 토론장, 디스코드 채팅 polarzero로 자유롭게 요청주세요!\nXMKTP 등에서 지원하던 모드의 재번역도 다수 포함되어 있습니다 :)",
   "dependencies": ["base", "(?) factorissimo-2-notnotmelon"]
 }

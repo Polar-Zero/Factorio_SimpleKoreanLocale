@@ -1,10 +1,56 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.6.4
-Date: 2025-01-12
+Version: 0.6.5
+Date: 2025-01-14
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 요 몇일 다른 작업때문에 제대로 작업을 수행하지 못했습니다 ㅠㅠ 이번주엔 각 잡고 제대로 진행해볼게요
+  Translation Added:
+    - Translation for mod 'AAI Programmable Structure' Added
+    - Translation for mod 'Hovercrafts' Added
+    - Translation for mod 'On Wayward Seas' Added
+    - Translation for mod 'Simple Configurable Inserters' Added
+    - Translation for mod 'Simply Bees' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Factorio World' Added
+    - Translation for mod 'Factoriopedia Extended' Added
+    - Translation for mod 'Gleba Reborn' Added
+    - Translation for mod 'IndustrialCraft - Reinforced Walls' Added
+    - Translation for mod 'Lightning Settings' Added
+    - Translation for mod 'Mouse-over Construction' Added
+    - Translation for mod 'Neuro Plushs' Added
+    - Translation for mod 'No Qualitycycling' Added
+    - Translation for mod 'Old Age' Added
+    - Translation for mod 'Peppermint Mining' Added
+    - Translation for mod 'Personal Transformer 2' Added
+    - Translation for mod 'Planet Froodara' Added
+    - Translation for mod 'Planet Gerkizia' Added
+    - Translation for mod 'Planet Mickora' Added
+    - Translation for mod 'Power Armor MK3' Added
+    - Translation for mod 'Promethium Processing' Added
+    - Translation for mod 'Research Cost Curve' Added
+    - Translation for mod 'Science stinks' Added
+    - Translation for mod 'Show Max Underground Distance' Added
+    - Translation for mod 'Solar Panel Equipment MK2' Added
+    - Translation for mod 'Tech tree plus' Added
+    - Translation for mod 'The Fighting Lion' Added
+    - Translation for mod 'Underground Indicators Fixed' Added
+    - Translation for mod 'Weapon Quality' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Advanced Furnaces 2 SpaceAgeFix' Updated
+    - Translation for mod 'Arborium Renewed' Updated
+    - Translation for mod 'Canal Excavator' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'God Module' Updated
+    - Translation for mod 'Krastorio 2 Wind Turbine' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Planet Maraxsis' Updated
+    - Translation for mod 'Quantum Teleporter' Updated
+    - Translation for mod 'Rotatable Equipment' Updated
+    - Translation for mod 'spaceplatform-block' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.6.4
+Date: 2025-01-12
   Translation Added:
     - Translation for mod 'Aircraft Realism' Added
     - Translation for mod 'Simple Compress' Added
@@ -35,7 +81,6 @@ Date: 2025-01-12
 Version: 0.6.3
 Date: 2025-01-08
   Translation Added:
-    - Translation for mod 'AAI Programmable Structure' Added
     - Translation for mod 'More Ores!' Added
   Minor mod Translation Added:
     - Translation for mod 'Adamo Sulfur' Added

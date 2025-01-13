@@ -23,6 +23,7 @@
 7seg
 aai-containers
 aai-loaders
+aai-programmable-structures
 aai-signals
 aai-vehicles-chaingunner
 aai-vehicles-flame-tank
@@ -33,6 +34,8 @@ aai-vehicles-laser-tank
 aai-vehicles-miner
 aai-vehicles-warden
 aai-zones
+AbandonedRuins_updated_fork
+AbandonedRuins-base
 accumulator-mk2
 accumulator-walls
 acorns-module-buff
@@ -53,12 +56,14 @@ afraid-of-the-dark
 agri-no-spoil
 agricultural-tower-placement-helper
 air-filtering
+AircraftRealism
 alchemical-combinator
 Alien-Chaos-modpack
 all-are-welcome-amongus
 all-armors-can-fly
 allowed-modules
 Alternate_Recipes
+alternative-pentapod-egg-recipe
 AlternativeSteam
 always-day
 ammo-loader
@@ -226,6 +231,7 @@ delete-fulgora
 delete-gleba
 delete-planet-compatability
 delete-vulcanus
+delta-inserters
 demolisher-compass
 demolisher-eggs
 demolisher-remains-fill-lava
@@ -293,6 +299,7 @@ ev-machines
 ev-refining
 even-pickier-dollies
 everything-spoilage
+evo_tech
 Evolution Reduction
 Expensive-Mode
 Explosive_biters
@@ -300,6 +307,8 @@ factorio_hd_age_space_age_terrain_vulcanus
 factorio-cooked-fish
 factorio-crash-site
 factorio-reach
+factorio-world
+factoriopedia-extended
 factorissimo-2-Space-Age-Port
 factory_graph
 factory_solver
@@ -311,10 +320,12 @@ faster-rocket-silo-animation
 FasterStart
 FastGate
 fdsl
+Fighting_Lion
 Fill4Me
 FilterChests
 FilterHelper
 FilterMiningDrills
+finely-crafted-graphics
 finite-planets
 firework_rockets
 firework_rockets_assets
@@ -368,6 +379,7 @@ ghost-mode
 ghosts-do-not-kick-you-out-of-their-gui
 Glass
 gleba-lab
+gleba-reborn
 gleba-soil-anywhere
 Gledub-Music
 GlowingLaserBeams
@@ -391,10 +403,12 @@ heroic_library
 hide-space-age-spoilers
 holographic_signs
 hot-metals
+Hovercrafts
 hud-auto-hide
 hunter-killer
 hurricane-graphics
 HuTaoSkin
+ic-reinforced-walls
 ICastBullets
 id-like-cliff-explosives-on-nauvis-please
 improvement-loaders
@@ -505,6 +519,7 @@ Li-Quarry
 light-overhaul
 Lighted-Poles-Plus-pyalternativeenergy
 lightning-punishment
+lightning-settings
 LinkedChestAndPipe
 LinkededBelts
 lo_unismelting
@@ -583,6 +598,7 @@ more-minimap-autohide-017
 more-ore
 more-parts
 MoreStorageTanksFixed
+MouseOverConstruction
 multi-mine-x10
 multispoil
 mushroom-cloud
@@ -593,6 +609,7 @@ NapalmArtillery
 naufulglebunusilo
 nco-SmallTank
 Nepgear-More-Compatibility
+neuroitem
 newly-constructed-machines-wait-for-their-modules
 newsletter-for-mods-made-by-quezler
 nice-try-train
@@ -603,6 +620,7 @@ no-hand-crafting
 no-maraxsis-gatekeep-promethium
 no-more-gambling
 no-pipe-touching
+No-Qualitycycling
 no-wall-repair
 noangledcables
 NoGlebaGatekeep
@@ -626,6 +644,7 @@ nutrient-inserter
 OBBS
 oceandump
 OCs_ammo_casting
+old-age
 OmegaDrill
 omnilib
 omnimatter
@@ -638,7 +657,9 @@ OrePatchOrganizer
 OrphanFinderFixed
 packing-tape
 passive-power-combinators
+Peppermint_Mining
 PersonalTeleporter
+PersonalTransformer2
 PHI-CL
 phoenix
 Pi-C_lib
@@ -649,6 +670,9 @@ pikachu
 pipe_plus
 PlaceableOffGrid
 planet-arrakis
+planet-froodara
+planet-gerkizia
+planet-mickora
 planet-muluna
 planet-picker
 planet-reorder
@@ -670,6 +694,7 @@ PlutoniumEnergy
 PoleLamps
 Pollution_is_the_Solution
 pollution-module-evil
+Power Armor MK3
 power-propagation
 powerful-laser-turret
 prismatic-belts-space-age
@@ -680,6 +705,7 @@ productions-per-minute
 Productivity
 ProductivityResearchForEveryone
 Promethium_Science_Rebalance
+promethium-processing
 pump
 pump-anywhere
 qiMenu
@@ -690,6 +716,7 @@ quality-upgrade-planner
 QualityAssurance
 QualityRockets
 quantum-fabricator
+Quantum-Teleporter
 quarry
 QueueToFrontLimited
 quick-adjustable-inserters
@@ -722,6 +749,7 @@ RemoveBiterSoil
 RenaiTransportation
 repair-from-vehicle
 Research_Productivity
+research-cost-curve
 research-counter-fixed
 Reverse-Engineering
 revert-mining-productivity-cost
@@ -781,6 +809,7 @@ SchallRadarAlignment
 SchallTankWoodcutting
 SchallUncraft
 science-pack-glow-reborn
+science-stinks
 science-unstable
 ScienceConverter
 scrap-reprocessor
@@ -793,14 +822,17 @@ shattered-planet
 sheep
 short-railgun-animation
 shortwave_fix
+show-max-underground-distance
 shrekported
 ShuttleTrainRefresh
 sign-post
 Silicon
 Silo-alert-sound-space-age
+simple-mod-reload
 simpleadjustableinserters
 SimpleSpeedControl
 simplified-thrusters
+simply-bees
 simply-power-armor-mk3
 skins-factored
 skys-SA-simplified
@@ -817,6 +849,7 @@ Solar-Lamp
 solar-productivity
 solar-walls
 SolarFarm
+SolarPanelEquipmentMK2
 solidwaste-pollution-filter
 some-autoresearch
 some-big-mining-drill
@@ -859,6 +892,7 @@ Superheating
 Surfaces-Have-Temperature
 sushi
 Swedish-Chefbots
+tech_tree_plus
 Teleportation_Redux
 Teleporters
 tenebris
@@ -885,6 +919,7 @@ train-loader
 train-log
 Train-Station-Light
 train-trails
+trainsaver
 transfer_entities
 trash-slot
 TrashChest
@@ -892,11 +927,13 @@ tree_collision
 Tree_XRay
 tree-healing
 tungsten-munition
+turbines-plusplus-reloaded
 turret-activation-delay
 tycoon2
 Uncrafting_Logistic_Chests
 underground-heat-pipe
 underground-pipe-pack-simplified
+UndergroundIndicatorsFixed
 undersea-data-cable
 Unlimited-Resources-Oil-Refresh-Cargo-Ship-Compat
 UnlimitedProductivityFork
@@ -931,6 +968,8 @@ water-poles
 water-pumpjack
 WaterExtractor
 waterfill-2
+wayward-seas
+weapon_quality
 wellbeing
 WH40k-Titans-media
 what-is-it-really-used-for
@@ -940,7 +979,7 @@ whats_a_spoilage_bacteria_recipes
 WhereIsMyBody
 wickerbeast
 wide-aai-chests
-wide-steel-chests
+wide-containers-assets
 WideChestsAllTypes
 WideChestsLogistic
 WideChestsUnlimited
