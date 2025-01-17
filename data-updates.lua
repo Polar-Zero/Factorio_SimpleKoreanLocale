@@ -129,7 +129,7 @@ if mods['maraxsis-start'] then
 	setI18nR(true,'technology','lubricant','maraxsis');
 end
 if mods['platformer'] then
-	setI18nR(true,'assembling-machine','captive-biter-spawner','platformer');
+	require("updates.platformer");
 end
 if mods['no-more-gambling'] then
 	setI18nR(true,'tips-and-tricks-item','quality-probabilities','nomoregamble');
@@ -140,6 +140,7 @@ if mods['no-more-gambling'] then
 end
 if mods['spaceplatform-block'] then
 	setI18nR(true,'item','space-platform-starter-pack','spblock');
+	setI18nR(true,'technology','construction-robotics','spblock');
 end
 if mods['onlyGleba'] then
 	setI18nR(true,'planet','nauvis','onlygleba');

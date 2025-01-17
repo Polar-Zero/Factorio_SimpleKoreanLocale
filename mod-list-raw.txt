@@ -67,6 +67,7 @@ alternative-pentapod-egg-recipe
 AlternativeSteam
 always-day
 ammo-loader
+Ammonia-carbon-fiber
 ammoniafill
 AncientDrill
 antitrypophobia2
@@ -120,6 +121,7 @@ BeltUpgrader
 Better_Poles
 Better_Robots_Extended
 Better_Starmap_Background
+better-ammo-better-range
 better-chat
 Better-Melting-Ice
 better-miners
@@ -153,6 +155,8 @@ BotDeathSounds
 botsbotsbotsfork
 Bottleneck
 brake-squeal-modded
+BreakTime
+BreedingDemolisher
 bricked-foundry
 BuilderBotStart
 bulk-materials
@@ -181,6 +185,7 @@ CheaperAndMoreCircuitsUpdatedSA
 CheaperProcessingUnit
 chemical-rocket
 chess
+chicken-skin
 chronological-platform-order
 circuit-connection-visualizer
 CircuitLaunchableRockets
@@ -275,6 +280,7 @@ ElectricPoleRangeMultiplier
 ElectricTrainFix
 electromagnetic-plant-expanded
 ElectroTurret
+elevated-rails-recolor
 enable-all-feature-flags
 endless_resources
 EndlessEnemies
@@ -299,6 +305,7 @@ ev-machines
 ev-refining
 even-pickier-dollies
 everything-spoilage
+EverythingOnNauvis
 evo_tech
 Evolution Reduction
 Expensive-Mode
@@ -309,12 +316,14 @@ factorio-crash-site
 factorio-reach
 factorio-world
 factoriopedia-extended
+FactorioWorldUpdated
 factorissimo-2-Space-Age-Port
 factory_graph
 factory_solver
 factory-efficiency-tracker
 FalloutPowerArmor
 far-reach
+farther-heat
 fast-demolisher
 faster-rocket-silo-animation
 FasterStart
@@ -326,6 +335,7 @@ FilterChests
 FilterHelper
 FilterMiningDrills
 finely-crafted-graphics
+finite-oil-port
 finite-planets
 firework_rockets
 firework_rockets_assets
@@ -364,6 +374,7 @@ frozen-factory
 FrozenFood
 fruit
 ftl-music
+FUE5Exporter
 fulgora-extended
 fulgora-linked-construction-hub
 Fulgora-Nuclear-Overhaul
@@ -374,6 +385,7 @@ gas-furnace
 gear-girl
 genshin-impact-music
 genshin-impact-skin
+gersiete_first_assembly
 GetWiresBack
 ghost-mode
 ghosts-do-not-kick-you-out-of-their-gui
@@ -449,7 +461,11 @@ kj_40kbunker
 kj_40kdreadnought
 kj_40klemanruss
 kj_40kpredator
+kj_747
 kj_aventador
+kj_b17
+kj_b2
+kj_bf109
 kj_bulldozer
 kj_cybertruck
 kj_dakka_arty
@@ -458,6 +474,10 @@ kj_firetruck
 kj_flag
 kj_fordmustang
 kj_fuel
+kj_ho229
+kj_ju52
+kj_ju87
+kj_jug38
 kj_lightmachine
 kj_maustank
 kj_nuclearmine
@@ -474,6 +494,7 @@ kj_utilitarian
 kj_vehicles
 kj_vierling
 kj_wirbelwind
+kj_xb35
 korone-character
 KrastorioAirPurifier
 kry_safe_planets
@@ -555,6 +576,10 @@ mbp-pro
 mecha-start
 Mechanicus
 memory-cards
+mf-buildings
+mf-core
+mf-logistics
+mf-logistics-graphics-1
 mferrari_lib
 micro-machines
 MicroFurnaceWipMod
@@ -606,6 +631,7 @@ nailong
 naked-rails-f2
 Nanobots2
 NapalmArtillery
+nature_regeneration
 naufulglebunusilo
 nco-SmallTank
 Nepgear-More-Compatibility
@@ -621,6 +647,7 @@ no-maraxsis-gatekeep-promethium
 no-more-gambling
 no-pipe-touching
 No-Qualitycycling
+no-stone-on-the-bus
 no-wall-repair
 noangledcables
 NoGlebaGatekeep
@@ -675,6 +702,7 @@ planet-gerkizia
 planet-mickora
 planet-muluna
 planet-picker
+planet-quadromire
 planet-reorder
 Planetary-Distance-Adjustments
 planetary-sourcing
@@ -708,7 +736,9 @@ Promethium_Science_Rebalance
 promethium-processing
 pump
 pump-anywhere
+pushbutton
 qiMenu
+quality_unlocked
 quality-changer
 quality-down-binning
 quality-seeds
@@ -801,7 +831,9 @@ SaltedFish
 Sane-Concrete-2
 ScalingScienceCounts
 scattergun_turret
+SchallAmmoTurrets
 SchallAutolinkedChest
+SchallLandMine
 SchallMachineModification
 SchallOilFuel
 SchallOverseasRailway
@@ -843,6 +875,7 @@ smaller_train_stop_collision
 smaller-shortcut-icons
 smart-nukes
 smooth-artillery-wagon
+snouz-big-solar-panel
 solar-appliances
 solar-calc
 Solar-Lamp
@@ -891,15 +924,19 @@ StorageTank2_2_0
 Superheating
 Surfaces-Have-Temperature
 sushi
+Sushi-Everything
 Swedish-Chefbots
 tech_tree_plus
 Teleportation_Redux
 Teleporters
 tenebris
+tenebris_sulfur
 terrapalus
+tesla-turret-red-alert-sounds
 Testbenchcontrols
 textplates
 TheDeadBurn_v17
+TheJar
 thermal-solar-power-lite
 tianyi
 tiered-gas-generator
@@ -920,6 +957,7 @@ train-log
 Train-Station-Light
 train-trails
 trainsaver
+TrainSpeeds
 transfer_entities
 trash-slot
 TrashChest
