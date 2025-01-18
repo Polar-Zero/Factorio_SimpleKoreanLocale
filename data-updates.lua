@@ -131,6 +131,17 @@ end
 if mods['platformer'] then
 	require("updates.platformer");
 end
+if mods['James-Oil-Processing'] then
+	setI18nR(true,'fluid','heavy-oil','james');
+	setI18nR(true,'fluid','light-oil','james');
+	setI18nR(false,'recipe','coal-liquefaction','james');
+	setI18nR(true,'technology','oil-processing','james');
+	setI18nR(true,'technology','coal-liquefaction','james');
+end
+if mods['fulgora-extended'] then
+	setI18nR(true,'tile','oil-ocean-deep','fext');
+	setI18nR(true,'tile','oil-ocean-shallow','fext');
+end
 if mods['no-more-gambling'] then
 	setI18nR(true,'tips-and-tricks-item','quality-probabilities','nomoregamble');
 	setI18nR(true,'tips-and-tricks-item','production-entity-list','nomoregamble');

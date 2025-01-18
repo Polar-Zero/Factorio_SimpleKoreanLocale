@@ -1,19 +1,57 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.7.0
-Date: 2025-01-17
+Version: 0.7.1
+Date: 2025-01-19
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 오픈채팅 또는 모드 포탈 Discussion을 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
-    - Translation for mod 'Factorio and Conquer: Tiberian Dawn' Added (Thanks to siwoo1231)
+    - Translation for mod 'AAI Programmable Vehicles' Added
+    - Translation for mod 'Bugs Rule Everywhere Around Me (B.R.E.A.M.)' Added
+    - Translation for mod 'Compakt circuits' Added
+    - Translation for mod 'Corrundum' Added (Thanks to Siwoo1231)
+    - Translation for mod 'Extended Research System' Added
+    - Translation for mod 'James Oily Extravaganza' Added
+    - Translation for mod 'Lignumis' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Artillery Shell Stack' Added
+    - Translation for mod 'bikini swimsuit miku' Added
+    - Translation for mod 'Blueprintable Trees' Added
+    - Translation for mod 'Diode Combinator' Added
+    - Translation for mod 'Diurnal Dynamics' Added
+    - Translation for mod 'Efficiency Promotes Quality' Added
+    - Translation for mod 'FactOreo' Added
+    - Translation for mod 'FG Charcoal From Wood' Added
+    - Translation for mod 'Infinite Worker Robot Capacity Research' Added
+    - Translation for mod 'Leave The Lights On' Added
+    - Translation for mod 'Molten without Calcite' Added
+    - Translation for mod 'OSHA Rocket Silo and Container Signals' Added
+    - Translation for mod 'Planets have flow statistics for their cargo pods' Added
+    - Translation for mod 'Psyduck' Added
+    - Translation for mod 'Quicksearch' Added
+    - Translation for mod 'Space Age Science Packs' Added
+    - Translation for mod 'Train Mode Switcher' Added
+    - Translation for mod 'Visible Planets Scale' Added
+    - Translation for mod 'VortiK's Armor Reach' Added
+    - Translation for mod 'WePlay: Burner Module' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'BreedingDemolisher' Updated
+    - Translation for mod 'Factorio and Conquer: Tiberian Dawn' Updated (Thanks to Siwoo1231)
+    - Translation for mod 'Glass' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 2025-01-17
+  Translation Added:
+    - Translation for mod 'Factorio and Conquer: Tiberian Dawn' Added (Thanks to Siwoo1231)
   Minor mod Translation Added:
     - Translation for mod 'Ammo Range+' Added
     - Translation for mod 'Ammonia carbon fiber' Added
+    - Translation for mod 'Big solar panel' Added
     - Translation for mod 'Break Time' Added
     - Translation for mod 'Chicken you are too beautiful skin' Added
     - Translation for mod 'Elevated Rail Recolor' Added
     - Translation for mod 'Everything on Nauvis' Added
     - Translation for mod 'Factorio Earth 2.0' Added
+    - Translation for mod 'Farther Heat' Added
     - Translation for mod 'Finite Oil' Added
     - Translation for mod 'FUE5 Exporter' Added
     - Translation for mod 'Jar Item Mod' Added
@@ -25,10 +63,12 @@ Date: 2025-01-17
     - Translation for mod 'King Jo's Ju-52' Added
     - Translation for mod 'King Jo's Ju-87' Added
     - Translation for mod 'King Jo's XB-35' Added
+    - Translation for mod 'My First Assembly' Added
     - Translation for mod 'Nature regeneration' Added
-    - Translation for mod 'No stone on the bus' Added
     - Translation for mod 'No Lava In Pipes' Added
+    - Translation for mod 'No stone on the bus' Added
     - Translation for mod 'Planet Quadromire' Added
+    - Translation for mod 'Pushbutton' Added
     - Translation for mod 'Quality Unlocked' Added
     - Translation for mod 'Red Alert Tesla Sounds' Added
     - Translation for mod 'Rivens Realistic Train Acceleration' Added
@@ -36,15 +76,14 @@ Date: 2025-01-17
     - Translation for mod 'Schall Land Mine' Added
     - Translation for mod 'Sushi Everything' Added
     - Translation for mod 'Tenebris Sulfur' Added
-    - Translation for mod 'Pushbutton' Added
-    - Translation for mod 'Farther Heat' Added
-    - Translation for mod 'Big solar panel' Added
-    - Translation for mod 'My First Assembly' Added
   Translation Updated/Fixed:
     - Translation for mod 'Ancient Drill' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Deep Mine 2' Updated
     - Translation for mod 'Even Pickier Dollies' Updated
     - Translation for mod 'Factorio HD Age Modpack' Updated
     - Translation for mod 'Foundations' Updated
+    - Translation for mod 'Frost Biters' Updated
     - Translation for mod 'King Jo's Vehicle Master' Updated
     - Translation for mod 'Krastorio 2 - Air Purifier' Updated
     - Translation for mod 'Kuxynator's Smart Linked Chests' Updated
@@ -60,9 +99,6 @@ Date: 2025-01-17
     - Translation for mod 'Spidertron Patrols' Updated
     - Translation for mod 'Stone Water Well' Updated
     - Translation for mod 'Train Trails' Updated
-    - Translation for mod 'Cerys' Updated
-    - Translation for mod 'Frost Biters' Updated
-    - Translation for mod 'Deep Mine 2' Updated
     - Translation for mod 'Underground Indicators Fixed' Updated
     - Translation for mod 'What Items Do I Have?' Updated
 ---------------------------------------------------------------------------------------------------
