@@ -1,9 +1,60 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.7.2
-Date: 2025-01-22
+Version: 0.7.3
+Date: 2025-01-25
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 polarzero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Lunar Landings' Added
+    - Translation for mod 'Periodic Madness' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Big Pink Eraser' Added
+    - Translation for mod 'BoreHole' Added
+    - Translation for mod 'Electric Furnaces' Added
+    - Translation for mod 'ERM - RedArmy' Added
+    - Translation for mod 'Events Logger' Added
+    - Translation for mod 'Explosive Excavation' Added
+    - Translation for mod 'Explosive Spoilage' Added
+    - Translation for mod 'Factorio Qol Age: Resorted Items' Added
+    - Translation for mod 'Falkior Tweak' Added
+    - Translation for mod 'Faster Respawn' Added
+    - Translation for mod 'Lily's Treenades' Added
+    - Translation for mod 'MKLV Radar MK2' Added
+    - Translation for mod 'MKLV Substation MK2' Added
+    - Translation for mod 'Nuclear Artillery QuickFix' Added
+    - Translation for mod 'Power Multiplier' Added
+    - Translation for mod 'Promethium is Quality' Added
+    - Translation for mod 'Reusable rocket' Added
+    - Translation for mod 'Street Lamps' Added
+    - Translation for mod 'Tier 4 Modules Rebalance' Added
+    - Translation for mod 'Tungsten Belt' Added
+    - Translation for mod 'ZY-Teleport' Added
+    - Translation for mod 'Planet Woodoria' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Better Victory Screen' Updated
+    - Translation for mod 'BreedingDemolisher' Updated
+    - Translation for mod 'Evolution Technology' Updated
+    - Translation for mod 'Extended Vanilla: Refining' Updated & Fixed
+    - Translation for mod 'Factorio World' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Farmtorio' Updated
+    - Translation for mod 'Foundations' Updated
+    - Translation for mod 'King Jo's Entity Master' Updated
+    - Translation for mod 'Micro Machines Mod' Updated
+    - Translation for mod 'Mini Machines Mod' Updated
+    - Translation for mod 'PlanetsLib' Updated
+    - Translation for mod 'Platformer' Fixed
+    - Translation for mod 'Promethium is Quality' Updated
+    - Translation for mod 'Roc's Hardcore Fulgora' Updated
+    - Translation for mod 'Roc's Hardcore Gleba' Updated
+    - Translation for mod 'Roc's Hardcore Vulcanus' Updated
+    - Translation for mod 'Space Age: Hardcore Mode' Updated
+    - Translation for mod 'Uranium Logistics' Updated
+    - Translation for mod 'Valves' Updated
+    - Translation for mod 'Void Snatch' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.7.2
+Date: 2025-01-22
   Translation Added:
     - Translation for mod 'Factorio+' Added
     - Translation for mod 'Smart Inserters' Added

@@ -1,0 +1,12 @@
+require("SKL");
+setI18nR(false,'heat-pipe','heat-pipe','periodic');
+setI18nR(false,'construction-robot','construction-robot','periodic');
+setI18nR(false,'logistic-robot','logistic-robot','periodic');
+setI18nR(true,'tool','automation-science-pack','periodic');
+setI18nR(true,'tool','logistic-science-pack','periodic');
+setI18nR(true,'tool','chemical-science-pack','periodic');
+setI18nR(true,'technology','advanced-oil-processing','periodic');
+setI18nR(true,'technology','battery','periodic');
+setI18nR(true,'technology','automation-science-pack','periodic');
+setI18nR(true,'technology','logistic-science-pack','periodic');
+setI18nR(true,'technology','chemical-science-pack','periodic');
