@@ -107,6 +107,7 @@ end
 if mods['promethium-quality'] then
 	setI18nR(true,'item','promethium-asteroid-chunk','proq');
 end
+if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
 if mods['periodic-madness'] then require("updates.periodic-madness"); end
