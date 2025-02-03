@@ -79,6 +79,7 @@ Arachnids_enemy
 Arborium_Renewed
 Arcana
 AreaPaste
+Armored-train
 armoredWall
 ArmouredBiters
 artillery-bombardment-remote-2
@@ -95,6 +96,7 @@ atan-ash
 Atomic_Overhaul
 atomic-bomb-shockwave-distance
 AtomicArtillery
+augmentor
 auto-ground-cover
 autocraft-logistics
 AutoGhostBuilder
@@ -129,6 +131,7 @@ Better-Melting-Ice
 better-miners
 Better-Power-Armor-Grid
 better-thermal
+better-train-system
 Better-TrainHorn
 bettercallsaul-2
 BetterCommands
@@ -136,6 +139,7 @@ beyond-logistics
 big-beautiful-module-icons
 Big-Monsters
 big-numbers
+big-pink-eraser
 big-wooden-pole
 BigDrills
 BigLabFork
@@ -152,6 +156,7 @@ BlackMarket2_SpaceAgeFix
 BlockyTorch
 blueprint-sandboxes
 bobinserters-tweak
+BoreHole
 BotChargeRemoved
 BotDeathSounds
 botsbotsbotsfork
@@ -213,6 +218,7 @@ compaktcircuit
 companion-drones
 concrete-plus
 concrete-productivity
+concrete-productivity-modified
 Configurable-Qualities
 configurable-solar-and-accu
 configurable-valves
@@ -221,7 +227,6 @@ ConfigurableMiningDrills
 ConnectionBox
 ConstructionPlannerContinued
 Constructron-Continued
-corrundum
 crafting-efficiency-2
 crafting-queue-enhancements
 creative-mode
@@ -269,6 +274,7 @@ dredgeworks-graphics
 drilly
 dune_navigator
 early_recycling
+early-agriculture
 early-circuit-network
 EarlyvatedRails
 easy-wind-turbine
@@ -283,6 +289,7 @@ EfficiencyPromotesQuality
 Electric_flying_enemies
 electric_pole_free_light
 electric-air-purifier
+Electric-Furnaces-2-0-Update
 electric-grid
 electric-trains
 electricboiler
@@ -298,11 +305,13 @@ Enduring-Embers
 enemyracemanager
 enemyracemanager_assets
 Enhanced_Roboports
+EntangledBelts
 epic_mining_and_crafting_speed_research
 epic-fulgora
 EpicArtillerySounds
 equipment-gantry
 erm_libs
+erm_redarmy
 erm_toss
 erm_toss_hd_assets
 erm_zerg
@@ -314,30 +323,39 @@ ev-logistics
 ev-machines
 ev-refining
 even-pickier-dollies
+events-logger
 everything-spoilage
 EverythingOnNauvis
 evo_tech
 Evolution Reduction
 Expensive-Mode
+Explosive Excavation
 Explosive_biters
+ExplosiveSpoilage
+extended-evolution-settings
 extended-research-system
 FactOreo
 factorio_hd_age_space_age_terrain_vulcanus
+factorio_qol_age_resorted_items
 factorio-cooked-fish
 factorio-crash-site
 factorio-reach
 Factorio-Tiberium
 factorio-world
 factoriopedia-extended
+factorioplus
 FactorioWorldUpdated
 factorissimo-2-Space-Age-Port
 factory_graph
 factory_solver
 factory-efficiency-tracker
+factoryfinder
+FalkiorTweak
 FalloutPowerArmor
 far-reach
 farther-heat
 fast-demolisher
+faster-respawn
 faster-rocket-silo-animation
 FasterStart
 FastGate
@@ -429,6 +447,7 @@ heroic_library
 hide-space-age-spoilers
 holographic_signs
 hot-metals
+Hover-Car
 Hovercrafts
 hud-auto-hide
 hunter-killer
@@ -437,6 +456,7 @@ HuTaoSkin
 ic-reinforced-walls
 ICastBullets
 id-like-cliff-explosives-on-nauvis-please
+Imbalance
 improvement-loaders
 Infinite_Combat_Robot_Lifetime
 Infinite_Repair_Pack
@@ -448,6 +468,7 @@ InfiniteTech_FIXED
 infinity-rocket-silo
 InfinityChestStart
 InfinityPipeStart
+inserter-cranes-fork
 inserter-throughput-lib
 intelligent-enemy
 intercontinental-rocketry-forked
@@ -614,6 +635,8 @@ miniloader-redux
 minime
 Mining_Drones_2_CnC
 mining-patch-planner
+mklv-radar-mk2
+mklv-substation-mk2
 moar-modules
 MOARInserters
 mod_recipes
@@ -659,6 +682,7 @@ neuroitem
 newly-constructed-machines-wait-for-their-modules
 newsletter-for-mods-made-by-quezler
 nice-try-train
+nightvision_progression-fork
 nine-tile-world
 No_Bots_Please
 no--inventory-is-full--corpse-pickup-troubles
@@ -684,6 +708,7 @@ Noxys_Swimming
 Noxys_Trees
 Noxys_Waterfill
 Nuclear Fuel
+Nuclear_Artillery_QF
 NuclearFuelStack
 NuclearPowerRebalance
 Nuketronics
@@ -725,6 +750,7 @@ planet-muluna
 planet-picker
 planet-quadromire
 planet-reorder
+planet-woodoria
 Planetary-Distance-Adjustments
 planetary-sourcing
 planets-have-flow-statistics-for-their-cargo-pods
@@ -747,6 +773,7 @@ pollution-module-evil
 Power Armor MK3
 power-propagation
 powerful-laser-turret
+PowerMultiplier
 prismatic-belts-space-age
 prismatic-quality
 Pro-Flashlight
@@ -755,7 +782,10 @@ productions-per-minute
 Productivity
 ProductivityResearchForEveryone
 Promethium_Science_Rebalance
+promethium-crafting-rework
 promethium-processing
+promethium-quality
+Prospector
 psyduck
 pump
 pump-anywhere
@@ -782,12 +812,13 @@ RailgunSpidertron
 railloader2
 RailLogisticsDispatcher
 RailTester
+railway-reach
 rainbowore
 RandomColors
 rapid-belts-t4
 raven_mk2
 rcu-restored
-real-starry-universe
+real-starry-universe-Fork
 RealisticReactorGlow
 RealisticTank
 RecursiveResourceCalculator
@@ -805,6 +836,7 @@ repair-from-vehicle
 Research_Productivity
 research-cost-curve
 research-counter-fixed
+reusable-rocket-simple
 Reverse-Engineering
 revert-mining-productivity-cost
 revisedscraprecycling
@@ -884,6 +916,7 @@ show-max-underground-distance
 shrekported
 ShuttleTrainRefresh
 sign-post
+signal-display
 Silicon
 Silo-alert-sound-space-age
 simple-mod-reload
@@ -899,6 +932,7 @@ slp-dyson-sphere-reworked
 slp-underground-poles
 smaller_train_stop_collision
 smaller-shortcut-icons
+Smart_Inserters
 smart-nukes
 smooth-artillery-wagon
 snouz-big-solar-panel
@@ -947,6 +981,7 @@ stock-me-up
 StoneWaterWell2-0
 storage-tanks-modpack
 StorageTank2_2_0
+StreetLamps_Fix
 Superheating
 Surfaces-Have-Temperature
 sushi
@@ -965,6 +1000,7 @@ TheDeadBurn_v17
 TheJar
 thermal-solar-power-lite
 tianyi
+tier-4-modules-rebalance
 tiered-gas-generator
 Tiered-Solar-System
 time-changer
@@ -991,6 +1027,9 @@ TrashChest
 tree_collision
 Tree_XRay
 tree-healing
+treenade
+tungsten-axe
+tungsten-belt-rename
 tungsten-munition
 turbines-plusplus-reloaded
 turret-activation-delay
@@ -1008,6 +1047,7 @@ UpliftingMusic
 UPSFriendlyNixieTubeDisplay
 uranium_geiger
 Uranium_Inserter_T
+uraniumlogistics
 valerian-planets
 valves
 vanilla_galore_continued
@@ -1026,6 +1066,7 @@ VoidBlock
 Voidcraft
 vp-scale
 vtk-armor-reach
+vtk-deep-core-mining
 vtk-ta-big-bertha-artillery-sounds
 vulcanus-sulfuric-bacteria
 Wagon-quality-size
@@ -1076,10 +1117,12 @@ yi_engines
 Yi_Tech_Tree_ExtraVanilla
 YKR_Far_Reach
 yo-tweak-robots
+YRK_underground_belts
 Yuoki2
 zerm_postprocess
 zithorian-extra-storage-tanks-port
 zk-lib
 zoo-animal
+ZY-Teleport
 zzz-handcraft-shop
 zzzz9999-better-restack
