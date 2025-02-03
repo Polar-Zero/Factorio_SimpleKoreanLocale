@@ -1,0 +1,16 @@
+require("SKL");
+setI18n(false,'tool','automation-science-pack','item','baketorio');
+setI18n(false,'tool','logistic-science-pack','item','baketorio');
+setI18n(false,'tool','chemical-science-pack','item','baketorio');
+setI18n(false,'tool','utility-science-pack','item','baketorio');
+setI18n(false,'tool','production-science-pack','item','baketorio');
+setI18nR(false,'recipe','automation-science-pack','baketorio');
+setI18nR(false,'recipe','logistic-science-pack','baketorio');
+setI18nR(false,'recipe','chemical-science-pack','baketorio');
+setI18nR(false,'recipe','utility-science-pack','baketorio');
+setI18nR(false,'recipe','production-science-pack','baketorio');
+setI18nR(false,'technology','automation-science-pack','baketorio');
+setI18nR(false,'technology','logistic-science-pack','baketorio');
+setI18nR(false,'technology','chemical-science-pack','baketorio');
+setI18nR(false,'technology','utility-science-pack','baketorio');
+setI18nR(false,'technology','production-science-pack','baketorio');

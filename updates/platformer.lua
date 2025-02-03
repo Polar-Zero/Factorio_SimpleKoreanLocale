@@ -1,7 +1,3 @@
----   For Developers of Translation mods:
----   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
----   - PolarZero
-
 require("SKL");
 setI18nR(true,'assembling-machine','captive-biter-spawner','platformer');
 setI18nR(true,'container','wooden-chest','platformer');

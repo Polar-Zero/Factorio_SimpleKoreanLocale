@@ -1,7 +1,7 @@
 ---   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
 ---   - PolarZero
 
----   Setting Code Version 1.0
+---   Setting Code Version 1.0.1
 function enforceI18n(p,z,o) p=p..'-setting' if data.raw[p] then if data.raw[p][z] then data.raw[p][z].localised_name={'mod-setting-name.'..z}
 if o then data.raw[p][z].localised_description={'mod-setting-description.'..z} end end end end
 

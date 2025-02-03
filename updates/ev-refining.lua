@@ -1,7 +1,3 @@
----   For Developers of Translation mods:
----   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
----   - PolarZero
-
 require("SKL");
 enforceI18n('item','crusher1',true);
 enforceI18n('recipe','crusher1');

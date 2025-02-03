@@ -5,32 +5,11 @@
 ---   Code Version 2.2.0
 
 require("updates.SKL");
-if mods['adamo-carbon'] then
-	setI18nR(true,'technology','advanced-oil-processing','carbon');
-	setI18nR(true,'technology','coal-liquefaction','carbon');
-end
 if mods['Additional-Qualities'] then
 	for i=1, 35 do
 		enforceI18n('technology','additional-qualities-x'..i);
 		enforceI18n('quality','transcendentx'..i);
 	end
-end
-if mods['baketorio'] then
-	setI18n(false,'tool','automation-science-pack','item','baketorio');
-	setI18n(false,'tool','logistic-science-pack','item','baketorio');
-	setI18n(false,'tool','chemical-science-pack','item','baketorio');
-	setI18n(false,'tool','utility-science-pack','item','baketorio');
-	setI18n(false,'tool','production-science-pack','item','baketorio');
-	setI18nR(false,'recipe','automation-science-pack','baketorio');
-	setI18nR(false,'recipe','logistic-science-pack','baketorio');
-	setI18nR(false,'recipe','chemical-science-pack','baketorio');
-	setI18nR(false,'recipe','utility-science-pack','baketorio');
-	setI18nR(false,'recipe','production-science-pack','baketorio');
-	setI18nR(false,'technology','automation-science-pack','baketorio');
-	setI18nR(false,'technology','logistic-science-pack','baketorio');
-	setI18nR(false,'technology','chemical-science-pack','baketorio');
-	setI18nR(false,'technology','utility-science-pack','baketorio');
-	setI18nR(false,'technology','production-science-pack','baketorio');
 end
 if mods['dredgeworks'] then
 	setRecipe(true,'item','refined-concrete','dredgeworks');
@@ -96,20 +75,17 @@ if mods['no-more-gambling'] then
 	setI18nR(true,'item','quality-module-2','nomoregamble');
 	setI18nR(true,'item','quality-module-3','nomoregamble');
 end
-if mods['spaceplatform-block'] then
-	setI18nR(true,'item','space-platform-starter-pack','spblock');
-	setI18nR(true,'technology','construction-robotics','spblock');
-end
 if mods['onlyGleba'] then
 	setI18nR(true,'planet','nauvis','onlygleba');
 	setI18nR(true,'fluid','lithium-brine','onlygleba');
 end
-if mods['promethium-quality'] then
-	setI18nR(true,'item','promethium-asteroid-chunk','proq');
-end
+if mods['adamo-carbon'] then require("updates.adamo-carbon"); end
 if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
+if mods['baketorio'] then require("updates.baketorio"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
+if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
 if mods['periodic-madness'] then require("updates.periodic-madness"); end
 if mods['platformer'] then require("updates.platformer"); end
+if mods['promethium-quality'] then require("updates.promethium-quality"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
