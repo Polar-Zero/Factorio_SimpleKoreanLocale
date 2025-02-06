@@ -1,4 +1,54 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.8.0
+Date: 2025-02-08
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Asteroid Mining' Added
+    - Translation for mod 'Oil Outpost Planner' Added
+    - Translation for mod 'UltimateBelts' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Air Scrubbing' Added
+    - Translation for mod 'Ancient Research' Added
+    - Translation for mod 'Calculator UI' Added
+    - Translation for mod 'Cargo Pad Bonus Research' Added
+    - Translation for mod 'Colored Lamp Normalizer' Added
+    - Translation for mod 'Common prototypes graphics' Added
+    - Translation for mod 'Disable vanilla spoilage' Added
+    - Translation for mod 'Easy Logistic Configuration' Added
+    - Translation for mod 'ET's Queue to Front' Added
+    - Translation for mod 'Expand Tooltip' Added
+    - Translation for mod 'Fulgora Uranium' Added
+    - Translation for mod 'Gleba Recipe Tweaks' Added
+    - Translation for mod 'Minesweeper forked' Added
+    - Translation for mod 'Nauvis Implosion and Gehenna' Added
+    - Translation for mod 'Nuclear Science' Added
+    - Translation for mod 'Planet Akularis' Added
+    - Translation for mod 'Planet Tapatrion' Added
+    - Translation for mod 'Quick Map Tag Teleport' Added
+    - Translation for mod 'Recycle Icons' Added
+    - Translation for mod 'Stackless' Added
+    - Translation for mod 'Superluminal Spaceship' Added
+    - Translation for mod 'TJ's Air Cleaner' Added
+    - Translation for mod 'Ultimate Quality in Space Age' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Armored Train (Turret Wagons)' Updated
+    - Translation for mod 'Bots Bots Bots!' Updated
+    - Translation for mod 'BreedingDemolisher' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Periodic Madness' Updated
+    - Translation for mod 'Preceti's Music Experiment' Updated
+    - Translation for mod 'Quality upgrade planner' Updated
+    - Translation for mod 'Roc's Rusting Iron' Updated
+    - Translation for mod 'Tiered Solar System' Updated
+    - Translation for mod 'Vanilla Galore Continued' Updated
+    - Translation for mod 'Wood Gasification' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.7.8
 Date: 2025-02-03
   # Notice:
