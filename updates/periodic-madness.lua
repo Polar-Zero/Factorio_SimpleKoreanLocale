@@ -10,4 +10,5 @@ setI18nR(true,'technology','battery','periodic');
 setI18nR(true,'technology','automation-science-pack','periodic');
 setI18nR(true,'technology','logistic-science-pack','periodic');
 setI18nR(true,'technology','chemical-science-pack','periodic');
+setI18nR(true,'fluid','lubricant','periodic');
 setI18nR(false,'recipe','plastic-bar','periodic');

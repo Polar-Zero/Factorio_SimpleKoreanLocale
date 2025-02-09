@@ -77,11 +77,14 @@ if mods['no-more-gambling'] then
 end
 if mods['onlyGleba'] then
 	setI18nR(true,'planet','nauvis','onlygleba');
+	setI18nR(true,'item','lithium-plate','onlygleba');
 	setI18nR(true,'fluid','lithium-brine','onlygleba');
+	setI18nR(true,'technology','coal-synthesis','onlygleba');
 end
 if mods['adamo-carbon'] then require("updates.adamo-carbon"); end
 if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
 if mods['baketorio'] then require("updates.baketorio"); end
+if mods['deadsun'] then require("updates.deadsun"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
 if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end

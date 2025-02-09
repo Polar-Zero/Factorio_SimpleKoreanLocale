@@ -38,6 +38,7 @@ aai-vehicles-warden
 aai-zones
 AbandonedRuins_updated_fork
 AbandonedRuins-base
+AbandonedRuins20
 accumulator-mk2
 accumulator-walls
 acorns-module-buff
@@ -59,6 +60,7 @@ AdvancedSubstation
 AdvancedSubstationSpaceAgeUpdate
 aechs-nuclear-downbalance
 afraid-of-the-dark
+age-of-production
 agri-no-spoil
 agricultural-tower-placement-helper
 air-filtering
@@ -71,6 +73,7 @@ all-are-welcome-amongus
 all-armors-can-fly
 allowed-modules
 Alternate_Recipes
+alternative-beacons
 alternative-pentapod-egg-recipe
 AlternativeSteam
 always-day
@@ -83,6 +86,8 @@ AncientResearch
 annihilation-reactor
 antitrypophobia2
 any-planet-start
+apm_lib_ldinc
+apm_nuclear_ldinc
 apm_power_ldinc
 apm_resource_pack_ldinc
 aquilo-thermometer
@@ -175,6 +180,7 @@ big-pink-eraser
 big-wooden-pole
 BigDrills
 bigger-artillery
+BiggerDisplayPanel
 BigLabFork
 BiodomeIndustries
 BiolabsNeedNutrients
@@ -226,6 +232,7 @@ canned-fish
 cannon_turrets_touhma
 captains-log
 casino
+castra
 cerys-lunaponics
 Cerys-Moon-of-Fulgora
 cf-lib
@@ -270,6 +277,7 @@ companion-drones
 concrete-plus
 concrete-productivity
 concrete-productivity-modified
+configurable_landfill
 Configurable-Qualities
 configurable-solar-and-accu
 configurable-valves
@@ -297,6 +305,7 @@ dangOreus
 darkmode
 days-without-incident
 deadlock-beltboxes-loaders
+deadsun
 Death_Counter
 death_curses
 debloat-better-foundry
@@ -390,6 +399,7 @@ ets-queue-to-front
 ev-assets
 ev-logistics
 ev-machines
+ev-mining-drills
 ev-refining
 even-distribution
 even-pickier-dollies
@@ -560,6 +570,7 @@ infinite_worker_robot_capacity_research
 infinite-belt-stacking
 infinite-quality-tiers
 infinite-resources-depletion
+InfiniteResourceDeposits
 InfiniteTech_FIXED
 infinity-rocket-silo
 InfinityChestStart
@@ -581,9 +592,11 @@ iron_chest_ore
 iron_chest_requires_wood_chest
 IronChest
 ItemGiverGui2
+its-about-time
 IWantToGoToSpace
 jalm
 James-Oil-Processing
+james-train-mod
 k2-anti-material-rifle
 k2-flare-stack
 k2-fluid-storage
@@ -641,6 +654,7 @@ kry_safe_planets
 kry_stdlib
 kry-all-planet-mods
 kry-all-planet-mods-Fork
+kry-asteroids-mult
 kry-hand-cannon
 kry-inserters
 kry-spidertron
@@ -705,6 +719,7 @@ loaders-utils
 LoaderUnlocker
 logistic-group-combinator
 LogisticTrainNetwork
+long-chestFork
 LouderCargoWagons
 LR_Turret
 LR_Turret_Redux
@@ -882,6 +897,7 @@ PicksRocketStats
 Piety
 pikachu
 pipe_plus
+Pipebelts
 PlaceableOffGrid
 planet-akularis
 planet-arrakis
@@ -1067,9 +1083,11 @@ SchallAutolinkedChest
 SchallCircuitGroup
 SchallLandMine
 SchallMachineModification
+SchallMachineScaling
 SchallOilFuel
 SchallOverseasRailway
 SchallRadarAlignment
+SchallRemainsPickup
 schallstartinginventory
 SchallTankWoodcutting
 SchallTransportGroup
@@ -1143,6 +1161,7 @@ some-big-mining-drill
 some-gleba-science
 some-resourcespam
 sonaxaton-infinite-resources
+space_age_galore
 space-age-adjustments
 Space-Age-Hardcore-Mode
 space-platform-chests
@@ -1322,6 +1341,7 @@ WireShortcutX
 WireTools
 Wood_Gasification_updated
 wood-base-assets
+wood-industry
 wood-logistics
 wood-military
 wood-stack-to-1k
