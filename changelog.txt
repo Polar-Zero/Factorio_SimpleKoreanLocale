@@ -1,9 +1,43 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.8.1
-Date: 2025-02-11
+Version: 0.8.3
+Date: 2025-02-12
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Changes:
+    - 'Maraxis'와 'Cerys' 모드의 번역이 반영되지 않는 증상이 수정되었습니다.
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!번역 오류가 있다면 제보주세요!
+  Translation Added:
+    - Translation for mod 'Dredgeworks: Frozen Reaches' Added
+    - Translation for mod 'Warp Drive Machine' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Better Space Platform' Added
+    - Translation for mod 'Death Location' Added
+    - Translation for mod 'Enhanced Walls' Added
+    - Translation for mod 'Hourly Autosaves 2' Added
+    - Translation for mod 'Inventory Trim' Added
+    - Translation for mod 'Progressive Productivity' Added
+    - Translation for mod 'Realistic Ores' Added
+    - Translation for mod 'Schall Alien Loot' Added
+    - Translation for mod 'Scienceception' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Asteroid Frequency Multiplier' Updated
+    - Translation for mod 'Astroponics' Updated
+    - Translation for mod 'Castra' Updated
+    - Translation for mod 'Extra Storage Tanks: Tiny Inline Storage Tank' Updated
+    - Translation for mod 'King Jo's Cybertruck' Updated
+    - Translation for mod 'King Jo's Entity Master' Updated
+    - Translation for mod 'Manual Inventory Sorting' Updated
+    - Translation for mod 'Nuclear Science' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+    - Translation for mod 'Space Age: Hardcore Mode' Updated
+    - Translation for mod 'Spoilage Scanner' Updated
+    - Translation for mod 'Tech tree plus' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Wooden Vulcanus: Sulfuric Bacteria' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.8.1
+Date: 2025-02-11
   Translation Added:
     - Translation for mod 'Age of Production' Added
     - Translation for mod 'Amator Phasma's Library' Added
