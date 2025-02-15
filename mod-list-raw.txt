@@ -1,6 +1,7 @@
 10-quadrillion-chicken-nuggets
 1337exp-loader
 144-Slot-Wagons
+2d17-ramblin-rail
 2plus2equalsfish
 4k_planets
 5dim_automation
@@ -60,7 +61,7 @@ AdvancedSubstation
 AdvancedSubstationSpaceAgeUpdate
 aechs-nuclear-downbalance
 afraid-of-the-dark
-age-of-production
+Age-of-Production
 agri-no-spoil
 agricultural-tower-placement-helper
 air-filtering
@@ -123,6 +124,7 @@ AtomicArtillery
 AtomicArtillery2
 augmentor
 auto_manual_mode
+auto-fuel-mod
 auto-ground-cover
 autocraft-logistics
 AutoDeconstruct
@@ -164,6 +166,7 @@ better-chat
 Better-Melting-Ice
 better-miners
 Better-Power-Armor-Grid
+better-space-platform
 better-thermal
 better-train-system
 Better-TrainHorn
@@ -203,7 +206,6 @@ BoreHole
 bot-cargo-quality
 BotChargeRemoved
 BotDeathSounds
-botsbotsbots
 botsbotsbots-fast
 botsbotsbotsfork
 Bottleneck
@@ -277,7 +279,7 @@ companion-drones
 concrete-plus
 concrete-productivity
 concrete-productivity-modified
-configurable_landfill
+Configurable_Landfill
 Configurable-Qualities
 configurable-solar-and-accu
 configurable-valves
@@ -292,6 +294,7 @@ crafting-queue-enhancements
 Crawler
 creative-mod
 creative-mode
+cubium
 Cursed-FMD
 Cursor_Craft
 CursorEnhancements
@@ -308,8 +311,10 @@ deadlock-beltboxes-loaders
 deadsun
 Death_Counter
 death_curses
+death-location
 debloat-better-foundry
 debloat-handmine-cliffs
+decider-combinator-output-constant-editor
 DeepMine2
 delete-fulgora
 delete-gleba
@@ -343,6 +348,7 @@ dredgeworks
 dredgeworks-graphics
 drilly
 dune_navigator
+dw-frozen-reaches
 dyson-sphere
 early_recycling
 early-agriculture
@@ -381,6 +387,7 @@ Enduring-Embers
 enemyracemanager
 enemyracemanager_assets
 Enhanced_Roboports
+enhanced-walls
 EntangledBelts
 epic_mining_and_crafting_speed_research
 epic-fulgora
@@ -502,12 +509,14 @@ Fridge
 frozen-factory
 FrozenFood
 fruit
+fruitProcessingProductivity
 ftl-music
 FUE5Exporter
 fulgora-extended
 fulgora-linked-construction-hub
 Fulgora-Nuclear-Overhaul
 fulgora-uranium-coal
+Fundryu
 furnace-recipe-selection
 fusion-thruster
 fusioncellrecipe
@@ -553,6 +562,7 @@ hide-space-age-spoilers
 HighSpeedTrain
 holographic_signs
 hot-metals
+hourly_autosaves_2
 Hover-Car
 Hovercrafts
 hud-auto-hide
@@ -584,6 +594,7 @@ Inventory Sensor
 inventory-mover
 inventory-repair
 inventory-templates
+inventory-trim
 invincible-construction-bots
 invincible-spawner
 Invulnerable_Bots
@@ -597,12 +608,14 @@ IWantToGoToSpace
 jalm
 James-Oil-Processing
 james-train-mod
+janus
 k2-anti-material-rifle
 k2-flare-stack
 k2-fluid-storage
 k2-railgun-turret
 k2-steel-pipes
 k2-wind-turbine
+KetsRadars
 KingdomOST
 kj_2a6
 kj_40kbaneblade
@@ -719,11 +732,13 @@ loaders-utils
 LoaderUnlocker
 logistic-group-combinator
 LogisticTrainNetwork
+lokisbotsfork
 long-chestFork
 LouderCargoWagons
 LR_Turret
 LR_Turret_Redux
 LSlib_James_Fork
+LTN_Combinator_Modernized
 Lubricantless_Blue_Belts
 LunarLandings
 lyra_loaders_can_stack
@@ -832,6 +847,7 @@ nice-try-train-2
 nightvision_progression-fork
 NindyCore-forked
 nine-tile-world
+nixie-tubes
 No_Bots_Please
 no--inventory-is-full--corpse-pickup-troubles
 no-hand-crafting
@@ -952,6 +968,7 @@ production-monitor
 productions-per-minute
 Productivity
 ProductivityResearchForEveryone
+progressive-productivity
 Promethium_Science_Rebalance
 promethium-crafting-rework
 promethium-processing
@@ -1000,6 +1017,7 @@ rcu-restored
 real-starry-universe
 real-starry-universe-Fork
 RealisticDecorationCleanup
+realisticores
 RealisticReactorGlow
 RealisticTank
 RecursiveResourceCalculator
@@ -1051,6 +1069,7 @@ Rocket-Silo-Construction
 rocket-silos-can-buffer-more-rockets
 Rocs-Hardcore-Aquilo
 Rocs-Hardcore-Cargo-Drops
+Rocs-Hardcore-Cerys
 Rocs-Hardcore-Delayed-Tech-Tree
 Rocs-Hardcore-Demolishers
 Rocs-Hardcore-Fulgora
@@ -1078,6 +1097,7 @@ SaltedFish
 Sane-Concrete-2
 ScalingScienceCounts
 scattergun_turret
+schallalienloot
 SchallAmmoTurrets
 SchallAutolinkedChest
 SchallCircuitGroup
@@ -1095,6 +1115,7 @@ SchallUncraft
 science-pack-glow-reborn
 science-stinks
 science-unstable
+scienceception
 ScienceConverter
 ScienceFuel
 scrap-reprocessor
@@ -1226,6 +1247,7 @@ TheDeadBurn_v17
 TheFloorIsLavaRevival
 TheJar
 thermal-solar-power-lite
+thruster-control-behavior
 tianyi
 tier-4-modules-rebalance
 tiered-gas-generator
@@ -1311,6 +1333,7 @@ vtk-ta-big-bertha-artillery-sounds
 vulcanus-sulfuric-bacteria
 Wagon-quality-size
 Warehousing
+Warp-Drive-Machine
 Water-Friendly-Walls
 water-poles
 water-pumpjack
