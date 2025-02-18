@@ -89,6 +89,7 @@ if mods['ev-refining'] then require("updates.ev-refining"); end
 if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
 if mods['periodic-madness'] then require("updates.periodic-madness"); end
+if mods['lignumis'] then require("updates.lignumis"); end
 if mods['platformer'] then require("updates.platformer"); end
 if mods['promethium-quality'] then require("updates.promethium-quality"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end

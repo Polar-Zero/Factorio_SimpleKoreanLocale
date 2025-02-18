@@ -1,9 +1,44 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.8.4
-Date: 2025-02-15
+Version: 0.8.5
+Date: 2025-02-19
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Furnitorio' Added
+    - Translation for mod 'LTN Train Information combinator' Added
+    - Translation for mod 'Lunar Landings - Eternal Winter (DLC)' Added
+    - Translation for mod 'Moshine (planet only)' Added
+    - Translation for mod 'Moshine' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Anti-Quality Module' Added
+    - Translation for mod 'Belt Brush' Added
+    - Translation for mod 'Dynamic Train Stop Naming' Added
+    - Translation for mod 'Efficient Smelting & Converting 2.0' Added
+    - Translation for mod 'Explosive RC Car' Added
+    - Translation for mod 'Planet Ithurice' Added
+    - Translation for mod 'Planet Zzhora' Added
+    - Translation for mod 'Pollution as surface property' Added
+    - Translation for mod 'QuirkyCat Wood' Added
+    - Translation for mod 'Remove Landfill' Added
+    - Translation for mod 'Remove Pressure Requirement From Gleba' Added
+    - Translation for mod 'Show missing bottles for current research' Added
+    - Translation for mod 'Side Inserters' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Asteroid Mining' Updated
+    - Translation for mod 'Castra' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Cubium' Updated
+    - Translation for mod 'Dredgeworks: Frozen Reaches' Updated
+    - Translation for mod 'God Module' Updated
+    - Translation for mod 'Ramblin Rail' Updated
+    - Translation for mod 'Scienceception' Updated
+    - Translation for mod 'Voidcraft' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.8.4
+Date: 2025-02-15
   Translation Added:
     - Translation for mod 'Cubium' Added
     - Translation for mod 'Janus' Added
@@ -143,9 +178,6 @@ Date: 2025-02-07
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.8
 Date: 2025-02-03
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
   Translation Added:
     - Translation for mod 'LTN - Logistic Train Network' Added
   Minor mod Translation Added:
