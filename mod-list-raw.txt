@@ -85,6 +85,7 @@ ammoniafill
 AncientDrill
 AncientResearch
 annihilation-reactor
+anti-quality-module
 antitrypophobia2
 any-planet-start
 apm_lib_ldinc
@@ -101,6 +102,7 @@ armoredWall
 ArmouredBiters
 artillery-bombardment-remote
 artillery-bombardment-remote-2
+Artillery-Research-Overhaul
 ArtilleryCombinator
 ArtilleryRange
 ArtilleryShellResearch
@@ -150,6 +152,7 @@ behemoth-enemies
 belt-balancer-2
 belt-reverser-space-age
 belt-visualizer
+beltbrush2
 BeltLiner
 beltplanner
 beltplanner-patched
@@ -185,6 +188,7 @@ BigDrills
 bigger-artillery
 BiggerDisplayPanel
 BigLabFork
+biochemistry
 BiodomeIndustries
 BiolabsNeedNutrients
 biter
@@ -198,6 +202,7 @@ BiterShield2
 BlackMarket2_SpaceAgeFix
 BlockyTorch
 blueprint-sandboxes
+BlueprintTools
 Bluetonium
 BluetoniumFusion
 bobinserters
@@ -349,10 +354,12 @@ dredgeworks-graphics
 drilly
 dune_navigator
 dw-frozen-reaches
+dynamic-train-stop-naming
 dyson-sphere
 early_recycling
 early-agriculture
 early-circuit-network
+early-modules
 EarlyvatedRails
 easy-wind-turbine
 EasyDemolisher
@@ -364,6 +371,7 @@ eco-friendly-electric-machines
 EditMapSettings
 EditorExtensions
 EfficiencyPromotesQuality
+efficient-smelting-and-converting
 Electric_flying_enemies
 electric_pole_free_light
 electric-air-purifier
@@ -391,6 +399,7 @@ enhanced-walls
 EntangledBelts
 epic_mining_and_crafting_speed_research
 epic-fulgora
+epic-quality-fulgora
 EpicArtillerySounds
 equipment-gantry
 erm_libs
@@ -402,6 +411,7 @@ erm_zerg
 erm_zerg_hd_assets
 est-steel-storage-tank
 est-tiny-storage-tank
+eternal-winter
 ets-queue-to-front
 ev-assets
 ev-logistics
@@ -420,6 +430,7 @@ expandtooltip
 Expensive-Mode
 Explosive Excavation
 Explosive_biters
+Explosive_RC_Car
 ExplosiveSpoilage
 export-researched-technologies
 extended-evolution-settings
@@ -456,6 +467,7 @@ faster-rocket-silo-animation
 FasterStart
 FastGate
 fdsl
+fewer-quality-tiers
 FG_Charcoal_From_Wood
 Fighting_Lion
 Fill4Me
@@ -518,6 +530,9 @@ Fulgora-Nuclear-Overhaul
 fulgora-uranium-coal
 Fundryu
 furnace-recipe-selection
+furnitorio
+fusion-fuel
+fusion-lab
 fusion-thruster
 fusioncellrecipe
 game-speed-button
@@ -542,6 +557,7 @@ gold-legendary
 GPS_personal
 grappling-gun
 gridlines
+gtnh
 GunEquipment
 gunfactory
 handcraft_timer_space_age
@@ -710,7 +726,9 @@ lawn-mower
 LB-Modular-Chests
 learning-by-doing
 leave_the_lights_on
+legendary-quality-fulgora
 Lego_Yoda_Death_Sound
+less-freezing
 let-me-walk
 lex-aircraft
 lexxy-trashcan
@@ -739,6 +757,8 @@ LR_Turret
 LR_Turret_Redux
 LSlib_James_Fork
 LTN_Combinator_Modernized
+LTN-GasStation
+ltn-train-info
 Lubricantless_Blue_Belts
 LunarLandings
 lyra_loaders_can_stack
@@ -751,13 +771,16 @@ maft
 magic-quality-chest
 magic-science-chest
 Mammoth-MK3
+manifold-pumps
 manual-inventory-sort
+map-tag-generator
 mapshot
 maraxsis
 maraxsis_patch
 maraxsis-normalizer
 maraxsis-start
 material-storage
+matts-lib
 MaxRateCalculator
 MazeWall_2
 mbp-pro
@@ -767,6 +790,7 @@ MechanicusMiniMAX
 memory-cards
 metal-and-stars
 metal-and-stars-graphics
+metal-and-stars-graphics-2 
 mf-buildings
 mf-buildings-graphics-1
 mf-core
@@ -779,6 +803,7 @@ microplasticsfromfish
 miku
 miku-bikini-swimsuit
 miku-pink-dream
+mine-factory
 minecraft
 Minesweeper-forked
 mini
@@ -826,6 +851,8 @@ more-ore
 more-parts
 MoreStorageTanks
 MoreStorageTanksFixed
+Moshine
+Moshine-assets
 MouseOverConstruction
 multi-mine-x10
 multispoil
@@ -921,6 +948,7 @@ planet-froodara
 planet-gerkizia
 planet-hexalith
 Planet-Hopper
+planet-ithurice
 planet-mickora
 planet-muluna
 planet-nekohaven
@@ -931,6 +959,7 @@ planet-tapatrion
 planet-tchekor
 planet-vicrox
 planet-woodoria
+planet-zzhora
 Planetary-Distance-Adjustments
 planetary-sourcing
 planets-have-flow-statistics-for-their-cargo-pods
@@ -949,6 +978,7 @@ PlutoniumBreeding
 PlutoniumEnergy
 PoleLamps
 Pollution_is_the_Solution
+pollution-as-surface-property
 pollution-detector
 pollution-module-evil
 Power Armor MK3
@@ -999,6 +1029,7 @@ QuickAmmoSwitch
 QuickMapTagTeleport
 Quicksave
 Quicksearch
+quirkycat_wood
 R0bb4c0n
 radar-equipment
 RailBow
@@ -1026,7 +1057,9 @@ reggie_mode
 region-cloner
 remote-monitor
 remote-switch
+Remove_Landfill
 remove-nuclear-marks
+Remove-Pressure-Requirement-From-Gleba
 remove-productivity-cap
 RemoveAsteroidParticles
 RemoveBiterSoil
@@ -1058,6 +1091,7 @@ RitnPortal
 RitnTeleporter
 RitnWaterfill
 RitnWaterfill
+Robot_Battery_Research
 Robot-World-Updated-For-SpaceAge
 Robot256Lib
 RoboticsFacility
@@ -1135,9 +1169,11 @@ short-railgun-animation
 shortwave
 shortwave_fix
 show-max-underground-distance
+show-missing-bottles-for-current-research
 shrekported
 shuttle
 ShuttleTrainRefresh
+Side Inserters
 sign-post
 signal-display
 signal-lamp
@@ -1189,6 +1225,8 @@ space-platform-chests
 space-platform-graveyard
 SpaceAgeUnnerfed
 spaceplatform-block
+Spaghetorio
+SpaghetorioGraphics1
 speaker-signals-2
 SpecializedFuel
 SpecialResourceMarker
@@ -1200,6 +1238,7 @@ SpidertronPatrols
 splatter_guard
 splatter_guard_continued
 spoil-down
+Spoil-Multiplier
 spoilage-scanner
 spoiling-plant
 squeak-through-2
@@ -1229,6 +1268,7 @@ superluminal-spaceship
 Surfaces-Have-Temperature
 sushi
 Sushi-Everything
+swearsinpolish
 Swedish-Chefbots
 Tapeline
 TCS_Icons
@@ -1295,6 +1335,7 @@ underground-pipe-pack-simplified
 UndergroundIndicatorsFixed
 UndergroundTransport
 undersea-data-cable
+uniturret
 UnlimitedProductivity
 UnlimitedProductivityFork
 upcycler
@@ -1334,6 +1375,7 @@ vulcanus-sulfuric-bacteria
 Wagon-quality-size
 Warehousing
 Warp-Drive-Machine
+warptorio-space-age
 Water-Friendly-Walls
 water-poles
 water-pumpjack

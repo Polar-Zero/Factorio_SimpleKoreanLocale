@@ -28,9 +28,9 @@ enforceSC("unit","scourge",o,5,l)
 enforceSC("unit","broodling",o,5,l)
 --enforceSC("unit","land_scout",o,5,l)
 --enforceSC("unit","aerial_scout",o,5,l)
-enforceSC2("segmented-unit","small-demolisher",o,1,l)
-enforceSC2("segmented-unit","medium-demolisher",o,1,l)
-enforceSC2("segmented-unit","big-demolisher",o,1,l)
+enforceSC2("segmented-unit","small-nydusworm",o,1,l)
+enforceSC2("segmented-unit","medium-nydusworm",o,1,l)
+enforceSC2("segmented-unit","big-nydusworm",o,1,l)
 
 --Building
 enforceSC("unit-spawner","hatchery",o,5,l)

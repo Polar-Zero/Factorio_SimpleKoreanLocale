@@ -1,9 +1,53 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.8.5
-Date: 2025-02-19
+Version: 0.8.6
+Date: 2025-02-23
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Added:
+    - Translation for mod 'Spaghetorio' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Artillery Research Overhaul' Added
+    - Translation for mod 'Biochemistry' Added
+    - Translation for mod 'Blueprint Tools' Added
+    - Translation for mod 'Epic quality on Fulgora' Added
+    - Translation for mod 'Fusion Fuel' Added
+    - Translation for mod 'Fusion lab' Added
+    - Translation for mod 'Legendary quality on Fulgora' Added
+    - Translation for mod 'Less Freezing' Added
+    - Translation for mod 'Manifold Pumps' Added
+    - Translation for mod 'Map Tag Generator' Added
+    - Translation for mod 'Matt's Library' Added
+    - Translation for mod 'Mine factory' Added
+    - Translation for mod 'Robot Battery Research' Added
+    - Translation for mod 'Spoil Multiplier' Added
+    - Translation for mod 'Universal Turret' Added
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Canned Fish' Updated
+    - Translation for mod 'Castra' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Dredgeworks: Frozen Reaches' Updated
+    - Translation for mod 'Enemy Race Manager' Updated
+    - Translation for mod 'ERM - Protoss / Akilea' Updated
+    - Translation for mod 'ERM - RedArmy' Updated
+    - Translation for mod 'ERM - Zerg / Garm' Updated
+    - Translation for mod 'King Jo's Warhammer 40K Servo-skull' Updated
+    - Translation for mod 'Kuxynator's Smart Linked Chests' Updated
+    - Translation for mod 'Metal and Stars' Updated
+    - Translation for mod 'Modular Beacon Power' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Planet Ithurice' Updated
+    - Translation for mod 'Pollution as surface property' Updated
+    - Translation for mod 'Secretas&Frozeta' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Time Lapse Base Edition' Updated
+    - Translation for mod 'Underground heat pipe' Updated
+    - Translation for mod 'Vanilla Galore Continued' Updated
+    - Translation for mod 'Voidcraft' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.8.5
+Date: 2025-02-19
   Translation Added:
     - Translation for mod 'Furnitorio' Added
     - Translation for mod 'LTN Train Information combinator' Added
