@@ -1,9 +1,24 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.8.6
-Date: 2025-02-23
+Version: 0.8.7
+Date: 2025-02-24
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Kuxynator's Smart Linked Chests' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Oil Outpost Planner' Updated
+    - Translation for mod 'Planet Hoppers' Updated
+    - Translation for mod 'Promethium is Quality' Updated
+    - Translation for mod 'Spaghetorio' Fixed & Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.8.6
+Date: 2025-02-23
   Translation Added:
     - Translation for mod 'Spaghetorio' Added
   Minor mod Translation Added:
@@ -47,7 +62,7 @@ Date: 2025-02-23
     - Translation for mod 'Voidcraft' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.8.5
-Date: 2025-02-19
+Date: 2025-02-18
   Translation Added:
     - Translation for mod 'Furnitorio' Added
     - Translation for mod 'LTN Train Information combinator' Added
