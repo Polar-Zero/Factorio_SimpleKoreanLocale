@@ -1,9 +1,53 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.8.7
-Date: 2025-02-24
+Version: 0.9.0
+Date: 2025-03-05
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  # Addtional Notice:
+    - 개인적인 여행 일정으로 인해 업데이트에 시간이 약간 걸렸습니다 :x
+    - Due because Personal Vacation, Update has been delayed by few days :x
+  Translation Added:
+    - Translation for mod 'Exotic Space Industries' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Amnesia' Added
+    - Translation for mod 'Playtime+' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Astroponics' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Dredgeworks' Updated
+    - Translation for mod 'Early Agriculture' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'Extended Vanilla: Machines' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Factory Finder' Updated
+    - Translation for mod 'Fusion lab' Updated
+    - Translation for mod 'Infinite Quality Tiers' Updated
+    - Translation for mod 'Janus' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'LTN - Logistic Train Network' Updated
+    - Translation for mod 'Lunar Landings' Updated
+    - Translation for mod 'Maraxsis Start' Updated
+    - Translation for mod 'Moshine (planet only)' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'OCs Ammo Casting' Updated
+    - Translation for mod 'Phidias Collection' Updated
+    - Translation for mod 'Planet Maraxsis' Updated
+    - Translation for mod 'Power Armour & Replacer' Updated
+    - Translation for mod 'Preceti's Music Experiment' Updated
+    - Translation for mod 'Secretas&Frozeta' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Spaghetorio' Updated
+    - Translation for mod 'Vanilla Galore Continued' Updated
+    - Translation for mod 'Void Block' Updated
+    - Translation for mod 'Warp Drive Machine' Updated
+    - Translation for mod 'Wooden Cerys: Lunaponics' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.8.7
+Date: 2025-02-24
   Translation Updated/Fixed:
     - Translation for mod 'Age of Production' Updated
     - Translation for mod 'Cerys' Updated

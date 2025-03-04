@@ -86,6 +86,7 @@ if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
 if mods['baketorio'] then require("updates.baketorio"); end
 if mods['deadsun'] then require("updates.deadsun"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
+if mods['exotic-space-industries'] then require("updates.exotic-space-industries") end
 if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
 if mods['periodic-madness'] then require("updates.periodic-madness"); end

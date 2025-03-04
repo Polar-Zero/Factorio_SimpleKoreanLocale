@@ -1,3 +1,7 @@
 FOR TRANSLATE MOD DEVELOPER:
 PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
 - PolarZero
+
+For Non-Translate Mod Developer (Content-Addition Mod)
+You can import a my Korean translation to "mods you're Currently Developing" to use them freely.
+(Only the mods you own!)
