@@ -1,14 +1,73 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.9.1
-Date: 2025-03-08
+Version: 0.9.2
+Date: 2025-03-12
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Colony Builder' Partically Added (#2 / 4)
+  Minor mod Translation Added:
+    - Translation for mod 'Automatic Research Repeater' Added
+    - Translation for mod 'Biter Bites' Added
+    - Translation for mod 'Cerys & Nuclear Science Compatibility Fi' Added
+    - Translation for mod 'Fishteroids' Added
+    - Translation for mod 'Heat Furnace' Added
+    - Translation for mod 'Heavy Truck' Added
+    - Translation for mod 'Hide Resource Tool' Added
+    - Translation for mod 'Intermediate Productivity Research Disabler' Added
+    - Translation for mod 'Lane Filtered Loaders' Added
+    - Translation for mod 'Large lamp' Added
+    - Translation for mod 'Ore Manager Fixed2' Added
+    - Translation for mod 'Rd's Anti-Darkness' Added
+    - Translation for mod 'Robots Energy Removal' Added
+    - Translation for mod 'SafeAFK' Added
+    - Translation for mod 'Science group' Added
+    - Translation for mod 'SimpleClock' Added
+    - Translation for mod 'Space battles' Added
+    - Translation for mod 'Spacesuit' Added
+    - Translation for mod 'The Ruins Mod 2.0 - Silly extension' Added
+    - Translation for mod 'Tin' Added
+    - Translation for mod 'Useful Methane' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Blueprint Sandboxes' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Compakt circuits' Updated
+    - Translation for mod 'Corrundum' Fixed & Updated
+    - Translation for mod 'Dea Dia System' Updated
+    - Translation for mod 'Delayed Tech for Hardcore' Updated
+    - Translation for mod 'Dredgeworks: Frozen Reaches' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Hardcore Aquilo' Updated
+    - Translation for mod 'Hardcore Cerys' Updated
+    - Translation for mod 'Hardcore Fulgora' Updated
+    - Translation for mod 'Hardcore Gleba' Updated
+    - Translation for mod 'Hardcore Vulcanus' Updated
+    - Translation for mod 'Kuxynator's Smart Linked Chests' Updated
+    - Translation for mod 'LTN - Logistic Train Network' Updated
+    - Translation for mod 'Maraxsis' Updated
+    - Translation for mod 'Micro Machines Mod' Updated
+    - Translation for mod 'Mini Machines Mod' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'OCs Ammo Casting' Updated
+    - Translation for mod 'Periodic Madness' Updated
+    - Translation for mod 'Phidias Collection' Updated
+    - Translation for mod 'Power Armor MK3' Updated
+    - Translation for mod 'Quick Map Tag Teleport' Updated
+    - Translation for mod 'Roc's Hardcore Vulcanus' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Space Age: Hardcore Mode' Updated
+    - Translation for mod 'Spaghetorio' Updated
+    - Translation for mod 'Stranded Block 2' Updated
+    - Translation for mod 'Vanilla Galore Continued' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.9.1
+Date: 2025-03-08
   # Addtional Notice:
     - 밀린 모드 번역 업데이트를 열심히 진행 중입니다. 잠시만 기다려주세요!
   Translation Added:
-    - Translation for mod 'Colony Builder' Partically Added
+    - Translation for mod 'Colony Builder' Partically Added (#1 / 4)
     - Translation for mod 'Dea Dia System' Added
   Translation Updated/Fixed:
     - Translation for mod 'Exotic Space Industries' Fixed & Updated
