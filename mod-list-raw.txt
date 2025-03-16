@@ -82,6 +82,7 @@ ammo-loader
 AmmoGroup
 Ammonia-carbon-fiber
 ammoniafill
+Amnesia
 AncientDrill
 AncientResearch
 annihilation-reactor
@@ -97,6 +98,7 @@ Arachnids_enemy
 Arborium_Renewed
 Arcana
 AreaPaste
+Armor_upgradable
 Armored-train
 armoredWall
 ArmouredBiters
@@ -134,6 +136,7 @@ AutoGhostBuilder
 automatic-discharge-defense
 automatic-station-painter
 automatic-underground-pipe-connectors
+AutomaticResearchRepeater
 AutomaticStationName
 Autostash
 awesome-sink
@@ -180,6 +183,7 @@ BetterCommands
 beyond-logistics
 big-beautiful-module-icons
 big-data-string2
+big-heat-furnace
 Big-Monsters
 big-numbers
 big-pink-eraser
@@ -188,10 +192,13 @@ BigDrills
 bigger-artillery
 BiggerDisplayPanel
 BigLabFork
+bio-oil
 biochemistry
 BiodomeIndustries
 BiolabsNeedNutrients
+bioprocessing-tab
 biter
+Biter-Bites
 biter-clash
 biter-expansion-toggle
 biterexpansionnotifier
@@ -221,6 +228,7 @@ BreakTime
 BREAM
 BreedingDemolisher
 bricked-foundry
+build-crusher-on-any-planet
 BuilderBotStart
 bulk-materials
 bullet-trails
@@ -230,6 +238,7 @@ Burner-Leech-Fork
 burner-phase-for-dummies
 bz-dsr-bridge
 bzsilicon
+bztin
 C418Music
 calculator-ui
 call-plumber
@@ -240,6 +249,7 @@ cannon_turrets_touhma
 captains-log
 casino
 castra
+cerys-and-nuclear-science
 cerys-lunaponics
 Cerys-Moon-of-Fulgora
 cf-lib
@@ -268,6 +278,7 @@ ClearerIcons
 cloning-vat
 CoalOil
 Cold_biters
+ColonyBuilder
 color_whole_train
 color-coded-pipes
 Colorblind_AllInOne
@@ -312,6 +323,7 @@ dancing-miku
 dangOreus
 darkmode
 days-without-incident
+dea-dia-system
 deadlock-beltboxes-loaders
 deadsun
 Death_Counter
@@ -380,6 +392,7 @@ Electric-Furnaces-2-0-Update
 electric-grid
 electric-trains
 electricboiler
+ElectricFurnaces
 ElectricPoleRangeMultiplier
 ElectricTrain
 ElectricTrainFix
@@ -426,6 +439,9 @@ everything-spoilage
 EverythingOnNauvis
 evo_tech
 Evolution Reduction
+exotic-space-industries
+exotic-space-industries-graphics-1
+exotic-space-industries-graphics-2
 expandtooltip
 Expensive-Mode
 Explosive Excavation
@@ -481,6 +497,7 @@ firework_rockets
 firework_rockets_assets
 First_One_Is_Free
 fish-productivity
+fishteroids
 fix-my-tooltips
 Flamethrower_shoots_in_prepare_range
 flamethrower-wagon
@@ -563,6 +580,7 @@ gunfactory
 handcraft_timer_space_age
 handcrafted
 Handcrafting_Queue_Log
+hard-boiled-gleba
 hardcore-rocketry
 hardened_pipes
 haste_makes_lots
@@ -572,9 +590,11 @@ Hazard-Lights-Auto-Lights_Fix
 hd_planets
 heat_glow
 heat-engine
+heat-furnace
 heat-inserter
 heroic_library
 hide-space-age-spoilers
+HideResourceTool
 HighSpeedTrain
 holographic_signs
 hot-metals
@@ -677,6 +697,7 @@ kj_vierling
 kj_warrig
 kj_wirbelwind
 kj_xb35
+kny-fuels
 korone-character
 KrastorioAirPurifier
 kry_safe_planets
@@ -712,10 +733,12 @@ landfill-productivity
 LandfillCostAdjuster
 landing-pad-research
 lane-balancers
+lane-filtered-loaders
 lane-splitters
 Large-PowerPoles
 large-print-signals
 large-storage-tank
+LargeLamp
 larger_shortcut_icons
 LargerBarrelCapacity
 laser_rifle
@@ -851,6 +874,7 @@ more-ore
 more-parts
 MoreStorageTanks
 MoreStorageTanksFixed
+MoreTrashSlots_Updated
 Moshine
 Moshine-assets
 MouseOverConstruction
@@ -878,6 +902,7 @@ nixie-tubes
 No_Bots_Please
 no--inventory-is-full--corpse-pickup-troubles
 no-hand-crafting
+No-Iron-Chests
 no-maraxsis-gatekeep-promethium
 no-more-gambling
 no-pipe-touching
@@ -912,6 +937,7 @@ OCs_ammo_casting
 oilfill
 oiloutpostplanner
 old-age
+OldSignalIcons
 OmegaDrill
 omnilib
 omnimatter
@@ -920,6 +946,7 @@ omnimatter_energy
 onlyGleba
 OrbitalIonCannon
 ore-eraser-2
+ore-manager-fixed2
 ore-unlimited
 OrePatchOrganizer
 Orphan Finder
@@ -972,6 +999,7 @@ platforms-do-not-request-full-stacks-of-buildings
 player_body_abduction
 player-auto-build-2
 Players_info
+playtime-plus
 PLORD_Prometheus_GrenadeLauncher
 PlutoniumBreeding
 PlutoniumBreeding
@@ -997,6 +1025,7 @@ probabilistic-smelting
 production-monitor
 productions-per-minute
 Productivity
+ProductivityDisabler
 ProductivityResearchForEveryone
 progressive-productivity
 Promethium_Science_Rebalance
@@ -1045,6 +1074,7 @@ rapid-belts-t4
 RateCalculator
 raven_mk2
 rcu-restored
+rd-antidark
 real-starry-universe
 real-starry-universe-Fork
 RealisticDecorationCleanup
@@ -1091,10 +1121,12 @@ RitnPortal
 RitnTeleporter
 RitnWaterfill
 RitnWaterfill
+RoboportRangeMultiplier
 Robot_Battery_Research
 Robot-World-Updated-For-SpaceAge
 Robot256Lib
 RoboticsFacility
+robots_energy_removal
 robotworld-continued
 rock-eraser
 rocket-capacity
@@ -1126,6 +1158,7 @@ sa-repair-turret
 sa-science-packs
 SA-Scorpion
 sa-space-science
+SafeAFK
 SafetyNukeLauncher
 SaltedFish
 Sane-Concrete-2
@@ -1148,6 +1181,7 @@ SchallTransportGroup
 SchallUncraft
 science-pack-glow-reborn
 science-stinks
+science-tab
 science-unstable
 scienceception
 ScienceConverter
@@ -1178,9 +1212,11 @@ sign-post
 signal-display
 signal-lamp
 Silicon
+Silly-AbandonedRuins-2-0
 Silo-alert-sound-space-age
 simple-mod-reload
 simpleadjustableinserters
+SimpleClock
 SimpleKoreanLocale
 SimpleSpeedControl
 simplified-thrusters
@@ -1221,10 +1257,12 @@ sonaxaton-infinite-resources
 space_age_galore
 space-age-adjustments
 Space-Age-Hardcore-Mode
+space-battles
 space-platform-chests
 space-platform-graveyard
 SpaceAgeUnnerfed
 spaceplatform-block
+spacesuit
 Spaghetorio
 SpaghetorioGraphics1
 speaker-signals-2
@@ -1262,6 +1300,7 @@ StoneWaterWell-ActuallyUpdated
 StoneWaterWell2-0
 storage-tanks-modpack
 StorageTank2_2_0
+stranded_block_2
 StreetLamps_Fix
 Superheating
 superluminal-spaceship
@@ -1288,6 +1327,7 @@ TheFloorIsLavaRevival
 TheJar
 thermal-solar-power-lite
 thruster-control-behavior
+thruster-interface
 tianyi
 tier-4-modules-rebalance
 tiered-gas-generator
@@ -1320,6 +1360,7 @@ tree_collision
 Tree_XRay
 tree-healing
 treenade
+Truck20
 tungsten-axe
 tungsten-belt-rename
 tungsten-munition
@@ -1345,6 +1386,7 @@ UPSFriendlyNixieTubeDisplay
 uranium_geiger
 Uranium_Inserter_T
 uraniumlogistics
+Useful-Methane
 UtilizationMonitorBlargh
 valerian-planets
 valves
@@ -1428,6 +1470,7 @@ yi_engines
 Yi_Tech_Tree_ExtraVanilla
 YKR_Far_Reach
 yo-tweak-robots
+YourCheapMode
 YRK_underground_belts
 Yuoki
 Yuoki_F2
