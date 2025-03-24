@@ -75,22 +75,18 @@ if mods['no-more-gambling'] then
 	setI18nR(true,'item','quality-module-2','nomoregamble');
 	setI18nR(true,'item','quality-module-3','nomoregamble');
 end
-if mods['onlyGleba'] then
-	setI18nR(true,'planet','nauvis','onlygleba');
-	setI18nR(true,'item','lithium-plate','onlygleba');
-	setI18nR(true,'fluid','lithium-brine','onlygleba');
-	setI18nR(true,'technology','coal-synthesis','onlygleba');
-end
 if mods['adamo-carbon'] then require("updates.adamo-carbon"); end
 if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
 if mods['baketorio'] then require("updates.baketorio"); end
 if mods['deadsun'] then require("updates.deadsun"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
 if mods['exotic-space-industries'] then require("updates.exotic-space-industries") end
-if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
-if mods['LunarLandings'] then require("updates.LunarLandings"); end
-if mods['periodic-madness'] then require("updates.periodic-madness"); end
+if mods['fluid-nutrients'] then require("updates.fluid-nutrients"); end
 if mods['lignumis'] then require("updates.lignumis"); end
+if mods['LunarLandings'] then require("updates.LunarLandings"); end
+if mods['onlyGleba'] then require("updates.onlyGleba"); end
+if mods['periodic-madness'] then require("updates.periodic-madness"); end
 if mods['platformer'] then require("updates.platformer"); end
 if mods['promethium-quality'] then require("updates.promethium-quality"); end
+if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
