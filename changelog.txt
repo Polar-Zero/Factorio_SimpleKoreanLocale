@@ -1,10 +1,36 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.9.6
-Date: 2025-03-27
+Version: 0.9.7
+Date: 2025-03-31
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Orbital Transfer' Added
+    - Translation for mod 'Subsurface' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Alternative Alt Mode' Added
+    - Translation for mod 'Circuit HUD V2' Added
+    - Translation for mod 'Simple Compress' Added
+    - Translation for mod 'K1 Advanced Chests' Added
+    - Translation for mod 'K1 Advanced fluid continued' Added
+    - Translation for mod 'VortiK's Cannon Turret' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Alloy Smelting' Updated
+    - Translation for mod 'Configurable Landfill' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Quality Assurance' Updated
+    - Translation for mod 'Scrappy Industry' Updated
+    - Translation for mod 'Shortwave' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Spaghetorio' Updated
+    - Translation for mod 'Wooden Aquilo: Seabloom Algaculture' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.9.6
+Date: 2025-03-27
   Minor mod Translation Added:
     - Translation for mod 'AAI Loaders - Stacking and Filtering' Added
     - Translation for mod 'AAI Loaders, a sane rebalance' Added
