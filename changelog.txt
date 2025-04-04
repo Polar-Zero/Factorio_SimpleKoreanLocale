@@ -1,28 +1,61 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.9.8
-Date: 2025-04-01
+Version: 0.9.9
+Date: 2025-04-04
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
   Translation Added:
+    - Translation for mod 'More Fluids!' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Furnace upgradable' Added
+    - Translation for mod 'Hide Infinite Technologies' Added
+    - Translation for mod 'Igrys' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Better Robots Extended' Updated
+    - Translation for mod 'Bluetonium' Updated
+    - Translation for mod 'Bob's Adjustable Inserters mod' Updated
+    - Translation for mod 'Bob's Enemies mod' Updated
+    - Translation for mod 'Bob's Logistics mod' Updated
+    - Translation for mod 'Bob's Modules mod' Updated
+    - Translation for mod 'Bob's Personal Equipment mod' Updated
+    - Translation for mod 'Bob's Revamp mod' Updated
+    - Translation for mod 'Construction Approvals' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Dea Dia System' Updated
+    - Translation for mod 'Diversitree' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'More Long Inserters' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Periodic Madness' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Space battles' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Warp Drive Machine' Updated
+    - Translation for mod 'What Items Do I Have?' Updated
+    - Translation for mod 'Yuoki Industries' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.9.8
+Date: 2025-04-01
+  Translation Added:
     - Translation for mod 'Bob's Enemies mod' Added
     - Translation for mod 'Bob's Logistics mod' Added
-    - Translation for mod 'Bob's Warfare mod' Added
-    - Translation for mod 'Bob's Ores mod' Added
-    - Translation for mod 'Bob's Power mod' Added
-    - Translation for mod 'Bob's Personal Equipment mod' Added
-    - Translation for mod 'Bob's Vehicle Equipment mod' Added
     - Translation for mod 'Bob's Metals, Chemicals and Intermediates mod' Added
-  Translation Updated/Fixed:
+    - Translation for mod 'Bob's Ores mod' Added
+    - Translation for mod 'Bob's Personal Equipment mod' Added
+    - Translation for mod 'Bob's Power mod' Added
+    - Translation for mod 'Bob's Vehicle Equipment mod' Added
+    - Translation for mod 'Bob's Warfare mod' Added
+  Minor mod Translation Added:
     - Translation for mod 'Bob's Assembling Machines mod' Added
-    - Translation for mod 'Bob's Revamp mod' Added
     - Translation for mod 'Bob's Electronics mod' Added
     - Translation for mod 'Bob's Functions Library mod' Added
     - Translation for mod 'Bob's Greenhouse mod' Added
-    - Translation for mod 'Bob's Technology mod' Added
     - Translation for mod 'Bob's Mining mod' Added
     - Translation for mod 'Bob's Modules mod' Added
+    - Translation for mod 'Bob's Revamp mod' Added
+    - Translation for mod 'Bob's Technology mod' Added
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.7
 Date: 2025-03-31
