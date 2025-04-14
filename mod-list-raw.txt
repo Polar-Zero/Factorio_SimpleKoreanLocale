@@ -80,6 +80,7 @@ all-are-welcome-amongus
 all-armors-can-fly
 allowed-modules
 alloy-smelting
+alt-alt-mode
 Alternate_Recipes
 alternative-beacons
 alternative-pentapod-egg-recipe
@@ -136,6 +137,7 @@ AtomicArtillery
 AtomicArtillery2
 augmentor
 auto_manual_mode
+auto_sort_chests
 auto-fuel-mod
 auto-ground-cover
 auto-train-refuel
@@ -163,6 +165,7 @@ beacon_maraxsis_tenebris
 beaver
 behemoth-enemies
 belt-balancer-2
+belt-quality
 belt-reverser-space-age
 belt-visualizer
 beltbrush2
@@ -172,13 +175,16 @@ beltplanner-patched
 beltplanner-patched-18
 BeltRouter-lite
 BeltSpeedMultiplier
+belttracer
 BeltUpgrader
 Better_Poles
 Better_Robots
 Better_Robots_Extended
 Better_Starmap_Background
 better-ammo-better-range
+better-asteroid-resistance
 better-chat
+Better-Linked-Chest
 Better-Melting-Ice
 better-miners
 Better-Power-Armor-Grid
@@ -198,6 +204,8 @@ Big-Monsters
 big-numbers
 big-pink-eraser
 big-wooden-pole
+BigBags
+BigContainersUPSPlus
 BigDrills
 bigger-artillery
 BiggerDisplayPanel
@@ -208,6 +216,8 @@ BiodomeIndustries
 BiolabsNeedNutrients
 bioprocessing-tab
 biter
+biter-attractor-graphics
+biter-attractors
 Biter-Bites
 biter-clash
 biter-expansion-toggle
@@ -223,8 +233,25 @@ blueprint-sandboxes
 BlueprintTools
 Bluetonium
 BluetoniumFusion
+bobassembly
+bobclasses
+bobelectronics
+bobenemies
+bobequipment
+bobgreenhouse
 bobinserters
 bobinserters-tweak
+boblibrary
+boblogistics
+bobmining
+bobmodules
+bobores
+bobplates
+bobpower
+bobrevamp
+bobtech
+bobvehicleequipment
+bobwarfare
 BoreHole
 bot-cargo-quality
 BotChargeRemoved
@@ -248,8 +275,10 @@ Burner-Leech
 Burner-Leech-Fork
 burner-phase-for-dummies
 bz-dsr-bridge
+bzcarbon
 bzsilicon
 bztin
+bztitanium
 C418Music
 calculator-ui
 call-plumber
@@ -258,8 +287,10 @@ canal-excavator-graphics
 canned-fish
 cannon_turrets_touhma
 captains-log
+cargo-bay-inserters
 casino
 castra
+centrifuge-tint
 cerys-and-nuclear-science
 cerys-lunaponics
 Cerys-Moon-of-Fulgora
@@ -284,11 +315,14 @@ chronological-platform-order
 circuit-color-lamp-light-parity
 circuit-connection-visualizer
 circuit-network-selector-wire-icons
+CircuitHUD-V2
 CircuitLaunchableRockets
 CleanedConcrete
 CleanFloor
 ClearerIcons
+clock
 cloning-vat
+clusterio_lib
 CoalOil
 Cold_biters
 ColonyBuilder
@@ -316,8 +350,10 @@ configurable-valves
 ConfigurableElecMiningDrill
 ConfigurableMiningDrills
 ConnectionBox
+construction-train-werl
 ConstructionPlannerContinued
 Constructron-Continued
+CopyPasteModules
 corrundum
 crafting-efficiency-2
 crafting-queue-enhancements
@@ -326,17 +362,21 @@ creative-mod
 creative-mode
 crushing-industry
 cubium
+cupric-asteroids
 Cursed-FMD
 Cursor_Craft
 CursorEnhancements
 Custom-Production-UI-Fixed
 custom-space-map
 customizable-quality-names
+CustomReach
 CW_hydrogen_revolution
 cybersyn-combinator
 dancing-miku
 dangOreus
 darkmode
+dashing
+data-utils
 days-without-incident
 dea-dia-system
 deadlock-beltboxes-loaders
@@ -361,6 +401,7 @@ denerf-pump
 Dequalitier
 derusting-with-sulfuric-acid
 Destruction_Ghosts_From_The_Start
+dim_lamps
 dimensional_depot
 diode-combinator
 Disable_vanilla_spoilage
@@ -389,6 +430,7 @@ early_recycling
 early-agriculture
 early-circuit-network
 early-modules
+EarlyHeating
 EarlyvatedRails
 easy-wind-turbine
 EasyDemolisher
@@ -435,10 +477,14 @@ EpicArtillerySounds
 equipment-gantry
 erm_libs
 erm_redarmy
+erm_shared_economy
 erm_terran_hd_assets
 erm_toss
+erm_toss_economy
 erm_toss_hd_assets
+erm_unit_control
 erm_zerg
+erm_zerg_economy
 erm_zerg_hd_assets
 est-steel-storage-tank
 est-tiny-storage-tank
@@ -450,6 +496,7 @@ ev-machines
 ev-mining-drills
 ev-refining
 even-distribution
+even-distribution_for_krastorio2
 even-pickier-dollies
 EvenDistributionLite
 events-logger
@@ -457,11 +504,12 @@ everything-spoilage
 EverythingOnNauvis
 evo_tech
 Evolution Reduction
-exotic-space-industries
 exotic-space-industries-graphics-1
 exotic-space-industries-graphics-2
+exotic-space-industries-graphics-3
 expandtooltip
 Expensive-Mode
+Exploration__Vehicle
 Explosive Excavation
 Explosive_biters
 Explosive_RC_Car
@@ -496,6 +544,7 @@ FalloutPowerArmor
 far-reach
 farther-heat
 fast-demolisher
+fast-ghosts-remove
 faster-respawn
 faster-rocket-silo-animation
 FasterStart
@@ -519,6 +568,7 @@ fishteroids
 fix-my-tooltips
 Flamethrower_shoots_in_prepare_range
 flamethrower-wagon
+Flammable_Oils_QUICKFIX
 Flare_Stack_Goa
 Flare_Stack_Goa
 Flare_Stack_Redux
@@ -562,12 +612,14 @@ fruit
 fruitProcessingProductivity
 ftl-music
 FUE5Exporter
+fulgora_with_crude
 fulgora-coralmium-agriculture
 fulgora-extended
 fulgora-linked-construction-hub
 Fulgora-Nuclear-Overhaul
 fulgora-uranium-coal
 Fundryu
+Furnace_upgradable
 furnace-recipe-selection
 furnitorio
 fusion-fuel
@@ -585,12 +637,16 @@ ghost-mode
 ghosts-do-not-kick-you-out-of-their-gui
 Glass
 gleba-lab
+gleba-nightmare
 gleba-reborn
 gleba-recipe-tweaks
 gleba-soil-anywhere
 gleba-swamp-map
 Gledub-Music
 GlowingLaserBeams
+glutenfree-equipment-train-stop
+glutenfree-ltn-announcer
+glutenfree-ltn-thought-bubble
 god-module
 gold-legendary
 GPS_personal
@@ -616,6 +672,7 @@ heat-furnace
 heat-inserter
 heat-processing
 heroic_library
+hide-infinite-tech
 hide-space-age-spoilers
 HideResourceTool
 HighSpeedTrain
@@ -633,6 +690,7 @@ ic-reinforced-walls
 ICastBullets
 icon-badges
 id-like-cliff-explosives-on-nauvis-please
+Igrys
 Imbalance
 improvement-loaders
 Infinite_Combat_Robot_Lifetime
@@ -641,13 +699,16 @@ infinite_worker_robot_capacity_research
 infinite-belt-stacking
 infinite-quality-tiers
 infinite-resources-depletion
+InfiniteDroneBattery-PoweredByDelta
 InfiniteResourceDeposits
 InfiniteTech_FIXED
 infinity-rocket-silo
 InfinityChestStart
 InfinityPipeStart
+IngameCalculatorPro
 inserter-cranes-fork
 inserter-throughput-lib
+InserterVisualizerLite
 InstantRobotChargingUpdated
 intelligent-enemy
 intercontinental-rocketry-forked
@@ -671,6 +732,9 @@ jalm
 James-Oil-Processing
 james-train-mod
 janus
+jetpack
+K1_Advanced_fluid_continued
+K1_Advanced_storage_continued
 k2-anti-material-rifle
 k2-flare-stack
 k2-fluid-storage
@@ -768,6 +832,7 @@ large-storage-tank
 LargeLamp
 larger_shortcut_icons
 LargerBarrelCapacity
+LargerLamps-2_0
 laser_rifle
 laser-walls
 laserfence
@@ -781,6 +846,8 @@ Lego_Yoda_Death_Sound
 less-freezing
 let-me-walk
 lex-aircraft
+lex-aircraft_alt_color
+lex-aircraft-grayscale
 lexxy-trashcan
 lexxy-wickerbeast
 Li-Quarry
@@ -874,6 +941,7 @@ Mining_Drones
 Mining_Drones_2_CnC
 Mining-Drones-Tiberium
 mining-patch-planner
+mklv-exclusive-soil-placement
 mklv-lib
 mklv-radar-mk2
 mklv-roboport-mk2
@@ -894,6 +962,7 @@ molten-holmium
 molten-tungsten
 money-UI
 More_Ammo
+More_Bot_Health
 More_Repair_Packs
 More_SpaceAge_Menu_Backgrounds_By_TehF0cus
 more-achievements
@@ -901,6 +970,7 @@ more-alloys
 More-Asteroid-Resources
 more-belts
 more-casting
+more-fluids
 more-galore
 more-hearts
 more-intermediates
@@ -928,6 +998,7 @@ naufulglebunusilo
 nauvis-implosion
 nco-SmallTank
 neuroitem
+new-diagonal-inserter
 newly-constructed-machines-wait-for-their-modules
 newsletter-for-mods-made-by-quezler
 nice-try-train
@@ -938,6 +1009,7 @@ nine-tile-world
 nixie-tubes
 No_Bots_Please
 no--inventory-is-full--corpse-pickup-troubles
+no-aai-iron-pole-2
 no-hand-crafting
 No-Iron-Chests
 no-maraxsis-gatekeep-promethium
@@ -957,6 +1029,7 @@ NovasUltimateBelts
 Noxys_Deep_Core_Mining_Tweak
 Noxys_Extra_Settings_Info
 Noxys_LessHandMoreAssembler
+Noxys_QuickerStumpFade
 Noxys_Robot_Battery_Tweak
 Noxys_StackSizeMultiplier
 Noxys_Swimming
@@ -967,6 +1040,7 @@ Nuclear_Artillery_QF
 NuclearFuelStack
 NuclearPowerRebalance
 Nuketronics
+NukeWell
 nutrient-inserter
 OBBS
 oceandump
@@ -981,6 +1055,7 @@ omnimatter
 omnimatter_compression
 omnimatter_energy
 onlyGleba
+orbital-transfer
 OrbitalIonCannon
 ore-eraser-2
 ore-manager-fixed2
@@ -992,6 +1067,7 @@ OrphanFinderFixed
 osha_container_signals
 packing-tape
 passive-power-combinators
+PasteMoreLogisticSettings
 Peppermint_Mining
 periodic-madness
 PersonalTeleporter
@@ -1076,6 +1152,7 @@ Prospector
 psyduck
 pump
 pump-anywhere
+PumpOnLandfill
 puppy-vehicle-fuel-ui
 pushbutton
 qiMenu
@@ -1088,6 +1165,8 @@ quality-madness
 quality-seeds
 quality-upgrade-planner
 QualityAssurance
+QualityEffectsFixed
+QualityPlus
 QualityRockets
 quantum-fabricator
 Quantum-Teleporter
@@ -1124,7 +1203,9 @@ RealisticDecorationCleanup
 realisticores
 RealisticReactorGlow
 RealisticTank
+recipe-overhaul
 RecursiveResourceCalculator
+red-quickstart
 Redrawn-Space-Connections
 Refrigeration
 reggie_mode
@@ -1132,6 +1213,7 @@ region-cloner
 remote-monitor
 remote-switch
 Remove_Landfill
+remove-animations
 remove-nuclear-marks
 Remove-Pressure-Requirement-From-Gleba
 remove-productivity-cap
@@ -1143,6 +1225,9 @@ repair-from-vehicle
 Research_Productivity
 research-cost-curve
 research-counter-fixed
+reskins-bobs
+reskins-compatibility
+reskins-library
 ResourcesScanner
 reusable-rocket-simple
 Reverse-Engineering
@@ -1165,7 +1250,9 @@ RitnPortal
 RitnTeleporter
 RitnWaterfill
 RitnWaterfill
+roboport-charging-pads-count-quality
 RoboportRangeMultiplier
+roboports-only-required-for-charging
 Robot_Battery_Research
 Robot-World-Updated-For-SpaceAge
 Robot256Lib
@@ -1207,6 +1294,7 @@ SafeAFK
 SafetyNukeLauncher
 SaltedFish
 Sane-Concrete-2
+sbUnlimitedDeconstruction
 ScalingScienceCounts
 scattergun_turret
 schallalienloot
@@ -1264,6 +1352,7 @@ Silo-alert-sound-space-age
 simple-mod-reload
 simpleadjustableinserters
 SimpleClock
+SimpleCompress
 SimpleKoreanLocale
 SimpleSpeedControl
 simplified-thrusters
@@ -1272,6 +1361,7 @@ simply-power-armor-mk3
 skins-factored
 skip-hours
 skys-SA-simplified
+slipstacks
 slowdownconcrete
 slp-dyson-sphere-reworked
 slp-underground-poles
@@ -1307,11 +1397,14 @@ Space-Age-Hardcore-Mode
 space-battles
 space-panels
 space-platform-chests
+space-platform-for-ground
 space-platform-graveyard
 SpaceAgeUnnerfed
+spaceblock
 spaceplatform-block
 spacesuit
 Spaghetorio
+spaghetorio-hot-metals
 SpaghetorioGraphics1
 speaker-signals-2
 SpecializedFuel
@@ -1331,6 +1424,7 @@ spoiling-plant
 squeak-through-2
 StableFoundations
 Stackable_Mining_Drills
+stacking-bulk-inserter
 stacking-loaders
 stackless
 Starmap_Nexuz
@@ -1353,6 +1447,9 @@ storage-tanks-modpack
 StorageTank2_2_0
 stranded_block_2
 StreetLamps_Fix
+subspace_storage
+Subsurface
+sun-graphics
 sunken-bacteria
 Superheating
 superluminal-spaceship
@@ -1364,6 +1461,7 @@ Swedish-Chefbots
 Tapeline
 TCS_Icons
 tech_tree_plus
+TechTreeColors
 Teleportation_Redux
 Teleporters
 Teleporters_SpaceAge
@@ -1382,6 +1480,7 @@ thermal-solar-power-lite
 thruster-control-behavior
 thruster-interface
 tianyi
+tidy
 tier-4-modules-rebalance
 tiered-gas-generator
 time-changer
@@ -1418,6 +1517,7 @@ tungsten-axe
 tungsten-belt-rename
 tungsten-munition
 turbines-plusplus-reloaded
+TurboBike
 turret-activation-delay
 turret-library
 tycoon2
@@ -1430,7 +1530,9 @@ underground-pipe-pack-simplified
 UndergroundIndicatorsFixed
 UndergroundTransport
 undersea-data-cable
+Unit_Control
 uniturret
+unlimited-quality
 UnlimitedProductivity
 UnlimitedProductivityFork
 upcycler
@@ -1448,10 +1550,8 @@ vanilla_galore_continued
 vanilla-loaders-hd
 vehicle-corpses
 vehicle-wagon-graphics
-vehicle-wagon-graphics
 VehicleBalancing
 VehicleSnap
-VehicleWagon2
 VehicleWagon2
 Vibrant_paint
 vibrant-train-colors
@@ -1468,6 +1568,7 @@ VoidBlock
 Voidcraft
 vp-scale
 vtk-armor-reach
+vtk-cannon-turret
 vtk-deep-core-mining
 vtk-ta-big-bertha-artillery-sounds
 vulcanus-sulfuric-bacteria
@@ -1500,6 +1601,7 @@ WideChests
 WideChestsAllTypes
 WideChestsLogistic
 WideChestsUnlimited
+Wind-Turbines-relaunched
 windturbines
 WireShortcutX
 WireTools
@@ -1519,6 +1621,7 @@ wret-beacon-rebalance-mod
 X16item
 yaemiko-raidenshogun-revised
 yafla
+yana-coal-coke
 YAPR
 yaqsa
 YARM

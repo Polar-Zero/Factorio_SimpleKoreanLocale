@@ -1,10 +1,62 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.9.10
-Date: 2025-04-09
+Version: 0.10.0
+Date: 2025-04-14
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Minor mod Translation Added:
+    - Translation for mod 'Belt quality' Added
+    - Translation for mod 'Belt Tracer' Added
+    - Translation for mod 'Big Containers UPS+' Added
+    - Translation for mod 'BigBags' Added (Thanks to anonymous contributor)
+    - Translation for mod 'Cargo bay inserters' Added
+    - Translation for mod 'Construction Train 2.0' Added
+    - Translation for mod 'Copy Paste Modules' Added
+    - Translation for mod 'Cupric Asteroids' Added
+    - Translation for mod 'Dashing' Added
+    - Translation for mod 'DataCpt Utils' Added
+    - Translation for mod 'Diagonal Inserter' Added
+    - Translation for mod 'Early Heating' Added
+    - Translation for mod 'Equipment train stop' Added
+    - Translation for mod 'ERM - Shared Economy' Added
+    - Translation for mod 'Inserter Visualizer Lite' Added
+    - Translation for mod 'Larger Lamps 2.0' Added
+    - Translation for mod 'Logistic Train Network - thought bubble' Added
+    - Translation for mod 'Noxys Fading' Added
+    - Translation for mod 'NukeWell' Added
+    - Translation for mod 'Paste More Logistic Settings' Added
+    - Translation for mod 'Quality Effects Fixed' Added
+    - Translation for mod 'Red Quickstart' Added
+    - Translation for mod 'Slipstack Agriculture' Added
+    - Translation for mod 'Subspace Storage (Alpha)' Added
+    - Translation for mod 'Subtle Lighting' Added
+    - Translation for mod 'Turbo bike' Added
+    - Translation for mod 'Unit Control' Added
+    - Translation for mod 'Unlimited Quality' Added
+    - Translation for mod 'Wind Turbines (relaunched)' Added
+    - Translation for mod 'Yana Coal-Coke' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Better Asteroid Resistance' Updated
+    - Translation for mod 'Distant Misfires' Updated
+    - Translation for mod 'Diurnal Dynamics' Updated
+    - Translation for mod 'ERM - Protoss / Akilea' Updated
+    - Translation for mod 'ERM - Zerg / Garm' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Noxys Swimming' Updated
+    - Translation for mod 'Quick Ride' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Spagehtorio Hot Metals' Updated
+    - Translation for mod 'Spaghetorio' Updated
+    - Translation for mod 'Wide Containers' Updated
+    - Translation for mod 'Wooden Fulgora: Coralmium Agriculture' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.9.10
+Date: 2025-04-09
   Translation Added:
     - Translation for mod 'Graphite & Diamonds' Added
     - Translation for mod 'Titanium' Added
