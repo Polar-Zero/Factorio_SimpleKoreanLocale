@@ -1,10 +1,30 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.10.0
-Date: 2025-04-14
+Version: 0.10.1
+Date: 2025-04-24
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Schall Tank Platoon' Partically Added
+    - Translation for mod 'Yet another train manager' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Factory Levels' Added
+    - Translation for mod 'Schall Missile Command' Added
+    - Translation for mod 'Virtual Signals 2' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Enemy Race Manager' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Maraxsis' Updated
+    - Translation for mod 'Metal and Stars' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Periodic Madness' Updated
+    - Translation for mod 'VortiK's Cannon Turret' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.10.0
+Date: 2025-04-14
   Minor mod Translation Added:
     - Translation for mod 'Belt quality' Added
     - Translation for mod 'Belt Tracer' Added
