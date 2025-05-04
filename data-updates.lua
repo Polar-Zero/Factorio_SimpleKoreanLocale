@@ -26,6 +26,7 @@ if mods['maraxsis'] then require("updates.maraxsis"); end
 if mods['maraxsis-start'] then require("updates.maraxsis-start"); end
 if mods['naufulglebunusilo'] then require("updates.naufulglebunusilo"); end
 if mods['no-more-gambling'] then require("updates.no-more-gambling"); end
+if mods['oceanblock'] then require("updates.oceanblock"); end
 if mods['onlyGleba'] then require("updates.onlyGleba"); end
 if mods['periodic-madness'] then require("updates.periodic-madness"); end
 if mods['planet-muluna'] then require("updates.planet-muluna"); end

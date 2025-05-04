@@ -1,4 +1,52 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.10.3
+Date: 2025-05-03
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Kuxynator's Factorium' Added
+    - Translation for mod 'Schall Tank Platoon' Added
+    - Translation for mod 'Ultimate Research Queue' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Belt Line Upgrade' Added
+    - Translation for mod 'Blinking Ghosts' Added
+    - Translation for mod 'Bots have Infinite Charge' Added
+    - Translation for mod 'Enhanced Shadows' Added
+    - Translation for mod 'Hypercell substation' Added
+    - Translation for mod 'Infinite radar' Added
+    - Translation for mod 'King Jo's Automatic Paver' Added
+    - Translation for mod 'King Jo's Dunka Dunka Science' Added
+    - Translation for mod 'Laser Tanks' Added
+    - Translation for mod 'Nothing Is To Heavy' Added
+    - Translation for mod 'OceanBlock' Added
+    - Translation for mod 'Planet Portal' Added
+    - Translation for mod 'Science Bottles' Added
+    - Translation for mod 'Science pack glow' Added
+    - Translation for mod 'Simply Greenhouse' Added
+    - Translation for mod 'StarCraft Antology Music Pack' Added
+    - Translation for mod 'Telogistics' Added
+    - Translation for mod 'Tile Upgrade Planner' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Asteroid Mining' Updated
+    - Translation for mod 'Battery Powered' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Configurable Valves' Updated
+    - Translation for mod 'Constructron-Continued' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Cubium' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Factory Finder' Updated
+    - Translation for mod 'Fusion Thruster' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'Lane balancers' Updated
+    - Translation for mod 'Materials Easy' Updated
+    - Translation for mod 'RITEG' Updated
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Updated
+    - Translation for mod 'Zirconium' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.10.2
 Date: 2025-04-29
   # Notice:
@@ -6,9 +54,7 @@ Date: 2025-04-29
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
   Translation Added:
-    - Translation for mod 'Schall Tank Platoon' Added
     - Translation for mod 'Science Not Invited' Added
-    - Translation for mod 'Ultimate Research Queue' Added
     - Translation for mod 'Zirconium' Added
   Minor mod Translation Added:
     - Translation for mod 'Materials Easy' Added
