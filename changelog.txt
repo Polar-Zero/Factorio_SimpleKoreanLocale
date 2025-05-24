@@ -1,10 +1,44 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.10.4
-Date: 2025-05-16
+Version: 0.10.5
+Date: 2025-05-24
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Minor mod Translation Added:
+    - Translation for mod 'Advanced Spaceship Repair' Added
+    - Translation for mod 'Bring back Bob's classic electronic circuits recipe' Added
+    - Translation for mod 'Heat Sensor' Added
+    - Translation for mod 'P2p Transfer - Platform to Platform' Added
+    - Translation for mod 'P2P-automation : Platforms logistics' Added
+    - Translation for mod 'Parallel Research' Added
+    - Translation for mod 'Picklocks Inserter block detacher' Added
+    - Translation for mod 'Preceti's Music Experiment - DJ's song-pack' Added
+    - Translation for mod 'Preceti's Music Experiment - Instrumental songs' Added
+    - Translation for mod 'Preceti's Music Experiment - Interlude songs' Added
+    - Translation for mod 'Preceti's Music Experiment - Lyrical songs' Added
+    - Translation for mod 'UPL - Underground Power Lines' Added
+    - Translation for mod 'What if rockets took 2^32 parts to make?' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Blueprint Extensions (Kux Edition)' Updated
+    - Translation for mod 'Concrete Plus' Updated
+    - Translation for mod 'Constructron Continued' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Evolution Technology' Updated
+    - Translation for mod 'Factorio crash site' Updated
+    - Translation for mod 'Inserter Cranes Fork' Updated
+    - Translation for mod 'Kuxynator's Factorium' Updated
+    - Translation for mod 'Lunar Landings' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Planet Hoppers' Updated
+    - Translation for mod 'PlanetsLib' Updated
+    - Translation for mod 'Preceti's Music Experiment' Updated
+    - Translation for mod 'Super Farm' Updated
+    - Translation for mod 'Tiered Gas Generator' Updated
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.10.4
+Date: 2025-05-16
   Translation Updated/Fixed:
     - Translation for mod 'Blueprint Sandboxes' Updated
     - Translation for mod 'Cerys' Updated
@@ -29,10 +63,6 @@ Date: 2025-05-16
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.3
 Date: 2025-05-03
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
   Translation Added:
     - Translation for mod 'Kuxynator's Factorium' Added
     - Translation for mod 'Schall Tank Platoon' Added
@@ -77,10 +107,6 @@ Date: 2025-05-03
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.2
 Date: 2025-04-29
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
   Translation Added:
     - Translation for mod 'Science Not Invited' Added
     - Translation for mod 'Zirconium' Added
