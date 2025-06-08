@@ -41,3 +41,4 @@ if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['terrapalus'] then require("updates.terrapalus"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
 if mods['wret-beacon-rebalance-mod'] then require("updates.wret-beacon-rebalance-mod"); end
+if mods['Inverted-Quality'] then require("updates.Inverted-Quality"); end
