@@ -1,10 +1,35 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.11.1
-Date: 2025-06-10
+Version: 0.11.2
+Date: 2025-06-16
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Better Quality' Added
+    - Translation for mod 'Yuoki Industries - Railways' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Plutonium Rebalance' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Configurable Landfill' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Diurnal Dynamics' Updated
+    - Translation for mod 'Dredgeworks' Updated
+    - Translation for mod 'Even Pickier Dollies' Updated
+    - Translation for mod 'Extra Storage Tanks: Tiny Storage Tank' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Frost Biters' Updated
+    - Translation for mod 'On Wayward Seas' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+    - Translation for mod 'Trash Slot' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Warp Drive Machine' Updated
+    - Translation for mod 'What Items Do I Have?' Updated
+    - Translation for mod 'Wooden Industry' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.11.1
+Date: 2025-06-10
   Translation Added:
     - Translation for mod 'Paracelsin' Added
     - Translation for mod 'SSPP Logistics Train Mod' Added
