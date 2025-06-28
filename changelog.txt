@@ -1,4 +1,44 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.11.3
+Date: 2025-06-28
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Minor mod Translation Added:
+    - Translation for mod 'Logistic belt 2' Added
+    - Translation for mod 'LogisticConfigurator' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Alternate Recipes' Updated
+    - Translation for mod 'Asteroid Frequency Multiplier' Updated
+    - Translation for mod 'Blueprint Sandboxes' Updated
+    - Translation for mod 'Bluetonium' Updated
+    - Translation for mod 'Bob's Enemies mod' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Circuit Launchable Rockets' Updated
+    - Translation for mod 'Compakt circuits' Updated
+    - Translation for mod 'Crafting Efficiency' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Early Heating' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Frozen Food' Updated
+    - Translation for mod 'Fusion lab' Updated
+    - Translation for mod 'Holographic Signs' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'Inverted Quality' Updated
+    - Translation for mod 'Kuxynator's Personal Teleporter' Updated
+    - Translation for mod 'Lawn Mower' Updated
+    - Translation for mod 'Linked Chest And Linked Pipe' Updated
+    - Translation for mod 'Minimal Electric Rails' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'OCs Ammo and Armor' Updated
+    - Translation for mod 'Planet Rubia' Updated
+    - Translation for mod 'Quality Effects Fixed' Updated
+    - Translation for mod 'SafeAFK' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Wooden Cerys: Lunaponics' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.11.2
 Date: 2025-06-16
   # Notice:

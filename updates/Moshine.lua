@@ -1,0 +1,15 @@
+require("SKL");
+setI18nR(false,'elevated-curved-rail-a','elevated-curved-rail-a-minimal','mosh');
+setI18nR(false,'elevated-curved-rail-b','elevated-curved-rail-b-minimal','mosh');
+setI18nR(false,'elevated-half-diagonal-rail','elevated-half-diagonal-rail-minimal','mosh');
+setI18nR(false,'elevated-straight-rail','elevated-straight-rail-minimal','mosh');
+setI18nR(false,'curved-rail-a','curved-rail-a-minimal','mosh');
+setI18nR(false,'curved-rail-b','curved-rail-b-minimal','mosh');
+setI18nR(false,'half-diagonal-rail','half-diagonal-rail-minimal','mosh');
+setI18nR(false,'straight-rail','straight-rail-minimal','mosh');
+setI18nR(false,'rail-ramp','rail-ramp-minimal','mosh');
+setI18nR(true,'item','elevated-rail-minimal','mosh');
+setI18nR(true,'item','rail-minimal','mosh');
+setI18nR(false,'item','rail-ramp-minimal','mosh');
+setI18nR(true,'technology','minimalist-elevated-rails','mosh');
+setI18nR(true,'technology','minimalist-rails','mosh');

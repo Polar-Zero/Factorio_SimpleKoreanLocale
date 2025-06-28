@@ -8,6 +8,7 @@ if mods['adamo-carbon'] then require("updates.adamo-carbon"); end
 if mods['Additional-Qualities'] then require("updates.Additional-Qualities"); end
 if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
 if mods['baketorio'] then require("updates.baketorio"); end
+if mods['bobenemies'] then require("updates.bobenemies"); end
 if mods['bobelectronics'] then require("updates.bobelectronics"); end
 if mods['boblogistics'] then require("updates.boblogistics"); end
 if mods['bobmodules'] then require("updates.bobmodules"); end
@@ -24,6 +25,7 @@ if mods['lignumis'] then require("updates.lignumis"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
 if mods['maraxsis'] then require("updates.maraxsis"); end
 if mods['maraxsis-start'] then require("updates.maraxsis-start"); end
+if mods['Moshine'] then require("updates.Moshine"); end
 if mods['naufulglebunusilo'] then require("updates.naufulglebunusilo"); end
 if mods['no-more-gambling'] then require("updates.no-more-gambling"); end
 if mods['oceanblock'] then require("updates.oceanblock"); end
