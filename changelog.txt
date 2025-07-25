@@ -1,10 +1,67 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.11.3
-Date: 2025-06-28
+Version: 0.12.0
+Date: 2025-07-14
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Alchemistry' Added
+    - Translation for mod 'Autodrive' Added
+    - Translation for mod 'Concreep Redux' Added
+    - Translation for mod 'Configurable Armour & Suits' Added
+    - Translation for mod 'Exotic Space Industries: Remembrance' Part #1 Added
+    - Translation for mod 'Foodtorio' Added
+    - Translation for mod 'Recursive Blueprints+' Added
+    - Translation for mod 'Tesseract' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Adjustable Plates Recipe' Added
+    - Translation for mod 'All Seeing Satellite' Added
+    - Translation for mod 'Alt Recipes & Processing' Added
+    - Translation for mod 'Althalin's Tiberium Centrifuge' Added
+    - Translation for mod 'Amator Phasma's Energy(forked Addon)' Added
+    - Translation for mod 'Apprentice assembler' Added
+    - Translation for mod 'Automatic Coupling System' Added
+    - Translation for mod 'Auto-Switch Techs' Added
+    - Translation for mod 'Beacon interface' Added
+    - Translation for mod 'Better recycling' Added
+    - Translation for mod 'Biter Cleanup' Added
+    - Translation for mod 'Blueprint Streak Counter' Added
+    - Translation for mod 'Brick Chest' Added
+    - Translation for mod 'Canisters' Added
+    - Translation for mod 'Combat Research' Added
+    - Translation for mod 'Cosmic Social Distancing' Added
+    - Translation for mod 'Diverse external rocket parts' Added
+    - Translation for mod 'Extreme Nuclears' Added
+    - Translation for mod 'fCPU' Added
+    - Translation for mod 'High Contrast Signals' Added
+    - Translation for mod 'Schall Uranium Processing' Added
+    - Translation for mod 'StoneToOre' Added
+    - Translation for mod 'UTF: Ultimate Turbines' Added
+    - Translation for mod 'Zen Garden' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Adamo Physics' Updated
+    - Translation for mod 'Additional Paste Settings' Updated
+    - Translation for mod 'Alternative Beacons' Updated
+    - Translation for mod 'Asteroid Mining' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Configurable Armour & Suits' Updated/Fixed
+    - Translation for mod 'Custom Production UI Fixed' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Infinite radar' Updated
+    - Translation for mod 'Lex's Aircraft' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'P2p Transfer' Updated
+    - Translation for mod 'Quantum Fabricator' Updated
+    - Translation for mod 'Resource Monitor' Updated
+    - Translation for mod 'Speedy Bot Start' Updated
+    - Translation for mod 'Vanilla Loaders' Updated
+    - Translation for mod 'Wooden Brick' Updated
+    - Translation for mod 'Yet another train manager' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.11.3
+Date: 2025-06-28
   Minor mod Translation Added:
     - Translation for mod 'Logistic belt 2' Added
     - Translation for mod 'LogisticConfigurator' Added

@@ -16,11 +16,13 @@ if mods['deadsun'] then require("updates.deadsun"); end
 if mods['dredgeworks'] then require("updates.dredgeworks"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
 if mods['exotic-space-industries'] then require("updates.exotic-space-industries") end
+if mods['exotic-space-industries-remembrance'] then require("updates.exotic-space-industries-remembrance") end
 if mods['factorissimo-2-notnotmelon'] then require("updates.factorissimo-2-notnotmelon"); end
 if mods['fluid-nutrients'] then require("updates.fluid-nutrients"); end
 if mods['fulgora-extended'] then require("updates.fulgora-extended"); end
 if mods['hatsune-enrichment-process'] then require("updates.hatsune-enrichment-process"); end
 if mods['James-Oil-Processing'] then require("updates.James-Oil-Processing"); end
+if mods['heating-coils'] then require("updates.heating-coils"); end
 if mods['lignumis'] then require("updates.lignumis"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
 if mods['maraxsis'] then require("updates.maraxsis"); end
@@ -29,6 +31,7 @@ if mods['Moshine'] then require("updates.Moshine"); end
 if mods['naufulglebunusilo'] then require("updates.naufulglebunusilo"); end
 if mods['no-more-gambling'] then require("updates.no-more-gambling"); end
 if mods['oceanblock'] then require("updates.oceanblock"); end
+if mods['SchallUraniumProcessing'] then require("updates.SchallUraniumProcessing"); end
 if mods['onlyGleba'] then require("updates.onlyGleba"); end
 if mods['periodic-madness'] then require("updates.periodic-madness"); end
 if mods['planet-muluna'] then require("updates.planet-muluna"); end
