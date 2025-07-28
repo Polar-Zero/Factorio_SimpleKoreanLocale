@@ -1,10 +1,41 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.12.0
-Date: 2025-07-14
+Version: 0.12.1
+Date: 2025-07-29
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Adjustable Quality' Added
+    - Translation for mod 'Alternate Alert Icons' Added
+    - Translation for mod 'Space Is Fake' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Fire extinguisher' Added
+    - Translation for mod 'Pollution Combinator' Added
+    - Translation for mod 'RP Steam Intermediates' Added
+    - Translation for mod 'Z RP Utilities' Added
+    - Translation for mod 'Zeus' Wrath' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Advanced Belts' Updated
+    - Translation for mod 'Alt Recipes & Processing' Updated
+    - Translation for mod 'Behemoth Enemies Mod' Updated
+    - Translation for mod 'Constructron-Continued' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Cubium' Updated
+    - Translation for mod 'Dredgeworks: Frozen Reaches' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'Maraxsis' Updated
+    - Translation for mod 'Miniloader (Redux)' Updated
+    - Translation for mod 'Oil Outpost Planner' Updated
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'Planet Rubia' Updated
+    - Translation for mod 'Rocket-Silo Construction' Updated
+    - Translation for mod 'Visible Planets in Space' Updated
+    - Translation for mod 'WH40k: Legio Titanicus' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.12.0
+Date: 2025-07-14
   Translation Added:
     - Translation for mod 'Alchemistry' Added
     - Translation for mod 'Autodrive' Added
