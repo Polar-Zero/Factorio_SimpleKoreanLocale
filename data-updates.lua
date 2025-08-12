@@ -42,6 +42,7 @@ if mods['RibbonMaze'] or mods['RibbonMaze20'] then require("updates.RibbonMaze")
 if mods['rubia'] then require("updates.rubia"); end
 if mods['Rocs-Hardcore-Demolishers'] then require("updates.Rocs-Hardcore-Demolishers"); end
 if mods['SchallTankPlatoon'] then require("updates.SchallTankPlatoon"); end
+if mods['skewer_shattered_planet'] then require("updates.skewer_shattered_planet"); end
 if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['terrapalus'] then require("updates.terrapalus"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
