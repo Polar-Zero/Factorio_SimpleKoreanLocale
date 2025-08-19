@@ -1,10 +1,51 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.12.2
-Date: 2025-08-13
+Version: 0.12.3
+Date: 2025-08-20
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'Expanded Productivity Research' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Cloning vat' Added
+    - Translation for mod 'Distance Customizer' Added
+    - Translation for mod 'Early Construction' Added
+    - Translation for mod 'Foundations' Added
+    - Translation for mod 'More Enemies' Added
+    - Translation for mod 'Spaghetti Belt Tools' Added
+    - Translation for mod 'Stack inserters on Vulcanus' Added
+    - Translation for mod 'Technology Multiplier' Added
+    - Translation for mod 'Voidcraft Quality Runes' Added
+    - Translation for mod 'Where Is My Body' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Alt Recipes & Processing' Updated
+    - Translation for mod 'Blueprint Sandboxes' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Factory graph' Updated
+    - Translation for mod 'Factory Search' Updated
+    - Translation for mod 'Maraxsis Start' Updated
+    - Translation for mod 'MOAR Modules' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Nixie Tubes' Updated
+    - Translation for mod 'P.U.M.P.' Updated
+    - Translation for mod 'Parallel Research' Updated
+    - Translation for mod 'Planet Rubia' Updated
+    - Translation for mod 'Prometheus Grenade Launcher' Updated
+    - Translation for mod 'Sane Concrete 2' Updated
+    - Translation for mod 'Scrappy Industry' Updated
+    - Translation for mod 'Stable Foundations' Updated
+    - Translation for mod 'Subsurface' Updated
+    - Translation for mod 'Tech tree plus' Updated
+    - Translation for mod 'Telogistics' Updated
+    - Translation for mod 'Valves' Updated
+    - Translation for mod 'Vehicle Wagon 2' Updated
+    - Translation for mod 'Virtual Train Monitor' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.12.2
+Date: 2025-08-13
   Translation Added:
     - Translation for mod '248k Redux Mod' Added
     - Translation for mod 'Control Your Rods' Added
@@ -15,7 +56,6 @@ Date: 2025-08-13
   Minor mod Translation Added:
     - Translation for mod 'Circuit Visualizer' Added
     - Translation for mod 'Faster Robots' Added
-    - Translation for mod 'Module Inserter' Added
     - Translation for mod 'Loaders Modernized: 5Dim's' Added
     - Translation for mod 'Loaders Modernized: Bob's Logistics' Added
     - Translation for mod 'Loaders Modernized: Extended Vanilla' Added
@@ -23,18 +63,19 @@ Date: 2025-08-13
     - Translation for mod 'Loaders Modernized: Pyanodons' Added
     - Translation for mod 'Loaders Modernized: Ultimate Belts Space Age' Added
     - Translation for mod 'Loaders Modernized: Wooden Logistics' Added
+    - Translation for mod 'Module Inserter' Added
   Translation Updated/Fixed:
-    - Translation for mod 'PlanetsLib' Updated
-    - Translation for mod 'Cerys' Updated
-    - Translation for mod 'Factorissimo 3' Updated
-    - Translation for mod 'Paracelsin' Updated
-    - Translation for mod 'Reverse Factory' Updated
-    - Translation for mod 'Space Age Galore' Updated
     - Translation for mod 'Abandoned Ruins - Updated' Updated
     - Translation for mod 'Any Planet Start' Updated
     - Translation for mod 'Bricked Foundry' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Factorissimo 3' Updated
     - Translation for mod 'King Jo's Warhammer 40K Servo-skull' Updated
     - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'PlanetsLib' Updated
+    - Translation for mod 'Reverse Factory' Updated
+    - Translation for mod 'Space Age Galore' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.1
 Date: 2025-07-29
