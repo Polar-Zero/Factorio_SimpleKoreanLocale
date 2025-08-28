@@ -16,7 +16,6 @@ if mods['deadsun'] then require("updates.deadsun"); end
 if mods['dredgeworks'] then require("updates.dredgeworks"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
 if mods['exotic-space-industries'] then require("updates.exotic-space-industries") end
-if mods['exotic-space-industries-remembrance'] then require("updates.exotic-space-industries-remembrance") end
 if mods['factorissimo-2-notnotmelon'] then require("updates.factorissimo-2-notnotmelon"); end
 if mods['fluid-nutrients'] then require("updates.fluid-nutrients"); end
 if mods['fulgora-extended'] then require("updates.fulgora-extended"); end
@@ -48,3 +47,4 @@ if mods['terrapalus'] then require("updates.terrapalus"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
 if mods['wret-beacon-rebalance-mod'] then require("updates.wret-beacon-rebalance-mod"); end
 if mods['Inverted-Quality'] then require("updates.Inverted-Quality"); end
+if mods['Railguns-Require-Fluoroketone'] then require("updates.Railguns-Require-Fluoroketone"); end
