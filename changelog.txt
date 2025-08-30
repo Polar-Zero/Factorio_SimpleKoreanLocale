@@ -1,24 +1,42 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.4
-Date: 2025-08-28
+Date: 2025-08-31
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
-  Translation Added:
   Minor mod Translation Added:
+    - Translation for mod 'Accumulator V2' Added
+    - Translation for mod 'Cargo Bay Limit Research' Added
+    - Translation for mod 'GUI Library' Added
+    - Translation for mod 'Machine Upgrades' Added
+    - Translation for mod 'Nonstandard Beacons' Added
+    - Translation for mod 'Quality Heat Pipes' Added
+    - Translation for mod 'Remove Biters Corpses' Added
+    - Translation for mod 'Solar Matrix' Added
+    - Translation for mod 'Space Block' Added
+    - Translation for mod 'Teleporting machine' Added
     - Translation for mod 'Transfer To Satisfactory' Added
+    - Translation for mod 'Water is not infinite' Added
+    - Translation for mod 'Wide Ocean' Added
   Translation Updated/Fixed:
-    - Translation for mod 'Space Is Fake' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated & Fixed
+    - Translation for mod 'Ground Water' Updated
+    - Translation for mod 'Hard Vulcanus' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Planet Rubia' Updated
     - Translation for mod 'Promethium is Quality' Updated
     - Translation for mod 'Pushbutton' Updated
-    - Translation for mod 'Hard Vulcanus' Updated
-    - Translation for mod 'RPG System' Updated
-    - Translation for mod 'Planet Rubia' Updated
     - Translation for mod 'Quality upgrade planner' Updated
     - Translation for mod 'Quantum Fabricator' Updated
     - Translation for mod 'Random Colors' Updated
+    - Translation for mod 'RPG System' Updated
     - Translation for mod 'SearchlightAssault' Updated
+    - Translation for mod 'Shattered Planet' Updated
+    - Translation for mod 'Space Is Fake' Updated
+    - Translation for mod 'Turrets arc limiter' Updated
+    - Translation for mod 'Yuoki Industries' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.3
 Date: 2025-08-20

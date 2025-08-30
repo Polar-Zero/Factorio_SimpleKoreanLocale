@@ -10,3 +10,4 @@ function setRecipe(p,o,l,a) setI18n(p,'item',l,o,a) setI18n(p,'recipe',l,o,a) en
 function setI18nR(p,o,l,a) setI18n(p,o,l,o,a); end
 function enforceI18n(p,z,o) if data.raw[p] then if data.raw[p][z] then data.raw[p][z].localised_name={p..'-name.'..z}
 if o then data.raw[p][z].localised_description={p..'-description.'..z} end end end end
+function setI18nNL(p,o,l,a) setI18n(true,'item',o,'item',a) if data.raw[p] then if data.raw[p][o] then data.raw[p][o].localised_name={l..'-name.'..a..'-'..o} data.raw[p][o].localised_description='' end end end
