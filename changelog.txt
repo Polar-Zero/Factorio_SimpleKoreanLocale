@@ -1,10 +1,67 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.12.4
-Date: 2025-08-31
+Version: 0.12.7
+Date: 2025-09-12
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Minor mod Translation Added:
+    - Translation for mod 'Cheap Stone Ammo' Added
+    - Translation for mod 'Creative Items' Added
+    - Translation for mod 'Fluid Wagon Color Mask' Added
+    - Translation for mod 'Milestones' Added
+  Translation Updated/Fixed:
+    - Translation for mod '248k Redux Mod' Updated
+    - Translation for mod 'Autodrive' Updated
+    - Translation for mod 'Better StarMap Background' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Cloning vat' Updated
+    - Translation for mod 'Compakt circuits' Updated
+    - Translation for mod 'Configurable Mining Drills' Updated
+    - Translation for mod 'Equipment train stop' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Far Reach' Updated
+    - Translation for mod 'Fire Lights' Updated
+    - Translation for mod 'Hard Aquilo' Updated
+    - Translation for mod 'Hard Gleba' Updated
+    - Translation for mod 'Hard Space' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'Space Age: Hard Mode' Updated
+    - Translation for mod 'Terra Palus' Updated
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.12.6
+Date: 2025-09-06
+  Minor mod Translation Added:
+    - Translation for mod 'Assembler-Reskin' Added
+    - Translation for mod 'Wooden Moshine: Solaponics' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Adjustable Quality' Updated
+    - Translation for mod 'Advanced Belts' Updated
+    - Translation for mod 'Alien Loot Economy' Updated
+    - Translation for mod 'Alt Recipes & Processing' Updated
+    - Translation for mod 'Amator Phasma's Coal & Steam' Updated
+    - Translation for mod 'Amator Phasma's Library' Updated
+    - Translation for mod 'Barrel Stages' Updated
+    - Translation for mod 'better miners' Updated
+    - Translation for mod 'Bio oil' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Factorio Admin Command Center' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'Metal and Stars' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Ore Unlimited' Updated
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'Parallel Research' Updated
+    - Translation for mod 'Planet Arrakis' Updated
+    - Translation for mod 'Planet Rubia' Updated
+    - Translation for mod 'Visible Planets in Space' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.12.4
+Date: 2025-08-31
   Minor mod Translation Added:
     - Translation for mod 'Accumulator V2' Added
     - Translation for mod 'Cargo Bay Limit Research' Added
