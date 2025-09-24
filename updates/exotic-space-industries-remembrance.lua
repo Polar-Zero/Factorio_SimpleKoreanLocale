@@ -10,6 +10,7 @@ setI18nR(false,'item','rocket-part','exotic');
 
 setI18nR(true,'fluid','ei-computing-power','eir');
 setI18nR(true,'item','ei-black-hole-data','eir');
+setI18nR(true,'item','ei-computing-unit','eir');
 setI18nR(true,'item','ei-fusion-data','eir');
 setI18nR(true,'item','ei-high-tech-parts','eir');
 setI18nR(true,'item','ei-space-data','eir');
