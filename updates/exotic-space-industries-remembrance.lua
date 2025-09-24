@@ -6,6 +6,7 @@ setI18nR(false,'recipe','iron-plate','exotic');
 setI18nR(false,'recipe','steel-plate','exotic');
 setI18nR(false,'recipe','copper-plate','exotic');
 setI18n(true,'reactor','nuclear-reactor','entity','exotic');
+setI18nR(false,'item','rocket-part','exotic');
 
 setI18nR(true,'fluid','ei-computing-power','eir');
 setI18nR(true,'item','ei-black-hole-data','eir');
@@ -17,11 +18,14 @@ setI18nR(true,'item','ei-uranium-233-fuel','eir');
 setI18nR(true,'item','ei-uranium-235-fuel','eir');
 setI18nR(true,'item','ei-plutonium-239-fuel','eir');
 
+setI18nR(true,'item','ei-cannon-turret','eir');
+
 setI18n(true,'pipe','ei-data-pipe','item','eir');
 setI18n(true,'pipe','ei-insulated-pipe','item','eir');
 setI18n(true,'pipe-to-ground','ei-insulated-underground-pipe','item','eir');
 setI18n(true,'storage-tank','ei-insulated-pipe-tank','item','eir');
 
+setI18n(true,'turret','ei-cannon-turret','item','eir');
 setI18nNL('assembling-machine','ei-bio-chamber','item','eir');
 setI18nNL('assembling-machine','ei-bio-reactor','item','eir',true);
 setI18nNL('assembling-machine','ei-computer-core','item','eir');
@@ -36,7 +40,7 @@ setI18nNL('assembling-machine','ei-metalworks-3','item','eir');
 setI18nNL('assembling-machine','ei-metalworks-4','item','eir');
 setI18nNL('assembling-machine','ei-nano-factory','item','eir');
 setI18nNL('beacon','ei-alien-beacon','item','eir',true);
-setI18nNL('beacon','ei-beacon','item','eir',true);
+setI18nNL('beacon','beacon','item','eir',true);
 setI18nNL('beacon','ei-copper-beacon','item','eir',true);
 setI18nNL('beacon','ei-iron-beacon','item','eir',true);
 setI18nNL('beacon','ei-warp-beacon','item','eir',true);
@@ -55,6 +59,7 @@ setI18nR(true,'technology','ei-advanced-computer-age-tech','eir');
 setI18nR(true,'technology','ei-advanced-motor','eir');
 setI18nR(true,'technology','ei-alien-computer-age-tech','eir');
 setI18nR(true,'technology','ei-bio-chamber','eir');
+setI18nR(true,'technology','ei-cannon-turret','eir');
 setI18nR(true,'technology','ei-computer-age','eir');
 setI18nR(true,'technology','ei-copper-beacon','eir');
 setI18nR(true,'technology','ei-dark-age','eir');
