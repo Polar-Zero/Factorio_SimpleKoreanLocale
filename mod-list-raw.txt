@@ -32,6 +32,7 @@ aai-loaders-stacking-filtering
 aai-programmable-structures
 aai-programmable-vehicles
 aai-signals
+aai-stacking
 aai-vehicles-chaingunner
 aai-vehicles-flame-tank
 aai-vehicles-flame-tumbler
@@ -135,6 +136,7 @@ ArtilleryShellResearch
 ArtilleryShellSpeed
 ArtilleryShellStack
 AsphaltRoadsPatched
+Assembler-Reskin
 Asteroid_Mining
 asteroid-enemy-radar-detection
 asteroid-resistances-remover
@@ -153,6 +155,7 @@ AtomicArtillery2
 augmentor
 auto_manual_mode
 auto_sort_chests
+auto-barrel
 auto-fuel-mod
 auto-ground-cover
 auto-train-refuel
@@ -175,6 +178,7 @@ ballistic_missile
 barrel-capacity-modifier
 barrel-stages
 BarrelFluidIcons
+barreling-group2
 basic_artillery
 batch-plant
 battery-powered
@@ -323,6 +327,7 @@ cargo-bay-inserters
 CargoBayLimitResearch
 casino
 castra
+celestial-weather
 centrifuge-tint
 cerys-and-nuclear-science
 cerys-lunaponics
@@ -368,6 +373,7 @@ color-coded-pipes
 Colorblind_AllInOne
 colorblind_ultimate
 ColorblindCircuitNetwork
+colorful_biochamber
 coloured-tool-icons
 combat-mechanics-overhaul
 combatresearch
@@ -375,6 +381,7 @@ CombatRobotsOverhaul
 comfortable-loader
 comfortable-night-vision
 Common-Industries
+common-prototypes
 common-prototypes-graphics
 compaktcircuit
 companion-drones
@@ -431,7 +438,10 @@ death-location
 debloat-better-foundry
 debloat-handmine-cliffs
 decider-combinator-output-constant-editor
+deep-storage-unit
+deep-storage-unit-se2
 DeepMine2
+Delete-Chunk-Tool
 delete-fulgora
 delete-gleba
 delete-planet-compatability
@@ -646,6 +656,7 @@ fluid-memory-storage
 fluid-nutrients
 fluid-void-extra
 FluidMustFlow
+FluidWagonColorMask
 fluroflux
 FNEI
 folk-fill
@@ -801,6 +812,7 @@ jalm
 James-Oil-Processing
 james-train-mod
 janus
+jatmn_stone_ammo
 jetpack
 K1_Advanced_fluid_continued
 K1_Advanced_storage_continued
@@ -879,6 +891,7 @@ KS13
 Kux-BlueprintExtensions
 Kux-CoreLib
 Kux-CraftingTools
+Kux-CreativeItems
 Kux-Factorium
 Kux-OrbitalIonCannon
 Kux-PersonalTeleport
@@ -1009,6 +1022,7 @@ microplasticsfromfish
 miku
 miku-bikini-swimsuit
 miku-pink-dream
+Milestones
 mine-factory
 minecraft
 Mined-Inserters-Dont-Leave-Items
@@ -1154,6 +1168,7 @@ Orphan Finder
 OrphanFinder
 OrphanFinderFixed
 osha_container_signals
+OverloadedTrains
 P2P-automation
 P2P-Transfer
 packing-tape
@@ -1356,6 +1371,7 @@ RitnWaterfill
 roboport-charging-pads-count-quality
 RoboportRangeMultiplier
 roboports-only-required-for-charging
+robot_attrition
 Robot_Battery_Research
 Robot-World-Updated-For-SpaceAge
 Robot256Lib
@@ -1384,8 +1400,10 @@ Rotatable_Equipment
 rotten-world
 rp_art_util
 rp_steam_intermediates
+rp_steam_roboports
 RPGsystem
 rr-clock
+rs-better-zero
 rso-mod
 rt-light-bot-start
 rubia
@@ -1448,6 +1466,7 @@ sharper_planets
 shattered-planet
 sheep
 shelter-k2
+Shield-FX
 shield-generators
 shipping-containers
 short-railgun-animation
@@ -1524,6 +1543,7 @@ space-panels
 space-platform-chests
 space-platform-for-ground
 space-platform-graveyard
+space-ship-notifications
 SpaceAgeUnnerfed
 spaceblock
 spaceplatform-block
@@ -1560,8 +1580,8 @@ Starmap_Nexuz
 Starmap_Solar_System
 starship
 start-alt
-StatsGui
 StatsGui-CoordinatesDistance
+StatsGui-HandcraftTimer
 StatsGui-MovementSpeed
 stdlib2
 SteamCracking
@@ -1619,6 +1639,7 @@ tidy
 tier-4-modules-rebalance
 tiered-gas-generator
 tile-upgrade-planner
+tile-upgrade-planner-muluna
 time-changer
 TimeTools
 Tiny_Equipment
