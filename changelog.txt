@@ -1,43 +1,93 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.13.0
-Date: 2025-09-19
+Version: 0.13.3
+Date: 2025-09-22
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+  Translation Added:
+    - Translation for mod 'AAI Industry' Added
+    - Translation for mod 'Planet Pelagos' Added
+    - Translation for mod 'Quality Processing' Added
+    - Translation for mod 'Shchierbin' Added
+    - Translation for mod 'Space Exploration' Added
+    - Translation for mod 'Vesta' Added
   Minor mod Translation Added:
+    - Translation for mod 'Afraid Of The Dark' Added
+    - Translation for mod 'Blueprint Manipulation Library' Added
+    - Translation for mod 'Brighter Engineers' Added
+    - Translation for mod 'Closer Maraxsis Orbit' Added
+    - Translation for mod 'Custom Temporary Train Stops' Added
+    - Translation for mod 'Distant Shores' Added
+    - Translation for mod 'Expensive Worker Storage' Added
+    - Translation for mod 'Extra Zoom' Added
+    - Translation for mod 'Gleba Greenhouses' Added
+    - Translation for mod 'Muluna graphics' Added
+    - Translation for mod 'Muluna Utility Constants' Added
+    - Translation for mod 'No Molten Liquids in Pumps' Added
+    - Translation for mod 'No Respawn Gun SpaceAge' Added
+    - Translation for mod 'Pollution Scaling' Added
+    - Translation for mod 'Pump multiplier' Added
+    - Translation for mod 'Rocket Acceleration Research' Added
+    - Translation for mod 'Secretas/Frozeta Orbit Patch' Added
+    - Translation for mod 'Synaptic assembler' Added
+    - Translation for mod 'Terra Palus Orbit Patch' Added
+    - Translation for mod 'Water Freezing' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.13.2
+Date: 2025-09-20
+  Translation Updated/Fixed:
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Linked Chest And Linked Pipe' Updated
+    - Translation for mod 'Mining Patch Planner' Updated
+    - Translation for mod 'On Wayward Seas' Updated
+    - Translation for mod 'Phidias Collection' Updated
+    - Translation for mod 'Preceti's Music Experiment' Updated
+    - Translation for mod 'Productions Per Minute' Updated
+    - Translation for mod 'Quality Assurance' Updated
+    - Translation for mod 'Quantum Fabricator' Updated
+    - Translation for mod 'Warp Drive Machine' Updated
+    - Translation for mod 'Water-Friendly Walls' Updated
+    - Translation for mod 'Wide Ocean' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.13.0
+Date: 2025-09-19
+  Minor mod Translation Added:
+    - Translation for mod 'AAI Loaders - Belt Stacking' Added
+    - Translation for mod 'Automatic Barreling/Unbarreling Machines' Added
     - Translation for mod 'Barreling Group' Added
     - Translation for mod 'Celestial Weather' Added
+    - Translation for mod 'Chunk Delete Tool' Added
+    - Translation for mod 'colorful_biochamber' Added
     - Translation for mod 'Common prototypes' Added
     - Translation for mod 'Memory Storage' Added
-    - Translation for mod 'AAI Loaders - Belt Stacking' Added
-    - Translation for mod 'Space ship notifications' Added
-    - Translation for mod 'Shield FX' Added
-    - Translation for mod 'RP Steam Roboports' Added
-    - Translation for mod 'colorful_biochamber' Added
-    - Translation for mod 'Chunk Delete Tool' Added
-    - Translation for mod 'Automatic Barreling/Unbarreling Machines' Added
     - Translation for mod 'Overloaded Trains' Added
+    - Translation for mod 'RP Steam Roboports' Added
+    - Translation for mod 'Shield FX' Added
+    - Translation for mod 'Space ship notifications' Added
   Translation Updated/Fixed:
-    - Translation for mod 'Fulgoran enemies' Updated
+    - Translation for mod 'Atomic Overhaul' Updated
+    - Translation for mod 'Barreling Group' Updated
+    - Translation for mod 'Biter Cleanup' Updated
+    - Translation for mod 'Configurable Armour & Suits' Updated
+    - Translation for mod 'Even Pickier Dollies' Updated
+    - Translation for mod 'Everything Spoilage' Updated
+    - Translation for mod 'Extended Vanilla: Refining' Updated
     - Translation for mod 'Factorio+' Updated
     - Translation for mod 'Factory Levels' Updated
-    - Translation for mod 'Extended Vanilla: Refining' Updated
-    - Translation for mod 'Everything Spoilage' Updated
-    - Translation for mod 'Even Pickier Dollies' Updated
-    - Translation for mod 'Lignumis' Updated
-    - Translation for mod 'Atomic Overhaul' Updated
-    - Translation for mod 'Configurable Armour & Suits' Updated
+    - Translation for mod 'Fulgoran enemies' Updated
     - Translation for mod 'Fundryu' Updated
+    - Translation for mod 'Hard Vulcanus' Updated
     - Translation for mod 'Iridescent Industry' Updated
+    - Translation for mod 'Library for mods by Pi-C' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Planet Hoppers' Updated
     - Translation for mod 'PlanetsLib' Updated
     - Translation for mod 'Revert Mining Productivity Cost' Updated
-    - Translation for mod 'Hard Vulcanus' Updated
-    - Translation for mod 'Biter Cleanup' Updated
-    - Translation for mod 'Library for mods by Pi-C' Updated
-    - Translation for mod 'Planet Hoppers' Updated
     - Translation for mod 'Wind Turbines (relaunched)' Updated
-    - Translation for mod 'Barreling Group' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.7
 Date: 2025-09-12
