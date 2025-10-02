@@ -1,10 +1,45 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.13.3
-Date: 2025-09-22
+Version: 0.13.4
+Date: 2025-09-29
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
+    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'ERM - Playable Terran' Added
+    - Translation for mod 'Space Trains' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Brave New Assembling Machines' Added
+    - Translation for mod 'Rocket Log' Added
+    - Translation for mod 'Technology Price Multiplier' Added
+    - Translation for mod 'Stack Inserters' Added
+  Translation Updated/Fixed:
+    - Translation for mod '248k Redux Mod' Updated
+    - Translation for mod 'Advanced Spaceship Repair' Updated
+    - Translation for mod 'Asteroid Frequency Multiplier' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Factorio Admin Command Center' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'King Jo's Entity Master' Updated
+    - Translation for mod 'Renai Transportation' Updated
+    - Translation for mod 'Planet Rubia' Updated
+    - Translation for mod 'Safer Asteroids' Updated
+    - Translation for mod 'Space Age Galore' Updated
+    - Translation for mod 'Tech tree plus' Updated
+    - Translation for mod 'Rocket-Silo Construction' Updated
+    - Translation for mod 'YKR Underground Belts' Updated
+    - Translation for mod 'Canal Excavator' Updated
+    - Translation for mod 'Wide Ocean' Updated
+    - Translation for mod 'ERM - Zerg / Garm' Updated
+    - Translation for mod 'What Items Do I Have?' Updated
+    - Translation for mod 'Enemy Race Manager' Updated
+    - Translation for mod 'Pipe Visualizer 2.0' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.13.3
+Date: 2025-09-22
   Translation Added:
     - Translation for mod 'AAI Industry' Added
     - Translation for mod 'Planet Pelagos' Added

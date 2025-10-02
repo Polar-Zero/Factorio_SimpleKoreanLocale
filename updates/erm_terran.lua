@@ -1,0 +1,76 @@
+---   For Developers of Translation mods:
+---   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
+---   - PolarZero
+
+local GlobalConfig = require("__enemyracemanager__/lib/global_config")
+local p=settings.startup["polar-korean-setting-starcraft"].value
+local o="erm_terran" local l=""
+if p=="english" then l="english-" elseif p=="koreantranslated" then l="korean-" else l="" end
+function enforceSC(p,o,l,a,r) if a==1 then if data.raw[p] then local z=l.."--"..o
+if data.raw[p][z] then data.raw[p][z].localised_name={'entity-name.'..r..l..'--'..o} end end
+else for i=1, a do local z=l.."--"..o.."--mk"..i if data.raw[p] then if data.raw[p][z] then
+data.raw[p][z].localised_name={'entity-name.'..r..l..'--'..o,"MK"..i} end end end end end
+
+enforceSC("recipe","marine",o,3,l)
+enforceSC("recipe","firebat",o,3,l)
+enforceSC("recipe","siege_tank",o,2,l)
+enforceSC("recipe","battlecruiser--yamato",o,1,l)
+enforceSC("recipe","battlecruiser--laser",o,1,l)
+enforceSC("recipe","wraith",o,1,l)
+enforceSC("recipe","wraith--scout",o,1,l)
+enforceSC("recipe","goliath",o,1,l)
+enforceSC("recipe","valkyrie",o,1,l)
+enforceSC("recipe","science_vessel",o,1,l)
+enforceSC("recipe","ghost--regular",o,1,l)
+enforceSC("recipe","ghost--nuke",o,1,l)
+enforceSC("recipe","spidermine",o,1,l)
+enforceSC("recipe","vulture",o,1,l)
+enforceSC("recipe","command-center",o,1,l)
+enforceSC("recipe","barrack",o,1,l)
+enforceSC("recipe","factory",o,1,l)
+enforceSC("recipe","starport",o,1,l)
+enforceSC("recipe","siege-tank-turret",o,1,l)
+enforceSC("recipe","missile-turret",o,1,l)
+enforceSC("recipe","bunker-turret",o,1,l)
+
+enforceSC("unit","marine",o,3,l)
+enforceSC("unit","firebat",o,3,l)
+enforceSC("unit","siege_tank",o,2,l)
+enforceSC("unit","battlecruiser--yamato",o,1,l)
+enforceSC("unit","battlecruiser--laser",o,1,l)
+enforceSC("unit","wraith",o,1,l)
+enforceSC("unit","wraith--scout",o,1,l)
+enforceSC("unit","goliath",o,1,l)
+enforceSC("unit","valkyrie",o,1,l)
+enforceSC("unit","science_vessel",o,1,l)
+enforceSC("unit","ghost--regular",o,1,l)
+enforceSC("unit","ghost--nuke",o,1,l)
+enforceSC("unit","spidermine",o,1,l)
+enforceSC("unit","vulture",o,1,l)
+enforceSC("unit","command-center",o,1,l)
+enforceSC("unit","barrack",o,1,l)
+enforceSC("unit","factory",o,1,l)
+enforceSC("unit","starport",o,1,l)
+enforceSC("turret","siege-tank-turret",o,1,l)
+enforceSC("turret","missile-turret",o,1,l)
+enforceSC("turret","bunker-turret",o,1,l)
+
+enforceSC("technology","marine--mk",o,1,l)
+enforceSC("technology","firebat--mk",o,1,l)
+enforceSC("technology","siege_tank--mk",o,1,l)
+enforceSC("technology","battlecruiser",o,1,l)
+enforceSC("technology","wraith",o,1,l)
+enforceSC("technology","goliath",o,1,l)
+enforceSC("technology","valkyrie",o,1,l)
+enforceSC("technology","science_vessel",o,1,l)
+enforceSC("technology","ghost--regular",o,1,l)
+enforceSC("technology","ghost--nuke",o,1,l)
+enforceSC("technology","spidermine",o,1,l)
+enforceSC("technology","vulture",o,1,l)
+enforceSC("technology","barrack",o,1,l)
+enforceSC("technology","factory",o,1,l)
+enforceSC("technology","starport",o,1,l)
+enforceSC("technology","command-center",o,1,l)
+enforceSC("technology","siege-tank-turret",o,1,l)
+enforceSC("technology","missile-turret",o,1,l)
+enforceSC("technology","bunker-turret",o,1,l)
