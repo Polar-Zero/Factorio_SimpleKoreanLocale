@@ -1,10 +1,60 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.13.6
-Date: 2025-10-01
+Version: 0.14.0
+Date: 2025-10-06
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Assault Spidertron' Added
+    - Translation for mod 'Bio Industries' Added
+    - Translation for mod 'Foliax' Added
+    - Translation for mod 'Hextorio' Added
+    - Translation for mod 'LavaBlock' Added
+    - Translation for mod 'Lunar Legacy' Added
+  Minor mod Translation Added:
+    - Translation for mod 'AAI Container Corpse Fix' Added
+    - Translation for mod 'Concrete Tints' Added
+    - Translation for mod 'Crymora Graphics' Added
+    - Translation for mod 'DISK' Added
+    - Translation for mod 'Dredgepack' Added
+    - Translation for mod 'GaloreLib' Added
+    - Translation for mod 'Gleba Uranium' Added
+    - Translation for mod 'Helios One Concentrated Solar' Added
+    - Translation for mod 'King Jo's Dodge Charger' Added
+    - Translation for mod 'King Jo's Lamborghini Countach 88' Added
+    - Translation for mod 'King Jo's Planes' Added
+    - Translation for mod 'King Jo's Plymouth Fury' Added
+    - Translation for mod 'King Jo's Truck' Added
+    - Translation for mod 'King Jo's Vehicles' Added
+    - Translation for mod 'logging for factorio' Added
+    - Translation for mod 'Lunaris Graphics' Added
+    - Translation for mod 'No Krastorio 2 Loader Power Requirement' Added
+    - Translation for mod 'Ore Scaling' Added
+    - Translation for mod 'Schall Pickup Tower' Added
+    - Translation for mod 'Science Pack Productivity' Added
+    - Translation for mod 'Simpler Start' Added
+    - Translation for mod 'SimpleRocketParts' Added
+    - Translation for mod 'Solune Graphics' Added
+    - Translation for mod 'Toxaris Graphics' Added
+    - Translation for mod 'Voidcraft: Planetary Compatibility' Added
+    - Translation for mod 'Voidcraft: Quality Maxxing' Added
+    - Translation for mod 'Wood Rotting' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Factorissimo 3' Updated
+    - Translation for mod 'Factory Planner' Updated
+    - Translation for mod 'Micro Machines Mod' Updated
+    - Translation for mod 'Mini Machines Mod' Updated
+    - Translation for mod 'More Belts' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Quality Processing' Updated
+    - Translation for mod 'Space Exploration' Updated
+    - Translation for mod 'Wind Turbines (relaunched)' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.13.6
+Date: 2025-10-01
   Minor mod Translation Added:
     - Translation for mod 'Alien Loot Economy' Added
     - Translation for mod 'Omnicrystal' Added

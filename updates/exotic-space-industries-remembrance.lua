@@ -7,6 +7,7 @@ setI18nR(false,'recipe','steel-plate','exotic');
 setI18nR(false,'recipe','copper-plate','exotic');
 setI18n(true,'reactor','nuclear-reactor','entity','exotic');
 setI18nR(false,'item','rocket-part','exotic');
+setI18n(true,'lab','biolab','entity','exotic');
 
 setI18nR(true,'fluid','ei-computing-power','eir');
 setI18nR(true,'item','ei-black-hole-data','eir');
@@ -74,5 +75,3 @@ setI18nR(true,'technology','ei-iron-beacon','eir');
 setI18nR(true,'technology','ei-nano-factory','eir');
 setI18nR(true,'technology','ei-plasma-turret','eir');
 setI18nR(true,'technology','ei-quantum-age','eir');
-
---error(data.raw['item']['ei-bio-reactor'].localised_description);
