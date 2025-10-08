@@ -1,4 +1,35 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.14.1
+Date: 2025-10-11
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'The Factory Must Grow' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Black Rubber Belts' Added
+    - Translation for mod 'Logistic Helper' Added
+    - Translation for mod 'Quality holmium ore returns more holmium solution' Added
+    - Translation for mod 'Space Exploration-Standalone Space Age content integration' Added
+    - Translation for mod 'Stone From Oxide' Added
+    - Translation for mod 'TFMG Assets' Added
+    - Translation for mod 'TFMG Music' Added
+    - Translation for mod 'TFMG Simulations' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Earlyvated Rails' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Foliax' Updated
+    - Translation for mod 'Hundred-Meter Long Chest Fork' Updated
+    - Translation for mod 'Linked Chest And Linked Pipe' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Project Cybersyn' Updated
+    - Translation for mod 'Reusable rocket' Updated
+    - Translation for mod 'Warp Drive Machine' Updated
+    - Translation for mod 'Zen Garden' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.14.0
 Date: 2025-10-06
   # Notice:
@@ -27,6 +58,7 @@ Date: 2025-10-06
     - Translation for mod 'King Jo's Plymouth Fury' Added
     - Translation for mod 'King Jo's Truck' Added
     - Translation for mod 'King Jo's Vehicles' Added
+    - Translation for mod 'Krastorio 2 Spaced Out' Added
     - Translation for mod 'logging for factorio' Added
     - Translation for mod 'Lunaris Graphics' Added
     - Translation for mod 'No Krastorio 2 Loader Power Requirement' Added

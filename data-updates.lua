@@ -4,6 +4,7 @@
 
 ---   Code Version 2.3.0
 
+if mods['aai-industry'] then require("updates.aai-industry"); end
 if mods['adamo-carbon'] then require("updates.adamo-carbon"); end
 if mods['Additional-Qualities'] then require("updates.Additional-Qualities"); end
 if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end

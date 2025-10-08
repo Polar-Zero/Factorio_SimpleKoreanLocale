@@ -7,4 +7,4 @@ setI18nR(false,'recipe','steel-plate','exotic');
 setI18nR(false,'recipe','copper-plate','exotic');
 setI18nR(false,'item','rocket-part','exotic');
 setI18n(true,'reactor','nuclear-reactor','entity','exotic');
-setI18n(true,'lab','biolab','entity','exotic');
+setI18n(true,'lab','biolab','item','exotic');
