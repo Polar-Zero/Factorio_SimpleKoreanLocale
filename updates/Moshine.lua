@@ -7,7 +7,7 @@ setI18nR(false,'curved-rail-a','curved-rail-a-minimal','mosh');
 setI18nR(false,'curved-rail-b','curved-rail-b-minimal','mosh');
 setI18nR(false,'half-diagonal-rail','half-diagonal-rail-minimal','mosh');
 setI18nR(false,'straight-rail','straight-rail-minimal','mosh');
-setI18nR(false,'rail-ramp','rail-ramp-minimal','mosh');
+setI18n(false,'rail-ramp','rail-ramp-minimal','item','mosh');
 setI18nR(true,'item','elevated-rail-minimal','mosh');
 setI18nR(true,'item','rail-minimal','mosh');
 setI18nR(false,'item','rail-ramp-minimal','mosh');

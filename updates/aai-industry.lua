@@ -1,9 +1,10 @@
 require("SKL");
-setI18nR(true,'item','engine-unit','aai');
-setI18nR(true,'item','electric-engine-unit','aai');
-setI18nR(true,'technology','automobilism','aai');
-setI18nR(true,'technology','engine','aai');
-setI18nR(true,'technology','steam-power','aai');
+setI18n(true,'electric-pole','small-electric-pole','item','aai');
 setI18n(true,'lab','lab','item','aai');
 setI18n(true,'offshore-pump','offshore-pump','entity','aai');
-setI18n(true,'electric-pole','small-electric-pole','item','aai');
+setI18nR(true,'item','electric-engine-unit','aai');
+setI18nR(true,'item','engine-unit','aai');
+setI18nR(true,'technology','automobilism','aai');
+setI18nR(true,'technology','electric-engine','aai');
+setI18nR(true,'technology','engine','aai');
+setI18nR(true,'technology','steam-power','aai');

@@ -1,24 +1,24 @@
 require("SKL");
-setI18nR(false,'item','iron-plate','exotic');
-setI18nR(false,'item','steel-plate','exotic');
+setI18n(true,'lab','biolab','item','exotic');
+setI18n(true,'reactor','nuclear-reactor','entity','exotic');
 setI18nR(false,'item','copper-plate','exotic');
+setI18nR(false,'item','iron-plate','exotic');
+setI18nR(false,'item','rocket-part','exotic');
+setI18nR(false,'item','steel-plate','exotic');
+setI18nR(false,'recipe','copper-plate','exotic');
 setI18nR(false,'recipe','iron-plate','exotic');
 setI18nR(false,'recipe','steel-plate','exotic');
-setI18nR(false,'recipe','copper-plate','exotic');
-setI18n(true,'reactor','nuclear-reactor','entity','exotic');
-setI18nR(false,'item','rocket-part','exotic');
-setI18n(true,'lab','biolab','item','exotic');
 
 setI18nR(true,'fluid','ei-computing-power','eir');
 setI18nR(true,'item','ei-black-hole-data','eir');
 setI18nR(true,'item','ei-computing-unit','eir');
 setI18nR(true,'item','ei-fusion-data','eir');
 setI18nR(true,'item','ei-high-tech-parts','eir');
+setI18nR(true,'item','ei-plutonium-239-fuel','eir');
 setI18nR(true,'item','ei-space-data','eir');
 setI18nR(true,'item','ei-thorium-232-fuel','eir');
 setI18nR(true,'item','ei-uranium-233-fuel','eir');
 setI18nR(true,'item','ei-uranium-235-fuel','eir');
-setI18nR(true,'item','ei-plutonium-239-fuel','eir');
 
 setI18nR(true,'item','ei-cannon-turret','eir');
 
@@ -27,7 +27,6 @@ setI18n(true,'pipe','ei-insulated-pipe','item','eir');
 setI18n(true,'pipe-to-ground','ei-insulated-underground-pipe','item','eir');
 setI18n(true,'storage-tank','ei-insulated-pipe-tank','item','eir');
 
-setI18n(true,'turret','ei-cannon-turret','item','eir');
 setI18nNL('assembling-machine','ei-bio-chamber','item','eir');
 setI18nNL('assembling-machine','ei-bio-reactor','item','eir',true);
 setI18nNL('assembling-machine','ei-computer-core','item','eir');
@@ -41,8 +40,8 @@ setI18nNL('assembling-machine','ei-metalworks-2','item','eir');
 setI18nNL('assembling-machine','ei-metalworks-3','item','eir');
 setI18nNL('assembling-machine','ei-metalworks-4','item','eir');
 setI18nNL('assembling-machine','ei-nano-factory','item','eir');
-setI18nNL('beacon','ei-alien-beacon','item','eir',true);
 setI18nNL('beacon','beacon','item','eir',true);
+setI18nNL('beacon','ei-alien-beacon','item','eir',true);
 setI18nNL('beacon','ei-copper-beacon','item','eir',true);
 setI18nNL('beacon','ei-iron-beacon','item','eir',true);
 setI18nNL('beacon','ei-warp-beacon','item','eir',true);
@@ -55,6 +54,7 @@ setI18nNL('logistic-robot','ei-advanced-logistic-bot','item','eir');
 setI18nNL('logistic-robot','ei-cargo-bot','item','eir');
 setI18nNL('mining-drill','ei-advanced-deep-drill','item','eir',true);
 setI18nNL('mining-drill','ei-deep-drill','item','eir',true);
+setI18nNL('turret','ei-cannon-turret','item','eir',true);
 
 setI18nR(true,'technology','ei_em-trains','eir');
 setI18nR(true,'technology','ei-advanced-computer-age-tech','eir');
