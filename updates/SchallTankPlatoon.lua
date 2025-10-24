@@ -5,5 +5,5 @@ setI18nR(false,'ammo','explosive-cannon-shell','schall');
 setI18nR(false,'ammo','explosive-uranium-cannon-shell','schall');
 setI18nR(false,'gun','tank-cannon','schall');
 setI18nR(false,'gun','tank-machine-gun','schall');
-setI18nR(false,'gate','gate','schall');
-setI18nR(false,'wall','stone-wall','schall');
+setI18n(false,'gate','gate','entity','schall');
+setI18n(false,'wall','stone-wall','entity','schall');

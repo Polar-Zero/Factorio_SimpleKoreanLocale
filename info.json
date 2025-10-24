@@ -1,6 +1,6 @@
 {
   "name": "SimpleKoreanLocale",
-  "version": "0.14.4",
+  "version": "0.14.5",
   "title": "심플한 한글 번역(Simple Korean Locale)",
   "author": "PolarZero",
   "contact": "trinity5000@naver.com",
@@ -20,5 +20,6 @@
   "(?) Milestones",
   "(?) reskins-bobs",
   "(?) reskins-compatibility",
-  "(?) reskins-library"]
+  "(?) reskins-library",
+  "(?) zzzz9999-better-restack"]
 }

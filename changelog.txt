@@ -1,28 +1,59 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.14.4
-Date: 2025-10-23
+Version: 0.14.5
+Date: 2025-10-24
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Translation Added:
+    - Translation for mod 'Nexus Extended Promethium Endgame' Added
+    - Translation for mod 'Schall Alien Tech' Added
+    - Translation for mod 'UMR: Ultimate Modular Reactor Fixed' Added
+  Minor mod Translation Added:
+    - Translation for mod 'AAI Industry - No Burner Upgrade Recipes' Added
+    - Translation for mod 'Bismuth' Added
+    - Translation for mod 'Crash Site Settings' Added
+    - Translation for mod 'Legacy Train Model' Added
+    - Translation for mod 'Moon Logic' Added
+    - Translation for mod 'Portals chaosfork' Added
+    - Translation for mod 'Rusty's Locale Utilities' Added
+    - Translation for mod 'Someone's LUA-Console' Added
+    - Translation for mod 'Space Exploration - Upgradable Electric Furnace' Added
+    - Translation for mod 'Space Exploration Integration: Gleba Fruits' Added
+    - Translation for mod 'Space Exploration Integration: Tesla Turret' Added
+    - Translation for mod 'Spaceception' Added
+    - Translation for mod 'Stack Size Adjust' Added
+    - Translation for mod 'Task List' Added
+    - Translation for mod 'Ultimate Fixed Mods Core' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Bio Industries' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Factory Planner' Updated
+    - Translation for mod 'Planetaris Unbounded: Arig & Hyarion' Updated
+    - Translation for mod 'Recursive Blueprints+' Updated
+    - Translation for mod 'StackMaster' Updated
+    - Translation for mod 'Zen Garden' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.14.4
+Date: 2025-10-16
+  Translation Added:
     - Translation for mod 'Cargo Ships' Added
   Translation Removed:
     - Translation for mod 'Distribution Request Planners' Removed (Duplicated)
   Minor mod Translation Added:
-    - Translation for mod 'Exteros' QoL System' Added
     - Translation for mod 'Electric Furnaces' Added
+    - Translation for mod 'Exteros' QoL System' Added
   Translation Updated/Fixed:
-    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
-    - Translation for mod 'Planetaris Unbounded: Arig & Hyarion' Updated
-    - Translation for mod 'Space Exploration Integration: Space Age' Updated
-    - Translation for mod 'Space Exploration Integration: Foundry' Updated
     - Translation for mod 'Concreep Redux' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
     - Translation for mod 'Foliax' Updated
     - Translation for mod 'Fusion Robots' Updated
     - Translation for mod 'Miniloader (Redux)' Updated
     - Translation for mod 'Minimal Electric Rails' Updated
     - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Planetaris Unbounded: Arig & Hyarion' Updated
+    - Translation for mod 'Space Exploration Integration: Foundry' Updated
+    - Translation for mod 'Space Exploration Integration: Space Age' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.3
 Date: 2025-10-14
