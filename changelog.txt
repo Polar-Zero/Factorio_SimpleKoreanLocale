@@ -1,4 +1,50 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.14.3
+Date: 2025-10-14
+  # Notice:
+    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
+    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Inserter Fuel Leech' Added
+    - Translation for mod 'Logistics Insights' Added
+    - Translation for mod 'Pacifist' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Advanced Assembly Machines Returns to Space Age' Added
+    - Translation for mod 'Artillery sound enhancer Factorio 2.0' Added
+    - Translation for mod 'Fusion Robots' Added
+    - Translation for mod 'Landfill for SE' Added
+    - Translation for mod 'Mineable Oil Products' Added
+    - Translation for mod 'Space Exploration Integration: Captive Biters and Biter Eggs' Added
+    - Translation for mod 'Space Exploration Integration: Cryogenic Plant' Added
+    - Translation for mod 'Space Exploration Integration: Electromagnetic Plant' Added
+    - Translation for mod 'Space Exploration Integration: Foundry' Added
+    - Translation for mod 'Space Exploration Integration: Library' Added
+    - Translation for mod 'Space Exploration Integration: Miner Resource Drain' Added
+    - Translation for mod 'Space Exploration Integration: Spoilage' Added
+    - Translation for mod 'Space Exploration Integration: Stack Inserters and Belt Stacking' Added
+    - Translation for mod 'Space Exploration Integration: Turbo Belts' Added
+    - Translation for mod 'Standalone Big Mining Drill' Added
+    - Translation for mod 'Standalone Cryogenic Plant' Added
+    - Translation for mod 'Standalone Electromagnetic Plant' Added
+    - Translation for mod 'Standalone Foundry' Added
+    - Translation for mod 'Standalone Space Age Library' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Concreep Redux' Updated
+    - Translation for mod 'Factorio and Conquer: Tiberian Dawn' Updated & Fixed
+    - Translation for mod 'Factorio+' Updated
+    - Translation for mod 'Floor Placer' Updated
+    - Translation for mod 'Foliax' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Linked Chest And Linked Pipe' Updated
+    - Translation for mod 'Panglia Planet' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Reusable rocket' Updated
+    - Translation for mod 'Shattered Planet' Updated & Fixed
+    - Translation for mod 'Space Exploration Integration: Space Age' Updated
+    - Translation for mod 'YAPR - yet another planet rendering' Updated
+    - Translation for mod 'Zen Garden' Updated
+---------------------------------------------------------------------------------------------------
 Version: 0.14.2
 Date: 2025-10-09
   # Notice:
