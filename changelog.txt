@@ -1,10 +1,51 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.15.1
-Date: 2025-12-18
+Version: 0.15.2
+Date: 2025-12-29
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Angel's Bio Processing' Added
+    - Translation for mod 'Janus Reshifted' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Angel's Bioprocessing Graphics' Added
+    - Translation for mod 'Sea Block' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Alloy Smelting' Updated
+    - Translation for mod 'Asphalt Roads Patched' Updated
+    - Translation for mod 'Better Robots Extended' Updated
+    - Translation for mod 'Bluetonium' Updated
+    - Translation for mod 'Brave New Assembling Machines' Updated
+    - Translation for mod 'Canal Excavator' Updated
+    - Translation for mod 'Cargo bay inserters' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Crafting Queue Enhancements' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Equipment Gantry' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'Fire Lights' Updated
+    - Translation for mod 'Iridescent Industry' Updated
+    - Translation for mod 'Landfill Cost Adjuster' Updated
+    - Translation for mod 'Nexus Extended Promethium Endgame' Updated
+    - Translation for mod 'Nuketronics' Updated
+    - Translation for mod 'P.U.M.P.' Updated
+    - Translation for mod 'P2p Transfer' Updated
+    - Translation for mod 'Planet Hoppers' Updated
+    - Translation for mod 'Planetaris: Arig' Updated
+    - Translation for mod 'Planetaris: Hyarion' Updated
+    - Translation for mod 'PlanetsLib' Updated
+    - Translation for mod 'Rainbow Ore' Updated
+    - Translation for mod 'Shchierbin' Updated
+    - Translation for mod 'Space Exploration' Updated
+    - Translation for mod 'Spaghetti Belt Tools' Updated
+    - Translation for mod 'The Sun is Dead' Updated
+    - Translation for mod 'Wires for real' Updated
+    - Translation for mod 'Yuoki Industries - Engines' Updated
+    - Translation for mod 'Yuoki Industries' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.15.1
+Date: 2025-12-18
   Translation Added:
     - Translation for mod 'Arcanyx' Added
     - Translation for mod 'Khemia: Age of Alchemy' Added
@@ -13,10 +54,10 @@ Date: 2025-12-18
   Minor mod Translation Added:
     - Translation for mod 'Inserter Configuration' Added
     - Translation for mod 'MFerrari mod sounds' Added
+    - Translation for mod 'Recipe Tweaker' Added
     - Translation for mod 'Redrawn Space Compatibility' Added
     - Translation for mod 'Supersonic High Speed Train Mod' Added
     - Translation for mod 'Wooden Gleba: Water Cane' Added
-    - Translation for mod 'Recipe Tweaker' Added
   Translation Updated/Fixed:
     - Translation for mod 'AAI Industry' Updated
 ---------------------------------------------------------------------------------------------------
