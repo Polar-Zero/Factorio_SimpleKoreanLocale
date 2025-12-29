@@ -8,3 +8,5 @@ setI18nR(true,'technology','automobilism','aai');
 setI18nR(true,'technology','electric-engine','aai');
 setI18nR(true,'technology','engine','aai');
 setI18nR(true,'technology','steam-power','aai');
+setI18n(true,'gate','gate','item','aai');
+setI18nR(false,'technology','gate','aai');

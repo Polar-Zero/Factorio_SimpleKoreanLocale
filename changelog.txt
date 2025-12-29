@@ -1,10 +1,143 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.14.5
-Date: 2025-10-24
+Version: 0.15.0
+Date: 2025-12-05
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Updated/Fixed:
+    - Translation for mod 'AAI Industry' Updated
+    - Translation for mod 'Astroponics' Updated
+    - Translation for mod 'Battery-Electric Train' Updated
+    - Translation for mod 'Blueprint Shotgun' Updated
+    - Translation for mod 'Canal Excavator' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Color Coded Pipes' Updated
+    - Translation for mod 'Enemy Race Manager Asset Pack' Updated
+    - Translation for mod 'ERM - Zerg / Garm' Updated
+    - Translation for mod 'Exotic Space Industries' Updated
+    - Translation for mod 'Factorio Admin Command Center' Updated
+    - Translation for mod 'Foliax' Updated
+    - Translation for mod 'Fusion Robots' Updated
+    - Translation for mod 'Gleba Reborn' Updated
+    - Translation for mod 'Hard Fulgora' Updated
+    - Translation for mod 'Hard Gleba' Updated
+    - Translation for mod 'Hard Space' Updated
+    - Translation for mod 'Hard Vulcanus' Updated
+    - Translation for mod 'Icon Badges' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'Logistic Train Network' Updated
+    - Translation for mod 'Nexus Extended Promethium Endgame' Updated
+    - Translation for mod 'Pipe Visualizer 2.0' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Planet Rubia' Updated
+    - Translation for mod 'Planetaris: Arig' Updated
+    - Translation for mod 'PlanetsLib: Tiers' Updated
+    - Translation for mod 'Progressive Productivity' Updated
+    - Translation for mod 'R0b&B4c0n' Updated
+    - Translation for mod 'Redrawn Space Connections' Updated
+    - Translation for mod 'Scrappy Industry' Updated
+    - Translation for mod 'Time Lapse Base Edition' Updated
+    - Translation for mod 'Visible Planets in Space' Updated
+    - Translation for mod 'Visible Planets Scale' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Water is not infinite' Updated
+    - Translation for mod 'Yuoki Industries' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.14.7
+Date: 2025-11-18
+  Translation Added:
+    - Translation for mod 'Planetaris: Arig' Added
+    - Translation for mod 'Planetaris: Hyarion' Added
+    - Translation for mod 'Schall Virtual Signal' Added
+    - Translation for mod 'Space Extension Mod' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Graphite & Diamonds - Legacy' Added
+    - Translation for mod 'Lead - Legacy' Added
+    - Translation for mod 'Silica & Silicon - Legacy' Added
+    - Translation for mod 'Tin - Legacy' Added
+    - Translation for mod 'Titanium - Legacy' Added
+    - Translation for mod 'Ultimate Belts Space Age' Added
+    - Translation for mod 'Zirconium - Legacy' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Biter Clash' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Configurable Armour & Suits' Updated
+    - Translation for mod 'Dimension Warp' Updated
+    - Translation for mod 'easy wind turbine' Updated
+    - Translation for mod 'Factorio and Conquer: Tiberian Dawn' Updated
+    - Translation for mod 'Foliax' Updated
+    - Translation for mod 'Powerful Laser Turret' Updated
+    - Translation for mod 'Space Exploration' Updated
+    - Translation for mod 'Zen Garden' Updated
+    - Translation for mod 'Foodtorio' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'Inserter Fuel Leech' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Minecraft Series Music' Updated
+    - Translation for mod 'Nexus Extended Promethium Endgame' Updated
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Planetaris Unbounded' Updated
+    - Translation for mod 'Quick Ride' Updated
+    - Translation for mod 'Red Alert Tesla Sounds' Updated
+    - Translation for mod 'Scrappy Industry' Updated
+    - Translation for mod 'UMR: Ultimate Modular Reactor Fixed' Updated
+    - Translation for mod 'UPS Friendly Nixie Tubes' Updated
+    - Translation for mod 'Warp Drive Machine' Updated
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Updated
+    - Translation for mod 'Water is not infinite' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.14.6
+Date: 2025-11-01
+  Translation Added:
+    - Translation for mod 'Dimension Warp' Added
+    - Translation for mod 'Magical Quarries' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Circuit Wire Poles' Added
+    - Translation for mod 'Compact Power Reloaded' Added
+    - Translation for mod 'Crystara Graphics' Added
+    - Translation for mod 'Howitzer Cannon' Added
+    - Translation for mod 'No Power Icons' Added
+    - Translation for mod 'Manganese' Added
+    - Translation for mod 'Schall Chunk Alignment' Added
+    - Translation for mod 'Sniper Rifle Revived 2.0' Added
+    - Translation for mod 'Space Exploration Integration: Fusion Reactor' Added
+    - Translation for mod 'Krastorio2-Flow Control Bridge' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Any Planet Start' Updated
+    - Translation for mod 'Auto Deconstruct' Updated
+    - Translation for mod 'Bio Industries' Updated
+    - Translation for mod 'Bluetonium Fusion' Updated
+    - Translation for mod 'Bluetonium' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Circuit Launchable Rockets' Updated
+    - Translation for mod 'Color Coded Pipe Planner' Updated
+    - Translation for mod 'Color Coded Pipes' Updated
+    - Translation for mod 'Concreep Redux' Updated
+    - Translation for mod 'Cosmic Social Distancing' Updated
+    - Translation for mod 'Crash Site Settings' Updated
+    - Translation for mod 'Foodtorio' Updated
+    - Translation for mod 'Heat Inserter' Updated
+    - Translation for mod 'Iridescent Industry' Updated
+    - Translation for mod 'Logistics Insights' Updated
+    - Translation for mod 'Mineable Oil Products' Updated
+    - Translation for mod 'Miniloader (Redux)' Updated
+    - Translation for mod 'More Long Inserters' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Pacifist' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Space Exploration Integration: Foundry' Updated
+    - Translation for mod 'Space Exploration Integration: Gleba Fruits' Updated
+    - Translation for mod 'Space Exploration' Updated
+    - Translation for mod 'Subsurface' Updated
+    - Translation for mod 'UTF: Ultimate Turbines ++ Fixed' Updated
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Zen Garden' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.14.5
+Date: 2025-10-24
   Translation Added:
     - Translation for mod 'Nexus Extended Promethium Endgame' Added
     - Translation for mod 'Schall Alien Tech' Added
