@@ -7,6 +7,7 @@
 if mods['aai-industry'] then require("updates.aai-industry"); end
 if mods['adamo-carbon'] then require("updates.adamo-carbon"); end
 if mods['Additional-Qualities'] then require("updates.Additional-Qualities"); end
+if mods['Arcanyx'] then require("updates.Arcanyx"); end
 if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
 if mods['baketorio'] then require("updates.baketorio"); end
 if mods['Bio_Industries_2'] then require("updates.Bio_Industries_2"); end
