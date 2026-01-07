@@ -25,6 +25,7 @@
 5dim-cats
 5dim-disco-sci
 7seg
+A Sea Block Config
 aai-containers
 aai-containers-corpse-fix
 aai-industry
@@ -56,6 +57,7 @@ acorns-module-buff
 Actual_Craft_Time_2
 actual-craft-time
 adamo-carbon
+adamo-catalog
 adamo-physics
 adamo-sulfur
 Additional-Qualities
@@ -90,6 +92,7 @@ air-filtering
 AircraftRealism
 alchemical-combinator
 Alchemistry
+alchemy-khemia
 Alien-Chaos-modpack
 alien-module
 AlienSpaceScience
@@ -114,6 +117,15 @@ ammoniafill
 Amnesia
 AncientDrill
 AncientResearch
+angelsbioprocessing
+angelsbioprocessinggraphics
+angelsinfiniteores
+angelspetrochem
+angelspetrochemgraphics
+angelsrefining
+angelsrefininggraphics
+angelssmelting
+angelssmeltinggraphics
 annihilation-reactor
 anti-quality-module
 antitrypophobia2
@@ -129,6 +141,8 @@ aquilo-thermometer
 Arachnids_enemy
 Arborium_Renewed
 Arcana
+Arcanyx
+ArcanyxAssets
 AreaPaste
 Armor_upgradable
 Armored-train
@@ -391,6 +405,7 @@ circuit-network-selector-wire-icons
 circuit-wire-poles
 CircuitHUD-V2
 CircuitLaunchableRockets
+CircuitProcessing
 CleanedConcrete
 CleanFloor
 ClearerIcons
@@ -694,6 +709,7 @@ FalkiorTweak
 FalloutPowerArmor
 far-reach
 farther-heat
+fast_trans
 fast-demolisher
 fast-ghosts-remove
 faster-respawn
@@ -807,6 +823,7 @@ gleba-reborn
 gleba-recipe-tweaks
 gleba-soil-anywhere
 gleba-swamp-map
+gleba-water-cane
 Gledub-Music
 glib
 Global_Planets_Modpack
@@ -869,6 +886,10 @@ id-like-cliff-explosives-on-nauvis-please
 Igrys
 Imbalance
 improvement-loaders
+IndustrialRevolution3Assets1
+IndustrialRevolution3Assets2
+IndustrialRevolution3Assets3
+IndustrialRevolution3Assets4
 Infinite_Combat_Robot_Lifetime
 Infinite_Repair_Pack
 infinite_worker_robot_capacity_research
@@ -884,6 +905,7 @@ InfinityChestStart
 InfinityPipeStart
 informatron
 IngameCalculatorPro
+Inserter_Config
 inserter-cranes-fork
 inserter-throughput
 inserter-throughput-lib
@@ -905,6 +927,7 @@ invincible-construction-bots
 invincible-spawner
 Invulnerable_Bots
 Invulnerable_Rails
+IR3_Assets_some_assembly_required
 IridescentIndustry
 iron_chest_ore
 iron_chest_requires_wood_chest
@@ -916,6 +939,7 @@ jalm
 James-Oil-Processing
 james-train-mod
 janus
+janus-reshifted
 jatmn_stone_ammo
 jetpack
 K1_Advanced_fluid_continued
@@ -1027,6 +1051,7 @@ Land-Pump
 landfill-productivity
 LandfillCostAdjuster
 landing-pad-research
+LandmineExplosionsDoHurt
 lane-balancers
 lane-filtered-loaders
 lane-splitters
@@ -1151,6 +1176,7 @@ mf-logistics-graphics-1
 mferrari_graphics_pack_1
 mferrari_graphics_pack_2
 mferrari_lib
+mferrari-mod-sounds
 micro-machines
 MicroFurnaceWipMod
 microplasticsfromfish
@@ -1249,6 +1275,7 @@ new-diagonal-inserter
 newly-constructed-machines-wait-for-their-modules
 newsletter-for-mods-made-by-quezler
 Nexus
+Nexus-Graphics
 nice-try-train
 nice-try-train-2
 NicerFuelGlow-Fixed
@@ -1356,6 +1383,7 @@ Pipebelts
 PipeVisualizer-Updated
 pirateship
 PlaceableOffGrid
+planet_erimos_prime
 planet-akularis
 planet-arrakis
 planet-froodara
@@ -1369,12 +1397,15 @@ planet-nekohaven
 planet-picker
 planet-portal
 planet-quadromire
+planet-rabbasca
 planet-reorder
 planet-tapatrion
 planet-tchekor
 planet-vicrox
 planet-woodoria
 planet-zzhora
+planetaris-arig
+planetaris-hyarion
 planetaris-unbounded
 Planetary-Distance-Adjustments
 planetary-sourcing
@@ -1470,6 +1501,7 @@ Quicksave
 Quicksearch
 quirkycat_wood
 R0bb4c0n
+rabbasca-assets
 radar-equipment
 RailBow
 Railguns-Require-Fluoroketone
@@ -1497,8 +1529,10 @@ RealisticReactorGlow
 RealisticTank
 rec-blue-plus
 recipe-overhaul
+recipe-tweaker
 RecursiveResourceCalculator
 red-quickstart
+redrawn-space-compat-fixes
 Redrawn-Space-Connections
 Refrigeration
 reggie_mode
@@ -1627,6 +1661,7 @@ SchallTankWoodcutting
 SchallTransportGroup
 SchallUncraft
 SchallUraniumProcessing
+SchallVirtualSignal
 Science_pack_glow
 science-bottles
 science-duck
@@ -1645,6 +1680,8 @@ scrap-resource
 se-landfill-le
 se-space-trains
 se-ssa-i
+SeaBlock
+SeaBlockMetaPack
 SearchlightAssault
 secretas
 secretas-orbit-patch
@@ -1704,6 +1741,7 @@ simply-power-armor-mk3
 simultaneous-research
 skewer_planet_vesta
 skewer_planet_vesta_assets
+skewer_planet_vesta_assets_2
 skewer_shattered_planet
 skewer_shattered_planet_assets
 skins-factored
@@ -1771,6 +1809,8 @@ spaceagecoaliton
 SpaceAgeUnnerfed
 spaceblock
 spaceception
+SpaceMod
+SpaceModFeorasFork
 spaceplatform-block
 spacesuit
 Spaghetorio
@@ -1782,6 +1822,7 @@ SpecialResourceMarker
 Speckled-advanced-solar
 speed-settings
 SpeedControl
+speshkitty-qol-pack
 Spiderissmo
 SpidertronEnhancements
 SpidertronPatrols
@@ -1970,6 +2011,7 @@ vehicle-wagon-graphics
 VehicleBalancing
 VehicleSnap
 VehicleWagon2
+VFG-Cargo-Drops-Require-Research
 Vibrant_paint
 vibrant-train-colors
 ViidisElectricOffshorePump

@@ -1,10 +1,38 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.15.3
-Date: 2025-12-30
+Version: 0.15.4
+Date: 2025-01-08
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Angel's Petrochemical Processing' Part #1 Added
+    - Translation for mod 'Angel's Refining' Added
+    - Translation for mod 'Angel's Smelting' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Angel's Infinite Ores' Added
+    - Translation for mod 'Angel's Petrochemical Processing Graphics' Added
+    - Translation for mod 'Angel's Refining Graphics' Added
+    - Translation for mod 'Angel's Smelting Graphics' Added
+  Translation Updated/Fixed:
+    - Translation for mod '248k Redux Mod' Updated
+    - Translation for mod 'Astroponics' Updated
+    - Translation for mod 'Bob's Adjustable Inserters mod' Updated
+    - Translation for mod 'Bob's Enemies mod' Updated
+    - Translation for mod 'Bob's Metals, Chemicals and Intermediates mod' Updated
+    - Translation for mod 'Bob's Revamp mod' Updated
+    - Translation for mod 'Coralmium Agriculture' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Helmod' Updated
+    - Translation for mod 'Inventory Sensor' Updated
+    - Translation for mod 'Khemia: Age of Alchemy' Updated
+    - Translation for mod 'Material Storage' Updated
+    - Translation for mod 'Omnimatter' Updated
+    - Translation for mod 'Resource Monitor' Updated
+    - Translation for mod 'Seabloom Algaculture' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.15.3
+Date: 2025-01-02
   Minor mod Translation Added:
     - Translation for mod 'Landmine Explosions Do Hurt' Added
     - Translation for mod 'V/F/G Cargo Drops Require Research' Added
