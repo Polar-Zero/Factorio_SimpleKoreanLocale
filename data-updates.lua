@@ -8,15 +8,10 @@ if mods['aai-industry'] then require("updates.aai-industry"); end
 if mods['adamo-carbon'] then require("updates.adamo-carbon"); end
 if mods['Additional-Qualities'] then require("updates.Additional-Qualities"); end
 if mods['angelspetrochem'] then require("updates.angelspetrochem"); end
-if mods['SimpleSeablock'] then require("updates.SimpleSeablock"); end
-if mods['Arcanyx'] then require("updates.Arcanyx"); end
 if mods['apm_power_ldinc'] then require("updates.apm_power_ldinc"); end
+if mods['Arcanyx'] then require("updates.Arcanyx"); end
 if mods['baketorio'] then require("updates.baketorio"); end
 if mods['Bio_Industries_2'] then require("updates.Bio_Industries_2"); end
-if mods['bobelectronics'] then require("updates.bobelectronics"); end
-if mods['bobenemies'] then require("updates.bobenemies"); end
-if mods['boblogistics'] then require("updates.boblogistics"); end
-if mods['bobmodules'] then require("updates.bobmodules"); end
 if mods['deadsun'] then require("updates.deadsun"); end
 if mods['dredgeworks'] then require("updates.dredgeworks"); end
 if mods['ev-refining'] then require("updates.ev-refining"); end
@@ -50,6 +45,9 @@ if mods['Rocs-Hardcore-Demolishers'] then require("updates.Rocs-Hardcore-Demolis
 if mods['rubia'] then require("updates.rubia"); end
 if mods['SchallTankPlatoon'] then require("updates.SchallTankPlatoon"); end
 if mods['SchallUraniumProcessing'] then require("updates.SchallUraniumProcessing"); end
+if mods['ScienceCostTweakerM'] then require("updates.ScienceCostTweakerM"); end
+if mods['Seablock'] then require("updates.Seablock"); end
+if mods['SimpleSeablock'] then require("updates.SimpleSeablock"); end
 if mods['skewer_shattered_planet'] then require("updates.skewer_shattered_planet"); end
 if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['StopgapNukes'] then require("updates.StopgapNukes"); end

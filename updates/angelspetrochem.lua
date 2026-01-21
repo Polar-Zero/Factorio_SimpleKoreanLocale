@@ -6,3 +6,5 @@ setI18nR(true,'recipe','uranium-fuel-cell','angel');
 setI18nR(true,'item','uranium-fuel-cell','angel');
 setI18n(true,'assembling-machine','chemical-plant','entity','angel');
 setI18n(true,'assembling-machine','oil-refinery','entity','angel');
+setI18n(false,'resource','crude-oil','entity','angel');
+setI18n(false,'autoplace-control','crude-oil','entity','angel');
