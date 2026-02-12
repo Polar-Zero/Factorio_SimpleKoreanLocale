@@ -30,8 +30,3 @@ setI18nRD(false,'technology','kr-singularity-tech-card','k2so');
 setI18nR(false,'recipe','kr-enriched-rare-metals','k2so');
 setI18nR(false,'recipe','kr-enriched-iron','k2so');
 setI18nR(false,'recipe','kr-enriched-copper','k2so');
-
-setI18nRD(false,'technology','kr-planetary-teleporter','k2so');
-setI18nR(true,'technology','fusion-reactor','k2so');
-setI18nR(true,'technology','kr-fusion-reactor-equipment','k2so');
-setI18nRD(false,'item','agricultural-science-pack','k2so');

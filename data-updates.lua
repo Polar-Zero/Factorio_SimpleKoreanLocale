@@ -24,6 +24,7 @@ if mods['hatsune-enrichment-process'] then require("updates.hatsune-enrichment-p
 if mods['heating-coils'] then require("updates.heating-coils"); end
 if mods['Inverted-Quality'] then require("updates.Inverted-Quality"); end
 if mods['James-Oil-Processing'] then require("updates.James-Oil-Processing"); end
+if mods['Krastorio2'] then require("updates.Krastorio2"); end
 if mods['Krastorio2-spaced-out'] then require("updates.Krastorio2-spaced-out"); end
 if mods['lignumis'] then require("updates.lignumis"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
@@ -49,6 +50,7 @@ if mods['SchallUraniumProcessing'] then require("updates.SchallUraniumProcessing
 if mods['ScienceCostTweakerM'] then require("updates.ScienceCostTweakerM"); end
 if mods['Seablock'] then require("updates.Seablock"); end
 if mods['SimpleSeablock'] then require("updates.SimpleSeablock"); end
+if mods['spaceexplorationdatachipaugmenter'] then require("updates.spaceexplorationdatachipaugmenter"); end
 if mods['skewer_shattered_planet'] then require("updates.skewer_shattered_planet"); end
 if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['StopgapNukes'] then require("updates.StopgapNukes"); end
