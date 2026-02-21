@@ -1,10 +1,28 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.16.1
-Date: 2025-02-11
+Version: 0.16.2
+Date: 2025-02-17
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+  Minor mod Translation Added:
+    - Translation for mod 'Platform Construction Needs Reader' Added
+    - Translation for mod 'Lignumis - Director's Cut' Added
+    - Translation for mod 'Hydrate Reminder' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'Ore Scaling' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Lawn Mower' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'IPL - Inter Platform Logistics' Updated
+    - Translation for mod 'KS Combat_Updated' Updated
+    - Translation for mod 'Iridescent Industry' Updated
+    - Translation for mod 'Lignumis' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.16.1
+Date: 2025-02-11
   Translation Added:
     - Translation for mod 'Space Exploration Data Chip Augmenter' Added
   Translation Updated/Fixed:
@@ -16,6 +34,7 @@ Date: 2025-02-11
     - Translation for mod 'MadClown01's Extended AngelBob Minerals' Updated
     - Translation for mod 'On Wayward Seas' Updated
     - Translation for mod 'Planet Virentis' Updated
+    - Translation for mod 'SearchlightAssault' Updated
     - Translation for mod 'Simple Seablock' Updated
     - Translation for mod 'Solar Calculator' Updated
     - Translation for mod 'Space Age: Hard Mode' Updated
@@ -25,7 +44,6 @@ Date: 2025-02-11
     - Translation for mod 'UMR: Ultimate Modular Reactor Fixed' Updated
     - Translation for mod 'Water is not infinite' Updated
     - Translation for mod 'Yuoki Industries' Updated
-    - Translation for mod 'SearchlightAssault' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.0
 Date: 2025-02-04
