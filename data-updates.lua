@@ -41,6 +41,7 @@ if mods['planet-muluna'] then require("updates.planet-muluna"); end
 if mods['platformer'] then require("updates.platformer"); end
 if mods['prismatic-quality'] then require("updates.prismatic-quality"); end
 if mods['promethium-quality'] then require("updates.promethium-quality"); end
+if mods['pyhardmode'] then require("updates.pyhardmode"); end
 if mods['Railguns-Require-Fluoroketone'] then require("updates.Railguns-Require-Fluoroketone"); end
 if mods['RibbonMaze'] or mods['RibbonMaze20'] then require("updates.RibbonMaze"); end
 if mods['Rocs-Hardcore-Demolishers'] then require("updates.Rocs-Hardcore-Demolishers"); end
