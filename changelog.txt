@@ -1,25 +1,82 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.16.2
-Date: 2025-02-17
+Version: 0.16.3
+Date: 2025-02-23
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Translation Added:
+    - Translation for mod 'Carna' Partly Added (Description adding soon)
+    - Translation for mod 'Eneas' Partly Added (Dialogs adding soon)
+    - Translation for mod 'HeroTurrets_Redux' Added
+    - Translation for mod 'PetrochemPlus' Added
+    - Translation for mod 'Pyanodons Hard Mode' Added
+    - Translation for mod 'xyrc's K2SO Enhancements' Added
   Minor mod Translation Added:
-    - Translation for mod 'Platform Construction Needs Reader' Added
-    - Translation for mod 'Lignumis - Director's Cut' Added
-    - Translation for mod 'Hydrate Reminder' Added
+    - Translation for mod 'AntiGloom: Brighter, Less Dark Nights' Added
+    - Translation for mod 'Better Robots Extended Space Age Compat' Added
+    - Translation for mod 'Diesel Cargo Ships' Added
+    - Translation for mod 'Diesel Engine' Added
+    - Translation for mod 'Diesel Machines' Added
+    - Translation for mod 'Disable Radar Exploration' Added
+    - Translation for mod 'Drone battery upgrade' Added
+    - Translation for mod 'Elevated Rails on Lava' Added
+    - Translation for mod 'Entity GUI Library' Added
+    - Translation for mod 'Entity GUI Library Example' Added
+    - Translation for mod 'Even More Text Plates 2.0' Added
+    - Translation for mod 'Factorio UPS+' Added
+    - Translation for mod 'Mimi's graphics' Added
+    - Translation for mod 'Mimi's graphics part 2' Added
+    - Translation for mod 'Null's K2SO Tweaks' Added
+    - Translation for mod 'Planet Virentis [Graphics]' Added
+    - Translation for mod 'Play Time Display' Added
+    - Translation for mod 'Quality Seeds' Added
+    - Translation for mod 'Space Industry' Added
+    - Translation for mod 'Spidertron Unit-07' Added
+    - Translation for mod 'Transport Drones Fuel revived' Added
   Translation Updated/Fixed:
-    - Translation for mod 'Paracelsin' Updated
-    - Translation for mod 'Ore Scaling' Updated
-    - Translation for mod 'Planet Pelagos' Updated
-    - Translation for mod 'Lawn Mower' Updated
+    - Translation for mod '248k Redux Mod' Updated
+    - Translation for mod 'Auto Ghost Builder' Updated
+    - Translation for mod 'Configurable Landfill' Updated
+    - Translation for mod 'Control Your Rods' Updated
+    - Translation for mod 'Dimension Warp' Updated
+    - Translation for mod 'Early Agriculture' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'ERM - Protoss / Akilea' Updated
+    - Translation for mod 'ERM - Zerg / Garm' Updated
+    - Translation for mod 'FlatUI' Updated
+    - Translation for mod 'Frozen Food' Updated
+    - Translation for mod 'Gleba Reborn' Updated
+    - Translation for mod 'IPL - Inter Platform Logistics' Updated
+    - Translation for mod 'Linked Chest And Linked Pipe' Updated
+    - Translation for mod 'MadClown01's AngelBob Nuclear' Updated
+    - Translation for mod 'MadClown01's Extended AngelBob Minerals' Updated
+    - Translation for mod 'MadClown01's Processing' Updated
+    - Translation for mod 'Planetaris: Arig' Updated
+    - Translation for mod 'Planetaris: Arige' Updated
+    - Translation for mod 'PlanetsLib' Updated
+    - Translation for mod 'Preceti's Music Experiment' Updated
+    - Translation for mod 'Project Cybersyn' Updated
+    - Translation for mod 'Quantum Teleporter' Updated
+    - Translation for mod 'Speed Settings II' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.16.2
+Date: 2025-02-18
+  Minor mod Translation Added:
+    - Translation for mod 'Hydrate Reminder' Added
+    - Translation for mod 'Lignumis - Director's Cut' Added
+    - Translation for mod 'Platform Construction Needs Reader' Added
+  Translation Updated/Fixed:
     - Translation for mod 'Igrys' Updated
     - Translation for mod 'IPL - Inter Platform Logistics' Updated
-    - Translation for mod 'KS Combat_Updated' Updated
     - Translation for mod 'Iridescent Industry' Updated
+    - Translation for mod 'KS Combat_Updated' Updated
+    - Translation for mod 'Lawn Mower' Updated
     - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'Ore Scaling' Updated
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Transport drones (Continued)' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.1
 Date: 2025-02-11
