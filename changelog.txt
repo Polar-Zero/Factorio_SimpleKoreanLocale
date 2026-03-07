@@ -1,41 +1,80 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.16.4
-Date: 2025-03-04
+Version: 0.16.5
+Date: 2026-03-07
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Translation Added:
-    - Translation for mod 'Assembly Analyst' Added
+    - Translation for mod 'Better Planets' Added
+    - Translation for mod 'Cargo Crates' Added
+    - Translation for mod 'Cloud City' Added
+    - Translation for mod 'Updated Construction Drones - Forked' Added
   Minor mod Translation Added:
+    - Translation for mod 'Inventory Trash Slot' Added
+    - Translation for mod 'New Gear Girl Character 2.0' Added
+    - Translation for mod 'Placeables' Added
+    - Translation for mod 'Space Exploration Integration: Recycling Fixes' Added
+    - Translation for mod 'Train Trashtalk' Added
+    - Translation for mod 'Personal Burner Generator' Added
+    - Translation for mod 'Electric Transmission Tower' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'AAI Industry' Updated
+    - Translation for mod 'AAI Loaders' Updated
+    - Translation for mod 'Actual Underground Pipes' Updated
+    - Translation for mod 'Arcanyx' Updated
+    - Translation for mod 'Atomic Overhaul' Updated
+    - Translation for mod 'Better Recycling' Updated
+    - Translation for mod 'Bluetonium' Updated
+    - Translation for mod 'Carna' Updated (some description not finished)
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Configurable Landfill & Tiles' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Hard Fulgora' Updated
+    - Translation for mod 'Hard Vulcanus' Updated
+    - Translation for mod 'Quantum Fabricator' Updated
+    - Translation for mod 'Renai Transportation' Updated
+    - Translation for mod 'Signal Display' Updated
+    - Translation for mod 'SLP - Dyson Sphere Reworked' Updated
+    - Translation for mod 'Space Exploration - Upgradable Electric Furnace' Updated
+    - Translation for mod 'Space Exploration' Updated
+    - Translation for mod 'Transport drones (Continued)' Updated
+    - Translation for mod 'Transport Drones Fuel revived' Updated
+    - Translation for mod 'Two more Turrets' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.16.4
+Date: 2026-03-04
+  Translation Added:
+    - Translation for mod 'Diesel Machines' Added
+    - Translation for mod 'Enhanced Map Colors 2.0 Reupload' Added
+    - Translation for mod 'Gun Turret Upgrade' Added
+    - Translation for mod 'Heavy Gun Turret' Added
+    - Translation for mod 'loader_mini_1x1' Added
+    - Translation for mod 'Repair Turret 2' Added
+    - Translation for mod 'SLP - Dyson Sphere Reworked - Forked' Added
+    - Translation for mod 'Squeak Through (fixed + re-published abandoned mod)' Added
+    - Translation for mod 'Wooden Platform' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Assembly Analyst' Added
     - Translation for mod 'Brighter Lamps' Added
     - Translation for mod 'Console Calculators' Added
     - Translation for mod 'Container Cargo Ship (Cargo Ships addon)' Added
-    - Translation for mod 'Diesel Machines' Added
-    - Translation for mod 'Enhanced Map Colors 2.0 Reupload' Added
     - Translation for mod 'Fishing Dock' Added
     - Translation for mod 'FPS Friendly Thrusters' Added
-    - Translation for mod 'Gun Turret Upgrade' Added
-    - Translation for mod 'Heavy Gun Turret' Added
     - Translation for mod 'HeroicLibrary' Added
     - Translation for mod 'LandfillNEWcost' Added
     - Translation for mod 'Lighthouse Radar' Added
     - Translation for mod 'Load Spreader' Added
-    - Translation for mod 'loader_mini_1x1' Added
     - Translation for mod 'Long range delivery drones' Added
     - Translation for mod 'Lubrication Tower' Added
     - Translation for mod 'RailsNEWrecipe' Added
-    - Translation for mod 'Repair Turret 2' Added
     - Translation for mod 'Sentient Spiders' Added
-    - Translation for mod 'SLP - Dyson Sphere Reworked - Forked' Added
-    - Translation for mod 'Squeak Through (fixed + re-published abandoned mod)' Added
     - Translation for mod 'Steel Container' Added
     - Translation for mod 'Talandar Cargo Ships Tweaks' Added
     - Translation for mod 'Thicker Power Wires' Added
     - Translation for mod 'Two more Turrets' Added
     - Translation for mod 'Updated Construction Drones' Added
     - Translation for mod 'Valves Library' Added
-    - Translation for mod 'Wooden Platform' Added
     - Translation for mod 'YKR Inventory +100 Slots' Added
     - Translation for mod 'YKR Inventory +200 Slots' Added
     - Translation for mod 'YKR Inventory +500 Slots' Added
@@ -49,7 +88,7 @@ Date: 2025-03-04
     - Translation for mod 'Map Tag Generator' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.3
-Date: 2025-02-23
+Date: 2026-02-23
   Translation Added:
     - Translation for mod 'Carna' Partly Added (Description adding soon)
     - Translation for mod 'Eneas' Partly Added (Dialogs adding soon)
@@ -105,7 +144,7 @@ Date: 2025-02-23
     - Translation for mod 'Speed Settings II' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.2
-Date: 2025-02-18
+Date: 2026-02-18
   Minor mod Translation Added:
     - Translation for mod 'Hydrate Reminder' Added
     - Translation for mod 'Lignumis - Director's Cut' Added
@@ -123,7 +162,7 @@ Date: 2025-02-18
     - Translation for mod 'Transport drones (Continued)' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.1
-Date: 2025-02-11
+Date: 2026-02-11
   Translation Added:
     - Translation for mod 'Space Exploration Data Chip Augmenter' Added
   Translation Updated/Fixed:
@@ -147,7 +186,7 @@ Date: 2025-02-11
     - Translation for mod 'Yuoki Industries' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.0
-Date: 2025-02-04
+Date: 2026-02-04
   Translation Added:
     - Translation for mod 'Planet Virentis' Added
   Minor mod Translation Added:
@@ -181,7 +220,7 @@ Date: 2025-02-04
     - Translation for mod 'What Items Do I Have?' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.7
-Date: 2025-01-18
+Date: 2026-01-18
   Translation Added:
     - Translation for mod 'ScienceCostTweaker Mod M' Added
   Minor mod Translation Added:
@@ -205,7 +244,7 @@ Date: 2025-01-18
     - Translation for mod 'Sea Block' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.6
-Date: 2025-01-13
+Date: 2026-01-13
   Translation Added:
     - Translation for mod 'Angel's Petrochemical Processing' Part #2 Added
     - Translation for mod 'Artisanal Reskins: Angel's Mods' Added
@@ -223,7 +262,7 @@ Date: 2025-01-13
     - Translation for mod 'Hextorio' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.5
-Date: 2025-01-08
+Date: 2026-01-08
   Translation Added:
     - Translation for mod 'Angel's Petrochemical Processing' Part #1 Added
     - Translation for mod 'Angel's Refining' Added
@@ -251,7 +290,7 @@ Date: 2025-01-08
     - Translation for mod 'Seabloom Algaculture' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.3
-Date: 2025-01-02
+Date: 2026-01-02
   Minor mod Translation Added:
     - Translation for mod 'Landmine Explosions Do Hurt' Added
     - Translation for mod 'V/F/G Cargo Drops Require Research' Added
