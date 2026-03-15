@@ -1,10 +1,39 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.16.5
-Date: 2026-03-07
+Version: 0.16.7
+Date: 2026-03-16
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Apia–Carnova system' Added
+    - Translation for mod 'Muria' Added
+    - Translation for mod 'Planet Obsidiax' Added
+    - Translation for mod 'Recipe Icons Improvement for Exotic Space Industries Remembrance' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Rigor Module' Added
+  Translation Updated/Fixed:
+    - Translation for mod '248k Redux Mod' Updated
+    - Translation for mod 'Crash Site Settings' Updated
+    - Translation for mod 'Diesel Machines' Updated
+    - Translation for mod 'Electric Pole Range Multiplier' Updated
+    - Translation for mod 'Electric Tiles' Updated
+    - Translation for mod 'Eneas' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Filter Helper' Updated
+    - Translation for mod 'Foliax' Updated
+    - Translation for mod 'Frozen Food' Updated
+    - Translation for mod 'HeroTurrets_Redux' Updated
+    - Translation for mod 'Nexus Extended Promethium Endgame' Updated
+    - Translation for mod 'Nonstandard Beacons' Updated
+    - Translation for mod 'Planet Arrakis' Updated
+    - Translation for mod 'Project Cybersyn' Updated
+    - Translation for mod 'Quality Unlocked' Updated
+    - Translation for mod 'Two more Turrets' Updated
+    - Translation for mod 'Vesta' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+Date: 2026-03-07
   Translation Added:
     - Translation for mod 'Better Planets' Added
     - Translation for mod 'Cargo Crates' Added
