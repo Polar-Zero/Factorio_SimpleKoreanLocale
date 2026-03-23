@@ -1,10 +1,24 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.16.7
-Date: 2026-03-16
+Version: 0.16.8
+Date: 2026-03-24
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Rampant, fixed' Partly Added
+    - Translation for mod 'Miner Planner' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Condensing agricultural tower' Added
+    - Translation for mod 'FTL Ships' Added
+    - Translation for mod 'Mani's Better Statistics' Added
+    - Translation for mod 'Sushi Splitters' Added
+    - Translation for mod 'Advanced Solar High Resolution' Added
+    - Translation for mod 'Cargo Ships: Battleships & Patrol Boats' Added
+    - Translation for mod 'Global Storage' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.16.7
+Date: 2026-03-16
   Translation Added:
     - Translation for mod 'Apia–Carnova system' Added
     - Translation for mod 'Muria' Added
