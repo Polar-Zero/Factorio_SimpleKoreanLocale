@@ -1,11 +1,45 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.17.2
-Date: 2026-04-02
+Version: 0.17.3
+Date: 2026-04-07
   # Notice:
     - 간단한 한국인 출시! (만우절 에디션) 다운로드: https://mods.factorio.com/mod/SimpleKoreanLocaleAPR
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
+    - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Minor mod Translation Added:
+    - Translation for mod 'Autobarreling for Talandar's/Pelagos Barreling Machines' Added
+    - Translation for mod 'Barreling Machines' Added
+    - Translation for mod 'Diggs - timer to empty ore' Added
+    - Translation for mod 'Lea Character' Added
+    - Translation for mod 'Space Age Overhaul' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Administratorio' Updated
+    - Translation for mod 'Black Rubber Belts' Updated
+    - Translation for mod 'Breeding Demolisher' Updated
+    - Translation for mod 'Cargo Crates' Updated
+    - Translation for mod 'Cargo Ships: Battleships & Patrol Boats' Updated
+    - Translation for mod 'Cerys' Updated
+    - Translation for mod 'Diesel Cargo Ships' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'Foliax' Updated
+    - Translation for mod 'Helmod' Updated
+    - Translation for mod 'loader_mini_1x1' Updated
+    - Translation for mod 'Miner Planner' Updated
+    - Translation for mod 'More Long Inserters' Updated
+    - Translation for mod 'Planet Crucible' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Planet Picker' Updated
+    - Translation for mod 'Planet Rubia' Updated
+    - Translation for mod 'Planetaris: Arig' Updated
+    - Translation for mod 'Planetaris: Tellus' Updated
+    - Translation for mod 'Resource Monitor' Updated
+    - Translation for mod 'Shuttle Train Refresh' Updated
+    - Translation for mod 'Space Exploration' Updated
+    - Translation for mod 'Terra Palus' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+Date: 2026-04-02
   Translation Added:
     - Translation for mod 'Administratorio' Added
     - Translation for mod 'Space Elevator' Added
