@@ -1,4 +1,5 @@
 require("SKL");
+setI18nR('item','jaw-crusher','ev');
 enforceI18n('item','crusher1',true);
 enforceI18n('recipe','crusher1');
 enforceI18n('assembling-machine','crusher1');

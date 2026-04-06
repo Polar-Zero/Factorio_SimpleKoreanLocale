@@ -1,6 +1,6 @@
 {
   "name": "SimpleKoreanLocale",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "title": "심플한 한글 번역(Simple Korean Locale)",
   "author": "PolarZero",
   "contact": "ls4zti55x@mozmail.com",
@@ -22,7 +22,6 @@
   "(?) jetpack",
   "(?) maraxsis",
   "(?) Milestones",
-  "(?) pykoreanlocale",
   "(?) reskins-angels",
   "(?) reskins-bobs",
   "(?) reskins-compatibility",

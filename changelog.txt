@@ -1,11 +1,39 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.17.0
-Date: 2026-03-24
+Version: 0.17.1
+Date: 2026-03-28
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Translation Added:
+    - Translation for mod 'Rift Rail' Added
+    - Translation for mod 'SeaBlockProductivity' Added
+    - Translation for mod 'Verbose Engineering' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Alien Biomes' Added
+    - Translation for mod 'Cargo Drone' Added
+  Mod Translation Removed:
+    - Translation for mod 'Pyanodons Hard Mode' Removed (Will Processed by PyKoreanLocale)
+  Translation Updated/Fixed:
+    - Translation for mod 'Apia–Carnova system' Updated
+    - Translation for mod 'Cargo Ships: Battleships & Patrol Boats' Updated
+    - Translation for mod 'Corrundum' Updated
+    - Translation for mod 'Foliax' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'Loaders Modernized' Updated
+    - Translation for mod 'Mining Patch Planner' Updated
+    - Translation for mod 'Planet Crucible' Updated
+    - Translation for mod 'Planet Vesta' Updated
+    - Translation for mod 'Rigor Module' Updated
+    - Translation for mod 'Secretas&Frozeta' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.17.0
+Date: 2026-03-24
+  Translation Added:
+    - Translation for mod 'Automatic Train Painter' Added
+    - Translation for mod 'Heroic Roboports' Added
+    - Translation for mod 'Planet Crucible' Added
+    - Translation for mod 'Planetaris: Tellus' Added
     - Translation for mod 'Realistic Fusion Power Port' Added
     - Translation for mod 'Spaceblock' Added
     - Translation for mod 'Verbose Engineering' Added
@@ -27,6 +55,7 @@ Date: 2026-03-24
     - Translation for mod 'Linked Belts' Added
     - Translation for mod 'No More Trigger Technologies' Added
     - Translation for mod 'QuirkyCat Duranium' Added
+    - Translation for mod 'Radicane Algaculture' Added
     - Translation for mod 'Space exploration pipes and belts balance' Added
     - Translation for mod 'Space platforms don't delete items' Added
     - Translation for mod 'Subterranio' Added
