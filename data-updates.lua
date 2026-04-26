@@ -58,4 +58,5 @@ if mods['StopgapNukes'] then require("updates.StopgapNukes"); end
 if mods['terrapalus'] then require("updates.terrapalus"); end
 if mods['TFMG'] then require("updates.TFMG"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
+if mods['virentis'] then require("updates.virentis"); end
 if mods['wret-beacon-rebalance-mod'] then require("updates.wret-beacon-rebalance-mod"); end

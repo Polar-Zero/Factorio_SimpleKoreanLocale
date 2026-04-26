@@ -1,12 +1,42 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.17.4
-Date: 2026-04-18
+Version: 0.17.5
+Date: 2026-04-28
   # Notice:
     - 간단한 한국인 출시! (만우절 에디션) 다운로드: https://mods.factorio.com/mod/SimpleKoreanLocaleAPR
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Dangerous Asteroids Radar Tracking' Added
+    - Translation for mod 'exfret's Randomizer' Added
+    - Translation for mod 'Ribbonia' Partly Added (some Lores adding soon)
+  Minor mod Translation Added:
+    - Translation for mod 'Casting plant' Added
+    - Translation for mod 'Factorio Hardcore - No Respawn - Perma Death' Added
+    - Translation for mod 'Fluid recycler' Added
+    - Translation for mod 'Plasma Handling' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Circuit Launchable Rockets' Updated
+    - Translation for mod 'Container Cargo Ship (Cargo Ships addon)' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'ERM - Playable Terran' Updated
+    - Translation for mod 'Factorio Admin Command Center' Updated
+    - Translation for mod 'Factory Planner' Updated
+    - Translation for mod 'Igrys' Updated
+    - Translation for mod 'Iridescent Industry' Updated
+    - Translation for mod 'Lily's Cubeine Technologies' Updated
+    - Translation for mod 'Placeable-off-grid' Updated
+    - Translation for mod 'Planet Pelagos' Updated
+    - Translation for mod 'Quantum Teleporter' Updated
+    - Translation for mod 'Stable Foundations' Updated
+    - Translation for mod 'Toxic Biters' Updated
+    - Translation for mod 'Vanilla Galore' Updated
+    - Translation for mod 'Verbose Engineering' Updated
+    - Translation for mod 'Voidcraft' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.17.4
+Date: 2026-04-18
   Translation Added:
     - Translation for mod 'Cybersyn 2' Added
     - Translation for mod 'Deep Mine ALT' Added
