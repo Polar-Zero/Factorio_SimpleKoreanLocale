@@ -27,6 +27,7 @@ setI18nR(false,'technology','logistics-2','admi');
 setI18nR(false,'technology','logistics-3','admi');
 setI18nR(false,'technology','nuclear-power','admi');
 setI18nR(false,'technology','oil-processing','admi');
+setI18nR(true,'technology','automobilism','admi');
 setI18nR(true,'entity','greenhouse','admi');
 setI18nRD(false,'entity','locomotive','admi');
 

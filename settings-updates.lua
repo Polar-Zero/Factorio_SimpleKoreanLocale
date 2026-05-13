@@ -5,7 +5,7 @@
 function enforceI18n(p,z,o) p=p..'-setting' if data.raw[p] then if data.raw[p][z] then data.raw[p][z].localised_name={'mod-setting-name.'..z}
 if o then data.raw[p][z].localised_description={'mod-setting-description.'..z} end end end end
 
-if not mods['erm_zerg'] and not mods['erm_toss'] and not mods['erm_terran'] then
+if not mods['erm_zerg'] and not mods['erm_toss'] and not mods['erm_terran'] and not mods['Abacayba_Moon_of_Nauvis'] then
     data.raw['string-setting']['polar-korean-setting-starcraft'].hidden = true
 end
 if mods['UnlimitedProductivity'] or mods['UnlimitedProductivityFork'] then
