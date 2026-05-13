@@ -75,3 +75,5 @@ setI18nR(true,'technology','ei-iron-beacon','eir');
 setI18nR(true,'technology','ei-nano-factory','eir');
 setI18nR(true,'technology','ei-plasma-turret','eir');
 setI18nR(true,'technology','ei-quantum-age','eir');
+setI18nRD(false,'technology','explosive-rocketry','eir');
+setI18nRD(false,'technology','rocketry','eir');
