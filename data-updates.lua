@@ -56,6 +56,7 @@ if mods['skewer_shattered_planet'] then require("updates.skewer_shattered_planet
 if mods['spaceplatform-block'] then require("updates.spaceplatform-block"); end
 if mods['StopgapNukes'] then require("updates.StopgapNukes"); end
 if mods['terrapalus'] then require("updates.terrapalus"); end
+if mods['TIMSABA'] then require("updates.TIMSABA"); end
 if mods['TFMG'] then require("updates.TFMG"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
 if mods['virentis'] then require("updates.virentis"); end
