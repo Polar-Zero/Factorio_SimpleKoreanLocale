@@ -48,6 +48,7 @@ aai-vehicles-laser-tank
 aai-vehicles-miner
 aai-vehicles-warden
 aai-zones
+Abacayba_Moon_of_Nauvis
 AbandonedRuins_updated_fork
 AbandonedRuins-base
 AbandonedRuins20
@@ -81,6 +82,7 @@ advanced-evolution
 advanced-fluid-handling-space-age
 Advanced-Mining-Drills
 AdvancedBeltsSA
+AdvancedOil
 AdvancedSubstation
 AdvancedSubstationSpaceAgeUpdate
 AE_BOB_SA_248K_mod
@@ -90,9 +92,11 @@ AfraidOfTheDark
 afsw-assets
 afsw-empty-island-voidcraft-start
 Age-of-Production
+Age-of-Production-Graphics
 agri-no-spoil
 agricultural-tower-placement-helper
 air-filtering
+Aircraft
 AircraftRealism
 alchemical-combinator
 Alchemistry
@@ -121,6 +125,7 @@ AmmoGroup
 Ammonia-carbon-fiber
 ammoniafill
 Amnesia
+ams-acid-landfill
 AncientDrill
 AncientResearch
 angelsaddons-bots
@@ -206,6 +211,7 @@ auto-train-refuel
 autocraft-logistics
 AutoDeconstruct
 autodrive
+autofuel
 AutoGhostBuilder
 Automatic_Coupling_System
 Automatic_Train_Painter
@@ -409,6 +415,7 @@ carna_assets_2
 carna_assets_3
 carna_assets_enemies
 casino
+casting
 casting_plant
 castra
 celestial-weather
@@ -446,6 +453,7 @@ CircuitProcessing
 CleanedConcrete
 CleanFloor
 ClearerIcons
+cliff-builder
 clock
 cloning-vat
 Cloning-vat-building
@@ -554,6 +562,7 @@ deep-storage-unit-se-fox
 deep-storage-unit-se2
 DeepMine2
 DeepMineALT
+deepsea_mechanic
 Delete-Chunk-Tool
 delete-fulgora
 delete-gleba
@@ -593,6 +602,7 @@ Diversitree
 DivOresity
 DNF-music
 dnf-snow
+doeworks-deer
 DoubleSpeedBelts
 DoubleWagons
 dqol-resource-monitor
@@ -731,6 +741,7 @@ FactOreo
 factorio_hd_age_base_game_base
 factorio_hd_age_base_game_decorative
 factorio_hd_age_base_game_enemies_nauvis
+factorio_hd_age_base_game_graphics_addon
 factorio_hd_age_base_game_logistics
 factorio_hd_age_base_game_military
 factorio_hd_age_base_game_production
@@ -770,6 +781,7 @@ FactorioWorldUpdated
 factorissimo-2
 factorissimo-2-notnotmelon
 factorissimo-2-Space-Age-Port
+Factorissimo2-Space-Age-Port
 factory_graph
 factory_solver
 factory-efficiency-tracker
@@ -890,6 +902,7 @@ genshin-impact-music
 genshin-impact-skin
 gersiete_first_assembly
 GetWiresBack
+ghost-counter
 ghost-mode
 ghosts-do-not-kick-you-out-of-their-gui
 Glass
@@ -933,6 +946,7 @@ hatsune-enrichment-process
 Hazard-Lights_Fix
 Hazard-Lights-Auto-Lights_Fix
 hd_planets
+hd-plasma-duct
 heat_glow
 heat-engine
 heat-furnace
@@ -1001,9 +1015,11 @@ InserterVisualizerLite
 InstantRobotChargingUpdated
 intelligent-enemy
 Inter-Platform-Logistics
+Inter-Platform-Travel
 intercontinental-rocketry
 intercontinental-rocketry-forked
 IntermodalContainers
+interstellar-travel
 Inventory Sensor
 inventory-mover
 inventory-repair
@@ -1174,7 +1190,6 @@ Lego_Yoda_Death_Sound
 less-freezing
 let-me-walk
 levelup
-lex-aircraft
 lex-aircraft_alt_color
 lex-aircraft-grayscale
 lexxy-trashcan
@@ -1199,10 +1214,12 @@ Load-Furn-2-SpaceAgeFix
 load-spreader
 loader_mini_1x1
 Loader-Furnace
+loader-utils
 loaders-modernized
 loaders-modernized-5dim
 loaders-modernized-bobs
 loaders-modernized-ev
+loaders-modernized-integrations
 loaders-modernized-iper
 loaders-modernized-py
 loaders-modernized-se
@@ -1330,6 +1347,7 @@ module-inserter
 ModuleInserterSimplified
 modules-t4
 ModulesUI
+molten_plastic
 molten_without_calcite
 molten-holmium
 molten-tungsten
@@ -1376,6 +1394,7 @@ nailong
 naked-rails-f2
 Nanobots
 Nanobots2
+Nanobots3
 NapalmArtillery
 nature_regeneration
 naufulglebunusilo
@@ -1408,6 +1427,7 @@ no-maraxsis-gatekeep-promethium
 no-more-gambling
 no-more-trigger-techs
 no-pipe-touching
+no-quality
 no-quality-cheesing
 No-Qualitycycling
 no-stone-on-the-bus
@@ -1483,12 +1503,14 @@ panglia_planet
 panglia_planet_assets
 Paracelsin
 Paracelsin-Graphics
+parallel-piping
 passive-power-combinators
 PasteMoreLogisticSettings
 PCPRedux
 pelagos
 pelagos-autobarreling
 Peppermint_Mining
+perel
 periodic-madness
 PersonalBurnerGenerator
 PersonalTeleporter
@@ -1519,6 +1541,7 @@ planet-ithurice
 planet-mickora
 planet-muluna
 planet-nekohaven
+planet-pandora
 planet-picker
 planet-portal
 planet-quadromire
@@ -1530,6 +1553,7 @@ planet-vicrox
 planet-woodoria
 planet-zzhora
 planetaris-arig
+planetaris-dyes
 planetaris-hyarion
 planetaris-tellus
 planetaris-unbounded
@@ -1539,6 +1563,7 @@ planets-have-flow-statistics-for-their-cargo-pods
 PlanetShortcuts
 PlanetsLib
 PlanetsLibTiers
+plasma_crafter
 plasma_handling
 plasma-duct
 plasma-duct-tweak
@@ -1618,6 +1643,7 @@ quality-seeds
 quality-seeds-fork
 quality-upgrade-planner
 QualityAssurance
+QualityBioLab
 QualityEffectsFixed
 QualityPlus
 QualityRockets
@@ -1747,6 +1773,7 @@ rocket-reusability
 Rocket-Silo-Construction
 rocket-silos-can-buffer-more-rockets
 RocketCargoInsertion
+Rocky-Asteroids
 Rocs-Hardcore-Aquilo
 Rocs-Hardcore-Cargo-Drops
 Rocs-Hardcore-Cerys
@@ -1772,6 +1799,7 @@ rso-mod
 rt-light-bot-start
 rubia
 rubia-assets
+rubia-krastorio-compatibility-plus
 runtime-spoilage-library
 rusty-locale
 rz-consistent_underground_belts
@@ -1828,9 +1856,12 @@ scrap-industry
 scrap-reprocessor
 scrap-resource
 se-landfill-le
+SE-PlasticSpaceRails
 se-space-trains
 se-ssa-i
 SeaBlock
+seablock-mining
+seablock-mining-tz
 SeaBlockMetaPack
 SeaBlockProductivity
 SearchlightAssault
@@ -1885,7 +1916,6 @@ simpleadjustableinserters
 SimpleClock
 SimpleCompress
 SimpleKoreanLocale
-SimpleKoreanLocalePluginNN
 SimpleRocketParts
 SimplerStart
 SimpleSeablock
@@ -1926,6 +1956,7 @@ snouz-handcannon
 snouz-snouztorio
 solar-appliances
 solar-calc
+Solar-Halo
 Solar-Lamp
 solar-productivity
 solar-walls
@@ -2022,6 +2053,7 @@ StatsGui-MovementSpeed
 stdlib
 stdlib2
 SteamCracking
+SteampunkLamp
 steamtrain-redux
 steel_chest_requires_iron_chest
 steel-container
@@ -2096,7 +2128,9 @@ tile-upgrade-planner
 tile-upgrade-planner-muluna
 time-changer
 TimeTools
+TIMSABA
 Tiny_Equipment
+Tiny_Solar
 tiny-assemblers
 TinyStart-2
 TjAirCleaner
@@ -2192,6 +2226,7 @@ VehicleBalancing
 vehicles-retain-fuel-when-picked-up
 VehicleSnap
 VehicleWagon2
+Velora
 Verbose-Engineering
 VFG-Cargo-Drops-Require-Research
 Vibrant_paint
@@ -2224,6 +2259,7 @@ Wagon-quality-size
 Warehousing
 Warp-Drive-Machine
 warptorio-space-age
+warptorio3_2
 water_freezing
 Water-Friendly-Walls
 water-is-not-infinite
@@ -2254,6 +2290,7 @@ WideChestsLogistic
 WideChestsUnlimited
 Wind-Turbines-relaunched
 windturbines
+wire-fix
 WireShortcutX
 WireTools
 Wood_Gasification_updated
