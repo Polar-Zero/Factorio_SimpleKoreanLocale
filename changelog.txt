@@ -1,11 +1,56 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.17.9
-Date: 2026-06-05
+Version: 0.18.0
+Date: 2026-06-16
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Translation Added:
+    - Translation for mod 'Aegis & Bellicos' Added
+    - Translation for mod 'Hephaestus' Added
+    - Translation for mod 'Nullius' Part #1 Added (Retranslation, Names Only)
+    - Translation for mod 'UFP: Ultimate Fusion Power Fixed' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Science Difficulty Overhaul: Harder Science Packs' Added
+    - Translation for mod 'Share your stargates' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Abacayba' Updated
+    - Translation for mod 'Abacayba: Infested Death Twin of Nauvis' Updated
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Alt Recipes & Processing' Updated
+    - Translation for mod 'Apia–Carnova system' Updated
+    - Translation for mod 'Diesel Engine' Updated
+    - Translation for mod 'Early Agriculture' Updated
+    - Translation for mod 'Electric Grid' Updated
+    - Translation for mod 'Everything Spoilage' Updated
+    - Translation for mod 'Fluid recycler' Updated
+    - Translation for mod 'GaloreLib' Updated
+    - Translation for mod 'King Jo's Entity Master' Updated
+    - Translation for mod 'Landfill Painting' Updated
+    - Translation for mod 'Lignumis' Updated
+    - Translation for mod 'loader_mini_1x1' Updated
+    - Translation for mod 'Metal and Stars' Updated
+    - Translation for mod 'Micro Machines Mod' Updated
+    - Translation for mod 'Mini Machines Mod' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Muria' Updated
+    - Translation for mod 'Nanobots: Early Bots 3.0' Updated
+    - Translation for mod 'Nexus Extended Promethium Endgame' Updated
+    - Translation for mod 'Planetaris: Tellus' Updated
+    - Translation for mod 'Rigor Module' Updated
+    - Translation for mod 'Space Exploration' Updated
+    - Translation for mod 'Space Platform Hub Chests' Updated
+    - Translation for mod 'Tiny solar panels' Updated
+    - Translation for mod 'UMR: Ultimate Modular Reactor Fixed' Updated
+    - Translation for mod 'Vanilla Galore' Updated
+    - Translation for mod 'Vehicle Equipment Grids' Updated
+    - Translation for mod 'Warptorio 3' Updated (Still Working)
+    - Translation for mod 'Wooden Platform' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.17.9
+Date: 2026-06-05
   Minor mod Translation Added:
     - Translation for mod 'Factorissimo2-Space-Age-Port' Added
     - Translation for mod 'Protocol's Extended Runtime Event Library' Added
@@ -33,11 +78,6 @@ Date: 2026-06-05
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.8
 Date: 2026-05-23
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Translation Added:
     - Translation for mod 'Planet Pandora' Added
     - Translation for mod 'Solar Halo' Added
