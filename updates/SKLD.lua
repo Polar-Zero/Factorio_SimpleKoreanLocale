@@ -2,7 +2,7 @@
 ---   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
 ---   - PolarZero
 
----   Code Version 3.0.0
+---   Code Version 3.0.0 (For Debug)
 function setI18n(p,o,l,a,r) data.raw[o][l].localised_name={a..'-name.'..r..'-'..l}
 if p then setI18nD(false,o,l,a,r) end end
 function setI18nD(p,o,l,a,r) data.raw[o][l].localised_description={a..'-description.'..r..'-'..l} end

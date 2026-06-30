@@ -26,6 +26,9 @@ setI18n(true,'pipe','ei-data-pipe','item','eir');
 setI18n(true,'pipe','ei-insulated-pipe','item','eir');
 setI18n(true,'pipe-to-ground','ei-insulated-underground-pipe','item','eir');
 setI18n(true,'storage-tank','ei-insulated-pipe-tank','item','eir');
+setI18n(true,'reactor','fusion-generator','entity','eir');
+setI18n(true,'reactor','fusion-reactor','entity','eir');
+setI18n(true,'offshore-pump','offshore-pump','entity','eir');
 
 setI18nNL('assembling-machine','ei-bio-chamber','item','eir');
 setI18nNL('assembling-machine','ei-bio-reactor','item','eir',true);
@@ -78,3 +81,5 @@ setI18nR(true,'technology','ei-quantum-age','eir');
 setI18nR(true,'technology','ei-bio-reactor','eir');
 setI18nRD(false,'technology','explosive-rocketry','eir');
 setI18nRD(false,'technology','rocketry','eir');
+setI18nR(true,'technology','fusion-reactor','eir');
+setI18nR(true,'technology','military-5','eir');
