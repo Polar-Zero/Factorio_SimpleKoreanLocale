@@ -1,21 +1,38 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.18.2
-Date: 2026-06-23
+Version: 0.18.5
+Date: 2026-07-01
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
-  Changes:
-    - 2.1 Pre Release
+  # Addtional Notice:
+    - Factorio 2.1 실험 버전에서도 이 모드를 사용할 수 있습니다!
+    - Factorio 2.1 버전이 정식 출시된 뒤에도, 이 모드의 2.0 지원 업데이트를 일정 기간동안 유지할 예정입니다.
+  Minor mod Translation Added:
+    - Translation for mod 'Beyond Belts' Added
+    - Translation for mod 'Production Rates Library' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Asteroid Frequency Multiplier' Updated
+    - Translation for mod 'Crash Site Settings' Updated
+    - Translation for mod 'Factorio Library' Updated
+    - Translation for mod 'Factory Planner' Updated
+    - Translation for mod 'Factory Search' Updated
+    - Translation for mod 'Fluid Nutrients' Updated
+    - Translation for mod 'Hundred-Meter Long Chest Fork' Updated
+    - Translation for mod 'Mani's Boss Demolisher' Updated
+    - Translation for mod 'Map Tag Generator' Updated
+    - Translation for mod 'Miniloader (Redux)' Updated
+    - Translation for mod 'Modular Turrets' Updated
+    - Translation for mod 'Module Inserter Simplified' Updated
+    - Translation for mod 'Planetaris: dyes' Updated
+    - Translation for mod 'Planetaris: Tellus' Updated
+    - Translation for mod 'Production Rates Library' Updated
+    - Translation for mod 'Pushbutton' Updated
+    - Translation for mod 'Show Max Underground Distance' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.1
 Date: 2026-06-21
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Translation Bug Fixed:
     - Translation Error in Victory Screen Fixed
   Translation Added:
