@@ -30,7 +30,6 @@ if mods['Krastorio2'] then require("updates.Krastorio2"); end
 if mods['Krastorio2-spaced-out'] then require("updates.Krastorio2-spaced-out"); end
 if mods['lignumis'] then require("updates.lignumis"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
-if mods['module-config'] then require("updates.module-config") end
 if mods['maraxsis'] then require("updates.maraxsis"); end
 if mods['maraxsis-start'] then require("updates.maraxsis-start"); end
 if mods['Moshine'] then require("updates.Moshine"); end

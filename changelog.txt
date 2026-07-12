@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.19.6
-Date: 2026-07-01
+Version: 0.19.7
+Date: 2026-07-06
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
@@ -9,6 +9,30 @@ Date: 2026-07-01
   # Addtional Notice:
     - Factorio 2.0 기본 버전에서도 이 모드를 사용할 수 있습니다!
     - Factorio 2.1 버전이 정식 출시된 뒤에도, 이 모드의 2.0 지원 업데이트를 일정 기간동안 유지할 예정입니다.
+  Translation Added:
+    - Translation for mod 'AngelBob Space Age Rebalance' Added
+    - Translation for mod 'Ultimate Fixed Mods Core Libs' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Cargo Ships: Floating Electric Pole' Added
+    - Translation for mod 'Cargo Ships: Oil Rig' Added
+    - Translation for mod 'Lamp post' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Abandoned Ruins' Updated
+    - Translation for mod 'Apia–Carnova system' Updated
+    - Translation for mod 'Automatic Train Painter' Updated
+    - Translation for mod 'Cargo Ships' Updated
+    - Translation for mod 'Carna' Updated
+    - Translation for mod 'Cheese's Concentrated Solar' Updated
+    - Translation for mod 'Color Coded Pipes' Updated
+    - Translation for mod 'Creative Mode' Updated
+    - Translation for mod 'Cursor Enhancements' Updated
+    - Translation for mod 'Deep Core Operations' Updated
+    - Translation for mod 'Electronic Locomotives' Updated
+    - Translation for mod 'Extended Vanilla: Refining' Updated
+    - Translation for mod 'Project Cybersyn' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.19.6
+Date: 2026-07-01
   Minor mod Translation Added:
     - Translation for mod 'Beyond Belts' Added
     - Translation for mod 'Production Rates Library' Added
