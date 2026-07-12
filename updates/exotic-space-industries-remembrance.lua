@@ -21,6 +21,8 @@ setI18nR(true,'item','ei-uranium-233-fuel','eir');
 setI18nR(true,'item','ei-uranium-235-fuel','eir');
 
 setI18nR(true,'item','ei-cannon-turret','eir');
+setI18nR(true,'rocket','rocket','eir');
+setI18nR(true,'rocket','explosive-rocket','eir');
 
 setI18n(true,'pipe','ei-data-pipe','item','eir');
 setI18n(true,'pipe','ei-insulated-pipe','item','eir');
