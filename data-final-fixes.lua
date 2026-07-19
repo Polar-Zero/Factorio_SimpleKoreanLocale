@@ -5,4 +5,6 @@
 if mods['erm_toss'] then require("updates.erm_toss") end
 if mods['erm_zerg'] then require("updates.erm_zerg") end
 if mods['erm_terran'] then require("updates.erm_terran") end
+if mods['module-config'] then require("updates.module-config"); end
 if mods['exotic-space-industries-remembrance'] then require("updates.exotic-space-industries-remembrance") end
+if mods['angelbob-spaceage-rebalance'] then require("updates.angelbob-spaceage-rebalance"); end

@@ -32,7 +32,6 @@ if mods['lignumis'] then require("updates.lignumis"); end
 if mods['LunarLandings'] then require("updates.LunarLandings"); end
 if mods['maraxsis'] then require("updates.maraxsis"); end
 if mods['maraxsis-start'] then require("updates.maraxsis-start"); end
-if mods['module_config'] then require("updates.module_config") end
 if mods['Moshine'] then require("updates.Moshine"); end
 if mods['naufulglebunusilo'] then require("updates.naufulglebunusilo"); end
 if mods['no-more-gambling'] then require("updates.no-more-gambling"); end
@@ -63,3 +62,7 @@ if mods['TIMSABA'] then require("updates.TIMSABA"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
 if mods['virentis'] then require("updates.virentis"); end
 if mods['wret-beacon-rebalance-mod'] then require("updates.wret-beacon-rebalance-mod"); end
+if mods['psyduck'] then require("updates.psyduck"); end
+if mods['shchierbin'] then require("updates.shchierbin"); end
+if mods['Paracelsin'] then require("updates.Paracelsin"); end
+if mods['factorioplus'] then require("updates.factorioplus"); end
