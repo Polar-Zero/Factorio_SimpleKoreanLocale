@@ -72,3 +72,10 @@ enforceI18n('recipe','holmium-dust-liquefaction')
 enforceI18n('recipe','gravel-to-brick');
 enforceI18n('recipe','plastics-from-enriched-coal');
 enforceI18n('recipe','enriched-coal-from-carbon');
+setI18nR(false,'recipe','tungsten-ore-enriching','ev');
+setI18nR(false,'recipe','tungsten-ore-purifying','ev');
+setI18nR(false,'recipe','tungsten-ore-crushing','ev');
+setI18nR(false,'recipe','iron-ore-crushing','ev');
+setI18nR(false,'recipe','holmium-ore-crushing','ev');
+setI18nR(false,'recipe','copper-ore-crushing','ev');
+setI18nR(false,'item','tungsten-dust','ev');

@@ -62,3 +62,7 @@ if mods['TIMSABA'] then require("updates.TIMSABA"); end
 if mods['tungsten-belt-rename'] then require("updates.tungsten-belt-rename") end
 if mods['virentis'] then require("updates.virentis"); end
 if mods['wret-beacon-rebalance-mod'] then require("updates.wret-beacon-rebalance-mod"); end
+if mods['psyduck'] then require("updates.psyduck"); end
+if mods['shchierbin'] then require("updates.shchierbin"); end
+if mods['Paracelsin'] then require("updates.Paracelsin"); end
+if mods['factorioplus'] then require("updates.factorioplus"); end

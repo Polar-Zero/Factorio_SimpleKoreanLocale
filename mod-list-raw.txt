@@ -128,6 +128,7 @@ Amnesia
 ams-acid-landfill
 AncientDrill
 AncientResearch
+angelbob-spaceage-rebalance
 angelsaddons-bots
 angelsaddons-cab
 angelsaddons-mobility
@@ -241,6 +242,7 @@ beacon_maraxsis_tenebris
 beacon-interface
 beaver
 behemoth-enemies
+bellicos-and-aegis
 Belt_Glow
 belt-balancer-2
 belt-quality
@@ -282,6 +284,7 @@ betterartillerysounds-updated
 bettercallsaul-2
 BetterCommands
 BetterPlanets
+beyond-belts
 beyond-logistics
 big-beautiful-module-icons
 big-data-string2
@@ -407,7 +410,9 @@ cargo_crates
 cargo-bay-inserters
 cargo-drone
 cargo-ships
+cargo-ships-floating-electric-pole
 cargo-ships-graphics
+cargo-ships-oil-rig
 CargoBayLimitResearch
 carna
 carna_assets
@@ -557,6 +562,7 @@ death-location
 debloat-better-foundry
 debloat-handmine-cliffs
 decider-combinator-output-constant-editor
+Deep_Core_Operations
 deep-storage-unit
 deep-storage-unit-se-fox
 deep-storage-unit-se2
@@ -717,6 +723,8 @@ exotic-space-industries-remembrance
 exotic-space-industries-remembrance-graphics-1
 exotic-space-industries-remembrance-graphics-2
 exotic-space-industries-remembrance-graphics-3
+exotic-space-industries-remembrance-graphics-4
+exotic-space-industries-remembrance-graphics-5
 exotic-space-industries-remembrance-soundtrack-1
 exotic-space-industries-remembrance-soundtrack-2
 ExpandedProductivityResearch
@@ -941,6 +949,7 @@ hard-boiled-gleba
 hardcore-no-respawn
 hardcore-rocketry
 hardened_pipes
+HarderSciencePacks
 haste_makes_lots
 hatsune-enrichment-process
 Hazard-Lights_Fix
@@ -956,6 +965,7 @@ heat-sensor
 heating-coils
 heavy_gun_turret
 helmod
+Hephaestus
 heroic_library
 heroic-library
 heroic-roboports
@@ -1157,6 +1167,7 @@ Kux-StartingPack1
 Kux-UnderwaterPipes
 Kux-WhatIsMissing
 LabIconRevert
+lamp-post
 Land-Pump
 landfill-productivity
 LandfillCostAdjuster
@@ -1458,6 +1469,7 @@ NuclearFuelStack
 NuclearPowerRebalance
 Nuketronics
 NukeWell
+nullius
 nulls-k2so-tweaks
 nutrient-inserter
 OBBS
@@ -1581,7 +1593,6 @@ playtime-plus
 PLORD_Prometheus_GrenadeLauncher
 plutonium_rebalance
 PlutoniumBreeding
-PlutoniumBreeding
 PlutoniumEnergy
 PoleLamps
 Pollution_is_the_Solution
@@ -1687,6 +1698,7 @@ RateCalculator
 raven_mk2
 rcu-restored
 rd-antidark
+real-industrial-chemistry
 real-starry-universe
 real-starry-universe-Fork
 RealisticDecorationCleanup
@@ -1727,6 +1739,7 @@ reskins-assets-bobs
 reskins-bobs
 reskins-compatibility
 reskins-library
+reskins-sprite-utils
 ResourcesScanner
 reusable-rocket-simple
 Reverse-Engineering
@@ -1751,7 +1764,6 @@ RitnLobbyGame
 RitnMenuButton
 RitnPortal
 RitnTeleporter
-RitnWaterfill
 RitnWaterfill
 Robocharger-Updated
 roboport-charging-pads-count-quality
@@ -2042,6 +2054,7 @@ stacking-loaders
 stackless
 starcraft-music
 StarCraftAntologyMusicPack
+stargate-merger
 Starmap_Nexuz
 Starmap_Solar_System
 starship
@@ -2080,6 +2093,7 @@ Surfaces-Have-Temperature
 sushi
 Sushi-Everything
 sushi-splitters
+sw-rates-lib
 swearsinpolish
 Swedish-Chefbots
 talandar_cargo_ships_tweaks
@@ -2138,6 +2152,7 @@ TjNatsuHaSummer
 TjSignBoards
 TjYumakoBoxes
 TLBE
+Todo-List
 ToggleSpeedBoost
 toolbars-mod
 TostsChests
@@ -2177,11 +2192,15 @@ turret-library
 turrets-arc-limiter
 TwoMoreTurrets
 tycoon2
+ufpFixed
 uint32-rocket
 ultimate-quality-space-age
 UltimateBeltsSpaceAge
 UltimateBeltsSpaceAgeFork
 ultimateCore
+ultimateCore-2
+ultimateCore-3
+ultimateCoreLib
 UltimateResearchQueue
 UltimateResearchQueue2
 um-standalone-big-mining-drill
