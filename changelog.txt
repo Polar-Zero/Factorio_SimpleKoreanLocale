@@ -1,13 +1,29 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.18.9
-Date: 2026-07-20
+Version: 0.19.10
+Date: 2026-07-22
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   # Addtional Notice:
-    - Factorio 2.1 버전에서도 이 모드를 사용할 수 있습니다!
+    - Factorio 2.0 기본 버전에서도 이 모드를 사용할 수 있습니다!
+    - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
+  Changes:
+    - Fixed Possible Translation 'Missing Key' Error in Non-Korean Language User
+  Translation Added:
+    - Translation for mod 'Aquilo Overhaul: Lithium Battery' Added
+    - Translation for mod 'Castra Prime' Added
+    - Translation for mod 'Dyson Sphere Program Lib' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Ammo Alerts' Added
+    - Translation for mod 'BerbCorp Belts' Added
+    - Translation for mod 'BerbCorp lane balancers' Added
+    - Translation for mod 'Reduce Tile Effects' Added
+    - Translation for mod 'Salt & Chlorine' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.19.9
+Date: 2026-07-19
   Translation Added:
     - Translation for mod 'Industrial Alchemy: Real Ores & Chemistry' Added
   Translation Updated/Fixed:
@@ -322,7 +338,7 @@ Date: 2026-07-20
     - Translation for mod 'Zirconium - Legacy' Fixed
     - Translation for mod 'Zirconium' Fixed
 ---------------------------------------------------------------------------------------------------
-Version: 0.18.8
+Version: 0.19.8
 Date: 2026-07-12
   Translation Bug Fixed:
     - Translation Error of 'nitrous oxide(아산화 질소)' in 'T.I.M.S.A.B.A.' Fixed
@@ -330,8 +346,8 @@ Date: 2026-07-12
     - Translation for mod 'AngelBob Space Age Rebalance' Updated/Fixed
     - Translation for mod 'Administratorio' Updated
     - Translation for mod 'Advanced Substations 2.0 (Space Age Update)' Updated
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Version: 0.18.7
+---------------------------------------------------------------------------------------------------
+Version: 0.19.7
 Date: 2026-07-06
   Translation Added:
     - Translation for mod 'AngelBob Space Age Rebalance' Added
@@ -344,6 +360,7 @@ Date: 2026-07-06
     - Translation for mod 'Abandoned Ruins' Updated
     - Translation for mod 'Apia–Carnova system' Updated
     - Translation for mod 'Automatic Train Painter' Updated
+    - Translation for mod 'Cargo Ships' Updated
     - Translation for mod 'Carna' Updated
     - Translation for mod 'Cheese's Concentrated Solar' Updated
     - Translation for mod 'Color Coded Pipes' Updated
@@ -354,7 +371,12 @@ Date: 2026-07-06
     - Translation for mod 'Extended Vanilla: Refining' Updated
     - Translation for mod 'Project Cybersyn' Updated
 ---------------------------------------------------------------------------------------------------
-Version: 0.18.5
+Version: 0.19.6
+Date: 2026-07-01
+  Changes:
+    - Fix Possible Startup Crash on 0.19.5
+---------------------------------------------------------------------------------------------------
+Version: 0.19.5
 Date: 2026-07-01
   Minor mod Translation Added:
     - Translation for mod 'Beyond Belts' Added
@@ -377,6 +399,74 @@ Date: 2026-07-01
     - Translation for mod 'Production Rates Library' Updated
     - Translation for mod 'Pushbutton' Updated
     - Translation for mod 'Show Max Underground Distance' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.19.4
+Date: 2026-06-28
+  Changes:
+    - Released for Factorio 2.1
+  Translation Bug Fixed:
+    - Translation Error in Item 'Space Science Pack' Fixed
+    - Translation Error in Title in Space Region Fixed
+  Translation Updated/Fixed:
+    - Translation for mod 'Adjustable Modules and Beacon' Updated
+    - Translation for mod 'Alternative Steam' Updated
+    - Translation for mod 'Augmentor' Updated
+    - Translation for mod 'Belt Visualizer' Updated
+    - Translation for mod 'Big-Monsters' Updated
+    - Translation for mod 'Cybersyn 2' Updated
+    - Translation for mod 'Deep Core Operations' Updated
+    - Translation for mod 'Electric Trains' Updated
+    - Translation for mod 'ERM - Protoss / Akilea' Updated
+    - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Project Cybersyn' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.18.10
+Date: 2026-07-26
+  # Addtional Notice:
+    - Factorio 2.1 실험 버전에서도 이 모드를 사용할 수 있습니다!
+    - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
+    - 변경사항은 0.19 버전의 관련 내용을 참고해주세요
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.10
+---------------------------------------------------------------------------------------------------
+Version: 0.18.9
+Date: 2026-07-19
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.9
+---------------------------------------------------------------------------------------------------
+Version: 0.18.8
+Date: 2026-07-12
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.8
+---------------------------------------------------------------------------------------------------
+Version: 0.18.7
+Date: 2026-07-06
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.7
+---------------------------------------------------------------------------------------------------
+Version: 0.18.6
+Date: 2026-07-01
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.6
+---------------------------------------------------------------------------------------------------
+Version: 0.18.5
+Date: 2026-07-01
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.5
+---------------------------------------------------------------------------------------------------
+Version: 0.18.3
+Date: 2026-06-23
+  Translation Bug Fixed:
+    - Translation Error in Item 'Space Science Pack' Fixed
+    - Translation Error in Title in Space Region Fixed
+  Translation Updated/Fixed:
+    - Translation for mod 'Deep Core Operations' Updated
+    - Translation for mod 'Project Cybersyn' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.18.2
+Date: 2026-06-23
+  Changes:
+    - Pre-release for Factorio 2.1
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.1
 Date: 2026-06-21

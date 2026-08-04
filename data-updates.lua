@@ -66,3 +66,4 @@ if mods['psyduck'] then require("updates.psyduck"); end
 if mods['shchierbin'] then require("updates.shchierbin"); end
 if mods['Paracelsin'] then require("updates.Paracelsin"); end
 if mods['factorioplus'] then require("updates.factorioplus"); end
+if mods['pykoreanlocale'] then require("updates.pykoreanlocale"); end
