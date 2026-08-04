@@ -1,21 +1,59 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.19.10
-Date: 2026-07-22
+Version: 0.19.11
+Date: 2026-07-29
+  # Addtional Notice:
+    - Factorio 2.0 기본 버전에서도 이 모드를 사용할 수 있습니다!
+    - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전에서는 모드 원본과 일부 요소가 다를 수 있습니다.
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
-  # Addtional Notice:
-    - Factorio 2.0 기본 버전에서도 이 모드를 사용할 수 있습니다!
-    - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
   Changes:
-    - Fixed Possible Translation 'Missing Key' Error in Non-Korean Language User
-  Translation Added:
+    - Changed changelog Format in Ingame to match changelog.txt
+    - 게임 내 '수정 내역'이 changelog.txt 파일과 동일하게 표시되도록 changelog를 수정했습니다.
+  Mod Translation Added:
+    - Translation for mod 'Damage Indicator' Added
+    - Translation for mod 'GUI Unifier' Added
+    - Translation for mod 'Space Exploration Official Modpack' Added
+    - Translation for mod 'Todo List' Added
+  New Additions:
+    - Translation for mod 'Aquilo Overhaul: Better Aquilo' Added
+    - Translation for mod 'Aquilo Overhaul: Circular Collider Lab' Added
+    - Translation for mod 'Bigger Stack Plus++' Added
+    - Translation for mod 'Corpse Marker' Added
+    - Translation for mod 'Deadlock's Stacking Beltboxes & Compact Loaders Continued' Added
+    - Translation for mod 'DeleteChunks' Added
+    - Translation for mod 'Doing Things By Hand' Added
+    - Translation for mod 'Item Request Proxy Events' Added
+    - Translation for mod 'Realistic Space Parallax' Added
+    - Translation for mod 'Red Calculator' Added
+    - Translation for mod 'Robot Attrition?NO!' Added
+    - Translation for mod 'Space Exploration - core miner no diminishing returns' Added
+    - Translation for mod 'Stackable Asteroids' Added
+    - Translation for mod 'Surface Restrictions? Never heard of them' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - Automatization' Updated
+    - Translation for mod '5Dim's mod - Energy' Updated
+    - Translation for mod '5Dim's mod - Transport' Updated
+    - Translation for mod 'Alien Loot Economy' Updated
+    - Translation for mod 'Autodrive' Updated
+    - Translation for mod 'Cobalt' Updated
+    - Translation for mod 'Dyson Sphere Program Lib' Updated
+    - Translation for mod 'ElectroTurret' Updated
+    - Translation for mod 'Highspeedtrain' Updated
+    - Translation for mod 'Muluna, Moon of Nauvis' Updated
+    - Translation for mod 'Yet another train manager 2.1' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.19.10
+Date: 2026-07-26
+  Changes:
+    - Fixed Possible Translation 'Missing Key' Error in Non-Korean Language Player
+  Mod Translation Added:
     - Translation for mod 'Aquilo Overhaul: Lithium Battery' Added
     - Translation for mod 'Castra Prime' Added
     - Translation for mod 'Dyson Sphere Program Lib' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Ammo Alerts' Added
     - Translation for mod 'BerbCorp Belts' Added
     - Translation for mod 'BerbCorp lane balancers' Added
@@ -24,7 +62,7 @@ Date: 2026-07-22
 ---------------------------------------------------------------------------------------------------
 Version: 0.19.9
 Date: 2026-07-19
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Industrial Alchemy: Real Ores & Chemistry' Added
   Translation Updated/Fixed:
     - Translation for mod '5Dim's mod - New Core' Fixed
@@ -340,7 +378,7 @@ Date: 2026-07-19
 ---------------------------------------------------------------------------------------------------
 Version: 0.19.8
 Date: 2026-07-12
-  Translation Bug Fixed:
+  Changes:
     - Translation Error of 'nitrous oxide(아산화 질소)' in 'T.I.M.S.A.B.A.' Fixed
   Translation Updated/Fixed:
     - Translation for mod 'AngelBob Space Age Rebalance' Updated/Fixed
@@ -349,10 +387,10 @@ Date: 2026-07-12
 ---------------------------------------------------------------------------------------------------
 Version: 0.19.7
 Date: 2026-07-06
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'AngelBob Space Age Rebalance' Added
     - Translation for mod 'Ultimate Fixed Mods Core Libs' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cargo Ships: Floating Electric Pole' Added
     - Translation for mod 'Cargo Ships: Oil Rig' Added
     - Translation for mod 'Lamp post' Added
@@ -378,7 +416,7 @@ Date: 2026-07-01
 ---------------------------------------------------------------------------------------------------
 Version: 0.19.5
 Date: 2026-07-01
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Beyond Belts' Added
     - Translation for mod 'Production Rates Library' Added
   Translation Updated/Fixed:
@@ -404,7 +442,7 @@ Version: 0.19.4
 Date: 2026-06-28
   Changes:
     - Released for Factorio 2.1
-  Translation Bug Fixed:
+  Changes:
     - Translation Error in Item 'Space Science Pack' Fixed
     - Translation Error in Title in Space Region Fixed
   Translation Updated/Fixed:
@@ -420,12 +458,17 @@ Date: 2026-06-28
     - Translation for mod 'Exotic Space Industries: Remembrance' Updated
     - Translation for mod 'Project Cybersyn' Updated
 ---------------------------------------------------------------------------------------------------
-Version: 0.18.10
-Date: 2026-07-26
+Version: 0.18.11
+Date: 2026-07-30
   # Addtional Notice:
     - Factorio 2.1 실험 버전에서도 이 모드를 사용할 수 있습니다!
     - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
-    - 변경사항은 0.19 버전의 관련 내용을 참고해주세요
+    - 변경사항은 2.1 대응 버전 (0.19.x 모드) 관련 내용을 참고해주세요
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.11
+---------------------------------------------------------------------------------------------------
+Version: 0.18.10
+Date: 2026-07-26
   # Notice:
     - This version is 2.0 Compatibility release of 0.19.10
 ---------------------------------------------------------------------------------------------------
@@ -456,7 +499,7 @@ Date: 2026-07-01
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.3
 Date: 2026-06-23
-  Translation Bug Fixed:
+  Changes:
     - Translation Error in Item 'Space Science Pack' Fixed
     - Translation Error in Title in Space Region Fixed
   Translation Updated/Fixed:
@@ -470,9 +513,9 @@ Date: 2026-06-23
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.1
 Date: 2026-06-21
-  Translation Bug Fixed:
+  Changes:
     - Translation Error in Victory Screen Fixed
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Deep Core Operations' Added
   Translation Updated/Fixed:
     - Translation for mod 'Aegis & Bellicos' Updated
@@ -489,12 +532,12 @@ Date: 2026-06-21
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.0
 Date: 2026-06-16
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Aegis & Bellicos' Added
     - Translation for mod 'Hephaestus' Added
     - Translation for mod 'Nullius' Part #1 Added (Retranslation, Names Only)
     - Translation for mod 'UFP: Ultimate Fusion Power Fixed' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Science Difficulty Overhaul: Harder Science Packs' Added
     - Translation for mod 'Share your stargates' Added
   Translation Updated/Fixed:
@@ -534,7 +577,7 @@ Date: 2026-06-16
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.9
 Date: 2026-06-05
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Factorissimo2-Space-Age-Port' Added
     - Translation for mod 'Protocol's Extended Runtime Event Library' Added
   Translation Updated/Fixed:
@@ -561,11 +604,11 @@ Date: 2026-06-05
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.8
 Date: 2026-05-23
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Planet Pandora' Added
     - Translation for mod 'Solar Halo' Added
     - Translation for mod 'T.I.M.S.A.B.A.' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cliff Builder' Added
     - Translation for mod 'IPT: Inter Platform Travel' Added
     - Translation for mod 'Parallel Piping' Added
@@ -611,12 +654,12 @@ Date: 2026-05-23
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.7
 Date: 2026-05-13
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Abacayba: Infested Death Twin of Nauvis' Added
     - Translation for mod 'Loaders Modernized: Integrations' Added
     - Translation for mod 'Nanobots: Early Bots 3.0' Added
     - Translation for mod 'Warptorio 3' Part #1 Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Ghost Counter' Added
   Translation Updated/Fixed:
     - Translation for mod 'Configurable Valves' Updated
@@ -638,7 +681,7 @@ Date: 2026-05-13
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.6
 Date: 2026-05-10
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Deepsea Mechanic' Added
     - Translation for mod 'doeWorks Rocket Artillery' Added
     - Translation for mod 'HD Plasma Duct' Added
@@ -680,16 +723,16 @@ Date: 2026-05-10
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.5
 Date: 2026-04-28
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Dangerous Asteroids Radar Tracking' Added
     - Translation for mod 'exfret's Randomizer' Added
     - Translation for mod 'Ribbonia' Partly Added (some Lores adding soon)
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Casting plant' Added
     - Translation for mod 'Factorio Hardcore - No Respawn - Perma Death' Added
     - Translation for mod 'Fluid recycler' Added
     - Translation for mod 'Plasma Handling' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Circuit Launchable Rockets' Updated
     - Translation for mod 'Container Cargo Ship (Cargo Ships addon)' Updated
     - Translation for mod 'Electric Grid' Updated
@@ -710,10 +753,10 @@ Date: 2026-04-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.4
 Date: 2026-04-18
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Cybersyn 2' Added
     - Translation for mod 'Deep Mine ALT' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cobalt' Added
     - Translation for mod 'Cybersyn 2 - Manager' Added
     - Translation for mod 'Cybersyn 2 Combinator' Added
@@ -740,11 +783,7 @@ Version: 0.17.3
 Date: 2026-04-07
   # Notice:
     - 간단한 한국인 출시! (만우절 에디션) 다운로드: https://mods.factorio.com/mod/SimpleKoreanLocaleAPR
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Autobarreling for Talandar's/Pelagos Barreling Machines' Added
     - Translation for mod 'Barreling Machines' Added
     - Translation for mod 'Diggs - timer to empty ore' Added
@@ -777,21 +816,21 @@ Date: 2026-04-07
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.2
 Date: 2026-04-02
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Administratorio' Added
     - Translation for mod 'Space Elevator' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Bottleneck Analyzer' Added
     - Translation for mod 'Disco Science Lite' Added
     - Translation for mod 'K2 Spaced Out Extended Endgame' Added
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.1
 Date: 2026-03-28
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Rift Rail' Added
     - Translation for mod 'SeaBlockProductivity' Added
     - Translation for mod 'Verbose Engineering' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Alien Biomes' Added
     - Translation for mod 'Cargo Drone' Added
   Mod Translation Removed:
@@ -811,7 +850,7 @@ Date: 2026-03-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.0
 Date: 2026-03-24
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Automatic Train Painter' Added
     - Translation for mod 'Heroic Roboports' Added
     - Translation for mod 'Planet Crucible' Added
@@ -819,7 +858,7 @@ Date: 2026-03-24
     - Translation for mod 'Realistic Fusion Power Port' Added
     - Translation for mod 'Spaceblock' Added
     - Translation for mod 'Verbose Engineering' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '248k Redux train graphics' Added
     - Translation for mod 'AE_BOB_SA_248K_mod' Added
     - Translation for mod 'Artisanal Reskins: Bob's Assets' Added
@@ -847,14 +886,10 @@ Date: 2026-03-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.8
 Date: 2026-03-21
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Miner Planner' Added
     - Translation for mod 'Rampant, fixed' Partly Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Advanced Solar High Resolution' Added
     - Translation for mod 'Cargo Ships: Battleships & Patrol Boats' Added
     - Translation for mod 'Condensing agricultural tower' Added
@@ -865,12 +900,12 @@ Date: 2026-03-21
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.7
 Date: 2026-03-16
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Apia–Carnova system' Added
     - Translation for mod 'Muria' Added
     - Translation for mod 'Planet Obsidiax' Added
     - Translation for mod 'Recipe Icons Improvement for Exotic Space Industries Remembrance' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Rigor Module' Added
   Translation Updated/Fixed:
     - Translation for mod '248k Redux Mod' Updated
@@ -894,12 +929,12 @@ Date: 2026-03-16
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.5
 Date: 2026-03-07
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Better Planets' Added
     - Translation for mod 'Cargo Crates' Added
     - Translation for mod 'Cloud City' Added
     - Translation for mod 'Updated Construction Drones - Forked' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Inventory Trash Slot' Added
     - Translation for mod 'New Gear Girl Character 2.0' Added
     - Translation for mod 'Placeables' Added
@@ -933,7 +968,7 @@ Date: 2026-03-07
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.4
 Date: 2026-03-04
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Diesel Machines' Added
     - Translation for mod 'Enhanced Map Colors 2.0 Reupload' Added
     - Translation for mod 'Gun Turret Upgrade' Added
@@ -943,7 +978,7 @@ Date: 2026-03-04
     - Translation for mod 'SLP - Dyson Sphere Reworked - Forked' Added
     - Translation for mod 'Squeak Through (fixed + re-published abandoned mod)' Added
     - Translation for mod 'Wooden Platform' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Assembly Analyst' Added
     - Translation for mod 'Brighter Lamps' Added
     - Translation for mod 'Console Calculators' Added
@@ -978,14 +1013,14 @@ Date: 2026-03-04
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.3
 Date: 2026-02-23
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Carna' Partly Added (Description adding soon)
     - Translation for mod 'Eneas' Partly Added (Dialogs adding soon)
     - Translation for mod 'HeroTurrets_Redux' Added
     - Translation for mod 'PetrochemPlus' Added
     - Translation for mod 'Pyanodons Hard Mode' Added
     - Translation for mod 'xyrc's K2SO Enhancements' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'AntiGloom: Brighter, Less Dark Nights' Added
     - Translation for mod 'Better Robots Extended Space Age Compat' Added
     - Translation for mod 'Diesel Cargo Ships' Added
@@ -1034,7 +1069,7 @@ Date: 2026-02-23
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.2
 Date: 2026-02-18
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Hydrate Reminder' Added
     - Translation for mod 'Lignumis - Director's Cut' Added
     - Translation for mod 'Platform Construction Needs Reader' Added
@@ -1052,7 +1087,7 @@ Date: 2026-02-18
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.1
 Date: 2026-02-11
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Space Exploration Data Chip Augmenter' Added
   Translation Updated/Fixed:
     - Translation for mod 'Extended Angel' Updated
@@ -1076,9 +1111,9 @@ Date: 2026-02-11
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.0
 Date: 2026-02-04
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Planet Virentis' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Arrowplates' Added
     - Translation for mod 'Buggis Nuclear Bots' Added
     - Translation for mod 'Cybersyn Combinator Tweaks' Added
@@ -1110,9 +1145,9 @@ Date: 2026-02-04
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.7
 Date: 2026-01-18
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'ScienceCostTweaker Mod M' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Angel's Addons - C.A.B.' Added
     - Translation for mod 'Angel's Addons - Mass Transit - Crawler Graphics' Added
     - Translation for mod 'Angel's Addons - Mass Transit - Petrochemical Graphics' Added
@@ -1134,14 +1169,14 @@ Date: 2026-01-18
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.6
 Date: 2026-01-13
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Angel's Petrochemical Processing' Part #2 Added
     - Translation for mod 'Artisanal Reskins: Angel's Mods' Added
     - Translation for mod 'MadClown01's AngelBob Nuclear' Added
     - Translation for mod 'MadClown01's Extended AngelBob Minerals' Added
     - Translation for mod 'MadClown01's Processing' Added
     - Translation for mod 'MadClown01's Vanilla Nuclear' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Angel's Addons - Storage Options' Added
     - Translation for mod 'MadClown01's Science' Added
     - Translation for mod 'Omniscience' Added
@@ -1152,11 +1187,11 @@ Date: 2026-01-13
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.5
 Date: 2026-01-08
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Angel's Petrochemical Processing' Part #1 Added
     - Translation for mod 'Angel's Refining' Added
     - Translation for mod 'Angel's Smelting' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Angel's Infinite Ores' Added
     - Translation for mod 'Angel's Petrochemical Processing Graphics' Added
     - Translation for mod 'Angel's Refining Graphics' Added
@@ -1180,7 +1215,7 @@ Date: 2026-01-08
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.3
 Date: 2026-01-02
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Landmine Explosions Do Hurt' Added
     - Translation for mod 'V/F/G Cargo Drops Require Research' Added
   Translation Updated/Fixed:
@@ -1220,10 +1255,10 @@ Date: 2026-01-02
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.2
 Date: 2025-12-29
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Angel's Bio Processing' Added
     - Translation for mod 'Janus Reshifted' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Angel's Bioprocessing Graphics' Added
     - Translation for mod 'Sea Block' Added
   Translation Updated/Fixed:
@@ -1261,12 +1296,12 @@ Date: 2025-12-29
 ---------------------------------------------------------------------------------------------------
 Version: 0.15.1
 Date: 2025-12-18
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Arcanyx' Added
     - Translation for mod 'Khemia: Age of Alchemy' Added
     - Translation for mod 'Planet Erimos Prime' Added
     - Translation for mod 'Rabbasca' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Inserter Configuration' Added
     - Translation for mod 'MFerrari mod sounds' Added
     - Translation for mod 'Recipe Tweaker' Added
@@ -1319,12 +1354,12 @@ Date: 2025-12-05
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.7
 Date: 2025-11-18
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Planetaris: Arig' Added
     - Translation for mod 'Planetaris: Hyarion' Added
     - Translation for mod 'Schall Virtual Signal' Added
     - Translation for mod 'Space Extension Mod' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Graphite & Diamonds - Legacy' Added
     - Translation for mod 'Lead - Legacy' Added
     - Translation for mod 'Silica & Silicon - Legacy' Added
@@ -1363,10 +1398,10 @@ Date: 2025-11-18
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.6
 Date: 2025-11-01
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Dimension Warp' Added
     - Translation for mod 'Magical Quarries' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Circuit Wire Poles' Added
     - Translation for mod 'Compact Power Reloaded' Added
     - Translation for mod 'Crystara Graphics' Added
@@ -1411,11 +1446,11 @@ Date: 2025-11-01
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.5
 Date: 2025-10-24
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Nexus Extended Promethium Endgame' Added
     - Translation for mod 'Schall Alien Tech' Added
     - Translation for mod 'UMR: Ultimate Modular Reactor Fixed' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'AAI Industry - No Burner Upgrade Recipes' Added
     - Translation for mod 'Bismuth' Added
     - Translation for mod 'Crash Site Settings' Added
@@ -1442,11 +1477,11 @@ Date: 2025-10-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.4
 Date: 2025-10-16
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Cargo Ships' Added
   Translation Removed:
     - Translation for mod 'Distribution Request Planners' Removed (Duplicated)
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Electric Furnaces' Added
     - Translation for mod 'Exteros' QoL System' Added
   Translation Updated/Fixed:
@@ -1463,11 +1498,11 @@ Date: 2025-10-16
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.3
 Date: 2025-10-14
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Inserter Fuel Leech' Added
     - Translation for mod 'Logistics Insights' Added
     - Translation for mod 'Pacifist' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Advanced Assembly Machines Returns to Space Age' Added
     - Translation for mod 'Artillery sound enhancer Factorio 2.0' Added
     - Translation for mod 'Fusion Robots' Added
@@ -1511,9 +1546,9 @@ Date: 2025-10-09
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.1
 Date: 2025-10-08
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'The Factory Must Grow' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Black Rubber Belts' Added
     - Translation for mod 'Logistic Helper' Added
     - Translation for mod 'Quality holmium ore returns more holmium solution' Added
@@ -1538,18 +1573,14 @@ Date: 2025-10-08
 ---------------------------------------------------------------------------------------------------
 Version: 0.14.0
 Date: 2025-10-06
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Assault Spidertron' Added
     - Translation for mod 'Bio Industries' Added
     - Translation for mod 'Foliax' Added
     - Translation for mod 'Hextorio' Added
     - Translation for mod 'LavaBlock' Added
     - Translation for mod 'Lunar Legacy' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'AAI Container Corpse Fix' Added
     - Translation for mod 'Concrete Tints' Added
     - Translation for mod 'Crymora Graphics' Added
@@ -1593,7 +1624,7 @@ Date: 2025-10-06
 ---------------------------------------------------------------------------------------------------
 Version: 0.13.6
 Date: 2025-10-01
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Alien Loot Economy' Added
     - Translation for mod 'Omnicrystal' Added
     - Translation for mod 'Planet Omnia' Added
@@ -1611,10 +1642,10 @@ Date: 2025-10-01
 ---------------------------------------------------------------------------------------------------
 Version: 0.13.5
 Date: 2025-09-29
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Panglia Planet' Added
     - Translation for mod 'Planetaris Unbounded: Arig' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Actual Underground Pipes' Added
     - Translation for mod 'Asteroid Belt' Added
     - Translation for mod 'Big Roboport' Added
@@ -1643,10 +1674,10 @@ Date: 2025-09-29
 ---------------------------------------------------------------------------------------------------
 Version: 0.13.4
 Date: 2025-09-28
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'ERM - Playable Terran' Added
     - Translation for mod 'Space Trains' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Brave New Assembling Machines' Added
     - Translation for mod 'Factory Planner' Added (Thanks to jxy3958!)
     - Translation for mod 'Power grid comb' Added (Thanks to jxy3958!)
@@ -1682,14 +1713,14 @@ Date: 2025-09-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.13.3
 Date: 2025-09-22
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'AAI Industry' Added
     - Translation for mod 'Planet Pelagos' Added
     - Translation for mod 'Quality Processing' Added
     - Translation for mod 'Shchierbin' Added
     - Translation for mod 'Space Exploration' Added
     - Translation for mod 'Vesta' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Afraid Of The Dark' Added
     - Translation for mod 'Blueprint Manipulation Library' Added
     - Translation for mod 'Brighter Engineers' Added
@@ -1731,7 +1762,7 @@ Date: 2025-09-20
 ---------------------------------------------------------------------------------------------------
 Version: 0.13.0
 Date: 2025-09-19
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'AAI Loaders - Belt Stacking' Added
     - Translation for mod 'Automatic Barreling/Unbarreling Machines' Added
     - Translation for mod 'Barreling Group' Added
@@ -1768,7 +1799,7 @@ Date: 2025-09-19
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.7
 Date: 2025-09-12
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cheap Stone Ammo' Added
     - Translation for mod 'Creative Items' Added
     - Translation for mod 'Fluid Wagon Color Mask' Added
@@ -1797,7 +1828,7 @@ Date: 2025-09-12
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.6
 Date: 2025-09-06
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Assembler-Reskin' Added
     - Translation for mod 'Wooden Moshine: Solaponics' Added
   Translation Updated/Fixed:
@@ -1825,7 +1856,7 @@ Date: 2025-09-06
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.4
 Date: 2025-08-31
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Accumulator V2' Added
     - Translation for mod 'Cargo Bay Limit Research' Added
     - Translation for mod 'GUI Library' Added
@@ -1860,9 +1891,9 @@ Date: 2025-08-31
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.3
 Date: 2025-08-20
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Expanded Productivity Research' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cloning vat' Added
     - Translation for mod 'Distance Customizer' Added
     - Translation for mod 'Early Construction' Added
@@ -1901,14 +1932,14 @@ Date: 2025-08-20
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.2
 Date: 2025-08-13
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod '248k Redux Mod' Added
     - Translation for mod 'Control Your Rods' Added
     - Translation for mod 'Factorio Admin Command Center' Added
     - Translation for mod 'Shattered Planet' Added
     - Translation for mod 'Stopgap Nukes Expansion' Added
     - Translation for mod 'Train announcements' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Circuit Visualizer' Added
     - Translation for mod 'Faster Robots' Added
     - Translation for mod 'Loaders Modernized: 5Dim's' Added
@@ -1934,11 +1965,11 @@ Date: 2025-08-13
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.1
 Date: 2025-07-29
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Adjustable Quality' Added
     - Translation for mod 'Alternate Alert Icons' Added
     - Translation for mod 'Space Is Fake' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Fire extinguisher' Added
     - Translation for mod 'Pollution Combinator' Added
     - Translation for mod 'RP Steam Intermediates' Added
@@ -1965,7 +1996,7 @@ Date: 2025-07-29
 ---------------------------------------------------------------------------------------------------
 Version: 0.12.0
 Date: 2025-07-14
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Alchemistry' Added
     - Translation for mod 'Autodrive' Added
     - Translation for mod 'Concreep Redux' Added
@@ -1974,7 +2005,7 @@ Date: 2025-07-14
     - Translation for mod 'Foodtorio' Added
     - Translation for mod 'Recursive Blueprints+' Added
     - Translation for mod 'Tesseract' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Adjustable Plates Recipe' Added
     - Translation for mod 'All Seeing Satellite' Added
     - Translation for mod 'Alt Recipes & Processing' Added
@@ -2022,7 +2053,7 @@ Date: 2025-07-14
 ---------------------------------------------------------------------------------------------------
 Version: 0.11.3
 Date: 2025-06-28
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Logistic belt 2' Added
     - Translation for mod 'LogisticConfigurator' Added
   Translation Updated/Fixed:
@@ -2058,14 +2089,10 @@ Date: 2025-06-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.11.2
 Date: 2025-06-16
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다!
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Better Quality' Added
     - Translation for mod 'Yuoki Industries - Railways' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Plutonium Rebalance' Added
   Translation Updated/Fixed:
     - Translation for mod 'Age of Production' Updated
@@ -2087,10 +2114,10 @@ Date: 2025-06-16
 ---------------------------------------------------------------------------------------------------
 Version: 0.11.1
 Date: 2025-06-10
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Paracelsin' Added
     - Translation for mod 'SSPP Logistics Train Mod' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Elevated pipes' Added
     - Translation for mod 'Tiberium Asteroids' Added
   Translation Updated/Fixed:
@@ -2100,9 +2127,9 @@ Date: 2025-06-10
 ---------------------------------------------------------------------------------------------------
 Version: 0.11.0
 Date: 2025-06-05
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Iridescent Industry' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Inverted Quality' Added
   Translation Updated/Fixed:
     - Translation for mod 'Age of Production' Updated
@@ -2131,9 +2158,9 @@ Date: 2025-06-05
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.6
 Date: 2025-05-29
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Planet Rubia' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Limited edition blueprints' Added
     - Translation for mod 'Rocket Cargo Insertion' Added
   Translation Updated/Fixed:
@@ -2144,7 +2171,7 @@ Date: 2025-05-29
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.5
 Date: 2025-05-24
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Advanced Spaceship Repair' Added
     - Translation for mod 'Bring back Bob's classic electronic circuits recipe' Added
     - Translation for mod 'Heat Sensor' Added
@@ -2202,11 +2229,11 @@ Date: 2025-05-16
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.3
 Date: 2025-05-03
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Kuxynator's Factorium' Added
     - Translation for mod 'Schall Tank Platoon' Added
     - Translation for mod 'Ultimate Research Queue' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Belt Line Upgrade' Added
     - Translation for mod 'Blinking Ghosts' Added
     - Translation for mod 'Bots have Infinite Charge' Added
@@ -2246,10 +2273,10 @@ Date: 2025-05-03
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.2
 Date: 2025-04-29
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Science Not Invited' Added
     - Translation for mod 'Zirconium' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Materials Easy' Added
     - Translation for mod 'Lead' Added
     - Translation for mod 'Shapeztorio' Added
@@ -2294,10 +2321,10 @@ Date: 2025-04-29
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.1
 Date: 2025-04-24
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Schall Tank Platoon' Partically Added
     - Translation for mod 'Yet another train manager' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Factory Levels' Added
     - Translation for mod 'Schall Missile Command' Added
     - Translation for mod 'Virtual Signals 2' Added
@@ -2314,7 +2341,7 @@ Date: 2025-04-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.10.0
 Date: 2025-04-14
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Belt quality' Added
     - Translation for mod 'Belt Tracer' Added
     - Translation for mod 'Big Containers UPS+' Added
@@ -2366,10 +2393,10 @@ Date: 2025-04-14
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.10
 Date: 2025-04-09
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Graphite & Diamonds' Added
     - Translation for mod 'Titanium' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Better Linked Chest' Added
     - Translation for mod 'Biter Attractors' Added
     - Translation for mod 'Centrifuge tint 2.0' Added
@@ -2414,9 +2441,9 @@ Date: 2025-04-09
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.9
 Date: 2025-04-04
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'More Fluids!' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Furnace upgradable' Added
     - Translation for mod 'Hide Infinite Technologies' Added
     - Translation for mod 'Igrys' Added
@@ -2447,7 +2474,7 @@ Date: 2025-04-04
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.8
 Date: 2025-04-01
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Bob's Enemies mod' Added
     - Translation for mod 'Bob's Logistics mod' Added
     - Translation for mod 'Bob's Metals, Chemicals and Intermediates mod' Added
@@ -2456,7 +2483,7 @@ Date: 2025-04-01
     - Translation for mod 'Bob's Power mod' Added
     - Translation for mod 'Bob's Vehicle Equipment mod' Added
     - Translation for mod 'Bob's Warfare mod' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Bob's Assembling Machines mod' Added
     - Translation for mod 'Bob's Electronics mod' Added
     - Translation for mod 'Bob's Functions Library mod' Added
@@ -2468,10 +2495,10 @@ Date: 2025-04-01
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.7
 Date: 2025-03-31
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Orbital Transfer' Added
     - Translation for mod 'Subsurface' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Alternative Alt Mode' Added
     - Translation for mod 'Circuit HUD V2' Added
     - Translation for mod 'Simple Compress' Added
@@ -2494,7 +2521,7 @@ Date: 2025-03-31
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.6
 Date: 2025-03-27
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'AAI Loaders - Stacking and Filtering' Added
     - Translation for mod 'AAI Loaders, a sane rebalance' Added
     - Translation for mod 'Actual Craft Time 2.0' Added
@@ -2539,7 +2566,7 @@ Date: 2025-03-27
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.5
 Date: 2025-03-23
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cheaper Modules' Added
     - Translation for mod 'Dredgeworks belt stacking' Added
     - Translation for mod 'Enemy Alert' Added
@@ -2559,7 +2586,7 @@ Date: 2025-03-23
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.4
 Date: 2025-03-20
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Automatic Train Refueler' Added
     - Translation for mod 'Batch plant' Added
     - Translation for mod 'Blueprint Flip and Turn' Added
@@ -2601,9 +2628,9 @@ Date: 2025-03-20
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.3
 Date: 2025-03-16
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Colony Builder' Added (#3 / 3)
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Armor upgradable' Added
     - Translation for mod 'Big heat Furnace' Added
     - Translation for mod 'Bio oil' Added
@@ -2643,9 +2670,9 @@ Date: 2025-03-16
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.2
 Date: 2025-03-12
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Colony Builder' Partically Added (#2 / 3)
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Automatic Research Repeater' Added
     - Translation for mod 'Biter Bites' Added
     - Translation for mod 'Cerys & Nuclear Science Compatibility Fi' Added
@@ -2702,9 +2729,7 @@ Date: 2025-03-12
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.1
 Date: 2025-03-08
-  # Addtional Notice:
-    - 밀린 모드 번역 업데이트를 열심히 진행 중입니다. 잠시만 기다려주세요!
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Colony Builder' Partically Added (#1 / 3)
     - Translation for mod 'Dea Dia System' Added
   Translation Updated/Fixed:
@@ -2712,12 +2737,9 @@ Date: 2025-03-08
 ---------------------------------------------------------------------------------------------------
 Version: 0.9.0
 Date: 2025-03-05
-  # Addtional Notice:
-    - 개인적인 여행 일정으로 인해 업데이트에 시간이 약간 걸렸습니다 :x
-    - Due because Personal Vacation, Update has been delayed by few days :x
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Exotic Space Industries' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Amnesia' Added
     - Translation for mod 'Playtime+' Added
   Translation Updated/Fixed:
@@ -2770,9 +2792,9 @@ Date: 2025-02-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.8.6
 Date: 2025-02-23
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Spaghetorio' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Artillery Research Overhaul' Added
     - Translation for mod 'Biochemistry' Added
     - Translation for mod 'Blueprint Tools' Added
@@ -2814,13 +2836,13 @@ Date: 2025-02-23
 ---------------------------------------------------------------------------------------------------
 Version: 0.8.5
 Date: 2025-02-18
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Furnitorio' Added
     - Translation for mod 'LTN Train Information combinator' Added
     - Translation for mod 'Lunar Landings - Eternal Winter (DLC)' Added
     - Translation for mod 'Moshine (planet only)' Added
     - Translation for mod 'Moshine' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Anti-Quality Module' Added
     - Translation for mod 'Belt Brush' Added
     - Translation for mod 'Dynamic Train Stop Naming' Added
@@ -2849,11 +2871,11 @@ Date: 2025-02-18
 ---------------------------------------------------------------------------------------------------
 Version: 0.8.4
 Date: 2025-02-15
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Cubium' Added
     - Translation for mod 'Janus' Added
     - Translation for mod 'LTN_Combinator_Modernized' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Auto-Fuel for Machines' Added
     - Translation for mod 'Decider combinator output constant editor' Added
     - Translation for mod 'Early Modules' Added
@@ -2879,11 +2901,10 @@ Version: 0.8.3
 Date: 2025-02-12
   Changes:
     - 'Planet Maraxsis'와 'Cerys' 모드의 번역이 반영되지 않는 증상이 수정되었습니다. 번역 오류가 있다면 제보주세요!
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Dredgeworks: Frozen Reaches' Added
     - Translation for mod 'Warp Drive Machine' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Better Space Platform' Added
     - Translation for mod 'Death Location' Added
     - Translation for mod 'Enhanced Walls' Added
@@ -2911,7 +2932,7 @@ Date: 2025-02-12
 ---------------------------------------------------------------------------------------------------
 Version: 0.8.1
 Date: 2025-02-11
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Age of Production' Added
     - Translation for mod 'Amator Phasma's Library' Added
     - Translation for mod 'Amator Phasma's Nuclear' Added
@@ -2921,7 +2942,7 @@ Date: 2025-02-11
     - Translation for mod 'Extended Vanilla: Mining Drills' Added
     - Translation for mod 'James' Electric Trains Plus' Added
     - Translation for mod 'The Sun is Dead' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Bigger Display Panel' Added
     - Translation for mod 'Hundred-Meter Long Chest Fork' Added
     - Translation for mod 'Infinite Resource Deposits' Added
@@ -2941,11 +2962,11 @@ Date: 2025-02-11
 ---------------------------------------------------------------------------------------------------
 Version: 0.8.0
 Date: 2025-02-07
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Asteroid Mining' Added
     - Translation for mod 'Oil Outpost Planner' Added
     - Translation for mod 'UltimateBelts' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Air Scrubbing' Added
     - Translation for mod 'Ancient Research' Added
     - Translation for mod 'Calculator UI' Added
@@ -2988,9 +3009,9 @@ Date: 2025-02-07
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.8
 Date: 2025-02-03
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'LTN - Logistic Train Network' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Big Data String 2' Added
     - Translation for mod 'Bot Cargo Quality' Added
     - Translation for mod 'Disable Research Queue' Added
@@ -3013,11 +3034,11 @@ Date: 2025-02-03
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.7
 Date: 2025-02-02
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Schall Starting Inventory' Added
     - Translation for mod 'SE Space Trains' Added
     - Translation for mod 'Secretas&Frozeta' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Astroponics' Added
     - Translation for mod 'Automatic Train Station Names' Added
     - Translation for mod 'Belt Reverser 2.0' Added
@@ -3054,9 +3075,9 @@ Date: 2025-02-02
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.6
 Date: 2025-01-30
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Amator Phasma's Coal & Steam (forked)' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Adjustable Inventory Size' Added
     - Translation for mod 'AmmoGroup' Added
     - Translation for mod 'Auto Manual Mode' Added
@@ -3096,11 +3117,11 @@ Date: 2025-01-30
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.5
 Date: 2025-01-27
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Metal and Stars' Added
     - Translation for mod 'Power Armour & Replacer' Added
     - Translation for mod 'Silica & Silicon' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Adamo Physics' Added
     - Translation for mod 'Ballistic Missile Booster' Added
     - Translation for mod 'Bluetonium Fusion' Added
@@ -3134,10 +3155,10 @@ Date: 2025-01-27
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.3
 Date: 2025-01-24
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Lunar Landings' Added
     - Translation for mod 'Periodic Madness' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Big Pink Eraser' Added
     - Translation for mod 'BoreHole' Added
     - Translation for mod 'Electric Furnaces' Added
@@ -3185,11 +3206,11 @@ Date: 2025-01-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.2
 Date: 2025-01-22
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Factorio+' Added
     - Translation for mod 'Smart Inserters' Added
     - Translation for mod 'VortiK's Deep core mining' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Armored Train (Turret Wagons)' Added
     - Translation for mod 'Augmentor' Added
     - Translation for mod 'Better Train System' Added
@@ -3228,7 +3249,7 @@ Date: 2025-01-22
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.1
 Date: 2025-01-19
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'AAI Programmable Vehicles' Added
     - Translation for mod 'Bugs Rule Everywhere Around Me (B.R.E.A.M.)' Added
     - Translation for mod 'Compakt circuits' Added
@@ -3236,7 +3257,7 @@ Date: 2025-01-19
     - Translation for mod 'Extended Research System' Added
     - Translation for mod 'James Oily Extravaganza' Added
     - Translation for mod 'Lignumis' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Artillery Shell Stack' Added
     - Translation for mod 'bikini swimsuit miku' Added
     - Translation for mod 'Blueprintable Trees' Added
@@ -3264,9 +3285,9 @@ Date: 2025-01-19
 ---------------------------------------------------------------------------------------------------
 Version: 0.7.0
 Date: 2025-01-17
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Factorio and Conquer: Tiberian Dawn' Added (Thanks to Siwoo1231)
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Ammo Range+' Added
     - Translation for mod 'Ammonia carbon fiber' Added
     - Translation for mod 'Big solar panel' Added
@@ -3328,13 +3349,13 @@ Date: 2025-01-17
 ---------------------------------------------------------------------------------------------------
 Version: 0.6.5
 Date: 2025-01-13
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'AAI Programmable Structure' Added
     - Translation for mod 'Hovercrafts' Added
     - Translation for mod 'On Wayward Seas' Added
     - Translation for mod 'Simple Configurable Inserters' Added
     - Translation for mod 'Simply Bees' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Factorio World' Added
     - Translation for mod 'Factoriopedia Extended' Added
     - Translation for mod 'Gleba Reborn' Added
@@ -3375,11 +3396,11 @@ Date: 2025-01-13
 ---------------------------------------------------------------------------------------------------
 Version: 0.6.4
 Date: 2025-01-12
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Aircraft Realism' Added
     - Translation for mod 'Simple Compress' Added
     - Translation for mod 'trainsaver' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Alternative Pentapod Egg Recipe' Added
     - Translation for mod 'Crash Site' Added
     - Translation for mod 'Evolution Technology' Added
@@ -3404,9 +3425,9 @@ Date: 2025-01-12
 ---------------------------------------------------------------------------------------------------
 Version: 0.6.3
 Date: 2025-01-08
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'More Ores!' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Adamo Sulfur' Added
     - Translation for mod 'Filter Chests' Added
     - Translation for mod 'Item Giver Gui 2.0' Added
@@ -3449,12 +3470,12 @@ Date: 2025-01-08
 ---------------------------------------------------------------------------------------------------
 Version: 0.6.2
 Date: 2025-01-05
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'More Ammo' Added
     - Translation for mod 'Muluna, Moon of Nauvis' Added
     - Translation for mod 'Only Gleba' Added
     - Translation for mod 'spaceplatform-block' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Allowed Modules' Added
     - Translation for mod 'Arcana' Added
     - Translation for mod 'Bricked Foundry' Added
@@ -3485,7 +3506,7 @@ Date: 2025-01-05
 ---------------------------------------------------------------------------------------------------
 Version: 0.6.1
 Date: 2025-01-03
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod '10 Quadrillion Chicken Nuggets' Added
     - Translation for mod 'BeltRouter Lite' Added
     - Translation for mod 'Factory graph' Added
@@ -3493,7 +3514,7 @@ Date: 2025-01-03
     - Translation for mod 'More Intermediates!' Added
     - Translation for mod 'No More Gambling' Added
     - Translation for mod 'Schall Radar Alignment' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'AAI Signals' Added
     - Translation for mod 'Change Inserter Drop Lane' Added
     - Translation for mod 'Deep Mine 2' Added
@@ -3517,7 +3538,7 @@ Version: 0.6.0
 Date: 2024-12-31
   Changes:
     - 이제 'Factorissimo 3' 모드의 오래된 번역을 덮어씁니다.
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'AAI Zones' Added
     - Translation for mod 'Blueprint Extensions' Added
     - Translation for mod 'Cerys' Added
@@ -3526,7 +3547,7 @@ Date: 2024-12-31
     - Translation for mod 'More Parts!' Added
     - Translation for mod 'Renai Transportation' Added
     - Translation for mod 'Virtual Train Monitor' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Arachnids on normal enemy force' Added
     - Translation for mod 'Combat Mechanics Overhaul' Added
     - Translation for mod 'Enduring Embers' Added
@@ -3557,9 +3578,9 @@ Date: 2024-12-31
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.8
 Date: 2024-12-28
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Hydrogen Revolution' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'All Armors can Fly' Added
     - Translation for mod 'Darkmode' Added
     - Translation for mod 'Days Without Incident' Added
@@ -3597,7 +3618,7 @@ Date: 2024-12-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.7
 Date: 2024-12-25
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Additional Vanilla Menu Simulations' Added
     - Translation for mod 'Advanced Centrifuge' Added
     - Translation for mod 'Anti Trypophobia for 2.0' Added
@@ -3629,12 +3650,12 @@ Date: 2024-12-25
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.6
 Date: 2024-12-23
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Fruit and Vegetable' Added
     - Translation for mod 'Fulgora extended' Added
     - Translation for mod 'Planet Arrakis' Added
     - Translation for mod 'Platformer' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Ancient Drill' Added
     - Translation for mod 'Canned Fish' Added
     - Translation for mod 'Chicken' Added
@@ -3672,9 +3693,9 @@ Date: 2024-12-23
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.5
 Date: 2024-12-20
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Tycoon 2' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cursed Filter Mining Drill' Added
     - Translation for mod 'Endless resources' Added
     - Translation for mod 'Gleba Lab' Added
@@ -3717,9 +3738,9 @@ Date: 2024-12-20
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.4
 Date: 2024-12-17
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Module Config' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '5Dim's mod - New Compatibility' Added
     - Translation for mod 'Armored Wall' Added
     - Translation for mod 'Big Numbers' Added
@@ -3754,7 +3775,7 @@ Date: 2024-12-17
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.3
 Date: 2024-12-15
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Yuoki Tech Tree Extra Vanilla' Added
   Translation Updated/Fixed:
     - Translation for mod 'Blueprint Sandboxes' Updated
@@ -3773,10 +3794,10 @@ Date: 2024-12-15
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.2
 Date: 2024-12-13
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Yuoki Industries - Engines (Addon)' Added
     - Translation for mod 'Yuoki Industries' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Better Melting Ice' Added
     - Translation for mod 'Change recipe quality without re-selecting recipe' Added
     - Translation for mod 'Clean Floor' Added
@@ -3813,11 +3834,11 @@ Date: 2024-12-13
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.1
 Date: 2024-12-09
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Maraxsis' Added
     - Translation for mod 'Spidertron Enhancement' Added
     - Translation for mod 'Spidertron Patrols' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'King Jo's Phalanx CIWS' Added
     - Translation for mod 'Old But Better Sounds' Added
   Translation Updated/Fixed:
@@ -3838,12 +3859,12 @@ Date: 2024-12-09
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.0
 Date: 2024-12-07
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Alternative Steam' Added
     - Translation for mod 'Evolution Technology' Added
     - Translation for mod 'Easy API' Added
     - Translation for mod 'Text Plates' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'ammoniafill' Added
     - Translation for mod 'Aquilo Thermometer' Added
     - Translation for mod 'Automatic Underground Pipe Connectors' Added
@@ -3901,7 +3922,7 @@ Date: 2024-12-07
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.8
 Date: 2024-12-05
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'ERM - Zerg / Garm' Added
     - Translation for mod 'Omnicompression' Added
     - Translation for mod 'Omnienergy' Added
@@ -3942,7 +3963,7 @@ Date: 2024-12-05
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.7
 Date: 2024-12-03
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '2+2=Fish' Added
     - Translation for mod 'Beyond Logistics' Added
     - Translation for mod 'Circuit Launchable Rockets' Added
@@ -3989,9 +4010,9 @@ Date: 2024-12-03
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.6
 Date: 2024-12-01
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'ERM - Protoss / Akilea' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Accumulator MK2' Added
     - Translation for mod 'Automatic Discharge Defense' Added
     - Translation for mod 'Disable Vanilla Menu Simulations' Added
@@ -4022,10 +4043,10 @@ Date: 2024-12-01
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.5
 Date: 2024-11-30
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Enemy Race Manager' Added
     - Translation for mod 'Voidcraft' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Atomic Bomb Shockwave Distance' Added
     - Translation for mod 'Better StarMap Background' Added
     - Translation for mod 'Biolabs Need Nutrients' Added
@@ -4069,7 +4090,7 @@ Date: 2024-11-30
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.4
 Date: 2024-11-28
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Character reach indicator' Added
     - Translation for mod 'Demolisher Eggs' Added
     - Translation for mod 'King Jo's 88mm Pak 43' Added
@@ -4160,9 +4181,9 @@ Version: 0.4.2
 Date: 2024-11-26
   Changes:
     - Version number of 176 mods Updated
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Space Age Without Space' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Advanced Substations' Added
     - Translation for mod 'BeltLiner' Added
     - Translation for mod 'Tree Healing' Added
@@ -4173,11 +4194,11 @@ Date: 2024-11-26
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.1
 Date: 2024-11-24
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'King Jo's Vehicle Master' Added
     - Translation for mod 'Quick Adjustable Inserters' Added
     - Translation for mod 'Real Starry Universe' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Cheaper and more Circuits' Added
     - Translation for mod 'Circuit Connection Visualizer' Added
     - Translation for mod 'Concrete Plus' Added
@@ -4211,12 +4232,12 @@ Date: 2024-11-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.0
 Date: 2024-11-22
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Biter Clash' Added
     - Translation for mod 'Combat Mechanics Overhaul' Added
     - Translation for mod 'Space Age: Hardcore Mode' Added
     - Translation for mod 'Valves' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '1337exp / Loader' Added
     - Translation for mod 'Accumulator Walls' Added
     - Translation for mod 'Acorn's rocket capacity' Added
@@ -4252,12 +4273,12 @@ Date: 2024-11-22
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.8
 Date: 2024-11-20
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Advanced Fluid Handling' Added
     - Translation for mod 'More Asteroid Resources' Added
     - Translation for mod 'Tenebris' Added
     - Translation for mod 'Wooden Military' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '9-Tile Wide World' Added
     - Translation for mod 'Alchemical combinator' Added
     - Translation for mod 'Big Wooden Pole' Added
@@ -4287,7 +4308,7 @@ Date: 2024-11-20
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.7
 Date: 2024-11-18
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Armoured Biters' Added
     - Translation for mod 'Bulk Rail Loader' Added
     - Translation for mod 'Debloat: Better Foundry' Added
@@ -4299,7 +4320,7 @@ Date: 2024-11-18
     - Translation for mod 'SLP - Dyson Sphere Reworked' Added
     - Translation for mod 'Wind Turbines' Added
     - Translation for mod 'Wooden Logistics' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'C418 Music' Added
     - Translation for mod 'Companion Drones' Added
     - Translation for mod 'Delete Fulgora' Added
@@ -4315,13 +4336,13 @@ Date: 2024-11-18
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.6
 Date: 2024-11-15
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Battery-Electric Train' Added
     - Translation for mod 'Extended Range' Added
     - Translation for mod 'Total Combat Overhaul' Added
     - Translation for mod 'Lex's Aircraft' Added
     - Translation for mod 'Quality Assurance' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Adjustable freeplay starting equipments' Added
     - Translation for mod 'Autocraft' Added
     - Translation for mod 'Better Call Saul Research Sound' Added
@@ -4340,10 +4361,10 @@ Date: 2024-11-15
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.4
 Date: 2024-11-14
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Frozen Food' Added (Thanks to 르에(Lu__Lu))
     - Translation for mod 'Laser Fence' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'GPS personal' Added
     - Translation for mod 'No Pipe Touching' Added
     - Translation for mod 'Piety' Added
@@ -4354,11 +4375,11 @@ Date: 2024-11-14
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.3
 Date: 2024-11-14
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Behemoth Enemies Mod' Added
     - Translation for mod 'MOAR Inserters' Added
     - Translation for mod 'Quantum Fabricator' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Barrel Capacity Modifier' Added
     - Translation for mod 'Dequalitier' Added
     - Translation for mod 'Enable all Feature Flags' Added
@@ -4380,12 +4401,12 @@ Date: 2024-11-14
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.2
 Date: 2024-11-12
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Additional turrets' Added
     - Translation for mod 'Carbon' Added
     - Translation for mod 'Deadlock's Stacking Beltboxes & Compact Loaders' Added
     - Translation for mod 'Intermodal Containers' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Delete Gleba' Added
     - Translation for mod 'Ghost Mode' Added
     - Translation for mod 'Multiplied Minables X10' Added
@@ -4396,7 +4417,7 @@ Date: 2024-11-12
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.1
 Date: 2024-11-12
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Bridge Technologies' Added
     - Translation for mod 'Color Blind Ultimate' Added
     - Translation for mod 'Construction Planner Continued' Added
@@ -4404,7 +4425,7 @@ Date: 2024-11-12
     - Translation for mod 'Sky's Simplified Space Age' Added
     - Translation for mod 'WH40k: Legio Titanicus' Added
     - Translation for mod 'What is it really used for?' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'All Are Welcome Amongus' Added
     - Translation for mod 'Connection Box' Added
     - Translation for mod 'Gun EquipmentGun Equipment' Added
@@ -4429,14 +4450,14 @@ Date: 2024-11-12
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2024-11-10
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Gridlines' Added
     - Translation for mod 'Rail Logistics Dispatcher 2' Added
     - Translation for mod 'Reverse Engineering Lab' Added
     - Translation for mod 'RPG Items' Added
     - Translation for mod 'Spell Pack' Added
     - Translation for mod 'TJ's Sign Boards' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '144 Slot Cargo Wagons' Added
     - Translation for mod 'Aech's Nuclear Downbalance' Added
     - Translation for mod 'Agricultural tower placement helper' Added
@@ -4464,14 +4485,14 @@ Date: 2024-11-10
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.7
 Date: 2024-11-08
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Arborium Renewed' Added
     - Translation for mod 'Mining Patch Planner' Added
     - Translation for mod 'Noxys Trees' Added
     - Translation for mod 'Relaxed and Happy [For Gavin]' Added
     - Translation for mod 'StackMaster' Added
     - Translation for mod 'Terra Palus' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Advanced Evolution' Added
     - Translation for mod 'Archipelago Free Samples' Added
     - Translation for mod 'Artillery Range' Added
@@ -4494,11 +4515,11 @@ Date: 2024-11-08
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.6
 Date: 2024-11-06
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Edit Map Settings' Added
     - Translation for mod 'Kuxynator's Personal Teleporter' Added
     - Translation for mod 'Modular Turrets' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Alternate Recipes' Added
     - Translation for mod 'Awesome sink' Added
     - Translation for mod 'Captain's Log' Added
@@ -4519,9 +4540,9 @@ Date: 2024-11-06
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2024-11-04
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Resource Spawner Overhaul' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '5Dim's mod - New Enemies' Added
     - Translation for mod '5Dim's mod - New Equipment' Added
     - Translation for mod '5Dim's mod - New Infinite Research' Added
@@ -4537,12 +4558,12 @@ Date: 2024-11-04
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.4
 Date: 2024-11-04
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Ammo Loader+' Added
     - Translation for mod 'Noxys Waterfill' Added
     - Translation for mod 'Robot World' Added
     - Translation for mod 'Teleportation_Redux' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod '5Dim's mod - New Automatization' Added
     - Translation for mod '5Dim's mod - New Battlefield' Added
     - Translation for mod '5Dim's mod - New Core' Added
@@ -4559,13 +4580,13 @@ Date: 2024-11-04
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.3
 Date: 2024-11-03
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Automatic Belt Planner' Added
     - Translation for mod 'Hazard Lights' Added
     - Translation for mod 'KS Power' Added
     - Translation for mod 'MOAR Modules' Added
     - Translation for mod 'Mushroom Cloud QuickFix' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Ballistic Missile' Added
     - Translation for mod 'Colorblind red-purple Adjustments All In on' Added
     - Translation for mod 'Denerf: Pump' Added
@@ -4589,7 +4610,7 @@ Date: 2024-11-03
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.2
 Date: 2024-11-02
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Basic Artillery' Added
     - Translation for mod 'Biter-proofing' Added
     - Translation for mod 'Cheaper processing unit' Added
@@ -4606,7 +4627,7 @@ Date: 2024-11-02
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.1
 Date: 2024-11-02
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Better Robots Extended' Added
     - Translation for mod 'Bots Bots Bots!' Added
     - Translation for mod 'Bottleneck' Updated
@@ -4615,7 +4636,7 @@ Date: 2024-11-02
     - Translation for mod 'Fluid Must Flow' Added
     - Translation for mod 'holographic_signs' Updated
     - Translation for mod 'Nanobots: Early Bots' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Autostash' Added
     - Translation for mod 'Belt Upgrader' Added
     - Translation for mod 'biter' Added
@@ -4635,10 +4656,10 @@ Date: 2024-11-02
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2024-11-01
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'FNEI' Added
     - Translation for mod 'miniMAXIme' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Always Day' Added
     - Translation for mod 'Barrel Stages' Added
     - Translation for mod 'Brake Squeal 2.0' Added
@@ -4660,10 +4681,10 @@ Date: 2024-11-01
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.7
 Date: 2024-10-31
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Extended Vanilla: Personal Equipment' Added
     - Translation for mod 'Genshin Impact Skin' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Ash' Added
     - Translation for mod 'Automated Fuel & Ammo' Added
     - Translation for mod 'Better Train Horn' Added
@@ -4692,13 +4713,13 @@ Date: 2024-10-31
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.6
 Date: 2024-10-30
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Asphalt Roads Patched' Added
     - Translation for mod 'Extended Vanilla: Personal Equipment' Added
     - Translation for mod 'Phidias Collection' Added
     - Translation for mod 'Ribbon Maze' Added [Currently Unplayable because That mod's Crash]
     - Translation for mod 'Solid Waste pollution filter' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Chemical Rockets' Added
     - Translation for mod 'Cursor Enhancements' Added
     - Translation for mod 'Hide Space Age spoilers' Added
@@ -4710,13 +4731,13 @@ Date: 2024-10-30
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.5
 Date: 2024-10-29
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Baketorio' Added
     - Translation for mod 'Biodome Industries' Added
     - Translation for mod 'Module Inserter Simplified' Added
     - Translation for mod 'SearchlightAssault' Added
     - Translation for mod 'Train Trails' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Barrel Fluid Icon' Added
     - Translation for mod 'Easy Void' Added
     - Translation for mod 'Everything Spoilage' Added
@@ -4740,12 +4761,12 @@ Date: 2024-10-29
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.4
 Date: 2024-10-29
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Advanced Furnaces 2' Added
     - Translation for mod 'Atomic Overhaul' Added
     - Translation for mod 'Helper for mods that create new characters' Added
     - Translation for mod 'Max Rate Calculator' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Any Planet Start' Added
     - Translation for mod 'Atomic Artillery' Added
     - Translation for mod 'Electric Pole Range Multiplier' Added
@@ -4763,10 +4784,10 @@ Date: 2024-10-29
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.3
 Date: 2024-10-28
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Testbenchcontrols' Added
     - Translation for mod 'TinyStart 2' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Auto Ghost Builder' Added
     - Translation for mod 'Bullet Trails' Added
     - Translation for mod 'Korone Character' Added
@@ -4786,13 +4807,13 @@ Date: 2024-10-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.2
 Date: 2024-10-28
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Factorio HD Age Modpack' Added
     - Translation for mod 'MD2R reskin: C&C, Red Alert, Tiberium Dawn' Added
     - Translation for mod 'Mining Drones (Tiberium Compatibility Version)' Added
     - Translation for mod 'Mining Drones 2 Remastered' Added
     - Translation for mod 'Plutonium Energy' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Auto Ghost Builder' Added
     - Translation for mod 'Call a Plumber' Added
     - Translation for mod 'easy wind turbo' Added
@@ -4805,13 +4826,13 @@ Date: 2024-10-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2024-10-27
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Additional Paste Settings (Fixed)' Added
     - Translation for mod 'Battery Powered' Added
     - Translation for mod 'Blueprint Sandboxes' Added
     - Translation for mod 'Constructron-Continued' Added
     - Translation for mod 'ZwerOxotnik's extendable mod with 8 addons' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Acorn's module buff' Added
     - Translation for mod 'Air filtering' Added
     - Translation for mod 'Artillery Combinator' Added
@@ -4831,7 +4852,7 @@ Date: 2024-10-27
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2024-10-27
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod '!skins (Skins Factored)' Added
     - Translation for mod 'Big-Monsters' Added
     - Translation for mod 'Crafting Queue Enhancements' Added
@@ -4845,7 +4866,7 @@ Date: 2024-10-27
     - Translation for mod 'Toxic Biters' Added
     - Translation for mod 'Vehicle Wagon 2' Added
     - Translation for mod 'Warehousing Mod' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Additional Qualities' Added
     - Translation for mod 'Cleaned Concrete' Added
     - Translation for mod 'Combat Robot Overhaul' Added
@@ -4871,7 +4892,7 @@ Date: 2024-10-27
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.12
 Date: 2024-10-26
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Bluetonium' Added
     - Translation for mod 'Dredgeworks' Added
     - Translation for mod 'Micro Machines Mod' Added
@@ -4879,7 +4900,7 @@ Date: 2024-10-26
     - Translation for mod 'More Long Inserter' Added
     - Translation for mod 'SA-Humvee' Added
     - Translation for mod 'Thermal Solar Power (Lite)' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Afraid of the Dark 2.0' Added
     - Translation for mod 'Customizable Quality Names' Added
     - Translation for mod 'I Want To Go To Space' Added
@@ -4898,12 +4919,12 @@ Date: 2024-10-26
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.11
 Date: 2024-10-25
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Actual Craft Time' Added
     - Translation for mod 'Firework Rockets' Added
     - Translation for mod 'Fluid Memory Storage' Added
     - Translation for mod 'Resource Monitor' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Bucket Wheel Excavators' Added
     - Translation for mod 'Builder Bot Start' Added
     - Translation for mod 'Earlyvated Rails' Added
@@ -4913,7 +4934,7 @@ Date: 2024-10-25
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.10
 Date: 2024-10-25
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Configurable Custom Electric Mining Drill' Added
     - Translation for mod 'Frost Biters' Added
     - Translation for mod 'God Module' Added
@@ -4921,7 +4942,7 @@ Date: 2024-10-25
     - Translation for mod 'Modular Chests' Added
     - Translation for mod 'Picklocks rocket silo stats' Added
     - Translation for mod 'Prometheus Grenade Launcher' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Area Paste' Added
     - Translation for mod 'Cooked Fish' Added
     - Translation for mod 'King Jo's Insane Artillery' Added
@@ -4933,14 +4954,14 @@ Date: 2024-10-25
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.9
 Date: 2024-10-25
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Black Market 2' Added
     - Translation for mod 'Material Storage' Added
     - Translation for mod 'Micro Furnace' Added
     - Translation for mod 'Recursive Resource Calculator' Added
     - Translation for mod 'Stable Foundations' Added
     - Translation for mod 'Time Lapse Base Edition' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Belt Speed Multiplier' Added
     - Translation for mod 'Factorio Library' Added
     - Translation for mod 'Hatsune Enrichment Process' Added
@@ -4951,12 +4972,12 @@ Date: 2024-10-25
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.8
 Date: 2024-10-24
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Auto Research' Added
     - Translation for mod 'Beacon Rebalance' Added
     - Translation for mod 'Flow Configuration' Added
     - Translation for mod 'Void Snatch' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Annihilation Reactor' Added
     - Translation for mod 'Bottleneck Lite' Added
     - Translation for mod 'Discovery Tree' Added
@@ -4969,7 +4990,7 @@ Date: 2024-10-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.7
 Date: 2024-10-23
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Bigger Artillery' Added
     - Translation for mod 'Bob's Adjustable Inserters mod' Added
     - Translation for mod 'Cybersyn Combinator' Added
@@ -4977,13 +4998,13 @@ Date: 2024-10-23
     - Translation for mod 'Shipping Containers' Added
     - Translation for mod 'Vanilla Loaders' Added
     - Translation for mod 'YARM - Resource Monitor' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Atomic Pickaxe!' Added
     - Translation for mod 'Tiny Assemblers' Added
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.6
 Date: 2024-10-23
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod '[OS] Speed Train' Added
     - Translation for mod 'Alien Loot Economy' Added
     - Translation for mod 'Handcrafted' Added
@@ -4991,14 +5012,14 @@ Date: 2024-10-23
     - Translation for mod 'Large Storage Tank' Added
     - Translation for mod 'Merging Chests' Added
     - Translation for mod 'RPG System' Added
-  Minor mod Translation Added:
+  New Additions:
     - Translation for mod 'Lighted Electric Poles +' Added
     - Translation for mod 'Water Pumpjack' Added
     - Translation for mod 'Waterfill' Added
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 2024-10-22
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Better Victory Screen' Added
     - Translation for mod 'Electronic Locomotives' Added
     - Translation for mod 'Fluid Level Indicator' Added
@@ -5007,7 +5028,7 @@ Date: 2024-10-22
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 2024-10-22
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Creative Mod' Added
     - Translation for mod 'Reverse Factory' Added
     - Translation for mod 'Rocket-Silo Construction' Added
@@ -5016,7 +5037,7 @@ Date: 2024-10-22
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 2024-10-22
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Editor Extensions' Added
   Translation Updated/Fixed:
     - Translation Fixed for mod 'Auto Deconstruct'
@@ -5026,7 +5047,7 @@ Version: 0.0.2
 Date: 2024-10-22
   Changes:
     - Initial release
-  Translation Added:
+  Mod Translation Added:
     - Translation for mod 'Auto Deconstruct' Added
     - Translation for mod 'Electric Trains' Added
     - Translation for mod 'Even Distribution' Added
