@@ -6,3 +6,4 @@ setI18nR(true,'item','sand','maraxsis');
 setI18nR(true,'technology','ducts','maraxsis');
 setI18nR(true,'technology','sp-spidertron-automation','maraxsis');
 setI18nR(true,'technology','kr-quantum-computer','maraxsis');
+setI18nR(true,'technology','legendary-quality','maraxsis');

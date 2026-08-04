@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.19.8
-Date: 2026-07-12
+Version: 0.19.10
+Date: 2026-07-22
   # Notice:
     - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
@@ -8,7 +8,338 @@ Date: 2026-07-12
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   # Addtional Notice:
     - Factorio 2.0 기본 버전에서도 이 모드를 사용할 수 있습니다!
-    - Factorio 2.1 버전이 정식 출시된 뒤에도, 이 모드의 2.0 지원 업데이트를 일정 기간동안 유지할 예정입니다.
+    - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
+  Changes:
+    - Fixed Possible Translation 'Missing Key' Error in Non-Korean Language User
+  Translation Added:
+    - Translation for mod 'Aquilo Overhaul: Lithium Battery' Added
+    - Translation for mod 'Castra Prime' Added
+    - Translation for mod 'Dyson Sphere Program Lib' Added
+  Minor mod Translation Added:
+    - Translation for mod 'Ammo Alerts' Added
+    - Translation for mod 'BerbCorp Belts' Added
+    - Translation for mod 'BerbCorp lane balancers' Added
+    - Translation for mod 'Reduce Tile Effects' Added
+    - Translation for mod 'Salt & Chlorine' Added
+---------------------------------------------------------------------------------------------------
+Version: 0.19.9
+Date: 2026-07-19
+  Translation Added:
+    - Translation for mod 'Industrial Alchemy: Real Ores & Chemistry' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - New Core' Fixed
+    - Translation for mod '5Dim's mod - New Infinite Research' Fixed
+    - Translation for mod '10 Quadrillion Chicken Nuggets' Fixed
+    - Translation for mod 'AAI Industry' Fixed
+    - Translation for mod 'AAI Programmable Vehicles' Fixed
+    - Translation for mod 'Abacayba: Infested Death Twin of Nauvis' Updated
+    - Translation for mod 'Abandoned Ruins - Fixed' Fixed
+    - Translation for mod 'Accumulator V2' Fixed
+    - Translation for mod 'Adamo Carbon' Fixed
+    - Translation for mod 'Adjustable Modules and Beacon' Updated
+    - Translation for mod 'Administratorio' Updated/Fixed
+    - Translation for mod 'Advanced Substations' Fixed
+    - Translation for mod 'Aegis & Bellicos' Fixed
+    - Translation for mod 'Age of Production' Fixed
+    - Translation for mod 'Age of Production Graphics' Fixed
+    - Translation for mod 'Age of Production' Updated
+    - Translation for mod 'Air filtering' Fixed
+    - Translation for mod 'Alternative Beacons' Fixed
+    - Translation for mod 'Amator Phasma's Coal & Steam (forked)' Fixed
+    - Translation for mod 'Amator Phasma's Nuclear' Fixed
+    - Translation for mod 'Ancient Research' Fixed
+    - Translation for mod 'AngelBob Space Age Rebalance' Updated/Fixed
+    - Translation for mod 'Angel's Bioprocessing' Fixed
+    - Translation for mod 'Angel's Petrochemical Processing' Fixed
+    - Translation for mod 'Angel's Refining' Updated/Fixed
+    - Translation for mod 'Angel's Smelting' Fixed
+    - Translation for mod 'Animals' Fixed
+    - Translation for mod 'Any Planet Start' Fixed
+    - Translation for mod 'Apia–Carnova system' Fixed
+    - Translation for mod 'Arcanyx Assets' Fixed
+    - Translation for mod 'Arcanyx' Fixed
+    - Translation for mod 'Arcanyx' Updated
+    - Translation for mod 'Armored Train (Turret Wagons)' Fixed
+    - Translation for mod 'Armored Wall & Gate' Fixed
+    - Translation for mod 'Artisanal Reskins: Angel's Mods' Fixed
+    - Translation for mod 'Artisanal Reskins: Bob's Assets' Fixed
+    - Translation for mod 'Artisanal Reskins: Bob's Mods' Fixed
+    - Translation for mod 'Artisanal Reskins: Compatibility' Fixed
+    - Translation for mod 'Artisanal Reskins: Library' Fixed
+    - Translation for mod 'Artisanal Reskins: Sprite Utils' Fixed
+    - Translation for mod 'Assembler-Reskin' Fixed
+    - Translation for mod 'Atomic Overhaul' Fixed
+    - Translation for mod 'Automatic Train Painter' Fixed
+    - Translation for mod 'Baketorio' Fixed
+    - Translation for mod 'Better Linked Chest' Fixed
+    - Translation for mod 'Big-Monsters' Fixed
+    - Translation for mod 'bikini swimsuit miku' Fixed
+    - Translation for mod 'Bio Industries' Fixed
+    - Translation for mod 'Black Rubber Belts - Remastered' Fixed
+    - Translation for mod 'Black Rubber Belts' Fixed
+    - Translation for mod 'Blueprint Tools' Fixed
+    - Translation for mod 'Blueprintable Trees' Updated
+    - Translation for mod 'Bluetonium' Fixed
+    - Translation for mod 'Bob's Adjustable Inserters mod' Fixed
+    - Translation for mod 'Bob's Assembling Machines mod' Fixed
+    - Translation for mod 'Bob's Logistics mod' Fixed
+    - Translation for mod 'Bob's Metals, Chemicals and Intermediates mod' Fixed
+    - Translation for mod 'Bob's Revamp mod' Fixed
+    - Translation for mod 'Bob's Technology mod' Fixed
+    - Translation for mod 'Bugs Rule Everywhere Around Me (B.R.E.A.M.)' Fixed
+    - Translation for mod 'Builder Bot Start' Fixed
+    - Translation for mod 'Canal Excavator' Fixed
+    - Translation for mod 'Canisters' Fixed
+    - Translation for mod 'Canned Fish' Fixed
+    - Translation for mod 'Cargo Pad Bonus Research' Fixed
+    - Translation for mod 'Cargo Ships' Updated/Fixed
+    - Translation for mod 'Cargo Ships: Floating Electric Pole' Fixed
+    - Translation for mod 'Cargo Ships: Oil Rig' Fixed
+    - Translation for mod 'Carna' Fixed
+    - Translation for mod 'Castra' Fixed
+    - Translation for mod 'Cheese's Concentrated Solar' Fixed
+    - Translation for mod 'Cobalt' Updated
+    - Translation for mod 'Colony Builder' Fixed
+    - Translation for mod 'Color Coded Pipe Planner' Fixed
+    - Translation for mod 'Color Coded Pipes' Fixed
+    - Translation for mod 'Common prototypes' Fixed
+    - Translation for mod 'Concrete productivity' Updated
+    - Translation for mod 'Configurable Custom Electric Mining Drill' Fixed
+    - Translation for mod 'Configurable Mining Drills' Fixed
+    - Translation for mod 'Configurable Solar Panels and Accumulators' Fixed
+    - Translation for mod 'Configurable Valves' Fixed
+    - Translation for mod 'Constructron-Continued' Fixed
+    - Translation for mod 'Constructron-Continued' Updated
+    - Translation for mod 'Crash Site' Fixed
+    - Translation for mod 'Crash Site Settings' Fixed
+    - Translation for mod 'Creative Mode' Fixed
+    - Translation for mod 'Cubium' Fixed
+    - Translation for mod 'Cursor Enhancements' Fixed
+    - Translation for mod 'Dea Dia System (ALPHA)' Fixed
+    - Translation for mod 'Deep Core Operations' Fixed
+    - Translation for mod 'Deep Mine ALT' Fixed
+    - Translation for mod 'Diesel Machines' Fixed
+    - Translation for mod 'Distant Shores' Fixed
+    - Translation for mod 'doeWorks Rocket Artillery' Fixed
+    - Translation for mod 'Early Modules' Fixed
+    - Translation for mod 'Easy Void' Fixed
+    - Translation for mod 'Electric Furnaces' Fixed
+    - Translation for mod 'Electric Grid' Fixed
+    - Translation for mod 'ElectricFurnaces' Fixed
+    - Translation for mod 'Electronic Locomotives' Fixed
+    - Translation for mod 'Elevated pipes' Fixed
+    - Translation for mod 'Eneas' Fixed
+    - Translation for mod 'Enemy Race Manager' Fixed
+    - Translation for mod 'Evolution Reduction via Destruction' Fixed
+    - Translation for mod 'Exotic Space Industries' Fixed
+    - Translation for mod 'Exotic Space Industries: Remembrance' Fixed
+    - Translation for mod 'Extended Angels' Fixed
+    - Translation for mod 'Extended Vanilla: Refining' Fixed
+    - Translation for mod 'Factorio crash site' Fixed
+    - Translation for mod 'Factorio+' Fixed
+    - Translation for mod 'Factorissimo 2' Fixed
+    - Translation for mod 'Factorissimo 3' Fixed
+    - Translation for mod 'Factorissimo2-Space-Age-Port' Fixed
+    - Translation for mod 'Factory solver based on IPMs for LP' Fixed
+    - Translation for mod 'Fish Productivity' Fixed
+    - Translation for mod 'Fixed Construction Drones - Forked' Fixed
+    - Translation for mod 'Fluid Memory Storage' Fixed
+    - Translation for mod 'Fluid Nutrients' Fixed
+    - Translation for mod 'Fluid recycler' Fixed
+    - Translation for mod 'Fluid Void Extra' Fixed
+    - Translation for mod 'Foliax 2' Fixed
+    - Translation for mod 'Foliax' Fixed
+    - Translation for mod 'Foodtorio' Fixed
+    - Translation for mod 'Frost Biters' Fixed
+    - Translation for mod 'Graphite & Diamonds - Legacy' Fixed
+    - Translation for mod 'Graphite & Diamonds' Fixed
+    - Translation for mod 'Hard Fulgora' Fixed
+    - Translation for mod 'HD Plasma Duct' Fixed
+    - Translation for mod 'Heavy Gun Turret' Fixed
+    - Translation for mod 'Imbalance' Fixed
+    - Translation for mod 'Industrial Alchemy: Real Ores & Chemistry' Fixed
+    - Translation for mod 'Infinite Repair Pack' Fixed
+    - Translation for mod 'Infinity Bots' Fixed
+    - Translation for mod 'Iridescent Industry' Fixed
+    - Translation for mod 'Iron Chest Mod' Fixed
+    - Translation for mod 'James Oily Extravaganza' Fixed
+    - Translation for mod 'Jetpack' Fixed
+    - Translation for mod 'Jetpack' Updated
+    - Translation for mod 'Khemia: Age of Alchemy' Fixed
+    - Translation for mod 'King Jo's Entity Master' Fixed
+    - Translation for mod 'King Jo's Fuels' Fixed
+    - Translation for mod 'Krastorio 2 - Air Purifier' Fixed
+    - Translation for mod 'Landfill productivity' Fixed
+    - Translation for mod 'Lane Filtered Loaders' Fixed
+    - Translation for mod 'Laser Rifle' Fixed
+    - Translation for mod 'Laser Tanks' Fixed
+    - Translation for mod 'LavaBlock' Fixed
+    - Translation for mod 'Light Overhaul' Fixed
+    - Translation for mod 'Lighthouse Radar' Fixed
+    - Translation for mod 'Lignumis - Director's Cut' Fixed
+    - Translation for mod 'Lignumis assets' Fixed
+    - Translation for mod 'Lignumis' Fixed
+    - Translation for mod 'Lily's Cubeine Technologies' Fixed
+    - Translation for mod 'Li-Quarry' Fixed
+    - Translation for mod 'loader_mini_1x1' Fixed
+    - Translation for mod 'Loaders Modernized' Fixed
+    - Translation for mod 'Loaders Modernized: 5Dim's' Fixed
+    - Translation for mod 'Loaders Modernized: Bob's Logistics' Fixed
+    - Translation for mod 'Loaders Modernized: Extended Vanilla' Fixed
+    - Translation for mod 'Loaders Modernized: Integrations' Fixed
+    - Translation for mod 'Loaders Modernized: Iper Belt' Fixed
+    - Translation for mod 'Loaders Modernized: Pyanodons' Fixed
+    - Translation for mod 'Loaders Modernized: Space Exploration' Fixed
+    - Translation for mod 'Loaders Modernized: Ultimate Belts Space Age' Fixed
+    - Translation for mod 'Loaders Modernized: Wooden Logistics' Fixed
+    - Translation for mod 'Long Range Turret' Fixed
+    - Translation for mod 'Long Range Turret Redux' Fixed
+    - Translation for mod 'Lunar Landings - Eternal Winter' Fixed
+    - Translation for mod 'Lunar Landings' Fixed
+    - Translation for mod 'MadClown01's AngelBob Nuclear' Fixed
+    - Translation for mod 'MadClown01's Extended AngelBob Minerals' Fixed
+    - Translation for mod 'MadClown01's Processing' Fixed
+    - Translation for mod 'Magical Quarries' Fixed
+    - Translation for mod 'Mani's Better Statistics' Fixed
+    - Translation for mod 'Maraxsis' Fixed
+    - Translation for mod 'Maraxsis' Updated
+    - Translation for mod 'Metal and Stars' Fixed
+    - Translation for mod 'Metal and Stars' Updated
+    - Translation for mod 'MFerrari lib' Fixed
+    - Translation for mod 'Miku Roboport' Fixed
+    - Translation for mod 'Mining and Crafting Speed Research' Fixed
+    - Translation for mod 'Mining Space Industries II' Fixed
+    - Translation for mod 'More Alloys' Updated
+    - Translation for mod 'More Alloys!' Fixed
+    - Translation for mod 'More Ammo' Fixed
+    - Translation for mod 'More Galore!' Fixed
+    - Translation for mod 'More Minimap Autohide' Fixed
+    - Translation for mod 'More Ores!' Fixed
+    - Translation for mod 'Moshine' Fixed
+    - Translation for mod 'Moshine Planet' Fixed
+    - Translation for mod 'Muluna, Moon of Nauvis' Fixed
+    - Translation for mod 'Muria' Fixed
+    - Translation for mod 'Nanobots: Early Bots 3.0' Fixed
+    - Translation for mod 'Nexus Extended Promethium Endgame' Fixed
+    - Translation for mod 'No More Gambling' Fixed
+    - Translation for mod 'NovaW's UltimateBelts' Fixed
+    - Translation for mod 'Nuclear Artillery QuickFix' Fixed
+    - Translation for mod 'Nullius' Fixed
+    - Translation for mod 'Null's K2SO Tweaks' Fixed
+    - Translation for mod 'OCs Ammo and Armor' Fixed
+    - Translation for mod 'Omnicrystal' Fixed
+    - Translation for mod 'Omnienergy' Fixed
+    - Translation for mod 'Omnimatter' Fixed
+    - Translation for mod 'On Wayward Seas' Fixed
+    - Translation for mod 'Only Gleba' Fixed
+    - Translation for mod 'Paracelsin' Fixed
+    - Translation for mod 'Paracelsin Graphics' Fixed
+    - Translation for mod 'Paracelsin' Updated
+    - Translation for mod 'Periodic Madness' Fixed
+    - Translation for mod 'Planet Erimos Prime' Fixed
+    - Translation for mod 'Planet Pandora' Fixed
+    - Translation for mod 'Planet Pelagos' Fixed
+    - Translation for mod 'Planet Rubia' Fixed
+    - Translation for mod 'Planet Virentis' Fixed
+    - Translation for mod 'Planetaris: Arig' Fixed
+    - Translation for mod 'Planetaris: Hyarion' Fixed
+    - Translation for mod 'Plasma Duct' Fixed
+    - Translation for mod 'Plutonium Breeding' Fixed
+    - Translation for mod 'Project Cybersyn' Fixed
+    - Translation for mod 'Promethium is Quality' Fixed
+    - Translation for mod 'Promethium Processing' Fixed
+    - Translation for mod 'Psyduck' Fixed
+    - Translation for mod 'Quality Heat Pipes' Fixed
+    - Translation for mod 'Quarry' Fixed
+    - Translation for mod 'RCU Restored' Fixed
+    - Translation for mod 'Realistic Celestial Universe Fork' Fixed
+    - Translation for mod 'Relaxed and Happy [For Gavin]' Fixed
+    - Translation for mod 'Reverse Factory' Fixed
+    - Translation for mod 'Ribbonia' Fixed
+    - Translation for mod 'RitnLobby' Fixed
+    - Translation for mod 'RitnPortal' Fixed
+    - Translation for mod 'RitnTeleporter' Fixed
+    - Translation for mod 'RPG System' Fixed
+    - Translation for mod 'Rubia Krastorio Compatibility+' Fixed
+    - Translation for mod 'SA-T1 Atomic Tank' Fixed
+    - Translation for mod 'Schall Alien Loot' Fixed
+    - Translation for mod 'Schall Alien Tech' Fixed
+    - Translation for mod 'Science Not Invited' Fixed
+    - Translation for mod 'SE Space Trains' Fixed
+    - Translation for mod 'Sea Block' Fixed
+    - Translation for mod 'Secretas&Frozeta' Fixed
+    - Translation for mod 'Shattered Planet' Fixed
+    - Translation for mod 'Shchierbin' Fixed
+    - Translation for mod 'Silica & Silicon - Legacy' Fixed
+    - Translation for mod 'Silica & Silicon' Fixed
+    - Translation for mod 'Solar Array Wings' Fixed
+    - Translation for mod 'Solar Matrix' Fixed
+    - Translation for mod 'Space Age Overhaul' Fixed
+    - Translation for mod 'Space Age: Hard Mode' Fixed
+    - Translation for mod 'Space Exploration Integration: Biochamber' Fixed
+    - Translation for mod 'Space Exploration Integration: Foundry' Fixed
+    - Translation for mod 'Space Extension Mod (Feoras Fork)' Fixed
+    - Translation for mod 'Space Extension Mod' Fixed
+    - Translation for mod 'Space Is Fake' Fixed
+    - Translation for mod 'Space platform, for ground' Fixed
+    - Translation for mod 'Spaceblock' Fixed
+    - Translation for mod 'Spaceception' Fixed
+    - Translation for mod 'spaceplatform-block' Fixed
+    - Translation for mod 'Spidertron Patrols' Fixed
+    - Translation for mod 'Stackless' Fixed
+    - Translation for mod 'Standalone Foundry' Fixed
+    - Translation for mod 'Stopgap Nukes Expansion' Fixed
+    - Translation for mod 'Stranded Block 2' Fixed
+    - Translation for mod 'Super Farm' Fixed
+    - Translation for mod 'T.I.M.S.A.B.A.' Fixed
+    - Translation for mod 'Talandar Cargo Ships Tweaks' Fixed
+    - Translation for mod 'Tech tree plus' Fixed
+    - Translation for mod 'TFMG Assets' Fixed
+    - Translation for mod 'TFMG Music' Fixed
+    - Translation for mod 'TFMG Simulations' Fixed
+    - Translation for mod 'The Factory Must Grow' Fixed
+    - Translation for mod 'The Ruins Mod' Fixed
+    - Translation for mod 'Tiny solar panels' Fixed
+    - Translation for mod 'Total Combat Overhaul' Fixed
+    - Translation for mod 'Train Station Light' Fixed
+    - Translation for mod 'Transport drones (Continued)' Fixed
+    - Translation for mod 'Tungsten ammo' Fixed
+    - Translation for mod 'Turbines ++ Reloaded' Fixed
+    - Translation for mod 'Two more Turrets' Fixed
+    - Translation for mod 'Ultimate Belts Space Age' Fixed
+    - Translation for mod 'Ultimate Fixed Mods Core' Fixed
+    - Translation for mod 'UltimateBelts Space Age Fork' Fixed
+    - Translation for mod 'Universal Turret' Fixed
+    - Translation for mod 'UPL - Underground Power Lines' Fixed
+    - Translation for mod 'Useful Methane' Fixed
+    - Translation for mod 'UTF: Ultimate Turbines ++ Fixed' Updated/Fixed
+    - Translation for mod 'Valves' Fixed
+    - Translation for mod 'Vesta' Fixed
+    - Translation for mod 'Virtual Signals 2' Fixed
+    - Translation for mod 'Void Block' Fixed
+    - Translation for mod 'Void' Fixed
+    - Translation for mod 'Voidcraft' Fixed
+    - Translation for mod 'Warp Drive Machine' Fixed
+    - Translation for mod 'Warptorio 2.0 (Space Age)' Fixed
+    - Translation for mod 'Warptorio 3 (No Space Age)' Fixed
+    - Translation for mod 'Waterfill' Fixed
+    - Translation for mod 'WH40k: Legio Titanicus' Fixed
+    - Translation for mod 'Wide Containers' Fixed
+    - Translation for mod 'Wide Ocean' Fixed
+    - Translation for mod 'Wood Gasification' Fixed
+    - Translation for mod 'Wood Gasification' Updated
+    - Translation for mod 'Wooden Gleba: Water Cane' Fixed
+    - Translation for mod 'Wooden Military' Fixed
+    - Translation for mod 'Wooden Platform' Fixed
+    - Translation for mod 'Yuoki Industries - Engines (Addon)' Fixed
+    - Translation for mod 'Yuoki Industries - Railways' Fixed
+    - Translation for mod 'Yuoki Industries' Fixed
+    - Translation for mod 'Zen Garden' Fixed
+    - Translation for mod 'Zirconium - Legacy' Fixed
+    - Translation for mod 'Zirconium' Fixed
+---------------------------------------------------------------------------------------------------
+Version: 0.19.8
+Date: 2026-07-12
   Translation Bug Fixed:
     - Translation Error of 'nitrous oxide(아산화 질소)' in 'T.I.M.S.A.B.A.' Fixed
   Translation Updated/Fixed:
@@ -41,6 +372,11 @@ Date: 2026-07-06
     - Translation for mod 'Project Cybersyn' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.19.6
+Date: 2026-07-01
+  Changes:
+    - Fix Possible Startup Crash on 0.19.5
+---------------------------------------------------------------------------------------------------
+Version: 0.19.5
 Date: 2026-07-01
   Minor mod Translation Added:
     - Translation for mod 'Beyond Belts' Added
@@ -82,6 +418,49 @@ Date: 2026-06-28
     - Translation for mod 'Electric Trains' Updated
     - Translation for mod 'ERM - Protoss / Akilea' Updated
     - Translation for mod 'Exotic Space Industries: Remembrance' Updated
+    - Translation for mod 'Project Cybersyn' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.18.10
+Date: 2026-07-26
+  # Addtional Notice:
+    - Factorio 2.1 실험 버전에서도 이 모드를 사용할 수 있습니다!
+    - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
+    - 변경사항은 0.19 버전의 관련 내용을 참고해주세요
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.10
+---------------------------------------------------------------------------------------------------
+Version: 0.18.9
+Date: 2026-07-19
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.9
+---------------------------------------------------------------------------------------------------
+Version: 0.18.8
+Date: 2026-07-12
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.8
+---------------------------------------------------------------------------------------------------
+Version: 0.18.7
+Date: 2026-07-06
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.7
+---------------------------------------------------------------------------------------------------
+Version: 0.18.6
+Date: 2026-07-01
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.6
+---------------------------------------------------------------------------------------------------
+Version: 0.18.5
+Date: 2026-07-01
+  # Notice:
+    - This version is 2.0 Compatibility release of 0.19.5
+---------------------------------------------------------------------------------------------------
+Version: 0.18.3
+Date: 2026-06-23
+  Translation Bug Fixed:
+    - Translation Error in Item 'Space Science Pack' Fixed
+    - Translation Error in Title in Space Region Fixed
+  Translation Updated/Fixed:
+    - Translation for mod 'Deep Core Operations' Updated
     - Translation for mod 'Project Cybersyn' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.2
