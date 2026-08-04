@@ -3,7 +3,7 @@
 ---   - PolarZero
 
 ---   Code Version 3.1.0
-function setI18n(p,o,l,a,r) if data.raw[o] then if data.raw[o][l] then if data.raw[o][l].localised_name==nil then data.raw[o][l].localised_name="Unknown key: \""..a..'-name.'..r..'-'..l.."\"" end data.raw[o][l].localised_name=
+function setI18n(p,o,l,a,r) if data.raw[o] then if data.raw[o][l] then if data.raw[o][l].localised_name==nil then data.raw[o][l].localised_name="SKL Error Unknown Key: \""..a..'-name.'..r..'-'..l.."\"" end data.raw[o][l].localised_name=
 {"?",{a..'-name.'..r..'-'..l},{'item-name.'..r..'-'..l},{'recipe-name.'..r..'-'..l},{'entity-name.'..r..'-'..l},{'technology-name.'..r..'-'..l},{'fluid-name.'..r..'-'..l},
 {'item-name.'..l},{'recipe-name.'..l},{'entity-name.'..l},{'technology-name.'..l},{'fluid-name.'..l},data.raw[o][l].localised_name}
 if p then setI18nD(false,o,l,a,r) end end end end
@@ -15,7 +15,7 @@ function setI18nR(p,o,l,a) setI18n(p,o,l,o,a); end
 function setI18nRD(p,o,l,a) setI18nD(p,o,l,o,a); end
 function setRecipe(p,o,l,a) setI18n(p,'item',l,o,a) setI18n(p,'recipe',l,o,a) end
 function enforceI18n(p,z,o) enforceI18nB(true,p,z,p) end
-function enforceI18nB(o,l,a,p) if p == nil then p=true end if data.raw[o] then if data.raw[o][l] then if data.raw[o][l].localised_name==nil then data.raw[o][l].localised_name="Unknown key: \""..a..'-name.'..l.."\"" end data.raw[o][l].localised_name=
+function enforceI18nB(o,l,a,p) if p == nil then p=true end if data.raw[o] then if data.raw[o][l] then if data.raw[o][l].localised_name==nil then data.raw[o][l].localised_name="SKL Error Unknown Key: \""..a..'-name.'..l.."\"" end data.raw[o][l].localised_name=
 {"?",{a..'-name.'..l},{'item-name.'..a..'-'..l},{'recipe-name.'..a..'-'..l},{'entity-name.'..a..'-'..l},{'technology-name.'..a..'-'..l},{'fluid-name.'..a..'-'..l},
 {'item-name.'..l},{'recipe-name.'..l},{'entity-name.'..l},{'technology-name.'..l},{'fluid-name.'..l},data.raw[o][l].localised_name}
 if data.raw[o][l].localised_description==nil then data.raw[o][l].localised_description="" end
