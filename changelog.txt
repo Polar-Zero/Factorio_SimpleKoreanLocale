@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.19.13
-Date: 2026-08-09
+Version: 0.19.14
+Date: 2026-08-14
   # Addtional Notice:
     - Factorio 2.0 기본 버전에서도 이 모드를 사용할 수 있습니다!
     - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전에서는 모드 원본과 일부 요소가 다를 수 있습니다.
@@ -9,6 +9,47 @@ Date: 2026-08-09
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Mod Translation Added:
+    - Translation for mod 'Project CEVO' Part #1 Added (50% Complete)
+  New Additions:
+    - Translation for mod 'Adjust Chunk Generation Radius' Added
+    - Translation for mod 'Midgame Foundations' Added
+    - Translation for mod 'QuingKhaos Bioprocessing Group' Added
+    - Translation for mod 'QuingKhaos Factorio Library' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Adjust Chunk Generation Radius' Added
+    - Translation for mod 'Automatic Train Refueler' Updated
+    - Translation for mod 'BerbCorp Belts' Updated
+    - Translation for mod 'Cargo Drone' Updated
+    - Translation for mod 'Carna' Updated
+    - Translation for mod 'Configurable Valves' Updated
+    - Translation for mod 'Cybersyn 2 Combinator' Updated
+    - Translation for mod 'Deep Core Operations' Updated
+    - Translation for mod 'Disable LDS shuffle' Updated
+    - Translation for mod 'Midgame Foundations' Added
+    - Translation for mod 'Mining Space Industries II' Updated
+    - Translation for mod 'Muria' Updated
+    - Translation for mod 'Planet Pandora' Updated
+    - Translation for mod 'Quantum Fabricator' Updated
+    - Translation for mod 'QuingKhaos Bioprocessing Group' Added
+    - Translation for mod 'QuingKhaos Factorio Library' Added
+    - Translation for mod 'Rabbasca underground' Updated
+    - Translation for mod 'Rabbasca' Updated
+    - Translation for mod 'Rainbow Ore' Updated
+    - Translation for mod 'Recursive Blueprints+' Updated
+    - Translation for mod 'Rigor Module' Updated
+    - Translation for mod 'Rivens Realistic Train Acceleration' Updated
+    - Translation for mod 'Scrap Resource' Updated
+    - Translation for mod 'Tidy Menus' Updated
+    - Translation for mod 'Time Lapse Base Edition' Updated
+    - Translation for mod 'UPS Friendly Nixie Tubes' Updated
+    - Translation for mod 'Voidcraft' Updated
+    - Translation for mod 'Water-Friendly Walls' Updated
+    - Translation for mod 'Wind Turbines (relaunched)' Updated
+    - Translation for mod 'Yuoki Industries' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.19.13
+Date: 2026-08-09
   New Additions:
     - Translation for mod 'AAI Loaders: Reduced Cost' Added
     - Translation for mod 'Coal To Wood' Added
@@ -41,7 +82,6 @@ Date: 2026-08-09
     - Translation for mod 'RPG System' Updated
     - Translation for mod 'Spidertron Weapon Loadout' Updated
     - Translation for mod 'Updated Construction Drones - Forked' Updated
-    - Translation for mod 'Yuoki Industries' Updated
 ---------------------------------------------------------------------------------------------------
 Version: 0.19.12
 Date: 2026-08-02
@@ -518,7 +558,7 @@ Date: 2026-06-28
     - Translation for mod 'Exotic Space Industries: Remembrance' Updated
     - Translation for mod 'Project Cybersyn' Updated
 ---------------------------------------------------------------------------------------------------
-Version: 0.18.13
+Version: 0.18.14
 Date: 2026-08-09
   # Addtional Notice:
     - Factorio 2.1 실험 버전에서도 이 모드를 사용할 수 있습니다!
@@ -530,19 +570,15 @@ Date: 2026-08-09
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Changes:
+    - This version is 2.0 Compatibility release of 0.19.14
+---------------------------------------------------------------------------------------------------
+Version: 0.18.13
+Date: 2026-08-09
+  Changes:
     - This version is 2.0 Compatibility release of 0.19.13
 ---------------------------------------------------------------------------------------------------
 Version: 0.18.12
 Date: 2026-08-02
-  # Addtional Notice:
-    - Factorio 2.1 실험 버전에서도 이 모드를 사용할 수 있습니다!
-    - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
-    - 변경사항은 2.1 대응 버전 (0.19.x 모드) 관련 내용을 참고해주세요
-  # Notice:
-    - 번역 추가 / 수정 / 개선 요청이 필요하다면 별도의 모드를 통해서가 아닌, Github나 모드 포탈 Discussion, 또는 카카오톡 오픈채팅 PolarZero를 통해 자유롭게 요청주시면 빠르게 도와드리겠습니다!
-    - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
-    - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
-    - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Changes:
     - This version is 2.0 Compatibility release of 0.19.12
 ---------------------------------------------------------------------------------------------------

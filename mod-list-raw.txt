@@ -31,6 +31,7 @@ aai-containers
 aai-containers-corpse-fix
 aai-industry
 aai-loaders
+aai-loaders-reduced-cost
 aai-loaders-sane
 aai-loaders-stacking-filtering
 aai-no-burner
@@ -68,6 +69,7 @@ Additional-Turret-revived
 additional-vanilla-menu-simulations
 AdditionalMiningTechs
 AdditionalPasteSettings
+adjust-chunkgen-radius
 Adjustable_Plates
 Adjustable-Inventory-Size
 adjustable-quality
@@ -125,6 +127,7 @@ AmmoGroup
 Ammonia-carbon-fiber
 ammoniafill
 Amnesia
+AmongUsCharacter
 ams-acid-landfill
 AncientDrill
 AncientResearch
@@ -259,6 +262,8 @@ BeltSpeedMultiplier
 BeltThreadUpgrades
 belttracer
 BeltUpgrader
+berbcorp-belts
+berbcorp-lane-balancers
 Better_Poles
 better_recycling
 Better_Robots
@@ -280,6 +285,7 @@ better-train-system
 Better-TrainHorn
 better-victory-screen
 BetterAlertArrows
+BetterAquilo
 betterartillerysounds-updated
 bettercallsaul-2
 BetterCommands
@@ -298,6 +304,7 @@ BigContainersUPSPlus
 BigDrills
 bigger-artillery
 BiggerDisplayPanel
+BiggerStacksPlus
 BigLabFork
 BigRoboport
 Bio_Industries
@@ -386,6 +393,7 @@ burner-phase-for-dummies
 bz-dsr-bridge
 bzcarbon
 bzcarbon2
+bzchlorine2
 bzlead
 bzlead2
 bzlib
@@ -405,6 +413,7 @@ canal-excavator-graphics
 canisters
 canned-fish
 cannon_turrets_touhma
+CannonShellAstroidFix
 captains-log
 cargo_crates
 cargo-bay-inserters
@@ -423,6 +432,8 @@ casino
 casting
 casting_plant
 castra
+castra-prime
+castra-prime-assets
 celestial-weather
 centrifuge-tint
 cerys-and-nuclear-science
@@ -455,6 +466,7 @@ circuit-wire-poles
 CircuitHUD-V2
 CircuitLaunchableRockets
 CircuitProcessing
+CircularColliderLab
 CleanedConcrete
 CleanFloor
 ClearerIcons
@@ -471,6 +483,7 @@ Clowns-Processing
 Clowns-Science
 clusterio_lib
 CoalOil
+CoalToWood
 Cobalt2
 Cold_biters
 ColonyBuilder
@@ -519,6 +532,7 @@ CopyPasteModules
 corrundum
 Cosmic-Social-Distancing
 cr-commons
+cr-extras
 crafting-efficiency-2
 crafting-queue-enhancements
 Crawler
@@ -543,9 +557,11 @@ cybersyn
 cybersyn_by_morality
 cybersyn-combinator
 cybersyn-combinator-tweaks
+Cybersyn-Content-Reader
 cybersyn2
 cybersyn2-combinator
 cybersyn2-manager
+DamageIndicator
 dancing-miku
 dangOreus
 darkmode
@@ -555,6 +571,7 @@ data-utils
 days-without-incident
 dea-dia-system
 deadlock-beltboxes-loaders
+deadlock-beltboxes-loaders-continued
 deadsun
 Death_Counter
 death_curses
@@ -574,6 +591,7 @@ delete-fulgora
 delete-gleba
 delete-planet-compatability
 delete-vulcanus
+DeleteChunks
 delta-inserters
 demolisher-compass
 demolisher-eggs
@@ -609,6 +627,7 @@ DivOresity
 DNF-music
 dnf-snow
 doeworks-deer
+DoingThingsByHand
 DoubleSpeedBelts
 DoubleWagons
 dqol-resource-monitor
@@ -622,6 +641,7 @@ dune_navigator
 dw-frozen-reaches
 dynamic-train-stop-naming
 dyson-sphere
+Dyson-Sphere-Program-Lib
 early_construction
 early_recycling
 Early-3x3-Electric-Furnaces
@@ -783,6 +803,7 @@ Factorio-Tiberium
 factorio-UPS
 factorio-world
 factorio2-thomas-the-tank-engine
+factoriolab-export
 factoriopedia-extended
 factorioplus
 FactorioWorldUpdated
@@ -938,6 +959,8 @@ grappling-gun
 gridlines
 GroundWater
 gtnh
+GUI_Unifyer
+Gun_Turret_Alerts
 GunEquipment
 gunfactory
 gunSnRifRevived
@@ -1047,6 +1070,7 @@ IridescentIndustry
 iron_chest_ore
 iron_chest_requires_wood_chest
 IronChest
+item-request-proxy-events
 ItemGiverGui2
 its-about-time
 IWantToGoToSpace
@@ -1069,6 +1093,8 @@ k2-steel-pipes
 k2-wind-turbine
 k2so-assets
 KetsRadars
+khaosbioprocessinggroup
+khaoslib
 KingdomOST
 kj_2a6
 kj_40kbaneblade
@@ -1220,6 +1246,7 @@ LinkedBelts
 LinkedChestAndPipe
 LinkededBelts
 liquid_recycler
+LithiumBattery
 lo_unismelting
 Load-Furn-2-SpaceAgeFix
 load-spreader
@@ -1257,6 +1284,7 @@ LR_Turret_Redux
 LSlib_James_Fork
 LTN_Combinator_Modernized
 LTN-GasStation
+ltn-space-exploration
 ltn-train-info
 Lubricantless_Blue_Belts
 lubrication_tower
@@ -1315,6 +1343,7 @@ mferrari-mod-sounds
 micro-machines
 MicroFurnaceWipMod
 microplasticsfromfish
+midgame-foundations
 miku
 miku-bikini-swimsuit
 miku-pink-dream
@@ -1353,6 +1382,7 @@ ModernArt
 modpack1
 modular-beacon-power
 modular-ifv
+module-category-defaults
 module-config
 module-inserter
 ModuleInserterSimplified
@@ -1429,6 +1459,7 @@ NindyCore-forked
 nine-tile-world
 nixie-tubes
 No_Bots_Please
+no_placement_restriction
 No_Power_Icons
 no--inventory-is-full--corpse-pickup-troubles
 no-aai-iron-pole-2
@@ -1469,6 +1500,7 @@ NuclearFuelStack
 NuclearPowerRebalance
 Nuketronics
 NukeWell
+nulla
 nullius
 nulls-k2so-tweaks
 nutrient-inserter
@@ -1605,6 +1637,7 @@ Portals-chaosfork
 Power Armor MK3
 Power-Armour-Replacer
 power-grid-comb
+power-grid-comb-chasemuss-fork
 power-propagation
 powerful-laser-turret
 PowerMultiplier
@@ -1623,6 +1656,7 @@ Productivity
 ProductivityDisabler
 ProductivityResearchForEveryone
 progressive-productivity
+project_cevo
 Promethium_Science_Rebalance
 promethium-belts-rebalance
 promethium-crafting-rework
@@ -1676,6 +1710,7 @@ quirkycat_glass
 quirkycat_wood
 R0bb4c0n
 rabbasca-assets
+rabbasca-underground
 radar-equipment
 RailBow
 Railguns-Require-Fluoroketone
@@ -1701,6 +1736,7 @@ rd-antidark
 real-industrial-chemistry
 real-starry-universe
 real-starry-universe-Fork
+realistic-space-parallax
 RealisticDecorationCleanup
 RealisticFusionPowerPort
 realisticores
@@ -1711,9 +1747,11 @@ recipe-icons-improvement-for-esir
 recipe-overhaul
 recipe-tweaker
 RecursiveResourceCalculator
+red-calc
 red-quickstart
 redrawn-space-compat-fixes
 Redrawn-Space-Connections
+reduce-tile-effects
 Refrigeration
 reggie_mode
 region-cloner
@@ -1770,6 +1808,7 @@ roboport-charging-pads-count-quality
 RoboportRangeMultiplier
 roboports-only-required-for-charging
 robot_attrition
+robot_attrition_NO_new
 Robot_Battery_Research
 Robot-World-Updated-For-SpaceAge
 Robot256Lib
@@ -1867,6 +1906,7 @@ ScienceFuel
 scrap-industry
 scrap-reprocessor
 scrap-resource
+se-core-miner-no-diminishing-returns
 se-landfill-le
 SE-PlasticSpaceRails
 se-space-trains
@@ -1874,8 +1914,12 @@ se-ssa-i
 SeaBlock
 seablock-mining
 seablock-mining-tz
+SeaBlockContinued
+SeaBlockContinued-SCT
 SeaBlockMetaPack
+SeaBlockPack
 SeaBlockProductivity
+SeaBlockWanne
 SearchlightAssault
 secretas
 secretas-orbit-patch
@@ -1981,6 +2025,7 @@ solidwaste-pollution-filter
 solune_graphics
 some-autoresearch
 some-big-mining-drill
+some-corpsemarker
 some-gleba-science
 some-luaconsole
 some-resourcespam
@@ -2001,6 +2046,7 @@ space-exploration-graphics-3
 space-exploration-graphics-4
 space-exploration-graphics-5
 space-exploration-menu-simulations
+space-exploration-official-modpack
 space-exploration-pipes-n-belts-new
 space-exploration-postprocess
 space-industry
@@ -2049,6 +2095,7 @@ StableFoundations
 stack-inserter-vulcanus
 stack-inserters
 Stackable_Mining_Drills
+stackable-asteroids
 stacking-bulk-inserter
 stacking-loaders
 stackless
@@ -2181,6 +2228,7 @@ Tree_XRay
 tree-healing
 treenade
 Truck20
+true_ending_is_shattered_planet
 tungsten-axe
 tungsten-belt-rename
 tungsten-munition
@@ -2200,6 +2248,7 @@ UltimateBeltsSpaceAgeFork
 ultimateCore
 ultimateCore-2
 ultimateCore-3
+ultimateCore-4
 ultimateCoreLib
 UltimateResearchQueue
 UltimateResearchQueue2
@@ -2337,6 +2386,7 @@ yana-coal-coke
 YAPR
 yaqsa
 YARM
+yatm-fork-unofficial
 yemtositemcount
 yet_another_train_manager
 yi_engines
