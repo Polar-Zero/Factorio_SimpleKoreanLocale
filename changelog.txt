@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.19.14
-Date: 2026-08-14
+Version: 0.19.16
+Date: 2026-08-31
   # Addtional Notice:
     - Factorio 2.0 기본 버전에서도 이 모드를 사용할 수 있습니다!
     - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전에서는 모드 원본과 일부 요소가 다를 수 있습니다.
@@ -10,7 +10,42 @@ Date: 2026-08-14
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
   Mod Translation Added:
-    - Translation for mod 'Project CEVO' Part #1 Added (50% Complete)
+    - Translation for mod 'Project CEVO' Added (No Item Name Translation due Font Error)
+  New Additions:
+    - Translation for mod '5Dim's mod - New Automated Fuel & Ammo' Added
+  Translation Updated/Fixed:
+    - Translation for mod '5Dim's mod - Core' Updated
+    - Translation for mod '5Dim's mod - Enemies' Updated
+    - Translation for mod '5Dim's mod - Infinite Research' Updated
+    - Translation for mod '5Dim's mod - Mining' Updated
+    - Translation for mod '5Dim's mod - Module' Updated
+    - Translation for mod '5Dim's mod - Nuclear' Updated
+    - Translation for mod '5Dim's mod - Resources' Updated
+    - Translation for mod '5Dim's mod - Storage' Updated
+    - Translation for mod 'Abacayba: Infested Death Twin of Nauvis' Updated
+    - Translation for mod 'Adjust Chunk Generation Radius' Added
+    - Translation for mod 'Aquilo Overhaul: Lithium Battery' Updated
+    - Translation for mod 'Better Victory Screen' Updated
+    - Translation for mod 'Cargo Drone' Updated
+    - Translation for mod 'Crushing Industry' Updated
+    - Translation for mod 'Cybersyn 2 Combinator' Updated
+    - Translation for mod 'Deepsea Mechanic' Updated
+    - Translation for mod 'Diesel Engine' Updated
+    - Translation for mod 'Electric Tiles' Updated
+    - Translation for mod 'Extended Vanilla: Mining Drills' Updated
+    - Translation for mod 'K2 Anti-material Rifle' Updated
+    - Translation for mod 'Midgame Foundations' Added
+    - Translation for mod 'Module category defaults' Updated
+    - Translation for mod 'Planetaris: Arig' Updated
+    - Translation for mod 'Plasma Industries' Updated
+    - Translation for mod 'QuingKhaos Bioprocessing Group' Added
+    - Translation for mod 'QuingKhaos Factorio Library' Added
+    - Translation for mod 'Rabbasca underground' Updated
+    - Translation for mod 'Simple Adjustable Inserters' Updated
+    - Translation for mod 'Simple Seablock' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.19.14
+Date: 2026-08-14
   New Additions:
     - Translation for mod 'Adjust Chunk Generation Radius' Added
     - Translation for mod 'Midgame Foundations' Added
@@ -558,8 +593,8 @@ Date: 2026-06-28
     - Translation for mod 'Exotic Space Industries: Remembrance' Updated
     - Translation for mod 'Project Cybersyn' Updated
 ---------------------------------------------------------------------------------------------------
-Version: 0.18.14
-Date: 2026-08-09
+Version: 0.18.16
+Date: 2026-08-31
   # Addtional Notice:
     - Factorio 2.1 실험 버전에서도 이 모드를 사용할 수 있습니다!
     - 모드 번역 문자열은 2.1버전의 모드를 기준으로 진행하고 있습니다. 2.0버전일 경우 모드 원본 번역과 일부 요소가 다를 수 있습니다.
@@ -569,6 +604,11 @@ Date: 2026-08-09
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Changes:
+    - This version is 2.0 Compatibility release of 0.19.16
+---------------------------------------------------------------------------------------------------
+Version: 0.18.14
+Date: 2026-08-14
   Changes:
     - This version is 2.0 Compatibility release of 0.19.14
 ---------------------------------------------------------------------------------------------------
