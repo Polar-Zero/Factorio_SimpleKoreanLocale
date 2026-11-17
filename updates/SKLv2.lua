@@ -1,0 +1,6 @@
+---   For Developers of Translation mods:
+---   PLEASE CONTACT ME BEFORE COPYING ANY PART OF MY MODS. SEE LICENSE
+---   - PolarZero
+
+---   Code Version 4.0.0
+function setI18n(p,o,l,a,r)if data.raw[o]then if data.raw[o][l]then if r == nil r=""else r=r.."-"end if data.raw[o][l].localised_name==nil then data.raw[o][l].localised_name="SKL Error Unknown Key: \""..a..'-name.'..r..l.."\""end data.raw[o][l].localised_name={"?",{a..'-name.'..r..l},{'item-name.'..r..l},{'recipe-name.'..r..l},{'entity-name.'..r..l},{'technology-name.'..r..l},{'fluid-name.'..r..l},{'item-name.'..l},{'recipe-name.'..l},{'entity-name.'..l},{'technology-name.'..l},{'fluid-name.'..l},data.raw[o][l].localised_name}if p then setI18nD(false,o,l,a,r)end end end end function setI18nD(p,o,l,a,r)if data.raw[o]then if data.raw[o][l]then if r==nil r=""else r=r.."-"end if data.raw[o][l].localised_description==nil then data.raw[o][l].localised_description=""end data.raw[o][l].localised_description={"?",{a..'-description.'..r..l},{'item-description.'..r..l},{'recipe-description.'..r..l},{'entity-description.'..r..l},{'technology-description.'..r..l},{'fluid-description.'..r..l},{'item-description.'..l},{'recipe-description.'..l},{'entity-description.'..l},{'technology-description.'..l},{'fluid-description.'..l},data.raw[o][l].localised_description}if p then setI18n(false,o,l,a,r)end end end end

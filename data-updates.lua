@@ -49,8 +49,10 @@ if mods['Rocs-Hardcore-Demolishers'] then require("updates.Rocs-Hardcore-Demolis
 if mods['rubia'] then require("updates.rubia"); end
 if mods['SchallTankPlatoon'] then require("updates.SchallTankPlatoon"); end
 if mods['SchallUraniumProcessing'] then require("updates.SchallUraniumProcessing"); end
+if mods['SeaBlockContinued-SCT'] then require("updates.ScienceCostTweakerM"); end
 if mods['ScienceCostTweakerM'] then require("updates.ScienceCostTweakerM"); end
 if mods['Seablock'] then require("updates.Seablock"); end
+if mods['SeaBlockContinued'] then require("updates.Seablock"); end
 if mods['SimpleSeablock'] then require("updates.SimpleSeablock"); end
 if mods['skewer_shattered_planet'] then require("updates.skewer_shattered_planet"); end
 if mods['spaceexplorationdatachipaugmenter'] then require("updates.spaceexplorationdatachipaugmenter"); end
