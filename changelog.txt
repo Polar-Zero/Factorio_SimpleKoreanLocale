@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.20.0
-Date: 2026-08-31
+Version: 0.20.2
+Date: 2026-11-17
   # Addtional Notice:
     - 최근 개인적인 문제로 인해 번역 업데이트가 지연되었던 점 죄송합니다.
     - 자주 사용하는 모드부터 천천히 업데이트해볼게요
@@ -9,6 +9,49 @@ Date: 2026-08-31
     - 추후 필요에 따라 다양한 연락 수단을 추가할 예정이 있습니다 :)
     - 가급적 최신 버전의 모드로 업데이트해주시면 감사하겠습니다.
     - 모드를 사용해 주셔서 감사드리며, 앞으로도 더욱 개선된 번역으로 보답하겠습니다
+  Mod Translation Added:
+    - Translation for mod 'Orbital Ion Cannon (Battery Edition)' Added
+    - Translation for mod 'Pocket Planner' Added
+    - Translation for mod 'Things' Added
+  New Additions:
+    - Translation for mod 'Better Asteroid Belt' Added
+    - Translation for mod 'Cosmic Incubator' Added
+    - Translation for mod 'Heat Glow (Reborn)' Added
+    - Translation for mod 'Inserter Throughput' Added
+    - Translation for mod 'K2 Dyson Sphere Rebalance' Added
+    - Translation for mod 'K2SO Rat's Fixes' Added
+    - Translation for mod 'Krastorio 2 AAI Loaders Compact' Added
+    - Translation for mod 'Krastorio 2 Matter Group' Added
+    - Translation for mod 'Krastorio 2 small Singularity Lab icons' Added
+    - Translation for mod 'Plate Group' Added
+    - Translation for mod 'Robots Build Closest First' Added
+    - Translation for mod 'Smaller Alert Icons' Added
+    - Translation for mod 'Sun heat and cooling for Moshine' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Any Planet Start' Updated
+    - Translation for mod 'Apia' Updated
+    - Translation for mod 'Armoured Biters' Updated
+    - Translation for mod 'Bob's Classes and Multiple characters mod' Updated
+    - Translation for mod 'Bob's Enemies mod' Updated
+    - Translation for mod 'Moshine' Updated
+    - Translation for mod 'Ultimate Research Queue for 2.x' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.20.1
+Date: 2026-11-13
+  Mod Translation Added:
+    - Translation for mod 'Assembler Group' Added
+    - Translation for mod 'Chemistry group' Added
+  New Additions:
+    - Translation for mod 'Upcycler Planner' Added
+  Translation Updated/Fixed:
+    - Translation for mod 'Velora' Updated
+    - Translation for mod 'Milestones' Updated
+    - Translation for mod 'Even Distribution' Updated
+    - Translation for mod 'Maraxsis' Updated
+    - Translation for mod 'Maraxsis Classic' Updated
+---------------------------------------------------------------------------------------------------
+Version: 0.20.0
+Date: 2026-11-11
   Mod Translation Added:
     - Translation for mod 'SLP - Dyson Sphere Reworked (2.1 Port)' Added
   Translation Updated/Fixed:
